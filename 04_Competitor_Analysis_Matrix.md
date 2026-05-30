@@ -16,6 +16,7 @@ The mitigation banking and stream restoration industry is highly regulated, capi
 | **Mitigation Management, LLC** | Athens, GA (Active statewide across GA) | [Website](https://www.mitigationmanagement.com) <br> [LinkedIn](https://www.linkedin.com/company/mitigation-management/) | ~5 | Credit sales & marketing, RIBITS ledgers, land trust liaisons. | Extensive bank database, strong connections with private landowners and buyers. | Leverage Mitigation Management as a broker to liquidate Anderson Creek credits. |
 | **Ecosystem Investment Partners (EIP)** | Baltimore, MD (Active across Georgia basins) | [Website](https://ecosystempartners.com) <br> [LinkedIn](https://www.linkedin.com/company/ecosystem-investment-partners/) | ~75 | Private equity large-scale banking, land acquisition, watershed restoration. | Massive capital funds, rapid land acquisition capacity, huge credit inventory. | Secure site-specific PRMs (NWP 27) that are too small for EIP's large fund model. |
 | **Wildlands Engineering, Inc.** | Charlotte, NC (GA Office: Peachtree Corners, GA) | [Website](https://www.wildlandseng.com) <br> [LinkedIn](https://www.linkedin.com/company/wildlands-engineering-inc-/) | ~150 | Water resource engineering, design-build, long-term monitoring. | Advanced hydrology modeling, elite engineering team, expanding rapidly in GA. | Win on hyper-local North Georgia wild trout habitat expertise and landowner relationships. |
+| **Westervelt Ecological Services (WES)** | Auburn, AL (Active across Georgia basins) | [Website](https://www.westerveltecology.com) <br> [LinkedIn](https://www.linkedin.com/company/westervelt-ecological-services/) | ~80 | Institutional stream/wetland mitigation, species conservation banks. | Backed by historical timberlands portfolio (Westervelt Co.), excellent biology expertise. | Capture coldwater trout niches that are outside of Westervelt's primary warmwater/wetland focus. |
 | **Boutique Environmental Contractors** | Local North GA Counties (Gilmer, Fannin, Union) | N/A | 10-20 | General civil grading, rip-rap stabilization, pond dredging. | Low cost, highly agile, local equipment ownership. | Educate landowners that rip-rap is destructive, positioning NCD as the premier solution. |
 
 ---
@@ -94,7 +95,19 @@ The mitigation banking and stream restoration industry is highly regulated, capi
 
 ---
 
-### 7. Boutique Environmental Contractors (Local Excavators)
+### 7. Westervelt Ecological Services (WES)
+*   **Scale & Reach**: Major regional powerhouse with extensive mitigation banking holdings throughout the Southeast, backed by the parent company's (Westervelt Co.) historic timberlands portfolio. Highly active in Alabama and Georgia river basins.
+*   **Website**: [https://www.westerveltecology.com](https://www.westerveltecology.com)
+*   **LinkedIn**: [Westervelt Ecological Services on LinkedIn](https://www.linkedin.com/company/westervelt-ecological-services/)
+*   **Employees**: ~80 employees.
+*   **Core Services**: Full-delivery stream and wetland mitigation banking, species conservation banking, ecological engineering, and habitat stewardship.
+*   **Major Strengths**: Strong, debt-free institutional capitalization. Ownership of extensive historical land portfolios that can be converted directly into mitigation assets. High-quality biology and permitting expertise.
+*   **Key Weaknesses**: Primary organizational focus is on large, warmwater stream and coastal wetland banks; less agile in high-gradient mountain coldwater trout environments or specialized PRM projects requiring rapid engineering turnarounds.
+*   **Strategic Counter-Play**: Capture the premium mountain coldwater trout stream niche. Westervelt's corporate models prioritize massive bottomland wetland banks. Hunter wins by targeting high-gradient trout streams (Priority 1 meanders) on private mountain cabins and estates where geomorphic bioengineering creates extreme trout habitat lift that standard timberland banks cannot match.
+
+---
+
+### 8. Boutique Environmental Contractors (Local Excavators)
 *   **Scale & Reach**: Local mountain grading and heavy civil construction companies operating on a county or regional scale.
 *   **Website**: N/A (General local directories)
 *   **LinkedIn**: N/A
