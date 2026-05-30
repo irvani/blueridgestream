@@ -1,8 +1,8 @@
 # Open-Source Electronic Signature Integration Playbook
 ## Blue Ridge Stream Restoration & Mitigation LLC
 
-**Founder & Managing Director**: Hunter Morris (*Fly Fishing North Georgia*, bookings@flyfishingnorthgeorgia.com)  
-**Co-Founder & Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
+**Co-Founder & Managing Director**: Hunter Morris (*Fly Fishing North Georgia*, bookings@flyfishingnorthgeorgia.com)  
+**Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
 **Strategic Advisor & Sponsor**: Hill Hardman (Granite Holdings)  
 **Ultimate KPI**: Fund world-class fly fishing trip to Argentina!  
 

@@ -4,7 +4,7 @@
 This Stream Mitigation Banking and Joint Venture Cooperative Agreement (the "Agreement") is entered into and made effective as of **May 30, 2026** (the "Effective Date"), by and between:
 
 1.  **ROYA IRVANI**, an individual residing in the State of Georgia, owner of the real property commonly known as the "Roya's Cabin" parcel (hereinafter referred to as the **"Landowner"**); and
-2.  **BLUE RIDGE STREAM RESTORATION & MITIGATION LLC**, a Georgia limited liability company, with its principal place of business in North Georgia, represented by its Managing Director, **Hunter**, and its Co-Founder & Board Member, **Hadi Irvani** (hereinafter referred to as the **"Developer"**).
+2.  **BLUE RIDGE STREAM RESTORATION & MITIGATION LLC**, a Georgia limited liability company, with its principal place of business in North Georgia, represented by its Managing Director, **Hunter**, and its Board Member, **Hadi Irvani** (hereinafter referred to as the **"Developer"**).
 
 The Landowner and the Developer may collectively be referred to as the **"Parties"** or individually as a **"Party."**
 
@@ -216,7 +216,7 @@ By: ____________________________________
 Date: __________________________________  
 
 By: ____________________________________  
-**HADI IRVANI**, Co-Founder & Board Member  
+**HADI IRVANI**, Board Member  
 Date: __________________________________  
 
 By: ____________________________________  

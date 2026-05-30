@@ -1,8 +1,8 @@
 # B2B Sales Outreach & Landowner Pitch Vault
 ## Blue Ridge Stream Restoration & Mitigation LLC
 
-**Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
-**Co-Founder & Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
+**Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
+**Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
 **Strategic Advisor & Sponsor**: Hill Hardman (Granite Holdings)  
 **Ultimate KPI**: Fund world-class fly fishing trip to Argentina!  
 
@@ -36,7 +36,7 @@ By utilizing Natural Channel Design (NCD) at our flagship bank at Anderson Creek
 *   Pre-verified credits that satisfy both federal USACE Savannah District SOP rules and state EPD buffer offset metrics.
 *   Significant cost and schedule savings compared to building complex, high-maintenance on-site mitigation works.
 
-We operate under corporate governance guided by our Co-Founder and Board Member, Hadi Irvani (General Partner at Infill Capital Partners), ensuring institutional financial structure, contract reliability, and clean transactions.
+We operate under corporate governance guided by our Board Member, Hadi Irvani (General Partner at Infill Capital Partners), ensuring institutional financial structure, contract reliability, and clean transactions.
 
 If your environmental consultants are currently calculating your debit liabilities, I would appreciate 10 minutes to discuss how we can allocate a portion of our credit release to accelerate your permit schedule.
 
@@ -45,12 +45,12 @@ Are you available for a brief call this Thursday at 10:00 AM or 2:00 PM?
 Best regards,
 
 Hunter
-Founder & Managing Director
+Co-Founder & Managing Director
 Blue Ridge Stream Restoration & Mitigation LLC
 hunter@blueridgestream.com | (555) 123-4567
 www.blueridgestream.com
 
-CC: Hadi Irvani, Co-Founder & Board Member (hirvani@infillcapital.com)
+CC: Hadi Irvani, Board Member (hirvani@infillcapital.com)
 ```
 
 ---
@@ -69,7 +69,7 @@ I'd love to connect and share our current RIBITS credit availability ledger.
 
 Best,
 Hunter
-Founder & Managing Director, Blue Ridge Stream Restoration & Mitigation LLC
+Co-Founder & Managing Director, Blue Ridge Stream Restoration & Mitigation LLC
 ```
 
 ---
@@ -95,7 +95,7 @@ At Blue Ridge Stream Restoration & Mitigation LLC, we help real estate brokers c
 By partnering with us:
 1.  **Deal Security**: You can provide land buyers with immediate credit availability letters to satisfy CWA 404 permit requirements, ensuring their deals close on schedule.
 2.  **Agility**: We offer site-specific Permittee-Responsible Mitigation (PRM) designs for projects that cannot access standard banks, saving valuable acreage.
-3.  **Governance**: Led by myself and my Co-Founder & Board Member, Hadi Irvani (General Partner at Infill Capital), we operate with institutional-grade capital stability and contracting reliability.
+3.  **Governance**: Led by myself and my Board Member, Hadi Irvani (General Partner at Infill Capital), we operate with institutional-grade capital stability and contracting reliability.
 
 I would love to send you a quick 1-page summary of our current RIBITS credit ledger and buy you a coffee to discuss how we can support your upcoming transactions. 
 
@@ -104,7 +104,7 @@ Would you have 15 minutes to connect next week?
 Best regards,
 
 Hunter
-Founder & Managing Director
+Co-Founder & Managing Director
 Blue Ridge Stream Restoration & Mitigation LLC
 hunter@blueridgestream.com | (555) 123-4567
 ```
@@ -146,7 +146,7 @@ Are you planning to be at your cabin next weekend? Let me know if you would like
 Tight lines,
 
 Hunter
-Founder & Managing Director
+Co-Founder & Managing Director
 Blue Ridge Stream Restoration & Mitigation LLC
 hunter@blueridgestream.com | (555) 123-4567
 ```

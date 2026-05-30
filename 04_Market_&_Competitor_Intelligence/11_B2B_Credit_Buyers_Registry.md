@@ -1,8 +1,8 @@
 # B2B Credit Buyers Registry: 50 Target Mitigation Clients
 ## Blue Ridge Stream Restoration & Mitigation LLC
 
-**Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
-**Co-Founder & Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
+**Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
+**Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
 **Strategic Advisor & Sponsor**: Hill Hardman (Granite Holdings)  
 **Ultimate KPI**: Fund world-class fly fishing trip to Argentina!  
 

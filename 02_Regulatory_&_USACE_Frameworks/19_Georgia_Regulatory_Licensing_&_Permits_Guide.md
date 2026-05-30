@@ -1,8 +1,8 @@
 # File 19: Georgia Regulatory Licensing & Permits Guide
 ## Blue Ridge Stream Restoration & Mitigation LLC
 
-**Founder & Managing Director**: Hunter Morris (bookings@flyfishingnorthgeorgia.com)  
-**Co-Founder & Board Member**: Hadi Irvani (UVA Alumnus, GP at Infill Capital Partners)  
+**Co-Founder & Managing Director**: Hunter Morris (bookings@flyfishingnorthgeorgia.com)  
+**Board Member**: Hadi Irvani (UVA Alumnus, GP at Infill Capital Partners)  
 **Regulatory Target**: USACE Savannah District & Georgia DNR EPD Compliance  
 
 ---

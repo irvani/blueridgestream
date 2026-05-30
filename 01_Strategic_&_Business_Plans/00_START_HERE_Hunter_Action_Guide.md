@@ -1,8 +1,8 @@
 # START HERE: Hunter's Stream Restoration Business Launch Guide
 ## Your Step-by-Step Action Plan & Deliverables Map
 
-**Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
-**Co-Founder & Board Member**: Hadi Irvani (General Partner at Infill Capital, University of Virginia - UVA)  
+**Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
+**Board Member**: Hadi Irvani (General Partner at Infill Capital, University of Virginia - UVA)  
 **Strategic Advisor & Sponsor**: Hill Hardman (Granite Holdings)  
 **Ultimate KPI**: Fund world-class fly fishing trip to Argentina!  
 

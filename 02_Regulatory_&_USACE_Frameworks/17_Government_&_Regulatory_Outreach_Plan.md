@@ -1,8 +1,8 @@
 # Government & Regulatory Agency Outreach Plan
 ## Blue Ridge Stream Restoration & Mitigation LLC
 
-**Founder & Managing Director**: Hunter Morris (*Fly Fishing North Georgia*, bookings@flyfishingnorthgeorgia.com)  
-**Co-Founder & Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
+**Co-Founder & Managing Director**: Hunter Morris (*Fly Fishing North Georgia*, bookings@flyfishingnorthgeorgia.com)  
+**Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
 **Strategic Advisor & Sponsor**: Hill Hardman (Granite Holdings)  
 **Ultimate KPI**: Fund world-class fly fishing trip to Argentina!  
 
@@ -113,7 +113,7 @@ I am writing on behalf of Blue Ridge Stream Restoration & Mitigation LLC to requ
 
 The project site consists of approximately 1,500 linear feet of perennial, degraded coldwater trout habitat showing severe bank destabilization and channel widening due to historical land clearing. Our geomorphic design-build strategy centers on Rosgen Priority 1 Natural Channel Design (NCD), reconnecting the channel to its active floodplain, installing bioengineered root-wads, and establishing a perpetual 100-foot native canopy buffer.
 
-We operate under formal corporate governance led by myself and my Co-Founder & Board Member, Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA alumnus). 
+We operate under formal corporate governance led by myself and my Board Member, Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA alumnus). 
 
 We are finalizing our conceptual Draft Prospectus and would highly appreciate the opportunity to walk the reach with you and members of the Interagency Review Team (IRT) to obtain your baseline geomorphic feedback.
 
@@ -124,7 +124,7 @@ Thank you for your time, leadership, and consideration of this ecological restor
 Best regards,
 
 Hunter Morris
-Founder & Managing Director
+Co-Founder & Managing Director
 Blue Ridge Stream Restoration & Mitigation LLC
 bookings@flyfishingnorthgeorgia.com | (555) 123-4567
 ```
@@ -157,7 +157,7 @@ Thank you for your dedication to protecting Georgia's water resources and trout 
 Best regards,
 
 Hunter Morris
-Founder & Managing Director
+Co-Founder & Managing Director
 Blue Ridge Stream Restoration & Mitigation LLC
 bookings@flyfishingnorthgeorgia.com | (555) 123-4567
 ```

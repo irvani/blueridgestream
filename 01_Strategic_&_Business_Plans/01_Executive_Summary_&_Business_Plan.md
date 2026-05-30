@@ -1,8 +1,8 @@
 # High-Level Business Plan & Ecological Guide
 ## Blue Ridge Stream Restoration & Mitigation Ventures
 
-**Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
-**Co-Founder & Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
+**Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
+**Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
 **Strategic Advisor & Sponsor**: Hill Hardman (Granite Holdings)  
 **Ultimate KPI**: Fund world-class fly fishing trip to Argentina!  
 
@@ -87,8 +87,8 @@ To manage risk and minimize launch costs, Hunter should execute a two-phase corp
 
 ### Board of Directors & Corporate Governance
 The company will be guided by an active Board of Directors to ensure rigorous financial oversight, capital allocation, and regional commercial B2B developer scaling:
-*   **Hadi Irvani (Co-Founder & Board Member)**: General Partner at Infill Capital Partners, Principal at Granite Holdings, University of Virginia (UVA). A leading Southeast real estate and logistics asset investor who provides corporate governance, capital structuring, and developer relationship management across major logistics corridors.
-*   **Hunter Morris (Founder & Managing Director)**: Fluvial geomorphologist, Principal and Owner of *Fly Fishing North Georgia* (bookings@flyfishingnorthgeorgia.com). For over 15 years, Hunter has guided trophy fly-fishing excursions across pristine wild trout streams in Fannin and Gilmer counties. His deep daily observations of mountain stream siltation and lateral bank erosion led him to study advanced fluvial dynamics. As our geomorphic design-build lead, Hunter combines intimate hydraulic knowledge of streams with Natural Channel Design (NCD) and live soil bioengineering to deliver self-sustaining trout sanctuaries.
+*   **Hadi Irvani (Board Member)**: General Partner at Infill Capital Partners, Principal at Granite Holdings, University of Virginia (UVA). A leading Southeast real estate and logistics asset investor who provides corporate governance, capital structuring, and developer relationship management across major logistics corridors.
+*   **Hunter Morris (Co-Founder & Managing Director)**: Fluvial geomorphologist, Principal and Owner of *Fly Fishing North Georgia* (bookings@flyfishingnorthgeorgia.com). For over 15 years, Hunter has guided trophy fly-fishing excursions across pristine wild trout streams in Fannin and Gilmer counties. His deep daily observations of mountain stream siltation and lateral bank erosion led him to study advanced fluvial dynamics. As our geomorphic design-build lead, Hunter combines intimate hydraulic knowledge of streams with Natural Channel Design (NCD) and live soil bioengineering to deliver self-sustaining trout sanctuaries.
 
 
 ---

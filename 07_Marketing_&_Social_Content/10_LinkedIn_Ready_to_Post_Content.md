@@ -1,8 +1,8 @@
 # B2B LinkedIn Ready-to-Post Content Library
 ## Blue Ridge Stream Restoration & Mitigation LLC
 
-**Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
-**Co-Founder & Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
+**Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
+**Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
 **Strategic Advisor & Sponsor**: Hill Hardman (Granite Holdings)  
 **Ultimate KPI**: Fund world-class fly fishing trip to Argentina!  
 
@@ -35,7 +35,7 @@ Permanent bank stabilization, a massive biological lift for wild trout, and high
 
 We are establishing our showcase commercial bank at Roya's Cabin along Anderson Creek, restoring 2,500 linear feet of perennial channel and generating over 12,900 stream credits.
 
-A huge thank you to my Co-Founder & Board Member, Hadi Irvani (GP at Infill Capital Partners), and our strategic advisor Hill Hardman (Granite Holdings) for their capital governance and partnership. 
+A huge thank you to my Board Member, Hadi Irvani (GP at Infill Capital Partners), and our strategic advisor Hill Hardman (Granite Holdings) for their capital governance and partnership. 
 
 We’re ready to get our boots in the mud. Let’s restore some streams.
 
@@ -295,14 +295,14 @@ Scale matters when you're restoring watersheds. We are proud to work with the be
 ---
 
 ## 📅 Post 10: Hadi Irvani Joins the Board (Board Announcement)
-*   **Target Objective**: Establish massive corporate credibility, showcase institutional governance, and announce Hadi Irvani's formal role as Co-Founder and Board Member.
+*   **Target Objective**: Establish massive corporate credibility, showcase institutional governance, and announce Hadi Irvani's formal role as Board Member.
 *   **Visual Asset Recommendation**: Professional, high-end corporate headshot of Hadi Irvani with the Blue Ridge Stream Restoration logo, overlaying a clean deep-navy corporate template.
 
 ### 📝 Copy-and-Paste Post
 ```text
 I am thrilled to announce a major milestone in the corporate governance and scaling of Blue Ridge Stream Restoration & Mitigation LLC. 📈💼
 
-Please join me in officially welcoming Hadi Irvani to our Board of Directors as Co-Founder and Board Member. 
+Please join me in officially welcoming Hadi Irvani to our Board of Directors as Board Member. 
 
 Hadi brings an exceptional caliber of corporate leadership, capital structuring, and regional B2B real estate expertise to our venture:
 *   General Partner at Infill Capital Partners.
