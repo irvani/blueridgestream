@@ -2005,7 +2005,10 @@
             { num: "20", name: "Strategic Board of Advisors Recruiting Plan", cat: "Strategy", desc: "Detailed profiles and onboarding pitch decks for 5 critical advisory board roles across regulatory, academic, legal, B2B sales, and heavy civil construction." },
             { num: "21", name: "High-Gradient Fluvial Bioengineering Manual", cat: "Technical", desc: "Hunter Morris's mature Rhododendron maximum creek-side transplanting, bank-binding geomechanics, and thermal cooling trout habitat spawning mechanics." },
             { num: "22", name: "Georgia Hyperscale Data Center Direct Sales Directory", cat: "Database", desc: "Mitigation sales playbook profiling 15 active Georgia data center campuses with HUC watershed details and direct PRM offsets." },
-            { num: "23", name: "Remediation and Risk Mitigation Bylaws", cat: "Legal", desc: "Corporate resolutions resolving liquidity gap, forward hedging, 7-year monitoring, flood shear stress tests, and mortgage subordinations." }
+            { num: "23", name: "Remediation and Risk Mitigation Bylaws", cat: "Legal", desc: "Corporate resolutions resolving liquidity gap, forward hedging, 7-year monitoring, flood shear stress tests, and mortgage subordinations." },
+            { num: "24", name: "Georgia Agricultural & Land Development Bankers Directory", cat: "Database", desc: "Outreach database profiling 50 regional agricultural and CRE development bankers to source JV landowners and developers." },
+            { num: "25", name: "Georgia Environmental & Conservation Lawyers Directory", cat: "Database", desc: "Outreach database profiling 50 environmental, water rights, and zoning attorneys to source blocked permit leads." },
+            { num: "26", name: "USACE Field Audit & Coastal Oyster Coalition Partnership", cat: "Strategy", desc: "Strategic regulatory field tour itineraries, federal gift ethics rules, and coastal Sapelo Island living shoreline co-marketing and SEO link-backs plan." }
         ];
 
         // Global State & UI Navigation
@@ -2482,6 +2485,11 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 } else if (d.num === "15") {
                     folder = "09_Operations_&_Technical_Playbooks";
                     exactBase = "15_Free_Domain_&_Web_Hosting_Playbook";
+                } else if (d.num === "24" || d.num === "25" || d.num === "26") {
+                    folder = "10_Outreach_&_Relationship_Banking";
+                    if (d.num === "24") exactBase = "24_Georgia_Agricultural_&_Land_Development_Bankers_Directory";
+                    else if (d.num === "25") exactBase = "25_Georgia_Environmental_&_Conservation_Lawyers_Directory";
+                    else exactBase = "26_USACE_Field_Audit_&_Coastal_Oyster_Coalition_Partnership";
                 }
 
                 card.innerHTML = `
