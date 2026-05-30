@@ -1442,7 +1442,7 @@
             <div class="folder-select-header" style="margin-top: 15px; margin-bottom: 25px;">
                 <h4 style="font-size: 1.3rem; color: var(--primary); letter-spacing: -0.3px;">📁 Enterprise Directory & Strategic Tiers</h4>
                 <p style="font-size: 0.88rem; color: var(--body-grey); margin-top: 6px; line-height: 1.5;">
-                    Filter all 61 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
+                    Filter all 65 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
                 </p>
             </div>
 
@@ -1458,7 +1458,7 @@
                         <div class="folder-meta">
                             <span class="folder-num">ALL ASSETS</span>
                             <h5 class="folder-name">Show All Library Files</h5>
-                            <span class="folder-count">61 Files Total</span>
+                            <span class="folder-count">65 Files Total</span>
                         </div>
                     </div>
                 </div>
@@ -1532,7 +1532,7 @@
                             <div class="folder-meta">
                                 <span class="folder-num">09_OPS</span>
                                 <h5 class="folder-name">Operations & Tech</h5>
-                                <span class="folder-count">7 Files</span>
+                                <span class="folder-count">11 Files</span>
                             </div>
                         </div>
                     </div>
@@ -2367,7 +2367,11 @@
             { num: "57", name: "Off-Grid Hydrological Telemetry & Data-Sharing API Infrastructure", cat: "Operations", desc: "Technical framework detailing Node-RED message parsing, JSON REST API payloads, and public-facing wading gauges feeding Trout Unlimited chapters." },
             { num: "58", name: "Industrial RS485 Modbus Sourcing Catalog & Alibaba Supplier Directory", cat: "Operations", desc: "Sourcing schedule mapping vetted Alibaba manufacturers, pricing indices, sensor register registers, low-power transceivers, and quarterly calibration SOPs." },
             { num: "59", name: "UGA Warnell Coldwater Spawning Optimization & Landowner Partnership Brief", cat: "Operations", desc: "Landowner proposal brief framing stream bank regrading as a UGA Spawning Research Initiative, resolving buffer liability, and detailing CUVA property tax savings." },
-            { num: "60", name: "Coldwater Spawning Sanctuary Masterclass & Advanced Geomorphic Trout Habitat Restoration Standards", cat: "Operations", desc: "Scientific guide defining the 5 Levels of the Stream Functions Pyramid, geomorphic riffle-spawning parameters, low-power MOSFET switched telemetry wiring, and GraphQL query APIs." }
+            { num: "60", name: "Coldwater Spawning Sanctuary Masterclass & Advanced Geomorphic Trout Habitat Restoration Standards", cat: "Operations", desc: "Scientific guide defining the 5 Levels of the Stream Functions Pyramid, geomorphic riffle-spawning parameters, low-power MOSFET switched telemetry wiring, and GraphQL query APIs." },
+            { num: "61", name: "Off-Grid Telemetry Node PCBA Manufacturing & Chinese Factory Sourcing Manual", cat: "Operations", desc: "Manufacturing manual detailing Chinese PCB/PCBA rapid-turnover sourcing, 4-layer stackups, LCSC-coded BOM indices, box assemblies, and BLE/CLI node setups." },
+            { num: "62", name: "Spawning Water Chemistry: Dissolved Oxygen & Turbidity Biochemistry", cat: "Operations", desc: "Biochemical masterclass detailing trout gill metabolic oxygen exchanges, temperature-dependent Henry's Law solubility constant curves, and silt-cleaning bioengineered riffle scour." },
+            { num: "63", name: "Coldwater Thermal Refuge Restoration & Canopy Shading Dynamics", cat: "Operations", desc: "Design guide establishing standard wild trout thermal ranges, solving the Beer-Lambert canopy solar shielding equation, and detailing plunge pool hydraulics." },
+            { num: "64", name: "Data Center Hydrologic Drawdown & Watershed Cooling Mitigation", cat: "Operations", desc: "Scientific prospectus analyzing evaporative cooling water use, aquifer drawdown thermal stresses on headwaters, and sponsoring Spawning Bio-Reserves as ESG offsets." }
         ];
 
         // Global State & UI Navigation
@@ -2806,7 +2810,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 return "07";
             } else if (d.num === "14" || (n >= 28 && n <= 39)) {
                 return "08";
-            } else if (d.num === "15" || d.num === "41" || d.num === "56" || d.num === "57" || d.num === "58" || d.num === "59" || d.num === "60") {
+            } else if (d.num === "15" || d.num === "41" || d.num === "56" || d.num === "57" || d.num === "58" || d.num === "59" || d.num === "60" || d.num === "61" || d.num === "62" || d.num === "63" || d.num === "64") {
                 return "09";
             } else if (d.num === "24" || d.num === "25" || d.num === "26" || d.num === "27" || d.num === "45" || d.num === "46" || d.num === "47" || d.num === "48") {
                 return "10";
@@ -2958,7 +2962,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     else if (d.num === "37") exactBase = "37_Clemson_Workstream_Page_2_Conservation_Finance_NPV_Underwriting_&_Phased_Credit_Releases";
                     else if (d.num === "38") exactBase = "38_Clemson_Workstream_Page_3_Conservation_Easement_Transactions_&_Restrictive_Deed_Covenants";
                     else exactBase = "39_Clemson_Workstream_Page_4_Open_Source_Business_Systems_Integration_&_Accounting_Systems_Audit";
-                } else if (d.num === "15" || d.num === "41" || d.num === "56" || d.num === "57" || d.num === "58" || d.num === "59" || d.num === "60") {
+                } else if (d.num === "15" || d.num === "41" || d.num === "56" || d.num === "57" || d.num === "58" || d.num === "59" || d.num === "60" || d.num === "61" || d.num === "62" || d.num === "63" || d.num === "64") {
                     folder = "09_Operations_&_Technical_Playbooks";
                     if (d.num === "15") exactBase = "15_Free_Domain_&_Web_Hosting_Playbook";
                     else if (d.num === "41") exactBase = "41_Field_Equipment_&_Drone_Surveying_Playbook";
@@ -2966,7 +2970,11 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     else if (d.num === "57") exactBase = "57_Off_Grid_Hydrological_Telemetry_&_Data_Sharing_API_Infrastructure";
                     else if (d.num === "58") exactBase = "58_Industrial_RS485_Modbus_Sourcing_Catalog_&_Alibaba_Supplier_Directory";
                     else if (d.num === "59") exactBase = "59_UGA_Warnell_Coldwater_Spawning_Optimization_&_Landowner_Partnership_Brief";
-                    else exactBase = "60_Coldwater_Spawning_Sanctuary_Masterclass_&_Advanced_Geomorphic_Trout_Habitat_Restoration_Standards";
+                    else if (d.num === "60") exactBase = "60_Coldwater_Spawning_Sanctuary_Masterclass_&_Advanced_Geomorphic_Trout_Habitat_Restoration_Standards";
+                    else if (d.num === "61") exactBase = "61_Off_Grid_Telemetry_Node_PCBA_Manufacturing_&_Chinese_Factory_Sourcing_Manual";
+                    else if (d.num === "62") exactBase = "62_Water_Chemistry_Masterclass_Dissolved_Oxygen_&_Turbidity_Optimization";
+                    else if (d.num === "63") exactBase = "63_Coldwater_Thermal_Refuge_Design_Manual_Solar_Attenuation_&_Canopy_Shading";
+                    else exactBase = "64_Exurban_Data_Center_Hydrology_Water_Use_Modeling_&_Ecological_Offsets";
                 } else if (d.num === "24" || d.num === "25" || d.num === "26" || d.num === "27" || d.num === "45" || d.num === "46" || d.num === "47" || d.num === "48") {
                     folder = "10_Outreach_&_Relationship_Banking";
                     if (d.num === "24") exactBase = "24_Georgia_Agricultural_&_Land_Development_Bankers_Directory";
