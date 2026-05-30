@@ -1451,7 +1451,7 @@
                     <div class="folder-meta">
                         <span class="folder-num">ALL</span>
                         <h5 class="folder-name">Show All Files</h5>
-                        <span class="folder-count">44 Files</span>
+                        <span class="folder-count">45 Files</span>
                     </div>
                 </div>
                 <!-- 01 Strategic -->
@@ -1462,7 +1462,7 @@
                     <div class="folder-meta">
                         <span class="folder-num">01_PLANS</span>
                         <h5 class="folder-name">Strategic & Business</h5>
-                        <span class="folder-count">4 Files</span>
+                        <span class="folder-count">5 Files</span>
                     </div>
                 </div>
                 <!-- 02 Regulatory -->
@@ -2243,7 +2243,8 @@
             { num: "40", name: "B2B Brand Identity & Visual Style Guide", cat: "Marketing", desc: "Corporate style guidelines detailing River Navy/Trout Teal HSL palettes, Outfit/Inter typography pairings, slide templates, logo exclusion zones, and corporate typography rules." },
             { num: "41", name: "Field Equipment & Drone Surveying Playbook", cat: "Operations", desc: "Operations manual covering DJI RTK flight paths, GCP placements, WebODM orthomosaic generation, QGIS NDVI calculations, and YSI water quality probe calibrations." },
             { num: "42", name: "Nationwide Permit 27 PCN Technical Template", cat: "Regulatory", desc: "Regulatory application playbook featuring a pre-structured ENG 4345 narrative, geomorphic parameter sheets, and agency consultation templates." },
-            { num: "43", name: "EOS Board Governance & Competitor Workflows Playbook", cat: "Strategy", desc: "Corporate governance playbook outlining Traction EOS board rhythms, bi-monthly calendars, Level 10 meeting agendas, and competitor drone/project-scale benchmarks." }
+            { num: "43", name: "EOS Board Governance & Competitor Workflows Playbook", cat: "Strategy", desc: "Corporate governance playbook outlining Traction EOS board rhythms, bi-monthly calendars, Level 10 meeting agendas, and competitor drone/project-scale benchmarks." },
+            { num: "44", name: "Marketing Events & Team Scaling Roadmap", cat: "Strategy", desc: "Strategic launch blueprint presenting a 12-month networking and conference outreach calendar, combined with a 10-person organizational scaling and hiring roadmap." }
         ];
 
         // Global State & UI Navigation
@@ -2666,7 +2667,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
         let activeDocFolder = 'all';
 
         function getFolderForDoc(d) {
-            if (d.num === "00" || d.num === "01" || d.num === "20" || d.num === "43") {
+            if (d.num === "00" || d.num === "01" || d.num === "20" || d.num === "43" || d.num === "44") {
                 return "01";
             } else if (d.num === "02" || d.num === "06" || d.num === "17" || d.num === "19" || d.num === "21") {
                 return "02";
@@ -2727,12 +2728,13 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 let exactBase = "";
                 let folder = "";
 
-                if (d.num === "00" || d.num === "01" || d.num === "20" || d.num === "43") {
+                if (d.num === "00" || d.num === "01" || d.num === "20" || d.num === "43" || d.num === "44") {
                     folder = "01_Strategic_&_Business_Plans";
                     if (d.num === "00") exactBase = "00_START_HERE_Hunter_Action_Guide";
                     else if (d.num === "01") exactBase = "01_Executive_Summary_&_Business_Plan";
                     else if (d.num === "20") exactBase = "20_Strategic_Board_of_Advisors_Recruiting_Plan";
-                    else exactBase = "43_EOS_Board_Governance_&_Competitor_Workflows_Playbook";
+                    else if (d.num === "43") exactBase = "43_EOS_Board_Governance_&_Competitor_Workflows_Playbook";
+                    else exactBase = "44_Marketing_Events_&_Team_Scaling_Roadmap";
                 } else if (d.num === "02" || d.num === "06" || d.num === "17" || d.num === "19" || d.num === "21") {
                     folder = "02_Regulatory_&_USACE_Frameworks";
                     if (d.num === "02") exactBase = "02_USACE_Mitigation_Banking_Framework";
