@@ -1678,7 +1678,8 @@
             { num: "14", name: "Regional Internship Postings & Interview Rubrics", cat: "Recruiting", desc: "Paid internship posts for UGA, GT, and Clemson with candidate profiles and 9 screening questions." },
             { num: "15", name: "Free Domain Registration & Hosting Playbook", cat: "Operations", desc: "Step-by-step tutorial for registering a free .us.kg domain on DigitalPlat and hosting on GitHub Pages." },
             { num: "16", name: "Roya's Cabin Anderson Creek Mitigation Agreement", cat: "Contract", desc: "Legally robust joint-venture landowner contract featuring the 70/30 credit split and 30% developer margin math." },
-            { num: "17", name: "Government & Regulatory Agency Outreach Plan", cat: "Regulatory", desc: "USACE Savannah District and Georgia DNR EPD contact directories, email templates, and site audit protocols." }
+            { num: "17", name: "Government & Regulatory Agency Outreach Plan", cat: "Regulatory", desc: "USACE Savannah District and Georgia DNR EPD contact directories, email templates, and site audit protocols." },
+            { num: "18", name: "Open-Source eSignature Integration Playbook", cat: "Contract", desc: "Guide to deploying self-hosted Docuseal/OpenSign alternative platforms and managing legal compliance under GA UETA." }
         ];
 
         // Global State & UI Navigation
@@ -2105,24 +2106,45 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 card.style.padding = '20px';
                 
                 let exactBase = "";
-                if (d.num === "00") exactBase = "00_START_HERE_Hunter_Action_Guide";
-                else if (d.num === "01") exactBase = "01_Executive_Summary_&_Business_Plan";
-                else if (d.num === "02") exactBase = "02_USACE_Mitigation_Banking_Framework";
-                else if (d.num === "03") exactBase = "03_ACR_Anderson_Creek_Case_Study";
-                else if (d.num === "04") exactBase = "04_Competitor_Analysis_Matrix";
-                else if (d.num === "05") exactBase = "05_Sales_Playbook_&_B2B_Outreach";
-                else if (d.num === "06") exactBase = "06_USACE_Regulatory_&_Mathematical_Framework";
-                else if (d.num === "07") exactBase = "07_Goldmine_Hollow_Case_Study";
-                else if (d.num === "08") exactBase = "08_Project_Execution_&_Reference_Case";
-                else if (d.num === "09") exactBase = "09_Savannah_District_Approved_Banks_Database";
-                else if (d.num === "10") exactBase = "10_LinkedIn_Ready_to_Post_Content";
-                else if (d.num === "11") exactBase = "11_B2B_Credit_Buyers_Registry";
-                else if (d.num === "12") exactBase = "12_Georgia_Trout_Restoration_Site_Database";
-                else if (d.num === "13") exactBase = "13_Sales_Outreach_Templates_&_Scripts";
-                else if (d.num === "14") exactBase = "14_Regional_Internship_Postings_&_Recruiting";
-                else if (d.num === "15") exactBase = "15_Free_Domain_&_Web_Hosting_Playbook";
-                else if (d.num === "16") exactBase = "16_Roya_Cabin_Anderson_Creek_Mitigation_Agreement";
-                else if (d.num === "17") exactBase = "17_Government_&_Regulatory_Outreach_Plan";
+                let folder = "";
+
+                if (d.num === "00" || d.num === "01") {
+                    folder = "01_Strategic_&_Business_Plans";
+                    exactBase = (d.num === "00") ? "00_START_HERE_Hunter_Action_Guide" : "01_Executive_Summary_&_Business_Plan";
+                } else if (d.num === "02" || d.num === "06" || d.num === "17") {
+                    folder = "02_Regulatory_&_USACE_Frameworks";
+                    if (d.num === "02") exactBase = "02_USACE_Mitigation_Banking_Framework";
+                    else if (d.num === "06") exactBase = "06_USACE_Regulatory_&_Mathematical_Framework";
+                    else exactBase = "17_Government_&_Regulatory_Outreach_Plan";
+                } else if (d.num === "03" || d.num === "07" || d.num === "08") {
+                    folder = "03_Project_Case_Studies";
+                    if (d.num === "03") exactBase = "03_ACR_Anderson_Creek_Case_Study";
+                    else if (d.num === "07") exactBase = "07_Goldmine_Hollow_Case_Study";
+                    else exactBase = "08_Project_Execution_&_Reference_Case";
+                } else if (d.num === "04" || d.num === "09" || d.num === "11" || d.num === "12") {
+                    folder = "04_Market_&_Competitor_Intelligence";
+                    if (d.num === "04") exactBase = "04_Competitor_Analysis_Matrix";
+                    else if (d.num === "09") exactBase = "09_Savannah_District_Approved_Banks_Database";
+                    else if (d.num === "11") exactBase = "11_B2B_Credit_Buyers_Registry";
+                    else exactBase = "12_Georgia_Trout_Restoration_Site_Database";
+                } else if (d.num === "05" || d.num === "13") {
+                    folder = "05_Sales_&_Outreach_Playbooks";
+                    if (d.num === "05") exactBase = "05_Sales_Playbook_&_B2B_Outreach";
+                    else exactBase = "13_Sales_Outreach_Templates_&_Scripts";
+                } else if (d.num === "16" || d.num === "18") {
+                    folder = "06_Legal_&_Cooperative_Agreements";
+                    if (d.num === "16") exactBase = "16_Roya_Cabin_Anderson_Creek_Mitigation_Agreement";
+                    else exactBase = "18_Open_Source_eSignature_Integration_Playbook";
+                } else if (d.num === "10") {
+                    folder = "07_Marketing_&_Social_Content";
+                    exactBase = "10_LinkedIn_Ready_to_Post_Content";
+                } else if (d.num === "14") {
+                    folder = "08_Recruiting_&_Internships";
+                    exactBase = "14_Regional_Internship_Postings_&_Recruiting";
+                } else if (d.num === "15") {
+                    folder = "09_Operations_&_Technical_Playbooks";
+                    exactBase = "15_Free_Domain_&_Web_Hosting_Playbook";
+                }
 
                 card.innerHTML = `
                     <div>
@@ -2135,9 +2157,9 @@ hunter@blueridgestream.com | (555) 123-4567`;
                         <p style="font-size: 0.85rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 20px;">${d.desc}</p>
                     </div>
                     <div style="display: flex; gap: 8px; margin-top: auto;">
-                        <a href="./${exactBase}.pdf" class="badge-cat industrial" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">📄 PDF</a>
-                        <a href="./${exactBase}.docx" class="badge-cat mixed-use" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">📝 Word</a>
-                        <a href="./${exactBase}.md" class="badge-cat consultant" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">🌐 MD</a>
+                        <a href="./${folder}/${exactBase}.pdf" class="badge-cat industrial" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">📄 PDF</a>
+                        <a href="./${folder}/${exactBase}.docx" class="badge-cat mixed-use" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">📝 Word</a>
+                        <a href="./${folder}/${exactBase}.md" class="badge-cat consultant" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">🌐 MD</a>
                     </div>
                 `;
                 grid.appendChild(card);
