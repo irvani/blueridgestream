@@ -1,0 +1,1972 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blue Ridge Stream Restoration & Mitigation | B2B Operations Portal</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1F4E79;       /* Deep Navy */
+            --primary-light: #2E75B6; /* Medium Slate Blue */
+            --accent: #2c9380;        /* Trout Green/Teal */
+            --accent-dark: #1f5046;
+            --charcoal: #1E293B;      /* Off-black text */
+            --body-grey: #64748B;     /* Grey text */
+            --light-bg: #F8FAFC;      /* Subtle grey background */
+            --white: #FFFFFF;
+            --navy-dark: #0F172A;     /* Dark navy */
+            --border-color: #E2E8F0;
+            --shadow: 0 10px 25px -5px rgba(31, 78, 121, 0.08), 0 8px 10px -6px rgba(31, 78, 121, 0.08);
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            --glass: rgba(255, 255, 255, 0.85);
+            --border-glass: rgba(255, 255, 255, 0.5);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            color: var(--charcoal);
+            background-color: var(--light-bg);
+            line-height: 1.5;
+            display: flex;
+            min-height: 100vh;
+        }
+
+        h1, h2, h3, h4, .logo-text {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 700;
+        }
+
+        /* Sidebar Navigation */
+        .sidebar {
+            width: 280px;
+            background-color: var(--navy-dark);
+            color: var(--white);
+            padding: 30px 20px;
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100vh;
+            left: 0;
+            top: 0;
+            z-index: 100;
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .logo-icon {
+            font-size: 1.8rem;
+            color: var(--accent);
+        }
+
+        .logo-text {
+            font-size: 1.25rem;
+            line-height: 1.2;
+            color: var(--white);
+        }
+
+        .logo-text span {
+            color: var(--accent);
+            display: block;
+            font-size: 0.85rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .nav-menu {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            flex-grow: 1;
+        }
+
+        .nav-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 14px 16px;
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .nav-item:hover, .nav-item.active {
+            color: var(--white);
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .nav-item.active {
+            background-color: var(--primary);
+            box-shadow: 0 4px 15px rgba(31, 78, 121, 0.2);
+            color: var(--white);
+            border-left: 4px solid var(--accent);
+        }
+
+        .sidebar-footer {
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.5);
+            text-align: center;
+        }
+
+        /* Main Content Layout */
+        .main-content {
+            margin-left: 280px;
+            padding: 40px;
+            flex-grow: 1;
+            max-width: calc(100vw - 280px);
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .header-title h1 {
+            font-size: 2rem;
+            color: var(--primary);
+            margin-bottom: 4px;
+        }
+
+        .header-title p {
+            color: var(--body-grey);
+            font-size: 0.95rem;
+        }
+
+        .header-meta {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .badge-governance {
+            background-color: rgba(31, 78, 121, 0.08);
+            color: var(--primary);
+            padding: 8px 16px;
+            border-radius: 30px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            border: 1px solid rgba(31, 78, 121, 0.15);
+        }
+
+        /* Tabs Panels */
+        .tab-panel {
+            display: none;
+        }
+
+        .tab-panel.active {
+            display: block;
+            animation: fadeIn 0.4s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Cards & Grid Systems */
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .card {
+            background: var(--glass);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--border-glass);
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 15px 35px -5px rgba(31, 78, 121, 0.12);
+        }
+
+        /* Dashboard Highlights */
+        .card-trip {
+            background: linear-gradient(135deg, var(--primary), var(--navy-dark));
+            color: var(--white);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card-trip::after {
+            content: "🇦🇷";
+            position: absolute;
+            font-size: 8rem;
+            right: -20px;
+            bottom: -20px;
+            opacity: 0.1;
+        }
+
+        .trip-title {
+            color: var(--accent);
+            text-transform: uppercase;
+            font-weight: 700;
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+
+        .trip-amount {
+            font-size: 2.2rem;
+            font-weight: 800;
+            font-family: 'Outfit', sans-serif;
+            margin-bottom: 12px;
+        }
+
+        .progress-bar-bg {
+            height: 10px;
+            background-color: rgba(255, 255, 255, 0.15);
+            border-radius: 5px;
+            margin-bottom: 16px;
+            overflow: hidden;
+        }
+
+        .progress-bar-fill {
+            height: 100%;
+            background-color: var(--accent);
+            width: 0%;
+            transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .trip-desc {
+            font-size: 0.9rem;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        /* Leader Profiles */
+        .leader-card {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+
+        .leader-avatar {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--white);
+            box-shadow: var(--shadow);
+            flex-shrink: 0;
+        }
+
+        .leader-avatar.hadi {
+            background: linear-gradient(135deg, var(--primary), var(--primary-light));
+        }
+
+        .leader-avatar.hunter {
+            background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+        }
+
+        .leader-info h4 {
+            color: var(--primary);
+            font-size: 1.15rem;
+            margin-bottom: 2px;
+        }
+
+        .leader-info span {
+            color: var(--accent);
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            display: block;
+            margin-bottom: 6px;
+        }
+
+        .leader-info p {
+            font-size: 0.85rem;
+            color: var(--body-grey);
+            line-height: 1.4;
+        }
+
+        /* Launch Checklist */
+        .checklist-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .checklist-item:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+
+        .checklist-item input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            border-radius: 4px;
+            border: 2px solid var(--body-grey);
+            cursor: pointer;
+            accent-color: var(--accent);
+            margin-top: 2px;
+        }
+
+        .checklist-item label {
+            font-size: 0.95rem;
+            color: var(--charcoal);
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .checklist-item input[type="checkbox"]:checked + label {
+            color: var(--body-grey);
+            text-decoration: line-through;
+        }
+
+        /* Calculator Styles */
+        .calc-container {
+            display: grid;
+            grid-template-columns: 1.2fr 0.8fr;
+            gap: 40px;
+            align-items: start;
+        }
+
+        .calc-form-group {
+            margin-bottom: 24px;
+        }
+
+        .calc-form-group label {
+            display: block;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+
+        .calc-select, .calc-input {
+            width: 100%;
+            padding: 12px 16px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background-color: var(--white);
+            font-family: inherit;
+            font-size: 0.95rem;
+            transition: var(--transition);
+        }
+
+        .calc-select:focus, .calc-input:focus {
+            outline: none;
+            border-color: var(--primary-light);
+            box-shadow: 0 0 0 3px rgba(46, 117, 182, 0.15);
+        }
+
+        .calc-results-card {
+            background-color: var(--navy-dark);
+            color: var(--white);
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: var(--shadow);
+            position: sticky;
+            top: 40px;
+        }
+
+        .calc-results-title {
+            color: var(--accent);
+            text-transform: uppercase;
+            font-weight: 700;
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .calc-metric {
+            margin-bottom: 24px;
+        }
+
+        .calc-metric-lbl {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.6);
+            margin-bottom: 4px;
+        }
+
+        .calc-metric-num {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--white);
+        }
+
+        .calc-metric-num.highlight {
+            color: var(--accent);
+        }
+
+        .calc-tabs {
+            display: flex;
+            background-color: rgba(31, 78, 121, 0.05);
+            padding: 4px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border-color);
+        }
+
+        .calc-tab-btn {
+            flex: 1;
+            background: none;
+            border: none;
+            padding: 10px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            color: var(--body-grey);
+            cursor: pointer;
+            border-radius: 6px;
+            transition: var(--transition);
+        }
+
+        .calc-tab-btn.active {
+            background-color: var(--white);
+            color: var(--primary);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        /* CRM & Search Filter Styles */
+        .filter-bar {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 30px;
+            background: var(--white);
+            padding: 16px;
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            flex-wrap: wrap;
+        }
+
+        .search-input {
+            flex-grow: 1;
+            padding: 10px 16px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 0.9rem;
+        }
+
+        .filter-select {
+            padding: 10px 16px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            background-color: var(--white);
+        }
+
+        .crm-table-container {
+            background: var(--white);
+            border-radius: 16px;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            margin-bottom: 40px;
+        }
+
+        .crm-table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        .crm-table th {
+            background-color: var(--light-bg);
+            color: var(--primary);
+            font-weight: 700;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            padding: 16px 24px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .crm-table td {
+            padding: 16px 24px;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.9rem;
+            vertical-align: middle;
+        }
+
+        .crm-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .crm-table tr:hover {
+            background-color: rgba(46, 117, 182, 0.02);
+        }
+
+        .badge-cat {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .badge-cat.industrial { background-color: rgba(31, 78, 121, 0.1); color: var(--primary); }
+        .badge-cat.mixed-use { background-color: rgba(44, 147, 128, 0.1); color: var(--accent); }
+        .badge-cat.residential { background-color: #FEF3C7; color: #D97706; }
+        .badge-cat.infrastructure { background-color: #F1F5F9; color: #475569; }
+        .badge-cat.consultant { background-color: #FAE8FF; color: #C026D3; }
+
+        .btn-action {
+            background-color: var(--primary);
+            color: var(--white);
+            border: none;
+            padding: 8px 14px;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .btn-action:hover {
+            background-color: var(--primary-light);
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(15, 23, 42, 0.6);
+            backdrop-filter: blur(4px);
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background-color: var(--white);
+            border-radius: 16px;
+            width: 100%;
+            max-width: 650px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+            overflow: hidden;
+            animation: modalSlide 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        @keyframes modalSlide {
+            from { transform: translateY(30px) scale(0.95); opacity: 0; }
+            to { transform: translateY(0) scale(1); opacity: 1; }
+        }
+
+        .modal-hdr {
+            background-color: var(--primary);
+            color: var(--white);
+            padding: 24px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            color: var(--white);
+            font-size: 1.5rem;
+            cursor: pointer;
+            opacity: 0.7;
+            transition: var(--transition);
+        }
+
+        .modal-close:hover {
+            opacity: 1;
+        }
+
+        .modal-body {
+            padding: 30px;
+            max-height: 70vh;
+            overflow-y: auto;
+        }
+
+        .modal-section {
+            margin-bottom: 20px;
+        }
+
+        .modal-section h5 {
+            font-family: 'Outfit', sans-serif;
+            color: var(--primary);
+            font-size: 1rem;
+            margin-bottom: 6px;
+        }
+
+        .modal-section p {
+            font-size: 0.9rem;
+            color: var(--body-grey);
+        }
+
+        .code-box {
+            background-color: var(--light-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 16px;
+            font-family: 'Consolas', monospace;
+            font-size: 0.8rem;
+            color: #7F0055;
+            white-space: pre-wrap;
+            position: relative;
+        }
+
+        .btn-copy {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: var(--white);
+            border: 1px solid var(--border-color);
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            font-weight: 600;
+            color: var(--primary);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+            transition: var(--transition);
+        }
+
+        .btn-copy:hover {
+            background-color: var(--primary);
+            color: var(--white);
+            border-color: var(--primary);
+        }
+
+        /* Competitor Card Styles */
+        .comp-card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 30px;
+        }
+
+        .comp-card {
+            background: var(--white);
+            border-radius: 16px;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            transition: var(--transition);
+        }
+
+        .comp-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(46, 117, 182, 0.2);
+            box-shadow: 0 15px 35px -5px rgba(31, 78, 121, 0.12);
+        }
+
+        .comp-card-hdr {
+            background-color: var(--light-bg);
+            padding: 24px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .comp-name h3 {
+            color: var(--primary);
+            font-size: 1.15rem;
+        }
+
+        .comp-name a {
+            color: var(--primary-light);
+            font-size: 0.8rem;
+            text-decoration: none;
+            margin-right: 12px;
+        }
+
+        .comp-name a:hover {
+            text-decoration: underline;
+        }
+
+        .comp-employees {
+            background-color: rgba(31, 78, 121, 0.08);
+            color: var(--primary);
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 700;
+        }
+
+        .comp-card-body {
+            padding: 24px;
+        }
+
+        .swot-row {
+            margin-bottom: 16px;
+        }
+
+        .swot-row strong {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .swot-row.strength strong { color: var(--accent); }
+        .swot-row.weakness strong { color: #D97706; }
+        .swot-row.counterplay {
+            background-color: var(--accent-dark);
+            color: var(--white);
+            padding: 16px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        .swot-row.counterplay strong { color: var(--accent); }
+        .swot-row p {
+            font-size: 0.85rem;
+            color: var(--body-grey);
+            line-height: 1.4;
+        }
+        .swot-row.counterplay p {
+            color: rgba(255,255,255,0.9);
+            font-style: italic;
+        }
+
+        /* Intern Recruiting Styles */
+        .intern-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+        }
+
+        .intern-card {
+            background: var(--white);
+            border-radius: 16px;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            padding: 30px;
+            transition: var(--transition);
+        }
+
+        .intern-card-hdr {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+
+        .intern-school {
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .intern-card-hdr h3 {
+            color: var(--primary);
+            font-size: 1.25rem;
+        }
+
+        .intern-profile {
+            background-color: var(--light-bg);
+            padding: 16px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid var(--primary-light);
+        }
+
+        .intern-profile strong {
+            display: block;
+            font-size: 0.85rem;
+            color: var(--primary);
+            margin-bottom: 4px;
+            text-transform: uppercase;
+        }
+
+        .intern-profile p {
+            font-size: 0.85rem;
+            color: var(--body-grey);
+            line-height: 1.4;
+        }
+
+        .intern-section {
+            margin-bottom: 20px;
+        }
+
+        .intern-section h4 {
+            color: var(--primary);
+            font-size: 0.95rem;
+            margin-bottom: 8px;
+        }
+
+        .intern-section ul {
+            list-style-position: inside;
+            font-size: 0.85rem;
+            color: var(--body-grey);
+        }
+
+        .intern-section ul li {
+            margin-bottom: 6px;
+        }
+
+        .btn-questions {
+            width: 100%;
+            background-color: var(--light-bg);
+            color: var(--primary);
+            border: 1px solid var(--primary-light);
+            padding: 12px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: var(--transition);
+            text-align: center;
+        }
+
+        .btn-questions:hover {
+            background-color: var(--primary);
+            color: var(--white);
+        }
+
+        /* Site Database Styles */
+        .site-card {
+            background: var(--white);
+            border-radius: 16px;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            padding: 24px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 24px;
+            align-items: center;
+        }
+
+        .site-badge {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: rgba(44, 147, 128, 0.1);
+            color: var(--accent);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.4rem;
+            flex-shrink: 0;
+            box-shadow: var(--shadow);
+        }
+
+        .site-info {
+            flex-grow: 1;
+        }
+
+        .site-info h3 {
+            color: var(--primary);
+            font-size: 1.15rem;
+            margin-bottom: 4px;
+        }
+
+        .site-meta {
+            display: flex;
+            gap: 16px;
+            font-size: 0.8rem;
+            color: var(--body-grey);
+            margin-bottom: 8px;
+            font-weight: 500;
+            text-transform: uppercase;
+        }
+
+        .site-meta span strong {
+            color: var(--accent);
+        }
+
+        .site-desc {
+            font-size: 0.85rem;
+            color: var(--body-grey);
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <div class="logo-container">
+            <div class="logo-icon">🐟</div>
+            <div class="logo-text">
+                Blue Ridge
+                <span>Mitigation Portal</span>
+            </div>
+        </div>
+
+        <nav class="nav-menu">
+            <div class="nav-item active" onclick="switchTab(event, 'tab-dashboard')">📊 Dashboard & Checklists</div>
+            <div class="nav-item" onclick="switchTab(event, 'tab-calc')">📐 SOP Permitting Calculator</div>
+            <div class="nav-item" onclick="switchTab(event, 'tab-crm')">🏢 B2B Credit Buyers CRM</div>
+            <div class="nav-item" onclick="switchTab(event, 'tab-competitors')">🛡️ Competitor SWOT Matrix</div>
+            <div class="nav-item" onclick="switchTab(event, 'tab-sites')">🗺️ Trout Watersheds Database</div>
+            <div class="nav-item" onclick="switchTab(event, 'tab-recruiting')">🎓 Intern Recruiting Center</div>
+        </nav>
+
+        <div class="sidebar-footer">
+            &copy; 2026 Blue Ridge Stream LLC<br>
+            Internal Operations Portal
+        </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        
+        <!-- Header -->
+        <header>
+            <div class="header-title">
+                <h1 id="page-title">Dashboard & checklists</h1>
+                <p id="page-subtitle">Blue Ridge Stream Restoration Command Center</p>
+            </div>
+            <div class="header-meta">
+                <div class="badge-governance">Governance: Hadi Irvani & Hunter</div>
+            </div>
+        </header>
+
+        <!-- TAB: DASHBOARD -->
+        <section id="tab-dashboard" class="tab-panel active">
+            
+            <div class="grid-3">
+                <!-- Argentina Trip Card -->
+                <div class="card card-trip">
+                    <div class="trip-title">Argentina Funding Tracker</div>
+                    <div class="trip-amount" id="funding-amount">$0 / $15,000</div>
+                    <div class="progress-bar-bg">
+                        <div class="progress-bar-fill" id="funding-bar"></div>
+                    </div>
+                    <div class="trip-desc" id="funding-desc">
+                        0 stream credits sold. Sell credits to fund world-class fly fishing in Patagonia!
+                    </div>
+                </div>
+
+                <!-- Showcase Roya's Cabin Card -->
+                <div class="card">
+                    <div class="leader-info" style="margin-bottom: 12px;">
+                        <span style="color: var(--primary-light);">Commercial showcase</span>
+                        <h4 style="font-size: 1.25rem;">Roya's Cabin</h4>
+                        <p style="margin-top: 4px; font-size: 0.85rem;">2,500 LF at Anderson Creek yielding **12,900 credits** ($2.32M Value). Fast-tracking regional permits.</p>
+                    </div>
+                    <div style="display: flex; gap: 8px; margin-top: 16px;">
+                        <span class="badge-cat industrial" style="padding: 6px 12px;">Coosa Basin</span>
+                        <span class="badge-cat mixed-use" style="padding: 6px 12px;">NWP 27</span>
+                    </div>
+                </div>
+
+                <!-- Showcase Hunter's Cabin Card -->
+                <div class="card">
+                    <div class="leader-info" style="margin-bottom: 12px;">
+                        <span style="color: var(--accent);">Private Showroom</span>
+                        <h4 style="font-size: 1.25rem;">Goldmine Hollow</h4>
+                        <p style="margin-top: 4px; font-size: 0.85rem;">Step-pool sediment traps on Noontootla Creek. Demonstrating wild trout bioengineering.</p>
+                    </div>
+                    <div style="display: flex; gap: 8px; margin-top: 16px;">
+                        <span class="badge-cat residential" style="padding: 6px 12px;">Noontootla</span>
+                        <span class="badge-cat infrastructure" style="padding: 6px 12px;">Showroom</span>
+                    </div>
+                </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+                <!-- 90-Day Plan Checklist -->
+                <div class="card">
+                    <h3 style="color: var(--primary); margin-bottom: 20px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px;">
+                        🚀 Hunter's Phased 90-Day Launch Plan
+                    </h3>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-1" onchange="updateChecklist()">
+                        <label for="chk-1"><strong>Consulting Umbrella</strong>: Set up "Blue Ridge Stream Consulting" under Fly Fishing Georgia North Mountains.</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-2" onchange="updateChecklist()">
+                        <label for="chk-2"><strong>B2B LinkedIn launch</strong>: Create professional LinkedIn presence targeting regional logistics developers.</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-3" onchange="updateChecklist()">
+                        <label for="chk-3"><strong>outreach campaigns</strong>: Connect with Jack Chapman (Transwestern) and Stream Realty Partners.</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-4" onchange="updateChecklist()">
+                        <label for="chk-4"><strong>Design Anderson Creek</strong>: Complete geomorphic cross-sections and vegetation plots for Roya's Cabin.</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-5" onchange="updateChecklist()">
+                        <label for="chk-5"><strong>Permitting</strong>: File USACE Nationwide Permit 27 and Georgia EPD Stream Buffer Variance.</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-6" onchange="updateChecklist()">
+                        <label for="chk-6"><strong>Corblu Joint Venture</strong>: Execute design-build agreement with Neil Blackman (Corblu Ecology Group).</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-7" onchange="updateChecklist()">
+                        <label for="chk-7"><strong>Goldmine Hollow Construction</strong>: Build cedar log step-pool sediment traps on mountain tributary.</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-8" onchange="updateChecklist()">
+                        <label for="chk-8"><strong>Initial Release Liquidation</strong>: Secure first 15% credit release (1,935 credits) from USACE ledger.</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-9" onchange="updateChecklist()">
+                        <label for="chk-9"><strong>Close Developer Deal</strong>: Supply credits to major logistics developers (Sefried, Fuqua, or Weeks).</label>
+                    </div>
+                    <div class="checklist-item">
+                        <input type="checkbox" id="chk-10" onchange="updateChecklist()">
+                        <label for="chk-10"><strong>Patagonia Expedition</strong>: Book a world-class fly fishing trip to Argentina for Hunter and Hadi Irvani! 🇦🇷</label>
+                    </div>
+                </div>
+
+                <!-- Board & Governance Card -->
+                <div class="card">
+                    <h3 style="color: var(--primary); margin-bottom: 20px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px;">
+                        🛡️ Board of Directors & Governance
+                    </h3>
+                    
+                    <!-- Hadi Profile -->
+                    <div class="leader-card">
+                        <div class="leader-avatar hadi">HI</div>
+                        <div class="leader-info">
+                            <h4>Hadi Irvani</h4>
+                            <span>Co-Founder & Board Member</span>
+                            <p>General Partner at Infill Capital Partners, alumnus of the University of Virginia (UVA). Oversees B2B real estate developer relationships, capital structuring, and strategic commercial scaling across the Southeast.</p>
+                        </div>
+                    </div>
+
+                    <!-- Hunter Profile -->
+                    <div class="leader-card">
+                        <div class="leader-avatar hunter">H</div>
+                        <div class="leader-info">
+                            <h4>Hunter</h4>
+                            <span>Founder & Managing Director</span>
+                            <p>Expert fluvial geomorphologist, Principal at Fly Fishing Georgia North Mountains. Directs geomorphic natural channel bioengineering designs, regulatory permitting, and field construction execution.</p>
+                        </div>
+                    </div>
+
+                    <!-- Strategic Objectives -->
+                    <div style="background-color: var(--light-bg); padding: 16px; border-radius: 12px; border: 1px solid var(--border-color); margin-top: 20px;">
+                        <h4 style="color: var(--primary); font-size: 0.95rem; margin-bottom: 8px;">Joint B2B Operations Target</h4>
+                        <p style="font-size: 0.85rem; color: var(--body-grey); line-height: 1.4;">
+                            Hadi leverages his deep private equity and UVA developer network (including Transwestern and Fuqua) to secure bulk credit allocation contracts, while Hunter executes rapid Nationwide Permit 27 restorations yielding premium coldwater stream credits.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB: CALCULATOR -->
+        <section id="tab-calc" class="tab-panel">
+            
+            <div class="calc-tabs">
+                <button class="calc-tab-btn active" id="btn-calc-credit" onclick="switchCalcTab('credit')">Mitigation Credit Generator (Sponsor)</button>
+                <button class="calc-tab-btn" id="btn-calc-debit" onclick="switchCalcTab('debit')">Developer Debit Calculator (Liability)</button>
+            </div>
+
+            <div class="calc-container">
+                <!-- Input Panel -->
+                <div class="card" style="background-color: var(--white);">
+                    
+                    <!-- Calculator A: Mitigation Credits -->
+                    <div id="panel-calc-credit">
+                        <h3 style="color: var(--primary); margin-bottom: 24px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px;">
+                            compensatory stream credit yield calculator
+                        </h3>
+                        
+                        <div class="calc-form-group">
+                            <label for="cred-length">Restoration Reach Length (Linear Feet)</label>
+                            <input type="number" id="cred-length" class="calc-input" value="2500" oninput="calculateCredits()">
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="cred-priority">Restoration Priority (M_benefit)</label>
+                            <select id="cred-priority" class="calc-select" onchange="calculateCredits()">
+                                <option value="4.0">Priority 1 (Floodplain Reconnection / New Channel) - 4.0 Factor</option>
+                                <option value="3.0">Priority 2 (Bank Stabilization & Geomorphic Channel Restoration) - 3.0 Factor</option>
+                                <option value="1.5">Priority 3 (Bioengineering / Minimal Grade Restructure) - 1.5 Factor</option>
+                                <option value="0.5">Priority 4 (Riparian Buffer Planting Only) - 0.5 Factor</option>
+                            </select>
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="cred-buffer">Riparian Buffer Width (M_buffer)</label>
+                            <select id="cred-buffer" class="calc-select" onchange="calculateCredits()">
+                                <option value="2.0">100-foot Native Canopy Buffer (Both Banks) - 2.0 Factor</option>
+                                <option value="1.2">50-foot Native Canopy Buffer (Both Banks) - 1.2 Factor</option>
+                                <option value="0.8">30-foot Buffer - 0.8 Factor</option>
+                                <option value="0.0">No Buffer Restorations - 0.0 Factor</option>
+                            </select>
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="cred-monitoring">Monitoring & Protection (M_monitoring & M_protection)</label>
+                            <select id="cred-monitoring" class="calc-select" onchange="calculateCredits()">
+                                <option value="1.6">7-Year Monitoring Plan + Restrictive Covenant Easement - 1.6 Factor</option>
+                                <option value="1.0">5-Year Monitoring Plan + Restrictive Covenant - 1.0 Factor</option>
+                                <option value="0.4">Minimal Monitoring (Temporary protection) - 0.4 Factor</option>
+                            </select>
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="cred-watershed">Flow & Watershed Location (M_flow & M_watershed)</label>
+                            <select id="cred-watershed" class="calc-select" onchange="calculateCredits()">
+                                <option value="1.0">Perennial Coldwater Trout Stream (High Priority Basin) - 1.0 Factor</option>
+                                <option value="0.6">Intermittent / Secondary Stream Basin - 0.6 Factor</option>
+                            </select>
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="cred-price">Estimated Price Per Credit (USD)</label>
+                            <input type="number" id="cred-price" class="calc-input" value="180" oninput="calculateCredits()">
+                        </div>
+                    </div>
+
+                    <!-- Calculator B: Developer Debits -->
+                    <div id="panel-calc-debit" style="display: none;">
+                        <h3 style="color: var(--primary); margin-bottom: 24px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px;">
+                            Developer Stream Debit (Liability) Calculator
+                        </h3>
+
+                        <div class="calc-form-group">
+                            <label for="deb-length">Impact Reach Length (Linear Feet)</label>
+                            <input type="number" id="deb-length" class="calc-input" value="1000" oninput="calculateDebits()">
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="deb-type">Impact Type (F_type)</label>
+                            <select id="deb-type" class="calc-select" onchange="calculateDebits()">
+                                <option value="2.5">Piping / Culvert (Perennial Stream) - 2.5 Factor</option>
+                                <option value="1.8">Piping / Culvert (Intermittent Stream) - 1.8 Factor</option>
+                                <option value="1.2">Channel Channel Diversion / Relocation - 1.2 Factor</option>
+                                <option value="0.6">Bank Armoring (Rip-rap / Concrete) - 0.6 Factor</option>
+                            </select>
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="deb-impact">Severity of Impact (F_impact)</label>
+                            <select id="deb-impact" class="calc-select" onchange="calculateDebits()">
+                                <option value="1.5">Severe (Complete loss of aquatic biology / ecological function) - 1.5 Factor</option>
+                                <option value="1.0">Moderate (Partial channel restriction) - 1.0 Factor</option>
+                                <option value="0.4">Minor (Temporary construction access) - 0.4 Factor</option>
+                            </select>
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="deb-duration">Duration of Impact (F_duration)</label>
+                            <select id="deb-duration" class="calc-select" onchange="calculateDebits()">
+                                <option value="1.0">Permanent (> 10 years / Fixed Structures) - 1.0 Factor</option>
+                                <option value="0.4">Temporary (Restored on site within 1 year) - 0.4 Factor</option>
+                            </select>
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="deb-priority">Watershed Priority Factor (F_priority)</label>
+                            <select id="deb-priority" class="calc-select" onchange="calculateDebits()">
+                                <option value="0.8">High Priority HUC Basin (Secondary/Coldwater stream) - 0.8 Factor</option>
+                                <option value="0.4">Standard HUC Basin - 0.4 Factor</option>
+                            </select>
+                        </div>
+
+                        <div class="calc-form-group">
+                            <label for="deb-price">Regional Credit Unit Price (USD)</label>
+                            <input type="number" id="deb-price" class="calc-input" value="180" oninput="calculateDebits()">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Results Output Card -->
+                <div class="calc-results-card">
+                    <div id="results-credit">
+                        <div class="calc-results-title">Estimated Credit yield</div>
+                        <div class="calc-metric">
+                            <div class="calc-metric-lbl">Total Geomorphic SOP Multiplier Factor</div>
+                            <div class="calc-metric-num" id="res-cred-factor">8.60</div>
+                        </div>
+                        <div class="calc-metric">
+                            <div class="calc-metric-lbl">Total Mitigation Credits Generated</div>
+                            <div class="calc-metric-num highlight" id="res-cred-generated">21,500</div>
+                        </div>
+                        <div class="calc-metric">
+                            <div class="calc-metric-lbl">Gross Asset Valuation</div>
+                            <div class="calc-metric-num" id="res-cred-value">$3,870,000</div>
+                        </div>
+                        <div class="calc-metric">
+                            <div class="calc-metric-lbl">Initial 15% Release Liquidity</div>
+                            <div class="calc-metric-num highlight" id="res-cred-release">3,225 Credits ($580,500 Value)</div>
+                        </div>
+                        <div style="font-size: 0.8rem; color: rgba(255,255,255,0.4); line-height: 1.4; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 16px;">
+                            *Calculations based on USACE Savannah District Stream SOP. Actual credits subject to Prospectus approval and recorded Conservation Easement.
+                        </div>
+                    </div>
+
+                    <div id="results-debit" style="display: none;">
+                        <div class="calc-results-title">Estimated developer liability</div>
+                        <div class="calc-metric">
+                            <div class="calc-metric-lbl">Total SOP Debit Multiplier Factor</div>
+                            <div class="calc-metric-num" id="res-deb-factor">5.80</div>
+                        </div>
+                        <div class="calc-metric">
+                            <div class="calc-metric-lbl">Required Mitigation Offsets (Debits)</div>
+                            <div class="calc-metric-num highlight" id="res-deb-required">5,800</div>
+                        </div>
+                        <div class="calc-metric">
+                            <div class="calc-metric-lbl">Estimated Compensatory Credit Cost</div>
+                            <div class="calc-metric-num" id="res-deb-cost">$1,044,000</div>
+                        </div>
+                        <div style="font-size: 0.8rem; color: rgba(255,255,255,0.4); line-height: 1.4; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 16px;">
+                            *Calculations show required offsets. Piping stream channels incurs massive legal and regulatory debit structures.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB: CRM DEVELOPERS -->
+        <section id="tab-crm" class="tab-panel">
+            
+            <div class="filter-bar">
+                <input type="text" id="crm-search" class="search-input" placeholder="Search by developer name, broker, or company..." oninput="filterCRM()">
+                <select id="crm-filter-cat" class="filter-select" onchange="filterCRM()">
+                    <option value="all">All B2B Categories</option>
+                    <option value="industrial">Industrial & Logistics</option>
+                    <option value="mixed-use">Mixed-Use & Commercial</option>
+                    <option value="residential">Residential Subdivisions</option>
+                    <option value="infrastructure">Public Infrastructure / Utilities</option>
+                    <option value="consultant">Civil & Engineering Consultants</option>
+                </select>
+                <div style="font-size: 0.9rem; align-self: center; font-weight: 600; color: var(--primary);">
+                    Total Targets: <span id="crm-count">50</span>
+                </div>
+            </div>
+
+            <div class="crm-table-container">
+                <table class="crm-table" id="crm-table-el">
+                    <thead>
+                        <tr>
+                            <th>Target Client Name</th>
+                            <th>Category</th>
+                            <th>Headquarters</th>
+                            <th>Referral Advocate</th>
+                            <th>B2B Sales Outreach</th>
+                        </tr>
+                    </thead>
+                    <tbody id="crm-tbody">
+                        <!-- Populated via Javascript -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- TAB: COMPETITORS -->
+        <section id="tab-competitors" class="tab-panel">
+            
+            <div class="comp-card-grid" id="competitor-grid-el">
+                <!-- Populated via Javascript -->
+            </div>
+        </section>
+
+        <!-- TAB: SITES DATABASE -->
+        <section id="tab-sites" class="tab-panel">
+            <div class="card" style="margin-bottom: 30px; background-color: var(--white);">
+                <h3 style="color: var(--primary); margin-bottom: 12px;">Sourcing High-Priority Reaches in North Georgia</h3>
+                <p style="font-size: 0.95rem; color: var(--body-grey); line-height: 1.5;">
+                    Mitigation banking and Permittee-Responsible Mitigation (PRM) rely entirely on localized hydrologic watersheds (HUC basins). The database below highlights **10 high-priority trout watersheds** in North Georgia suffering from severe sediment siltation, solar warming, or lateral bank erosion, presenting immediate sourcing opportunities for Hunter.
+                </p>
+            </div>
+            
+            <div id="sites-list-el">
+                <!-- Populated via Javascript -->
+            </div>
+        </section>
+
+        <!-- TAB: RECRUITING -->
+        <section id="tab-recruiting" class="tab-panel">
+            
+            <div class="intern-grid" id="intern-grid-el">
+                <!-- Populated via Javascript -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- B2B Details Modal -->
+    <div class="modal" id="details-modal">
+        <div class="modal-content">
+            <div class="modal-hdr">
+                <h3 id="modal-title">Client Details</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modal-body-content">
+                <!-- Populated dynamically -->
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript logic -->
+    <script>
+        // Core Databases
+        const competitors = [
+            {
+                name: "Resource Environmental Solutions (RES)",
+                scale: "National PE-Backed Powerhouse",
+                hq: "Houston, TX (Georgia Offices: Athens & Alpharetta)",
+                website: "https://www.res.us",
+                linkedin: "https://www.linkedin.com/company/resource-environmental-solutions-llc/",
+                employees: "1,000+",
+                services: "Turnkey mitigation banking, Permittee-Responsible Mitigation, carbon offsets, water quality engineering.",
+                strengths: "Massive private equity capital backing, total delivery design-build internal capacities, huge credit inventories across GA.",
+                weaknesses: "High corporate overhead leads to expensive credit prices, less interested in small/boutique projects or trout geomorphic aesthetics.",
+                counterplay: "Target smaller geomorphic projects, high-gradient trout streams, and boutique private landowners where Hunter's specialized wild trout habitat design (deep pool scour, sorted spawning gravel) wins on aesthetic and ecological premium."
+            },
+            {
+                name: "Corblu Ecology Group, LLC",
+                scale: "Georgia Regional Leader",
+                hq: "Canton, GA (Active statewide across all GA basins)",
+                website: "http://www.corblu.com",
+                linkedin: "https://www.linkedin.com/company/corblu-ecology-group/",
+                employees: "~25 (range 11-50)",
+                services: "Mitigation banking development, permitting, USDA NRCS conservation buffers, ledger management.",
+                strengths: "Elite relations with local developers (e.g. Taylor Mathis), trusted by Savannah District USACE and GA EPD.",
+                weaknesses: "Lacks in-house heavy excavation and grading fleets; subcontracts field design-build restoration construction.",
+                counterplay: "Establish a Joint Venture. Position Hunter as the specialized geomorphic design-build contractor. Hunter executes NCD boulder and log placement in the field, while Neil Blackman and Corblu manage the banking ledger on RIBITS."
+            },
+            {
+                name: "Nutter & Associates, Inc.",
+                scale: "Specialized Environmental Consultant",
+                hq: "Athens, GA (Active Southeast-wide)",
+                website: "https://www.nutterenvironmental.com",
+                linkedin: "https://www.linkedin.com/company/nutter-&-associates-inc-/",
+                employees: "~15 (range 11-50)",
+                services: "Water quality, soil sciences, monitoring, biological assessments, design permitting.",
+                strengths: "High scientific authority in Georgia, strong ties to UGA Odum School of Ecology, superb permitting rapport.",
+                weaknesses: "Focused purely on advisory and scientific consulting; does not perform in-house design-build construction.",
+                counterplay: "Partner as their physical execution arm. When Nutter's commercial clients require stream buffer variances or geomorphic design construction, Hunter's firm performs the physical earthwork."
+            },
+            {
+                name: "Mitigation Management, LLC",
+                scale: "Statewide Credit Broker",
+                hq: "Athens, GA",
+                website: "https://www.mitigationmanagement.com",
+                linkedin: "https://www.linkedin.com/company/mitigation-management/",
+                employees: "~5 (range 1-10)",
+                services: "Mitigation credit brokering, sales & marketing, asset ledger advisory.",
+                strengths: "Comprehensive database of active and pending stream banks, robust landowner networks.",
+                weaknesses: "No internal geomorphic design, hydrologic engineering, or physical construction capacity.",
+                counterplay: "Utilize Mitigation Management as a primary broker to market and liquidate the credits generated at Anderson Creek (Roya's Cabin), allowing Hunter to focus on design-build operations."
+            },
+            {
+                name: "Ecosystem Investment Partners (EIP)",
+                scale: "Institutional Conservation Private Equity",
+                hq: "Baltimore, MD (Active across Southeast)",
+                website: "https://ecosystempartners.com",
+                linkedin: "https://www.linkedin.com/company/ecosystem-investment-partners/",
+                employees: "~75 (range 51-200)",
+                services: "Large-scale mitigation banking, conservation land acquisitions, watershed restoration.",
+                strengths: "Massive institutional capital (multiple closed-end PE funds), cash land buy-out capability.",
+                weaknesses: "Distant corporate hierarchy; slow to execute site-specific local PRM opportunities.",
+                counterplay: "Dominate the localized Permittee-Responsible Mitigation (PRM) sector under NWP 27. EIP cannot justify bidding on a 30-acre tract like Anderson Creek. Hunter's localized agility allows him to secure these high-yield, site-specific PRM projects."
+            },
+            {
+                name: "Wildlands Engineering, Inc.",
+                scale: "Water Resources Engineering Powerhouse",
+                hq: "Charlotte, NC (GA Office: Peachtree Corners)",
+                website: "https://www.wildlandseng.com",
+                linkedin: "https://www.linkedin.com/company/wildlands-engineering-inc-/",
+                employees: "~150 (range 100-200)",
+                services: "Water resources engineering, design-build, long-term monitoring.",
+                strengths: "Advanced hydraulic modeling (HEC-RAS 2D), elite engineering organization, expanding rapidly in Georgia.",
+                weaknesses: "High corporate overhead, historically North Carolina focused, less nimble local network.",
+                counterplay: "Win on hyper-local expertise. Hunter's relationships with mountain landowners and deep knowledge of high-gradient wild trout tributaries (e.g. Noontootla) provide a localized design edge that NC-based engineers lack."
+            },
+            {
+                name: "Boutique Environmental Contractors",
+                scale: "Local North Georgia Earthmovers",
+                hq: "Local North GA Counties (Gilmer, Fannin, Union)",
+                website: "N/A",
+                linkedin: "N/A",
+                employees: "10-20 (local grading)",
+                services: "General civil grading, rip-rap placement, pond dredging.",
+                strengths: "Low operational cost, highly agile, own heavy excavation fleets locally.",
+                weaknesses: "Zero geomorphic or biological design knowledge; traditional hard engineering destroys ecosystems.",
+                counterplay: "Position Natural Channel Design (NCD) as the premier ecological solution. Educate local landowners that grading and dumping rip-rap accelerates land loss, whereas Hunter's log-and-boulder bioengineering protects property values permanently."
+            }
+        ];
+
+        const buyers = [
+            // Industrial & Logistics
+            { name: "Taylor Mathis (Mike Irby)", category: "industrial", hq: "Atlanta, GA", contact: "Mike Irby (mirby@taylormathis.com)", rep: "Longacre Logistics Permitting SAS-2022-00219", desc: "Active developer behind major Southeast logistics nodes. Developer of the Longacre Logistics Center which required massive stream buffer variances." },
+            { name: "Sefried Industrial Properties", category: "industrial", hq: "Dallas, TX / Atlanta", contact: "Atlanta Development Team", rep: "Active regional warehouse parks", desc: "National industrial powerhouse active in North Georgia (I-85 and I-985 corridors). High credit buyer for master-planned logistics parks." },
+            { name: "Ray Weeks Properties", category: "industrial", hq: "Atlanta, GA", contact: "Ray Weeks Jr.", rep: "Weeks Logistics Centers", desc: "Long-standing commercial industrial developer focused on bulk distribution warehouses in regional basins." },
+            { name: "Saltbox (Maxwell Bonney)", category: "industrial", hq: "Atlanta, GA", contact: "Maxwell Bonney (mbonney@saltbox.com)", rep: "Flex-warehousing networks", desc: "Innovator in co-warehousing spaces. Frequently develops flex-warehouses needing buffer variances and stream mitigation offsets." },
+            { name: "Prologis (Southeast Division)", category: "industrial", hq: "Atlanta, GA", contact: "Atlanta Regional VP", rep: "Major industrial logistics campuses", desc: "The largest global industrial logistics developer. Manages massive multi-phase business parks in Gwinnett, Jackson, and Hall counties." },
+            { name: "Crow Holdings Industrial", category: "industrial", hq: "Atlanta, GA", contact: "Atlanta Acquisition Lead", rep: "Speculative e-commerce nodes", desc: "Prominent industrial acquirer and developer. Actively builds logistics facilities along regional transportation corridors." },
+            { name: "Duke Realty", category: "industrial", hq: "Atlanta, GA", contact: "Southeast Construction Director", rep: "Mega e-commerce centers", desc: "Massive regional industrial landlord. Frequently executes logistics campus layouts that impact stream buffers." },
+            { name: "Trammell Crow Company", category: "industrial", hq: "Atlanta, GA", contact: "Atlanta Development VP", rep: "Multi-phase logistics parks", desc: "Institutional developer executing speculative industrial developments needing complex CWA 404 permits." },
+            { name: "Core5 Industrial Partners", category: "industrial", hq: "Atlanta, GA", contact: "Atlanta Development Lead", rep: "Logistics corridors", desc: "Fast-growing logistics developer with multiple active parks along the Atlanta metro outer ring, heavily impacting headwater tributaries." },
+            { name: "Exeter Property Group", category: "industrial", hq: "Atlanta, GA", contact: "Acquisitions Director", rep: "Speculative e-commerce developments", desc: "Private equity real estate firm developing high-volume logistics and e-commerce fulfillment centers across the Southeast." },
+
+            // Mixed-Use / Retail
+            { name: "Fuqua Development (Jeff Fuqua)", category: "mixed-use", hq: "Atlanta, GA", contact: "Jeff Fuqua (jfuqua@fuquadevelopment.com)", rep: "Piped stream retail centers", desc: "Elite mixed-use and retail developer. Highly active in urban and suburban infill sites. Frequently faces stream piping hurdles requiring large credit offsets." },
+            { name: "North American Properties", category: "mixed-use", hq: "Atlanta, GA", contact: "Atlanta Mixed-Use Lead", rep: "Suburban Town Centers", desc: "Developer of massive regional town centers (e.g., Avalon, Colony Square). High-budget buyer for pristine bioengineered landscaping and buffer offsets." },
+            { name: "Selig Enterprises", category: "mixed-use", hq: "Atlanta, GA", contact: "Development Team", rep: "Suburban commercial properties", desc: "Historic commercial real estate developer managing large retail, commercial, and mixed-use portfolios across the Southeast." },
+            { name: "Portman Holdings", category: "mixed-use", hq: "Atlanta, GA", contact: "Design & Construction Director", rep: "Urban dense infills", desc: "Institutional developer focusing on high-density office, hospitality, and mixed-use complexes." },
+            { name: "Cousins Properties", category: "mixed-use", hq: "Atlanta, GA", contact: "Corporate Development", rep: "Class-A Office Parks", desc: "Premier office REIT developing class-A commercial properties in Atlanta's submarkets, impacting local metropolitan headwaters." },
+            { name: "The Jacoby Group", category: "mixed-use", hq: "Atlanta, GA", contact: "Jacoby Development Team", rep: "Brownfield redevelopments", desc: "Pioneer in large-scale brownfield redevelopments. Frequently manages heavy civil sites with complex stream restoration needs." },
+            { name: "Greenstone Properties", category: "mixed-use", hq: "Atlanta, GA", contact: "Acquisitions Lead", rep: "High-end corporate campuses", desc: "High-end commercial office and retail developer active in high-growth suburban counties." },
+            { name: "Halpern Enterprises", category: "mixed-use", hq: "Atlanta, GA", contact: "Engineering Director", rep: "Suburban strip retail centers", desc: "Specialist in neighborhood retail shopping centers, frequently developing adjacent to stream buffers." },
+            { name: "Paces Properties", category: "mixed-use", hq: "Atlanta, GA", contact: "Development Director", rep: "Adaptive reuse infills", desc: "Boutique commercial and retail developer focused on adaptive reuse and high-concept food hall/entertainment developments." },
+            { name: "Brand Properties", category: "mixed-use", hq: "Lawrenceville, GA", contact: "Development VP", rep: "Upper Chattahoochee developments", desc: "Deeply rooted in Gwinnett and North Georgia, developing class-A office and multi-family sites impacting the Upper Chattahoochee basin." },
+
+            // Residential Subdivisions
+            { name: "PulteGroup (GA Division)", category: "residential", hq: "Atlanta, GA", contact: "Land Acquisition VP", rep: "High-density master planned communities", desc: "Top-tier national homebuilder. Constantly acquires large suburban and exurban tracts in Cherokee, Forsyth, and Hall counties." },
+            { name: "Lennar Homes (Atlanta)", category: "residential", hq: "Atlanta, GA", contact: "Land Director", rep: "Major suburban subdivisions", desc: "Active master-planned community builder. Frequently pipes minor intermittent streams and builds road bridges over creek corridors." },
+            { name: "D.R. Horton (North Georgia)", category: "residential", hq: "Alpharetta, GA", contact: "Land Development Manager", rep: "Entry-level exurban subdivisions", desc: "The largest homebuilder in the U.S. by volume. Actively develops entry-level and mid-market subdivisions across North Georgia watershed basins." },
+            { name: "Century Communities", category: "residential", hq: "Norcross, GA", contact: "Land Buyer Team", rep: "CWA General Permit sites", desc: "High-volume subdivision builder requiring stream credits to clear CWA Section 404 General Permits." },
+            { name: "Ashton Woods Homes", category: "residential", hq: "Roswell, GA", contact: "Design Studio VP", rep: "Luxury creek-amenity subdivisions", desc: "High-end homebuilder developing premium communities. Frequently integrates restored streams as community amenities." },
+            { name: "Smith Douglas Homes", category: "residential", hq: "Woodstock, GA", contact: "Coosa & Etowah Land Team", rep: "Woodstock/Cherokee subdivisions", desc: "Fast-growing residential builder focused on North Georgia. High volume of local projects crossing small Coosa and Etowah basin streams." },
+            { name: "Toll Brothers (GA Division)", category: "residential", hq: "Atlanta, GA", contact: "Land Acquisition Lead", rep: "Mountain & Lake luxury estates", desc: "National luxury homebuilder. Develops high-value, low-density subdivisions in North Georgia mountain and lake regions." },
+            { name: "Meritage Homes", category: "residential", hq: "Atlanta, GA", contact: "Development Director", rep: "Suburban multi-family tracts", desc: "Leader in energy-efficient home subdivisions, active in major suburban corridors." },
+            { name: "Beazer Homes (GA Team)", category: "residential", hq: "Atlanta, GA", contact: "Wastewater Lead Engineer", rep: "Cherokee county master developments", desc: "Active multi-state residential developer building large-scale subdivisions in high-runoff Piedmont soils." },
+            { name: "John Wieland Homes", category: "residential", hq: "Atlanta, GA", contact: "Environmental Land Architect", rep: "Premium landscaped subdivisions", desc: "High-end regional neighborhood developer, frequently incorporating extensive environmental landscaping." },
+
+            // Public Infrastructure & Utilities
+            { name: "Georgia DOT (GDOT)", category: "infrastructure", hq: "Atlanta, GA", contact: "Mitigation Procurement Officer", rep: "Highway widening / Bridge replacement", desc: "The largest single consumer of stream and wetland mitigation credits in Georgia due to massive road widening, bridge replacements, and highway corridor construction." },
+            { name: "Georgia Power Company", category: "infrastructure", hq: "Atlanta, GA", contact: "Environmental Affairs Lead", rep: "Linear corridor line clearing", desc: "Clears massive transmission line corridors and builds substations. High-volume, reliable credit buyer for permanent utility crossings." },
+            { name: "Georgia Transmission Corp.", category: "infrastructure", hq: "Tucker, GA", contact: "Substation Permitting Lead", rep: "Rural high-voltage substations", desc: "Non-profit cooperative planning transmission infrastructure across Georgia's EMC service territories. Frequent corridor builder." },
+            { name: "MARTA", category: "infrastructure", hq: "Atlanta, GA", contact: "Capital Transit Engineer", rep: "Rail line expansions / Depots", desc: "Public transit infrastructure developer. Purchases regional credits to offset rail line expansions and depot construction." },
+            { name: "Atlanta Dept of Watershed", category: "infrastructure", hq: "Atlanta, GA", contact: "Sewer Rehabilitation Lead", rep: "Sewer easement stream buffers", desc: "Manages municipal sewer and water systems. Pipelines frequently impact stream banks, requiring buffer variances and credits." },
+            { name: "Cobb County Water System", category: "infrastructure", hq: "Marietta, GA", contact: "Engineering Director", rep: "Trunk line sewer expansions", desc: "Manages county-level wastewater trunk line sewer expansions along stream valleys." },
+            { name: "Gwinnett County DWR", category: "infrastructure", hq: "Lawrenceville, GA", contact: "Capital Improvements VP", rep: "Water intake utility expansions", desc: "Major municipal water utility executing large-scale water treatment, intake, and sewer line capital improvements." },
+            { name: "DeKalb County Watershed", category: "infrastructure", hq: "Decatur, GA", contact: "Consent Decree Program Director", rep: "Urban sewer buffer bypasses", desc: "Focuses on massive consent decree sewer restorations impacting urban and suburban stream buffers." },
+            { name: "CCWSA (Cherokee County)", category: "infrastructure", hq: "Canton, GA", contact: "Water Authority Director", rep: "Etowah basin water pipelines", desc: "Regional utility managing utility corridors in the fast-growing Etowah basin." },
+            { name: "Forsyth County Water & Sewer", category: "infrastructure", hq: "Cumming, GA", contact: " Forsyth Environmental Manager", rep: "GA-400 corridor pipeline expansions", desc: "Manages infrastructure in the high-growth GA-400 corridor, heavily impacting the Upper Chattahoochee basin." },
+
+            // Civil Engineers / Consultants
+            { name: "Transwestern (Jack Chapman)", category: "consultant", hq: "Atlanta, GA", contact: "Jack Chapman (jack.chapman@transwestern.com)", rep: "Logistics land acquisition broker", desc: "Elite global real estate brokerage. Jack Chapman is a key transactional broker connecting logistics land buyers with credit availability." },
+            { name: "Stream Realty Partners", category: "consultant", hq: "Atlanta, GA", contact: "Atlanta Land Advisory Team", rep: "Commercial land acquisitions", desc: "Commercial real estate powerhouse. Advises logistics and commercial developers on site feasibility, including stream credit liabilities." },
+            { name: "Steven Bridges (Civil Advocate)", category: "consultant", hq: "Atlanta, GA", contact: "Steven Bridges (sbridges@bridgesengineering.com)", rep: "USACE permit advocate", desc: "Leading civil engineering advisor who represents private developers before USACE and EPD. High-value referral source." },
+            { name: "Kimley-Horn and Associates", category: "consultant", hq: "Atlanta & Alpharetta", contact: "Southeast Land Development Director", rep: "Southeast primary developer advisor", desc: "The premier land development engineering firm. Recommends mitigation credit sources to almost every major developer in the region." },
+            { name: "Eberly & Associates", category: "consultant", hq: "Atlanta, GA", contact: "Civil Engineering Principal", rep: "Industrial warehouse site layouts", desc: "Prominent civil design consultants who design major industrial and commercial layouts in Georgia Piedmont soils." },
+            { name: "Pond & Company", category: "consultant", hq: "Peachtree Corners, GA", contact: "Infrastructure VP", rep: "GDOT design / Defense bases", desc: "Leading design firm executing GDOT road designs, defense installations, and utility infrastructure requiring environmental offsets." },
+            { name: "Gresham Smith", category: "consultant", hq: "Alpharetta, GA", contact: "Environmental Water Partner", rep: "Municipal stormwater structures", desc: "Regional transportation, water resource, and industrial architecture engineering firm." },
+            { name: "Dewberry", category: "consultant", hq: "Atlanta, GA", contact: "Water Resources Lead", rep: "Watershed mapping studies", desc: "National engineering consulting firm heavily involved in federal, state, and municipal watershed mapping and utility design." },
+            { name: "McKim & Creed", category: "consultant", hq: "Alpharetta, GA", contact: "Utility Survey Principal", rep: "Linear corridor surveying", desc: "Specialists in survey, civil engineering, and utility modeling with extensive linear environmental permitting expertise." },
+            { name: "Broyhill & Associates", category: "consultant", hq: "Blue Ridge, GA", contact: "Mountain Commercial Land Broker", rep: "Fannin & Gilmer tract development", desc: "Leading mountain land broker. Connects mountain tract developers and estate buyers with local permitting and buffer mitigation resources." }
+        ];
+
+        const sites = [
+            { id: 1, name: "Toccoa River Watershed", basin: "Coosa Basin (HUC 03150102)", type: "PRM / Private Trophy Showrooms", desc: "Designated coldwater trout stream. Suffers from heavy Fannin County cabin development buffer clearing and unpaved logging road sand siltation. High opportunities for bioengineered root-wad bend protections and high-end private fee-for-service habitats." },
+            { id: 2, name: "Noontootla Creek Basin", basin: "Coosa Basin (HUC 03150102)", type: "Cedar Log Step-Pool Reaches", desc: "Legendary wild trout stream with extreme sand loading from Forest Service Road 58. Perfect watershed to build sediment traps and cedar drop step-pools to scour deep plunge pools (replicating the Goldmine Hollow model) on private estates." },
+            { id: 3, name: "Soque River Basin", basin: "Chattahoochee Basin (HUC 03130001)", type: "Pasture Meander Banks", desc: "Nationally famous trophy trout river with massive cattle pasture bank widening and solar warming. High demand for Rosgen Class C4 pasture meander reconstructions (Priority 1) funded by private fly fishing syndicates and landowners." },
+            { id: 4, name: "Cartecay River Watershed", basin: "Coosa Basin (HUC 03150102)", type: "Root Wad Bioengineering Reaches", desc: "Designated trout waters with high recreational padding. Severe cabin development peak stormwater flows are causing massive lateral clay bank collapse. Sells bioengineered root-wads to protect property boundaries." },
+            { id: 5, name: "Ellijay River Watershed", basin: "Coosa Basin (HUC 03150102)", type: "Priority 1 Valley Restorations", desc: "Agricultural valleys with extensive accessible floodplains. Prime opportunities to execute Priority 1 meander reconnections, building a completely new stable stream on the floodplain and generating maximum 8.6 SOP credit factors." },
+            { id: 6, name: "Fightingtown Creek", basin: "Coosa Basin (HUC 03150102)", type: "Boulder Vane High-Gradient Reaches", desc: "High-gradient designated wild trout stream experiencing bank undercutting and canopy clearing from residential cabins. Perfect for boulder J-hook vanes to redirect central flow and plantation of Eastern Hemlocks." },
+            { id: 7, name: "Nacoochee Valley / Chattahoochee", basin: "Chattahoochee Basin (HUC 03130001)", type: "Valley Silt flushing structures", desc: "Chattahoochee river headwaters suffering from massive historical agricultural sand and clay deposits. Narrowing widths via double log vanes accelerates central currents to flush sand and expose spawning gravels." },
+            { id: 8, name: "Cooper Creek Basin", basin: "Coosa Basin (HUC 03150102)", type: "Large Woody Debris (LWD) Reaches", desc: "Designated wild trout stream parallel to unpaved USFS roads. High opportunities to install organic Large Woody Debris (LWD) configurations to restore instream pool scour and cover." },
+            { id: 9, name: "Upper Chestatee River", basin: "Chattahoochee Basin (HUC 03130001)", type: "PRM Land Developer Reaches", desc: "Mountain streams impacted by historic Lumpkin County gold mining residuals and rapid Dahlonega development. Excellent target reaches for site-specific developer PRM offsets." },
+            { id: 10, name: "Tallulah River Tributaries", basin: "Savannah Basin (HUC 03060102)", type: "High-Gradient Step-Pool Cascades", desc: "High-gradient headwater brook trout streams. Severe siltation from steep dirt trails. Constructing natural boulder cascades traps sediment and generates premium Savannah River Basin stream credits." }
+        ];
+
+        const interns = [
+            {
+                school: "University of Georgia (UGA)",
+                title: "Stream Ecology & Biological Monitoring Intern",
+                profile: "Junior/Senior or Graduate student in Ecology, Ichthyology, Forestry, or Environmental Science from Odum School / Warnell.",
+                responsibilities: [
+                    "Conduct macroinvertebrate sampling (identify Mayfly, Stonefly, Caddisfly EPT indices).",
+                    "Monitor water parameters (thermal temperature logs, DO, sediment loading).",
+                    "Plan and manage 100ft native canopy buffer vegetative survival plots.",
+                    "Compile CWA 404 monitoring reports for USACE Savannah District 7-year releases."
+                ],
+                questions: [
+                    "<strong>Q1</strong>: 'Explain the relationship between the EPT macroinvertebrate index and fine siltation sediment loading.'<br><em>Answer key</em>: Silt fills cobble interstitial spaces, smothering habitat and wiping out larval EPT insects.",
+                    "<strong>Q2</strong>: 'How would you design a biological vegetative plot to verify a 100ft native buffer reaches 80% survival?'<br><em>Answer key</em>: Frame 10m x 10m quadrant transects, catalog live woody stems, exclude invasives, calculate percent survival.",
+                    "<strong>Q3</strong>: 'What are the primary thermal stress limits for wild brook trout, and what happens biologically at 68°F?'<br><em>Answer key</em>: Undergoes extreme respiratory stress, DO drops, metabolic rate spikes, leading to rapid mortality if sustained."
+                ]
+            },
+            {
+                school: "Georgia Institute of Technology",
+                title: "Fluvial Geomorphology & Hydrologic Engineering Intern",
+                profile: "Junior/Senior or Grad student in Civil or Environmental Engineering. Autocad, GIS, and fluid hydraulics expertise.",
+                responsibilities: [
+                    "Process field geomorphic surveys (cross-sections, profiles, pebble counts) into Rosgen Classifications.",
+                    "Build 1D/2D HEC-RAS hydraulic models to simulate shear stress under bankfull storms.",
+                    "Design CAD structures for geomorphic log vanes, boulder J-hooks, and step-pools.",
+                    "Analyze HUC watershed basins and RIBITS credit availability using ArcGIS Pro."
+                ],
+                questions: [
+                    "<strong>Q1</strong>: 'Explain how J-hook rock vanes and double log cross-vanes manipulate shear stress along an eroding channel bend.'<br><em>Answer key</em>: Direct central hydraulics toward the middle of the channel, creating a cushion along the outer bank and scouring a central pool.",
+                    "<strong>Q2</strong>: 'How do you utilize HEC-RAS to demonstrate that instream geomorphic changes cause 'no-rise' in floodways?'<br><em>Answer key</em>: Run pre- and post-restoration channel models under steady 100-year storm models, verifying zero water elevation rise.",
+                    "<strong>Q3</strong>: 'If a pebble count shows a D50 of 2mm (sand) but the reference reach shows 32mm (gravel), what is the geomorphic diagnosis?'<br><em>Answer key</em>: Severe channel aggradation and siltation; width-to-depth ratio is too wide to transport sand, requiring channel narrowing."
+                ]
+            },
+            {
+                school: "Clemson University",
+                title: "Land Trust, Real Estate & Mitigation Finance Intern",
+                profile: "Junior/Senior or Graduate student in Finance, Environmental Economics, or Forest Resource Management.",
+                responsibilities: [
+                    "Model NPV discounted cash flows for 30-to-100 acre mitigation land acquisitions.",
+                    "Audit RIBITS registries to evaluate basin-level credit supply/demand and pricing.",
+                    "Liaise with local Land Trusts and lawyers to draft Restrictive Deed Covenants.",
+                    "Manage credit escrow accounts, sales lead spreadsheets, and corporate contracts."
+                ],
+                questions: [
+                    "<strong>Q1</strong>: 'How would you evaluate basin credit supply and demand using the RIBITS database before buying land?'<br><em>Answer key</em>: Search targeted HUC, sum active competitor ledgers, check pending permits, and verify if $180/credit unit prices justify the bid.",
+                    "<strong>Q2</strong>: 'Mitigation banks release credits over 7 years (15%, 15%, etc.). How do you model this in Excel?'<br><em>Answer key</em>: Model a DCF sheet where cash inflows are mapped directly to credit releases, factoring in annual maintenance, discounted at the cost of capital.",
+                    "<strong>Q3</strong>: 'What is a conservation easement, and why is it legally required for both banks and PRM sites?'<br><em>Answer key</em>: A restrictive covenant recorded in county land deeds that permanently restricts development on the restored corridor, protecting ecological lift."
+                ]
+            }
+        ];
+
+        // Global State & UI Navigation
+        function switchTab(event, tabId) {
+            // Update Navigation Menu items
+            const navItems = document.querySelectorAll('.nav-item');
+            navItems.forEach(item => item.classList.remove('active'));
+            event.currentTarget.classList.add('active');
+
+            // Update Tab Panels
+            const panels = document.querySelectorAll('.tab-panel');
+            panels.forEach(panel => panel.classList.remove('active'));
+            
+            const activePanel = document.getElementById(tabId);
+            activePanel.classList.add('active');
+
+            // Update page header titles
+            const titleEl = document.getElementById('page-title');
+            const subtitleEl = document.getElementById('page-subtitle');
+            
+            if (tabId === 'tab-dashboard') {
+                titleEl.textContent = "Dashboard & Checklists";
+                subtitleEl.textContent = "Blue Ridge Stream Restoration Command Center";
+            } else if (tabId === 'tab-calc') {
+                titleEl.textContent = "SOP Permitting Calculator";
+                subtitleEl.textContent = "Real-Time Stream Mitigation Credit & Debit Modeling";
+            } else if (tabId === 'tab-crm') {
+                titleEl.textContent = "B2B Credit Buyers CRM";
+                subtitleEl.textContent = "Active target pipeline for Savannah District stream credits";
+            } else if (tabId === 'tab-competitors') {
+                titleEl.textContent = "Competitor SWOT Matrix";
+                subtitleEl.textContent = "Competitive positioning & Hunter's geomorphic trout differentiator";
+            } else if (tabId === 'tab-sites') {
+                titleEl.textContent = "Trout Watersheds Database";
+                subtitleEl.textContent = "Sourcing high-priority geomorphic stream restoration reaches";
+            } else if (tabId === 'tab-recruiting') {
+                titleEl.textContent = "Intern Recruiting Center";
+                subtitleEl.textContent = "Specialized university postings & candidate interview guides";
+            }
+        }
+
+        // Checklist State Persistence (localStorage)
+        function updateChecklist() {
+            let checkedCount = 0;
+            for (let i = 1; i <= 10; i++) {
+                const chk = document.getElementById(`chk-${i}`);
+                localStorage.setItem(`chk-${i}`, chk.checked);
+                if (chk.checked) checkedCount++;
+            }
+            
+            // Calculate Argentina Funding Target
+            const totalCredits = 12900;
+            const price = 180;
+            
+            // Phase 3 first credit sale unlocks initial 15% (1,935 credits) = $348,300.
+            // Let's tie the funding bar progress directly to checklist progress (checks 8 and 9 unlock funding!)
+            let fundingVal = 0;
+            const chk8 = document.getElementById('chk-8').checked;
+            const chk9 = document.getElementById('chk-9').checked;
+            const chk10 = document.getElementById('chk-10').checked;
+            
+            if (chk10) {
+                fundingVal = 15000;
+            } else if (chk9) {
+                fundingVal = 12000;
+            } else if (chk8) {
+                fundingVal = 5000;
+            } else {
+                fundingVal = checkedCount * 500; // soft progress
+            }
+
+            const pct = Math.min(100, (fundingVal / 15000) * 100);
+            
+            document.getElementById('funding-bar').style.width = `${pct}%`;
+            document.getElementById('funding-amount').textContent = `$${fundingVal.toLocaleString()} / $15,000`;
+            
+            const descEl = document.getElementById('funding-desc');
+            if (fundingVal >= 15000) {
+                descEl.textContent = "🎉 100% FUNDED! Hunter & Hadi Irvani are heading to Patagonia, Argentina to catch giant wild Brown Trout!";
+                descEl.style.color = "#E6F4F1";
+            } else if (fundingVal >= 5000) {
+                descEl.textContent = "🟩 Initial stream credit release secured! Escrow is active. Booking Patagonia flights soon.";
+            } else {
+                descEl.textContent = `${checkedCount} of 10 tasks completed. Complete Phase 3 credit releases to fund your Patagonia fly fishing trip!`;
+            }
+        }
+
+        function loadChecklist() {
+            for (let i = 1; i <= 10; i++) {
+                const val = localStorage.getItem(`chk-${i}`);
+                if (val === 'true') {
+                    document.getElementById(`chk-${i}`).checked = true;
+                }
+            }
+            updateChecklist();
+        }
+
+        // SOP Permitting Calculators
+        let activeCalc = 'credit';
+        
+        function switchCalcTab(type) {
+            activeCalc = type;
+            const btnCredit = document.getElementById('btn-calc-credit');
+            const btnDebit = document.getElementById('btn-calc-debit');
+            const panelCredit = document.getElementById('panel-calc-credit');
+            const panelDebit = document.getElementById('panel-calc-debit');
+            const resultsCredit = document.getElementById('results-credit');
+            const resultsDebit = document.getElementById('results-debit');
+
+            if (type === 'credit') {
+                btnCredit.classList.add('active');
+                btnDebit.classList.remove('active');
+                panelCredit.style.display = 'block';
+                panelDebit.style.display = 'none';
+                resultsCredit.style.display = 'block';
+                resultsDebit.style.display = 'none';
+                calculateCredits();
+            } else {
+                btnCredit.classList.remove('active');
+                btnDebit.classList.add('active');
+                panelCredit.style.display = 'none';
+                panelDebit.style.display = 'block';
+                resultsCredit.style.display = 'none';
+                resultsDebit.style.display = 'block';
+                calculateDebits();
+            }
+        }
+
+        function calculateCredits() {
+            const length = parseFloat(document.getElementById('cred-length').value) || 0;
+            const priority = parseFloat(document.getElementById('cred-priority').value) || 0;
+            const buffer = parseFloat(document.getElementById('cred-buffer').value) || 0;
+            const monitoring = parseFloat(document.getElementById('cred-monitoring').value) || 0;
+            const watershed = parseFloat(document.getElementById('cred-watershed').value) || 0;
+            const price = parseFloat(document.getElementById('cred-price').value) || 0;
+
+            const factor = priority + buffer + monitoring + watershed;
+            const credits = length * factor;
+            const value = credits * price;
+            const release = credits * 0.15;
+            const releaseVal = release * price;
+
+            document.getElementById('res-cred-factor').textContent = factor.toFixed(2);
+            document.getElementById('res-cred-generated').textContent = Math.round(credits).toLocaleString();
+            document.getElementById('res-cred-value').textContent = `$${Math.round(value).toLocaleString()}`;
+            document.getElementById('res-cred-release').textContent = `${Math.round(release).toLocaleString()} Credits ($${Math.round(releaseVal).toLocaleString()} Value)`;
+        }
+
+        function calculateDebits() {
+            const length = parseFloat(document.getElementById('deb-length').value) || 0;
+            const type = parseFloat(document.getElementById('deb-type').value) || 0;
+            const impact = parseFloat(document.getElementById('deb-impact').value) || 0;
+            const duration = parseFloat(document.getElementById('deb-duration').value) || 0;
+            const priority = parseFloat(document.getElementById('deb-priority').value) || 0;
+            const price = parseFloat(document.getElementById('deb-price').value) || 0;
+
+            const factor = type + impact + duration + priority;
+            const debits = length * factor;
+            const cost = debits * price;
+
+            document.getElementById('res-deb-factor').textContent = factor.toFixed(2);
+            document.getElementById('res-deb-required').textContent = Math.round(debits).toLocaleString();
+            document.getElementById('res-deb-cost').textContent = `$${Math.round(cost).toLocaleString()}`;
+        }
+
+        // B2B CRM Filter and Search
+        function populateCRM() {
+            const tbody = document.getElementById('crm-tbody');
+            tbody.innerHTML = '';
+            
+            buyers.forEach((b, index) => {
+                const tr = document.createElement('tr');
+                tr.setAttribute('data-category', b.category);
+                tr.className = 'crm-row';
+                
+                let catLabel = '';
+                if (b.category === 'industrial') catLabel = 'Industrial & Logistics';
+                else if (b.category === 'mixed-use') catLabel = 'Mixed-Use Retail';
+                else if (b.category === 'residential') catLabel = 'Subdivision Builder';
+                else if (b.category === 'infrastructure') catLabel = 'Utility / Public Works';
+                else if (b.category === 'consultant') catLabel = 'Civil Engineering / Broker';
+
+                tr.innerHTML = `
+                    <td><strong>${b.name}</strong></td>
+                    <td><span class="badge-cat ${b.category}">${catLabel}</span></td>
+                    <td>${b.hq}</td>
+                    <td><span style="font-size: 0.85rem; color: var(--body-grey);">${b.rep}</span></td>
+                    <td><button class="btn-action" onclick="openCRMModal(${index})">Access B2B Pitch</button></td>
+                `;
+                tbody.appendChild(tr);
+            });
+            document.getElementById('crm-count').textContent = buyers.length;
+        }
+
+        function filterCRM() {
+            const query = document.getElementById('crm-search').value.toLowerCase();
+            const cat = document.getElementById('crm-filter-cat').value;
+            const rows = document.querySelectorAll('.crm-row');
+            let visibleCount = 0;
+
+            rows.forEach(row => {
+                const name = row.cells[0].textContent.toLowerCase();
+                const hq = row.cells[2].textContent.toLowerCase();
+                const rep = row.cells[3].textContent.toLowerCase();
+                const category = row.getAttribute('data-category');
+                
+                const matchesSearch = name.includes(query) || hq.includes(query) || rep.includes(query);
+                const matchesCat = cat === 'all' || category === cat;
+
+                if (matchesSearch && matchesCat) {
+                    row.style.display = '';
+                    visibleCount++;
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+            document.getElementById('crm-count').textContent = visibleCount;
+        }
+
+        // Modal triggers
+        function openCRMModal(index) {
+            const b = buyers[index];
+            const modal = document.getElementById('details-modal');
+            const title = document.getElementById('modal-title');
+            const body = document.getElementById('modal-body-content');
+
+            title.textContent = `${b.name} | B2B Operations profile`;
+            
+            let catName = b.category.charAt(0).toUpperCase() + b.category.slice(1);
+            if (b.category === 'mixed-use') catName = "Mixed-Use Retail";
+
+            let copyScript = `Subject: Stream Mitigation Credit Allocation | Pending permit fast-track
+
+Dear ${b.name.split(' ')[0]},
+
+I hope this message finds you well. 
+
+I am writing to let you know that Blue Ridge Stream Restoration & Mitigation LLC has a premium inventory of USACE Savannah District-approved stream mitigation credits available for allocation in the Coosa/Upper Chattahoochee River Basins. 
+
+Knowing your active footprint behind ${b.rep}, our pre-verified credits can immediately accelerate your Clean Water Act Section 404 permit or state EPD buffer variance schedules. 
+
+We operate under corporate governance led by myself and my Co-Founder & Board Member, Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA), ensuring transaction scale and contract security.
+
+Would you have 10 minutes for a brief call this Thursday at 10:00 AM to discuss credit allocation?
+
+Best regards,
+
+Hunter
+Founder & Managing Director
+Blue Ridge Stream Restoration & Mitigation LLC
+hunter@blueridgestream.com | (555) 123-4567`;
+
+            body.innerHTML = `
+                <div class="modal-section">
+                    <h5>Corporate Headquarters</h5>
+                    <p>${b.hq}</p>
+                </div>
+                <div class="modal-section">
+                    <h5>Key Contact & Referral Advocate</h5>
+                    <p><strong>${b.contact}</strong></p>
+                </div>
+                <div class="modal-section">
+                    <h5>Target Development Track</h5>
+                    <p>${b.rep} - ${b.desc}</p>
+                </div>
+                <div class="modal-section">
+                    <h5>Copy-and-Paste B2B Sales Pitch</h5>
+                    <div class="code-box" id="modal-email-code">${copyScript.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</div>
+                    <button class="btn-copy" onclick="copyModalCode()">Copy Template</button>
+                </div>
+            `;
+            modal.classList.add('active');
+        }
+
+        function copyModalCode() {
+            const codeEl = document.getElementById('modal-email-code');
+            const text = codeEl.textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                alert("B2B Outreach Email Template copied to clipboard!");
+            });
+        }
+
+        function closeModal() {
+            document.getElementById('details-modal').classList.remove('active');
+        }
+
+        // Populate Competitors SWOT
+        function populateCompetitors() {
+            const grid = document.getElementById('competitor-grid-el');
+            grid.innerHTML = '';
+            
+            competitors.forEach(c => {
+                const card = document.createElement('div');
+                card.className = 'comp-card';
+                card.innerHTML = `
+                    <div class="comp-card-hdr">
+                        <div class="comp-name">
+                            <h3>${c.name}</h3>
+                            <a href="${c.website}" target="_blank">Visit Website</a>
+                            ${c.linkedin !== 'N/A' ? `<a href="${c.linkedin}" target="_blank">LinkedIn</a>` : ''}
+                        </div>
+                        <span class="comp-employees">${c.employees} Employees</span>
+                    </div>
+                    <div class="comp-card-body">
+                        <div class="swot-row strength">
+                            <strong>Major Strengths</strong>
+                            <p>${c.strengths}</p>
+                        </div>
+                        <div class="swot-row weakness">
+                            <strong>Key Weaknesses</strong>
+                            <p>${c.weaknesses}</p>
+                        </div>
+                        <div class="swot-row counterplay">
+                            <strong>Hunter's Strategic Counter-Play</strong>
+                            <p>${c.counterplay}</p>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // Populate Sites Database
+        function populateSites() {
+            const list = document.getElementById('sites-list-el');
+            list.innerHTML = '';
+            
+            sites.forEach(s => {
+                const card = document.createElement('div');
+                card.className = 'site-card';
+                card.innerHTML = `
+                    <div class="site-badge">📍</div>
+                    <div class="site-info">
+                        <div class="site-meta">
+                            <span>Basin: <strong>${s.basin}</strong></span>
+                            <span>Target: <strong>${s.type}</strong></span>
+                        </div>
+                        <h3>${s.name}</h3>
+                        <p class="site-desc">${s.desc}</p>
+                    </div>
+                `;
+                list.appendChild(card);
+            });
+        }
+
+        // Populate Intern Recruiting Center
+        function populateRecruiting() {
+            const grid = document.getElementById('intern-grid-el');
+            grid.innerHTML = '';
+            
+            interns.forEach((i, index) => {
+                const card = document.createElement('div');
+                card.className = 'intern-card';
+                
+                let repLi = i.responsibilities.map(r => `<li>${r}</li>`).join('');
+                
+                card.innerHTML = `
+                    <div class="intern-card-hdr">
+                        <span class="intern-school">${i.school}</span>
+                        <h3>${i.title}</h3>
+                    </div>
+                    <div class="intern-profile">
+                        <strong>Candidate Target Profile</strong>
+                        <p>${i.profile}</p>
+                    </div>
+                    <div class="intern-section">
+                        <h4>Core Internship Responsibilities</h4>
+                        <ul>${repLi}</ul>
+                    </div>
+                    <button class="btn-questions" onclick="openInternModal(${index})">Access Interview Screening Guide</button>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        function openInternModal(index) {
+            const i = interns[index];
+            const modal = document.getElementById('details-modal');
+            const title = document.getElementById('modal-title');
+            const body = document.getElementById('modal-body-content');
+
+            title.textContent = `${i.school} | Recruiting screening guide`;
+            
+            let questionsHtml = i.questions.map(q => `
+                <div style="background-color: var(--light-bg); border-left: 4px solid var(--accent); padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+                    <p style="font-size: 0.9rem; color: var(--charcoal); margin-bottom: 6px;">${q}</p>
+                </div>
+            `).join('');
+
+            body.innerHTML = `
+                <div class="modal-section">
+                    <h5 style="color: var(--accent); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px;">Recruiting Channel</h5>
+                    <p><strong>${i.school} - ${i.title}</strong></p>
+                </div>
+                <div class="modal-section">
+                    <h5 style="margin-bottom: 12px;">Top 3 Screening Interview Questions & Evaluation Metrics</h5>
+                    ${questionsHtml}
+                </div>
+            `;
+            modal.classList.add('active');
+        }
+
+        // Initialize Portal
+        window.onload = function() {
+            loadChecklist();
+            calculateCredits();
+            populateCRM();
+            populateCompetitors();
+            populateSites();
+            populateRecruiting();
+        };
+    </script>
+</body>
+</html>
