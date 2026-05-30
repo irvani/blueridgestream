@@ -2009,7 +2009,19 @@
             { num: "24", name: "Georgia Agricultural & Land Development Bankers Directory", cat: "Database", desc: "Outreach database profiling 50 regional agricultural and CRE development bankers to source JV landowners and developers." },
             { num: "25", name: "Georgia Environmental & Conservation Lawyers Directory", cat: "Database", desc: "Outreach database profiling 50 environmental, water rights, and zoning attorneys to source blocked permit leads." },
             { num: "26", name: "USACE Field Audit & Coastal Oyster Coalition Partnership", cat: "Strategy", desc: "Strategic regulatory field tour itineraries, federal gift ethics rules, and coastal Sapelo Island living shoreline co-marketing and SEO link-backs plan." },
-            { num: "27", name: "Stream Mitigation Economics & Landowner Deal Structuring Guide", cat: "Business Plan", desc: "Comparative pricing and deal structure matrix analyzing PE-backed flat-rate royalties vs Blue Ridge's landowner-favorable 70/30 split JV model." }
+            { num: "27", name: "Stream Mitigation Economics & Landowner Deal Structuring Guide", cat: "Business Plan", desc: "Comparative pricing and deal structure matrix analyzing PE-backed flat-rate royalties vs Blue Ridge's landowner-favorable 70/30 split JV model." },
+            { num: "28", name: "UGA Workstream: Stream Field Sampling Protocols", cat: "Internship", desc: "UGA intern field protocol guide covering EPA Rapid Bioassessment kick-nets, substrate pebble counts, and physical habitat assessments." },
+            { num: "29", name: "UGA Workstream: Water Quality & Thermal Regime Monitoring", cat: "Internship", desc: "UGA intern continuous HOBO logger deployment, Dissolved Oxygen (DO) tracking, and canopy shade attenuation heat calculations." },
+            { num: "30", name: "UGA Workstream: Riparian Buffer Vegetative Surveys", cat: "Internship", desc: "UGA intern vegetative plot design, native species height/stem counts, invasive privet/ivy exclusion, and survival metrics." },
+            { num: "31", name: "UGA Workstream: USACE Savannah District 7-Year Release Schedule", cat: "Internship", desc: "UGA intern regulatory release milestones, benthic EPT index water quality formulas, and annual report submission checklist." },
+            { num: "32", name: "GT Workstream: Rosgen Stream Classification Processing", cat: "Internship", desc: "Georgia Tech intern geomorphic survey data processing, Entrenchment Ratio, Width-to-Depth Ratio, Sinuosity, and D50 substrate calculations." },
+            { num: "33", name: "GT Workstream: 1D & 2D HEC-RAS Hydraulic Modeling", cat: "Internship", desc: "Georgia Tech intern HEC-RAS geometry setup, Manning's roughness calibration, boundary flow rates, and floodway no-rise compliance audits." },
+            { num: "34", name: "GT Workstream: AutoCAD Civil 3D NCD Structural Designs", cat: "Internship", desc: "Georgia Tech intern AutoCAD modeling sheets for rock J-hooks, double log cross-vanes, cedar toe-wood, step-pools, and log gravity anchors." },
+            { num: "35", name: "GT Workstream: USACE Nationwide Permit 27 & EPD Variances", cat: "Internship", desc: "Georgia Tech intern compliance filing pipelines, NWP 27 Pre-Construction Notification (PCN), GSWCC soil erosion control, and EPD trout buffer variances." },
+            { num: "36", name: "Clemson Workstream: RIBITS Database & Direct Sales Pipeline", cat: "Internship", desc: "Clemson intern RIBITS database audit, tracking competitor ledgers, estimating basin supply-demand gaps, and B2B data center prospecting." },
+            { num: "37", name: "Clemson Workstream: Financial NPV & Payout Underwriting", cat: "Internship", desc: "Clemson intern DCF modeling for phased credit releases, NPV/IRR formulas, and 70/30 Joint-Venture proceeds division case studies." },
+            { num: "38", name: "Clemson Workstream: Conservation Easements & Title Subordinations", cat: "Internship", desc: "Clemson intern Land Trust coordination, permanent restrictive covenants, mortgage subordination agreements, and stewardship trust models." },
+            { num: "39", name: "Clemson Workstream: Enterprise Systems & Accounting Audit", cat: "Internship", desc: "Clemson intern systems architecture covering AWS backups, GitHub Pages CI/CD, QuickBooks Online chart of accounts, and self-hosted Odoo/Corteza CRM." }
         ];
 
         // Global State & UI Navigation
@@ -2480,9 +2492,21 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 } else if (d.num === "10") {
                     folder = "07_Marketing_&_Social_Content";
                     exactBase = "10_LinkedIn_Ready_to_Post_Content";
-                } else if (d.num === "14") {
+                } else if (d.num === "14" || (parseInt(d.num) >= 28 && parseInt(d.num) <= 39)) {
                     folder = "08_Recruiting_&_Internships";
-                    exactBase = "14_Regional_Internship_Postings_&_Recruiting";
+                    if (d.num === "14") exactBase = "14_Regional_Internship_Postings_&_Recruiting";
+                    else if (d.num === "28") exactBase = "28_UGA_Workstream_Page_1_Stream_Field_Sampling_Protocols";
+                    else if (d.num === "29") exactBase = "29_UGA_Workstream_Page_2_Water_Quality_&_Thermal_Regime_Monitoring";
+                    else if (d.num === "30") exactBase = "30_UGA_Workstream_Page_3_Riparian_Buffer_Vegetative_Survey_&_Canopy_Planning";
+                    else if (d.num === "31") exactBase = "31_UGA_Workstream_Page_4_USACE_Savannah_District_7_Year_Monitoring_&_Release_Schedule";
+                    else if (d.num === "32") exactBase = "32_GT_Workstream_Page_1_Rosgen_Stream_Classification_&_Field_Survey_Processing";
+                    else if (d.num === "33") exactBase = "33_GT_Workstream_Page_2_1D_&_2D_HEC_RAS_Hydraulic_Modeling";
+                    else if (d.num === "34") exactBase = "34_GT_Workstream_Page_3_AutoCAD_Civil_3D_Bioengineering_Structures_Design";
+                    else if (d.num === "35") exactBase = "35_GT_Workstream_Page_4_USACE_Nationwide_Permit_27_&_EPD_Buffer_Variance_Compliance";
+                    else if (d.num === "36") exactBase = "36_Clemson_Workstream_Page_1_RIBITS_Database_Audit_&_Market_Sourcing_Pipeline";
+                    else if (d.num === "37") exactBase = "37_Clemson_Workstream_Page_2_Conservation_Finance_NPV_Underwriting_&_Phased_Credit_Releases";
+                    else if (d.num === "38") exactBase = "38_Clemson_Workstream_Page_3_Conservation_Easement_Transactions_&_Restrictive_Deed_Covenants";
+                    else if (d.num === "39") exactBase = "39_Clemson_Workstream_Page_4_Open_Source_Business_Systems_Integration_&_Accounting_Systems_Audit";
                 } else if (d.num === "15") {
                     folder = "09_Operations_&_Technical_Playbooks";
                     exactBase = "15_Free_Domain_&_Web_Hosting_Playbook";
