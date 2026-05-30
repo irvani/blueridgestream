@@ -1442,7 +1442,7 @@
             <div class="folder-select-header" style="margin-top: 15px; margin-bottom: 25px;">
                 <h4 style="font-size: 1.3rem; color: var(--primary); letter-spacing: -0.3px;">📁 Enterprise Directory & Strategic Tiers</h4>
                 <p style="font-size: 0.88rem; color: var(--body-grey); margin-top: 6px; line-height: 1.5;">
-                    Filter all 55 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
+                    Filter all 56 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
                 </p>
             </div>
 
@@ -1564,7 +1564,7 @@
                             <div class="folder-meta">
                                 <span class="folder-num">05_SALES</span>
                                 <h5 class="folder-name">Sales & B2B Playbooks</h5>
-                                <span class="folder-count">2 Files</span>
+                                <span class="folder-count">3 Files</span>
                             </div>
                         </div>
                         <!-- 10 Relationship Banking -->
@@ -2361,7 +2361,8 @@
             { num: "51", name: "Hyper-Scale 90-Day Sprint & 10-Person Team Scaling Playbook", cat: "Strategy", desc: "Action plan outlining a high-velocity 90-day execution roadmap, a structured 10-person recruitment and hiring funnel, and weekly Traction EOS scorecard alignment rhythms." },
             { num: "52", name: "Hyper-Scale Operations & 10-Person Team Execution Blueprint", cat: "Strategy", desc: "Operations manual outlining the lean core FTE + graduate intern model, pre-sales SITING escrow deposits, heavy grading subcontractor QA checklists, and weekly EOS alignment scorecard metrics." },
             { num: "53", name: "Landowner Cinematic Video Scripts & Aspirational Storytelling", cat: "Marketing", desc: "Storyboard templates and highly detailed narrative video scripts detailing geomorphic Natural Channel Design (NCD) vs corporate clear-cutting rip-rap approaches, highlighting Hunter's angler-builder differentiator." },
-            { num: "54", name: "The Triple-Bank Branding Masterclass & Competitor Search Positioning Playbook", cat: "Marketing", desc: "Strategy guide exploring the Triple-Bank geomorphic, regulatory, and wealth framework, benchmarking Corblu Georgia operations, and providing source code blueprints for responsive site tools." }
+            { num: "54", name: "The Triple-Bank Branding Masterclass & Competitor Search Positioning Playbook", cat: "Marketing", desc: "Strategy guide exploring the Triple-Bank geomorphic, regulatory, and wealth framework, benchmarking Corblu Georgia operations, and providing source code blueprints for responsive site tools." },
+            { num: "55", name: "Hermes AI SDR Outbound Integration Framework", cat: "Sales Playbook", desc: "Integration framework detailing a self-hosted Hermes AI SDR bot on a Linux VPS, with Instantly/Smartlead sending APIs, Slack verification webhooks, and Corteza CRM syncing." }
         ];
 
         // Global State & UI Navigation
@@ -2792,7 +2793,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 return "03";
             } else if (d.num === "04" || d.num === "09" || d.num === "11" || d.num === "12" || d.num === "22") {
                 return "04";
-            } else if (d.num === "05" || d.num === "13") {
+            } else if (d.num === "05" || d.num === "13" || d.num === "55") {
                 return "05";
             } else if (d.num === "16" || d.num === "18" || d.num === "23") {
                 return "06";
@@ -2920,10 +2921,11 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     else if (d.num === "11") exactBase = "11_B2B_Credit_Buyers_Registry";
                     else if (d.num === "12") exactBase = "12_Georgia_Trout_Restoration_Site_Database";
                     else exactBase = "22_Georgia_Hyperscale_Data_Center_Direct_Sales_Directory";
-                } else if (d.num === "05" || d.num === "13") {
+                } else if (d.num === "05" || d.num === "13" || d.num === "55") {
                     folder = "05_Sales_&_Outreach_Playbooks";
                     if (d.num === "05") exactBase = "05_Sales_Playbook_&_B2B_Outreach";
-                    else exactBase = "13_Sales_Outreach_Templates_&_Scripts";
+                    else if (d.num === "13") exactBase = "13_Sales_Outreach_Templates_&_Scripts";
+                    else exactBase = "55_Hermes_AI_SDR_Outbound_Integration_Framework";
                 } else if (d.num === "16" || d.num === "18" || d.num === "23") {
                     folder = "06_Legal_&_Cooperative_Agreements";
                     if (d.num === "16") exactBase = "16_Roya_Cabin_Anderson_Creek_Mitigation_Agreement";
