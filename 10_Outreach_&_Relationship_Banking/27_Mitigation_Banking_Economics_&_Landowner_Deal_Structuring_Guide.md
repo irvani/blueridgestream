@@ -90,10 +90,6 @@ Let's model the exact economics of **Roya's Cabin at Anderson Creek** (File 03 f
   - *Comparison*: Standard timberland in Fannin County is valued at only ~4,000 USD per acre. By partnering with Hunter, the landowner generates **over 7 times the land's raw value** while retaining full ownership of the surrounding high-end acreage!
 - **Aesthetic Equity**: A pristine, custom-restored private coldwater trout brook with mature Rhododendron shading, driving up the retail cabin rental/estate valuation by an estimated 150,000 to 200,000 USD.
 
-## V. Sourcing Pitch: How Hunter Out-Negotiates Corporate Competitors
-
-When sitting at the landowner's kitchen table, Hunter Morris should utilize the following copy-and-paste verbal talk-track to close the deal:
-
 ```pitch
 "Mr./Ms. Landowner, I know you have received offers from corporate environmental firms backed by venture capital out of Texas and Baltimore. They want to buy your land outright for a couple of thousand dollars an acre, meaning you lose the family land forever, or they want to pay you a flat, cheap fee of $15 per credit, pocketing all the massive upside when they resell those credits to high-tech data centers in Atlanta.
 
