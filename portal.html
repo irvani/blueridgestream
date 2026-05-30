@@ -947,6 +947,7 @@
             <div class="nav-item" onclick="switchTab(event, 'tab-recruiting')">🎓 Intern Recruiting Center</div>
             <div class="nav-item" onclick="switchTab(event, 'tab-docs')">📁 B2B Document Repository</div>
             <div class="nav-item" onclick="switchTab(event, 'tab-signer')">📝 Digital Contract Signer</div>
+            <div class="nav-item" onclick="switchTab(event, 'tab-media')">🎬 Media & Infographics</div>
         </nav>
 
         <div class="sidebar-footer">
@@ -1425,6 +1426,318 @@
             </div>
         </section>
 
+        <!-- TAB: MEDIA & INTERACTIVE INFOGRAPHICS -->
+        <section id="tab-media" class="tab-panel">
+            <div class="card" style="margin-bottom: 30px; background-color: var(--white);">
+                <h3 style="color: var(--primary); margin-bottom: 12px;">🎬 Fluvial Bioengineering Visualizations & Drone creek Simulation</h3>
+                <p style="font-size: 0.95rem; color: var(--body-grey); line-height: 1.5;">
+                    Explore the scientific, financial, and regulatory frameworks of Blue Ridge Stream Restoration & Mitigation LLC through interactive media. Review our three detailed, isometric-style graphics below, and experience our real-time <strong>HTML5 Drone Creek Survey Simulator</strong> to witness how geomorphic bank restoration and Rhododendron maximum transplanting recover coldwater trout populations.
+                </p>
+            </div>
+
+            <!-- Grid for Three Detailed Isometric Infographics -->
+            <div class="grid-3" style="margin-bottom: 40px; gap: 30px;">
+                
+                <!-- Graphic 1: Internal Operations (Fluvial Engineering) -->
+                <div class="card" style="background-color: var(--white); display: flex; flex-direction: column; justify-content: space-between; border: 1px solid var(--border-color); padding: 24px; min-height: 480px;">
+                    <div>
+                        <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent); letter-spacing: 0.5px;">Remediation & Trout Restoration</span>
+                        <h4 style="margin-top: 4px; margin-bottom: 12px; color: var(--primary); font-size: 1.15rem;">Internal Operations Schematic</h4>
+                        <p style="font-size: 0.82rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 15px;">
+                            Visualizes Rosgen Natural Channel Design geomorphic adjustments. Restores the historical high-gradient riffle-pool sequence and utilizes root-anchored vegetation to bind the stream bank.
+                        </p>
+                    </div>
+                    
+                    <!-- Beautiful CSS/SVG Isometric Diagram -->
+                    <div style="background-color: var(--light-bg); border-radius: 8px; border: 1px solid var(--border-color); padding: 15px; display: flex; justify-content: center; align-items: center; height: 220px; overflow: hidden; position: relative;">
+                        <svg viewBox="0 0 400 300" width="100%" height="100%" style="overflow: visible;">
+                            <!-- Grid Isometric Lines -->
+                            <path d="M 50 150 L 200 75 L 350 150 L 200 225 Z" fill="#e8eff5" stroke="#cbd7e3" stroke-width="1.5" />
+                            <path d="M 50 180 L 200 255 L 350 180 M 200 225 L 200 255" fill="none" stroke="#cbd7e3" stroke-width="1" stroke-dasharray="2 2" />
+                            
+                            <!-- Regraded Bank Slope -->
+                            <path d="M 90 130 Q 150 110 200 130 T 310 130 L 310 165 Q 260 165 200 145 T 90 165 Z" fill="url(#slope-grad)" stroke="#1e3d59" stroke-width="1" />
+                            
+                            <!-- Stream Watercourse -->
+                            <path d="M 90 160 Q 150 140 200 160 T 310 160 L 310 185 Q 260 185 200 165 T 90 185 Z" fill="#bce3f2" opacity="0.8" stroke="#1f4e79" stroke-width="1.5" />
+                            
+                            <!-- Riffle-Pool indicator -->
+                            <ellipse cx="140" cy="165" rx="20" ry="10" fill="#a4d7f0" opacity="0.6" />
+                            <ellipse cx="260" cy="170" rx="25" ry="12" fill="#1f4e79" opacity="0.4" />
+                            
+                            <!-- Rhododendron Root Binding Schematic -->
+                            <g transform="translate(180, 85)">
+                                <!-- Bush canopy -->
+                                <circle cx="20" cy="10" r="18" fill="#1b4d3e" stroke="#103024" stroke-width="1" />
+                                <circle cx="35" cy="18" r="15" fill="#1b4d3e" stroke="#103024" stroke-width="1" />
+                                <circle cx="10" cy="20" r="14" fill="#2d6a4f" stroke="#103024" stroke-width="1" />
+                                <!-- Stem -->
+                                <path d="M 25 25 L 25 45" stroke="#5a3d28" stroke-width="3" />
+                                <path d="M 25 45 L 10 55 M 25 45 L 35 55" stroke="#5a3d28" stroke-width="2" />
+                                <!-- Fibrous Root-Ball binding lines -->
+                                <path d="M 25 45 C 5 50, 0 65, -5 85 M 25 45 C 15 55, 10 75, 15 90 M 25 45 C 35 55, 40 70, 45 88 M 25 45 C 45 50, 55 65, 60 82" fill="none" stroke="#aa7a44" stroke-width="1.5" stroke-linecap="round" opacity="0.9" />
+                                <!-- Soil matrix highlights -->
+                                <line x1="-15" y1="75" x2="65" y2="75" stroke="#1e3d59" stroke-width="1.5" stroke-dasharray="3 3" />
+                            </g>
+                            
+                            <!-- Labels -->
+                            <text x="200" y="275" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#1e3d59" text-anchor="middle">Fluvial NCD Bioengineering &amp; Root Anchoring</text>
+                            <text x="290" y="100" font-family="system-ui, sans-serif" font-size="9.5" font-weight="600" fill="#1b4d3e" text-anchor="start">Rhododendron Canopy</text>
+                            <text x="320" y="205" font-family="system-ui, sans-serif" font-size="9" fill="#aa7a44" text-anchor="end">Root Shear Strength Reinforcement</text>
+                            
+                            <defs>
+                                <linearGradient id="slope-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+                                    <stop offset="0%" stop-color="#b8a183" />
+                                    <stop offset="100%" stop-color="#937554" />
+                                </linearGradient>
+                            </defs>
+                        </svg>
+                        
+                        <div style="position: absolute; bottom: 8px; right: 8px;" class="badge-cat consultant">Rosgen Level II</div>
+                    </div>
+                    
+                    <div style="margin-top: 15px;">
+                        <span style="font-size: 0.78rem; display: block; color: var(--charcoal); font-weight: 600; margin-bottom: 4px;">Key Mechanisms:</span>
+                        <ul style="margin: 0; padding-left: 16px; font-size: 0.78rem; color: var(--body-grey); line-height: 1.4;">
+                            <li>Fibrous Rhododendron maximum root-balls reinforce lateral soil shear.</li>
+                            <li>Evergreen thermal canopy intercepts solar radiation, suppressing peak heat.</li>
+                            <li>Instream geomorphic log cross-vanes scour deep coldwater trout resting pools.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Graphic 2: Landowner Economics (JV Credit-Split Flowchart) -->
+                <div class="card" style="background-color: var(--white); display: flex; flex-direction: column; justify-content: space-between; border: 1px solid var(--border-color); padding: 24px; min-height: 480px;">
+                    <div>
+                        <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent); letter-spacing: 0.5px;">Commercial JV Structure</span>
+                        <h4 style="margin-top: 4px; margin-bottom: 12px; color: var(--primary); font-size: 1.15rem;">Landowner JV Economics Infographic</h4>
+                        <p style="font-size: 0.82rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 15px;">
+                            Maps the 70/30 Joint Venture split for Roya's Cabin (Anderson Creek). Illustrates developer CapEx coverage, landowner credit returns, and long-term financial streams.
+                        </p>
+                    </div>
+                    
+                    <div style="background-color: var(--light-bg); border-radius: 8px; border: 1px solid var(--border-color); padding: 15px; display: flex; justify-content: center; align-items: center; height: 220px; overflow: hidden; position: relative;">
+                        <svg viewBox="0 0 400 300" width="100%" height="100%">
+                            <!-- Flow Boxes -->
+                            <!-- Landowner Block -->
+                            <rect x="25" y="30" width="140" height="50" rx="6" fill="#1e3d59" stroke="#122536" stroke-width="1.5" />
+                            <text x="95" y="52" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" fill="#ffffff" text-anchor="middle">Landowner (Roya)</text>
+                            <text x="95" y="68" font-family="system-ui, sans-serif" font-size="8.5" fill="#a4d7f0" text-anchor="middle">Provides Stream Buffer Corridor</text>
+                            
+                            <!-- Developer Block -->
+                            <rect x="235" y="30" width="140" height="50" rx="6" fill="#17b978" stroke="#0e7048" stroke-width="1.5" />
+                            <text x="305" y="52" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700" fill="#ffffff" text-anchor="middle">Developer (Hunter's LLC)</text>
+                            <text x="305" y="68" font-family="system-ui, sans-serif" font-size="8.5" fill="#e3f9f0" text-anchor="middle">100% CapEx, Permits &amp; Risk</text>
+                            
+                            <!-- Center Pool (Mitigation Bank) -->
+                            <rect x="110" y="115" width="180" height="60" rx="8" fill="#ffffff" stroke="#cbd7e3" stroke-width="2" />
+                            <text x="200" y="137" font-family="system-ui, sans-serif" font-size="11" font-weight="800" fill="#1e3d59" text-anchor="middle">Roya's Cabin Creek Restoration</text>
+                            <text x="200" y="152" font-family="system-ui, sans-serif" font-size="9" fill="#17b978" font-weight="700" text-anchor="middle">12,900 Stream Credits Generated</text>
+                            <text x="200" y="165" font-family="system-ui, sans-serif" font-size="8.5" fill="#333333" text-anchor="middle">Gross Proceeds: $2.32 Million</text>
+                            
+                            <!-- Flow arrows -->
+                            <!-- Landowner to Pool -->
+                            <path d="M 95 80 L 95 125 L 110 125" fill="none" stroke="#1e3d59" stroke-width="2" marker-end="url(#arrow)" />
+                            <!-- Developer to Pool -->
+                            <path d="M 305 80 L 305 125 L 290 125" fill="none" stroke="#17b978" stroke-width="2" marker-end="url(#arrow)" />
+                            
+                            <!-- Splits out of Pool -->
+                            <!-- 30% split arrow -->
+                            <path d="M 130 175 L 130 220 L 75 220 L 75 240" fill="none" stroke="#1e3d59" stroke-width="2" stroke-dasharray="2 2" marker-end="url(#arrow)" />
+                            <rect x="30" y="240" width="90" height="35" rx="4" fill="#e8eff5" stroke="#1e3d59" stroke-width="1.5" />
+                            <text x="75" y="253" font-family="system-ui, sans-serif" font-size="10" font-weight="700" fill="#1e3d59" text-anchor="middle">30% Landowner</text>
+                            <text x="75" y="267" font-family="system-ui, sans-serif" font-size="9" font-weight="700" fill="#1e3d59" text-anchor="middle">$696,600 Cash</text>
+                            
+                            <!-- 70% split arrow -->
+                            <path d="M 270 175 L 270 220 L 325 220 L 325 240" fill="none" stroke="#17b978" stroke-width="2" stroke-dasharray="2 2" marker-end="url(#arrow)" />
+                            <rect x="280" y="240" width="90" height="35" rx="4" fill="#e3f9f0" stroke="#17b978" stroke-width="1.5" />
+                            <text x="325" y="253" font-family="system-ui, sans-serif" font-size="10" font-weight="700" fill="#0e7048" text-anchor="middle">70% Developer</text>
+                            <text x="325" y="267" font-family="system-ui, sans-serif" font-size="8.5" fill="#0e7048" text-anchor="middle">CapEx Recoup + Profit</text>
+                            
+                            <defs>
+                                <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                                    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1e3d59" />
+                                </marker>
+                            </defs>
+                        </svg>
+                        <div style="position: absolute; bottom: 8px; right: 8px;" class="badge-cat industrial">70/30 Net Split</div>
+                    </div>
+                    
+                    <div style="margin-top: 15px;">
+                        <span style="font-size: 0.78rem; display: block; color: var(--charcoal); font-weight: 600; margin-bottom: 4px;">JV Financial Terms:</span>
+                        <ul style="margin: 0; padding-left: 16px; font-size: 0.78rem; color: var(--body-grey); line-height: 1.4;">
+                            <li>Landowner bears zero monetary liability or upfront engineering cash outlays.</li>
+                            <li>Developer fully funds the $220k USACE Performance Bond &amp; $90k LTM Trust.</li>
+                            <li>Credit payouts are automatically executed directly from secure B2B closing escrows.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Graphic 3: B2B Direct Sales Pipeline (Data Center Compliance Offsets) -->
+                <div class="card" style="background-color: var(--white); display: flex; flex-direction: column; justify-content: space-between; border: 1px solid var(--border-color); padding: 24px; min-height: 480px;">
+                    <div>
+                        <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent); letter-spacing: 0.5px;">B2B Buyer Compliance Pipeline</span>
+                        <h4 style="margin-top: 4px; margin-bottom: 12px; color: var(--primary); font-size: 1.15rem;">CWA Compliance Offsets Diagram</h4>
+                        <p style="font-size: 0.82rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 15px;">
+                            Illustrates the Clean Water Act compliance workflow linking Georgia’s hyperscale data center grading impacts directly with Hunter Morris’s PRM restoration sites.
+                        </p>
+                    </div>
+                    
+                    <div style="background-color: var(--light-bg); border-radius: 8px; border: 1px solid var(--border-color); padding: 15px; display: flex; justify-content: center; align-items: center; height: 220px; overflow: hidden; position: relative;">
+                        <svg viewBox="0 0 400 300" width="100%" height="100%">
+                            <!-- Data Center Grading Impact -->
+                            <rect x="20" y="40" width="95" height="45" rx="4" fill="#a4d7f0" stroke="#1f4e79" stroke-width="1.5" />
+                            <text x="67" y="60" font-family="system-ui, sans-serif" font-size="9" font-weight="700" fill="#1f4e79" text-anchor="middle">Hyperscale Site</text>
+                            <text x="67" y="73" font-family="system-ui, sans-serif" font-size="8" fill="#333333" text-anchor="middle">Grading &amp; Stream Impact</text>
+                            
+                            <!-- CWA Section 404 Mandate -->
+                            <rect x="145" y="40" width="110" height="45" rx="4" fill="#ffefa0" stroke="#cc9a06" stroke-width="1.5" />
+                            <text x="200" y="58" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#8c6b00" text-anchor="middle">Clean Water Act</text>
+                            <text x="200" y="71" font-family="system-ui, sans-serif" font-size="8.5" font-weight="700" fill="#8c6b00" text-anchor="middle">Section 404 Offset</text>
+                            
+                            <!-- Direct PRM Credit Offset -->
+                            <rect x="285" y="40" width="95" height="45" rx="4" fill="#e3f9f0" stroke="#17b978" stroke-width="1.5" />
+                            <text x="332" y="60" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#0e7048" text-anchor="middle">Direct PRM Offset</text>
+                            <text x="332" y="73" font-family="system-ui, sans-serif" font-size="8" fill="#0e7048" text-anchor="middle">Same HUC Watershed</text>
+                            
+                            <!-- Flow arrows -->
+                            <path d="M 115 62 L 140 62" fill="none" stroke="#1f4e79" stroke-width="1.5" marker-end="url(#arrow)" />
+                            <path d="M 255 62 L 280 62" fill="none" stroke="#17b978" stroke-width="1.5" marker-end="url(#arrow)" />
+                            
+                            <!-- Downward Action -->
+                            <path d="M 332 85 L 332 120" fill="none" stroke="#17b978" stroke-width="1.5" marker-end="url(#arrow)" />
+                            
+                            <!-- Restoration Project Execution -->
+                            <rect x="130" y="125" width="230" height="65" rx="6" fill="#1e3d59" stroke="#122536" stroke-width="1.5" />
+                            <text x="245" y="145" font-family="system-ui, sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">Blue Ridge Bioengineered PRM Project</text>
+                            <text x="245" y="160" font-family="system-ui, sans-serif" font-size="8.5" fill="#a4d7f0" text-anchor="middle">* Direct capital advances resolve developer liquidity gap</text>
+                            <text x="245" y="174" font-family="system-ui, sans-serif" font-size="8.5" fill="#a4d7f0" text-anchor="middle">* Rapid Permitting bypassing mitigation banks</text>
+                            
+                            <!-- Upward feedback loop -->
+                            <path d="M 130 157 L 67 157 L 67 90" fill="none" stroke="#17b978" stroke-width="1.5" stroke-dasharray="2 2" marker-end="url(#arrow)" />
+                            <rect x="15" y="170" width="105" height="35" rx="4" fill="#ffffff" stroke="#17b978" stroke-width="1" />
+                            <text x="67" y="183" font-family="system-ui, sans-serif" font-size="8.5" font-weight="700" fill="#0e7048" text-anchor="middle">USACE Permit Issued</text>
+                            <text x="67" y="196" font-family="system-ui, sans-serif" font-size="7.5" fill="#666666" text-anchor="middle">Data Center Starts Construction</text>
+                        </svg>
+                        <div style="position: absolute; bottom: 8px; right: 8px;" class="badge-cat mixed-use">CWA § 404 Offset</div>
+                    </div>
+                    
+                    <div style="margin-top: 15px;">
+                        <span style="font-size: 0.78rem; display: block; color: var(--charcoal); font-weight: 600; margin-bottom: 4px;">Data Center B2B Benefits:</span>
+                        <ul style="margin: 0; padding-left: 16px; font-size: 0.78rem; color: var(--body-grey); line-height: 1.4;">
+                            <li>Bypasses mitigation bank registry queues, accelerating campus grading timelines.</li>
+                            <li>Direct watershed-matching prevents off-basin regulatory credit multiplier penalties.</li>
+                            <li>Fulfills corporate ESG directives by restoring native wild trout coldwater habitats locally.</li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Interactive HTML5 Canvas Drone Creek Restoration Simulator -->
+            <div class="card" style="background-color: var(--white); border: 1px solid var(--border-color); padding: 30px; margin-bottom: 40px;">
+                <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--border-color); padding-bottom: 15px; margin-bottom: 25px;">
+                    <div>
+                        <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent); letter-spacing: 0.5px;">Live Interactive Simulation (Zero-Cost API Demo)</span>
+                        <h3 style="color: var(--primary); font-size: 1.35rem; margin-top: 4px;">🚁 Real-Time Drone Creek Restoration &amp; Thermal Scan</h3>
+                    </div>
+                    <div style="display: flex; gap: 10px;">
+                        <button id="sim-btn-before" class="btn-action" style="padding: 8px 16px; font-size: 0.85rem; font-weight: 700; background: var(--body-grey);" onclick="toggleSimState('before')">BEFORE Restorations</button>
+                        <button id="sim-btn-after" class="btn-action" style="padding: 8px 16px; font-size: 0.85rem; font-weight: 700; background: var(--accent);" onclick="toggleSimState('after')">AFTER Restorations</button>
+                    </div>
+                </div>
+
+                <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 30px; align-items: start;">
+                    
+                    <!-- Canvas Viewport -->
+                    <div style="position: relative; background-color: #0b132b; border-radius: 12px; border: 2px solid #1c2541; overflow: hidden; box-shadow: inset 0 0 20px rgba(0,0,0,0.8);">
+                        <canvas id="drone-canvas" style="width: 100%; height: 420px; display: block;"></canvas>
+                        
+                        <!-- Drone HUD overlay -->
+                        <div style="position: absolute; top: 15px; left: 15px; background: rgba(11, 19, 43, 0.85); color: #48cae4; border: 1px solid #1c2541; border-radius: 8px; padding: 12px 18px; font-family: monospace; font-size: 0.82rem; pointer-events: none; min-width: 180px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+                            <div style="border-bottom: 1px solid rgba(72, 202, 228, 0.4); padding-bottom: 6px; margin-bottom: 8px; font-weight: 700; color: #ffffff;">🚁 DRONE_HUD_V1.9</div>
+                            <div>SYS_STATUS: <span id="hud-status" style="color: #17b978; font-weight: bold;">STANDBY</span></div>
+                            <div>ALTITUDE  : <span id="hud-alt">50</span> ft</div>
+                            <div>AIR_SPEED : <span id="hud-speed">1.2</span> kts</div>
+                            <div>WIND_SPD  : <span style="color: #ffd166;">3.4 mph</span></div>
+                            <div>HDG_ANG   : <span style="color: #ffd166;">042&deg; NE</span></div>
+                            <div>GPS_LOC   : <span style="color: #ffffff;">34.782N, 84.195W</span></div>
+                        </div>
+
+                        <!-- Real-time HUD gauges on bottom-right -->
+                        <div style="position: absolute; bottom: 15px; right: 15px; background: rgba(11, 19, 43, 0.85); color: #e2eafc; border: 1px solid #1c2541; border-radius: 8px; padding: 12px 18px; font-family: monospace; font-size: 0.82rem; pointer-events: none; min-width: 220px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); display: flex; flex-direction: column; gap: 4px;">
+                            <div style="border-bottom: 1px solid rgba(226, 234, 252, 0.4); padding-bottom: 4px; margin-bottom: 6px; font-weight: 700; color: #ffffff; text-transform: uppercase;">Telemetry Gauges</div>
+                            <div style="display: flex; justify-content: space-between;"><span>STREAM TEMP:</span> <span id="gauge-temp" style="font-weight: 700; color: #ffd166;">73.8&deg;F</span></div>
+                            <div style="display: flex; justify-content: space-between;"><span>EROSION RATING:</span> <span id="gauge-erosion" style="font-weight: 700; color: #ffd166;">SEVERE (0.88)</span></div>
+                            <div style="display: flex; justify-content: space-between;"><span>TROUT COUNTS:</span> <span id="gauge-trout" style="font-weight: 700; color: #ffd166;">0 SPOTS</span></div>
+                            <div style="display: flex; justify-content: space-between;"><span>SHEAR STRESS:</span> <span id="gauge-shear" style="font-weight: 700; color: #ffd166;">1.84 lb/ft&sup2;</span></div>
+                            <div style="display: flex; justify-content: space-between;"><span>SAFETY FACTOR:</span> <span id="gauge-sf" style="font-weight: 700; color: #ffd166;">SF 0.45</span></div>
+                        </div>
+                        
+                        <!-- Spawning overlays indicator -->
+                        <div id="thermal-scan-active-indicator" style="position: absolute; top: 15px; right: 15px; background: rgba(230, 57, 70, 0.9); color: #ffffff; padding: 6px 12px; border-radius: 6px; font-family: monospace; font-size: 0.78rem; font-weight: bold; animation: pulse 1.5s infinite; display: none;">
+                            🔥 THERMAL MATRIX IMAGING ACTIVE
+                        </div>
+                    </div>
+
+                    <!-- Simulator Controls panel -->
+                    <div class="card" style="background-color: var(--white); border: 1px solid var(--border-color); padding: 24px;">
+                        <h4 style="color: var(--primary); font-size: 1.1rem; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 0.5px; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">Drone Simulator Settings</h4>
+                        
+                        <!-- Slider: Altitude -->
+                        <div style="margin-bottom: 20px;">
+                            <div style="display: flex; justify-content: space-between; font-size: 0.85rem; color: var(--charcoal); margin-bottom: 6px; font-weight: 600;">
+                                <span>Drone Survey Altitude</span>
+                                <span id="val-alt">50 ft</span>
+                            </div>
+                            <input type="range" id="slider-alt" min="20" max="100" value="50" style="width: 100%; cursor: pointer;" oninput="updateSimAltitude(this.value)">
+                            <span style="font-size: 0.72rem; color: var(--body-grey);">Alters flight elevation grid rendering resolution and field-of-view.</span>
+                        </div>
+
+                        <!-- Slider: Speed -->
+                        <div style="margin-bottom: 20px;">
+                            <div style="display: flex; justify-content: space-between; font-size: 0.85rem; color: var(--charcoal); margin-bottom: 6px; font-weight: 600;">
+                                <span>Flight Cruise Speed</span>
+                                <span id="val-speed">1.2 kts</span>
+                            </div>
+                            <input type="range" id="slider-speed" min="0" max="5" step="0.2" value="1.2" style="width: 100%; cursor: pointer;" oninput="updateSimSpeed(this.value)">
+                            <span style="font-size: 0.72rem; color: var(--body-grey);">Adjusts drone animation velocity and geomorphic scan frequency.</span>
+                        </div>
+
+                        <!-- Toggles -->
+                        <div style="display: flex; flex-direction: column; gap: 14px; margin-top: 25px; border-top: 1px solid var(--border-color); padding-top: 20px;">
+                            <div style="display: flex; justify-content: space-between; align-items: center;">
+                                <div>
+                                    <span style="display: block; font-size: 0.85rem; font-weight: 600; color: var(--charcoal);">Thermal Scanner Overlay</span>
+                                    <span style="font-size: 0.72rem; color: var(--body-grey);">Reveal bank solar thermal zones and creek heat map.</span>
+                                </div>
+                                <label class="switch-container" style="position: relative; display: inline-block; width: 44px; height: 24px;">
+                                    <input type="checkbox" id="toggle-thermal" style="opacity: 0; width: 0; height: 0;" onchange="toggleSimOverlay('thermal')">
+                                    <span class="slider-round" style="position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; transition: .4s; border-radius: 34px;"></span>
+                                </label>
+                            </div>
+
+                            <div style="display: flex; justify-content: space-between; align-items: center;">
+                                <div>
+                                    <span style="display: block; font-size: 0.85rem; font-weight: 600; color: var(--charcoal);">Trout Spawning Hotspots</span>
+                                    <span style="font-size: 0.72rem; color: var(--body-grey);">Highlight sorted clean gravel spawning riffle structures.</span>
+                                </div>
+                                <label class="switch-container" style="position: relative; display: inline-block; width: 44px; height: 24px;">
+                                    <input type="checkbox" id="toggle-spawning" style="opacity: 0; width: 0; height: 0;" onchange="toggleSimOverlay('spawning')">
+                                    <span class="slider-round" style="position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; transition: .4s; border-radius: 34px;"></span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- Reset & Direct action buttons -->
+                        <div style="margin-top: 30px;">
+                            <button class="btn-action" style="width: 100%; padding: 12px; font-weight: bold; background: var(--primary); text-align: center;" onclick="resetSimFlight()">🚁 Reset Flight Coordinates</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
     </main>
 
     <!-- B2B Details Modal -->
@@ -1689,7 +2002,10 @@
             { num: "17", name: "Government & Regulatory Agency Outreach Plan", cat: "Regulatory", desc: "USACE Savannah District and Georgia DNR EPD contact directories, email templates, and site audit protocols." },
             { num: "18", name: "Open-Source eSignature Integration Playbook", cat: "Contract", desc: "Guide to deploying self-hosted Docuseal/OpenSign alternative platforms and managing legal compliance under GA UETA." },
             { num: "19", name: "Georgia Regulatory Licensing & Permits Guide", cat: "Regulatory", desc: "Detailed analysis of Clean Water Act Section 404, Georgia EPD state stream buffer variances, GSWCC IA/IB/II cards, and competitor territorial gaps." },
-            { num: "20", name: "Strategic Board of Advisors Recruiting Plan", cat: "Strategy", desc: "Detailed profiles and onboarding pitch decks for 5 critical advisory board roles across regulatory, academic, legal, B2B sales, and heavy civil construction." }
+            { num: "20", name: "Strategic Board of Advisors Recruiting Plan", cat: "Strategy", desc: "Detailed profiles and onboarding pitch decks for 5 critical advisory board roles across regulatory, academic, legal, B2B sales, and heavy civil construction." },
+            { num: "21", name: "High-Gradient Fluvial Bioengineering Manual", cat: "Technical", desc: "Hunter Morris's mature Rhododendron maximum creek-side transplanting, bank-binding geomechanics, and thermal cooling trout habitat spawning mechanics." },
+            { num: "22", name: "Georgia Hyperscale Data Center Direct Sales Directory", cat: "Database", desc: "Mitigation sales playbook profiling 15 active Georgia data center campuses with HUC watershed details and direct PRM offsets." },
+            { num: "23", name: "Remediation and Risk Mitigation Bylaws", cat: "Legal", desc: "Corporate resolutions resolving liquidity gap, forward hedging, 7-year monitoring, flood shear stress tests, and mortgage subordinations." }
         ];
 
         // Global State & UI Navigation
@@ -1738,6 +2054,12 @@
                 setTimeout(() => {
                     setupSignaturePad('sign-landowner');
                     setupSignaturePad('sign-developer');
+                }, 100);
+            } else if (tabId === 'tab-media') {
+                titleEl.textContent = "Media & Interactive Infographics";
+                subtitleEl.textContent = "Fluvial Bioengineering Visualizations & Real-Time Drone Creek Simulation";
+                setTimeout(() => {
+                    initDroneSimulator();
                 }, 100);
             }
         }
@@ -2123,31 +2445,34 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     if (d.num === "00") exactBase = "00_START_HERE_Hunter_Action_Guide";
                     else if (d.num === "01") exactBase = "01_Executive_Summary_&_Business_Plan";
                     else exactBase = "20_Strategic_Board_of_Advisors_Recruiting_Plan";
-                } else if (d.num === "02" || d.num === "06" || d.num === "17" || d.num === "19") {
+                } else if (d.num === "02" || d.num === "06" || d.num === "17" || d.num === "19" || d.num === "21") {
                     folder = "02_Regulatory_&_USACE_Frameworks";
                     if (d.num === "02") exactBase = "02_USACE_Mitigation_Banking_Framework";
                     else if (d.num === "06") exactBase = "06_USACE_Regulatory_&_Mathematical_Framework";
                     else if (d.num === "17") exactBase = "17_Government_&_Regulatory_Outreach_Plan";
-                    else exactBase = "19_Georgia_Regulatory_Licensing_&_Permits_Guide";
+                    else if (d.num === "19") exactBase = "19_Georgia_Regulatory_Licensing_&_Permits_Guide";
+                    else exactBase = "21_High_Gradient_Fluvial_Bioengineering_Manual";
                 } else if (d.num === "03" || d.num === "07" || d.num === "08") {
                     folder = "03_Project_Case_Studies";
                     if (d.num === "03") exactBase = "03_ACR_Anderson_Creek_Case_Study";
                     else if (d.num === "07") exactBase = "07_Goldmine_Hollow_Case_Study";
                     else exactBase = "08_Project_Execution_&_Reference_Case";
-                } else if (d.num === "04" || d.num === "09" || d.num === "11" || d.num === "12") {
+                } else if (d.num === "04" || d.num === "09" || d.num === "11" || d.num === "12" || d.num === "22") {
                     folder = "04_Market_&_Competitor_Intelligence";
                     if (d.num === "04") exactBase = "04_Competitor_Analysis_Matrix";
                     else if (d.num === "09") exactBase = "09_Savannah_District_Approved_Banks_Database";
                     else if (d.num === "11") exactBase = "11_B2B_Credit_Buyers_Registry";
-                    else exactBase = "12_Georgia_Trout_Restoration_Site_Database";
+                    else if (d.num === "12") exactBase = "12_Georgia_Trout_Restoration_Site_Database";
+                    else exactBase = "22_Georgia_Hyperscale_Data_Center_Direct_Sales_Directory";
                 } else if (d.num === "05" || d.num === "13") {
                     folder = "05_Sales_&_Outreach_Playbooks";
                     if (d.num === "05") exactBase = "05_Sales_Playbook_&_B2B_Outreach";
                     else exactBase = "13_Sales_Outreach_Templates_&_Scripts";
-                } else if (d.num === "16" || d.num === "18") {
+                } else if (d.num === "16" || d.num === "18" || d.num === "23") {
                     folder = "06_Legal_&_Cooperative_Agreements";
                     if (d.num === "16") exactBase = "16_Roya_Cabin_Anderson_Creek_Mitigation_Agreement";
-                    else exactBase = "18_Open_Source_eSignature_Integration_Playbook";
+                    else if (d.num === "18") exactBase = "18_Open_Source_eSignature_Integration_Playbook";
+                    else exactBase = "23_Remediation_and_Risk_Mitigation_Bylaws";
                 } else if (d.num === "10") {
                     folder = "07_Marketing_&_Social_Content";
                     exactBase = "10_LinkedIn_Ready_to_Post_Content";
@@ -2286,6 +2611,439 @@ hunter@blueridgestream.com | (555) 123-4567`;
             alert("🎉 JOINT VENTURE COOPERATIVE AGREEMENT EXECUTED SUCCESSFULLY!\n\nSignatures legally recorded and timestamped. The contract is now active under Georgia UETA (O.C.G.A. § 10-12-1). The PDF receipt will compile for printing.");
             
             window.print();
+        }
+
+        // HTML5 CANVAS DRONE CREEK SURVEY SIMULATOR (ZERO-COST B2B MEDIA DEMO)
+        let simState = 'after'; // default
+        let simAltitude = 50;
+        let simSpeed = 1.2;
+        let simThermalActive = false;
+        let simSpawningActive = false;
+        let simCanvas = null;
+        let simCtx = null;
+        let simFrameId = null;
+        let droneScanX = 0;
+        let simTime = 0;
+        let troutList = [];
+        let particles = [];
+
+        // Dynamic Trout Spawning & Swimming Models
+        class SimTrout {
+            constructor(x, y, type) {
+                this.x = x;
+                this.y = y;
+                this.type = type; // 'brook', 'rainbow', 'brown'
+                this.size = 12 + Math.random() * 8;
+                this.speedX = -0.5 - Math.random() * 0.8;
+                this.speedY = (Math.random() - 0.5) * 0.3;
+                this.phase = Math.random() * Math.PI * 2;
+                this.color = type === 'brook' ? '#e63946' : (type === 'rainbow' ? '#ff70a6' : '#ee9b00');
+            }
+            update(width, height) {
+                this.x += this.speedX * (simSpeed + 0.2);
+                this.y += this.speedY;
+                
+                // Keep swimming within the pool boundaries (center-right section of canvas)
+                if (this.x < 100) this.x = width - 50;
+                if (this.y < 180 || this.y > 280) this.speedY *= -1;
+                
+                this.phase += 0.1;
+            }
+            draw(ctx) {
+                ctx.save();
+                ctx.translate(this.x, this.y);
+                
+                // Tail wiggle animation
+                const wiggle = Math.sin(this.phase) * 4;
+                
+                // Fish Body
+                ctx.fillStyle = this.color;
+                ctx.beginPath();
+                ctx.ellipse(0, 0, this.size, this.size / 3.5, 0, 0, Math.PI * 2);
+                ctx.fill();
+                
+                // Fish Tail
+                ctx.beginPath();
+                ctx.moveTo(-this.size, 0);
+                ctx.lineTo(-this.size - 6, -wiggle - 5);
+                ctx.lineTo(-this.size - 6, -wiggle + 5);
+                ctx.closePath();
+                ctx.fill();
+                
+                // Lateral Line (Glow effect)
+                ctx.strokeStyle = '#ffffff';
+                ctx.lineWidth = 1;
+                ctx.beginPath();
+                ctx.moveTo(-this.size + 4, 0);
+                ctx.quadraticCurveTo(0, wiggle / 2, this.size - 4, 0);
+                ctx.stroke();
+                
+                // Fin details
+                ctx.fillStyle = 'rgba(255,255,255,0.4)';
+                ctx.beginPath();
+                ctx.moveTo(-2, 2);
+                ctx.lineTo(-6, 8);
+                ctx.lineTo(2, 4);
+                ctx.closePath();
+                ctx.fill();
+                
+                ctx.restore();
+            }
+        }
+
+        // Sediment / Water Flow Particles
+        class FlowParticle {
+            constructor(width, height, isMurky) {
+                this.x = Math.random() * width;
+                this.y = 150 + Math.random() * 130;
+                this.size = isMurky ? 1.5 + Math.random() * 2 : 1 + Math.random() * 1.5;
+                this.speedX = -1.2 - Math.random() * 1.5;
+                this.color = isMurky ? '#8d5b4c' : 'rgba(226, 234, 252, 0.4)';
+            }
+            update(width, height) {
+                this.x += this.speedX * (simSpeed + 0.4);
+                if (this.x < 0) {
+                    this.x = width;
+                    this.y = 150 + Math.random() * 130;
+                }
+            }
+            draw(ctx) {
+                ctx.fillStyle = this.color;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI*2);
+                ctx.fill();
+            }
+        }
+
+        function initDroneSimulator() {
+            simCanvas = document.getElementById('drone-canvas');
+            if (!simCanvas) return;
+            simCtx = simCanvas.getContext('2d');
+            
+            // Adjust to container dimensions
+            const rect = simCanvas.parentElement.getBoundingClientRect();
+            simCanvas.width = rect.width || 800;
+            simCanvas.height = 420;
+
+            // Initialize trout & flow particles
+            troutList = [
+                new SimTrout(600, 210, 'brook'),
+                new SimTrout(500, 240, 'brook'),
+                new SimTrout(420, 220, 'rainbow'),
+                new SimTrout(550, 260, 'brown'),
+                new SimTrout(480, 200, 'brook')
+            ];
+
+            resetFlowParticles();
+            
+            document.getElementById('hud-status').textContent = "SURVEY_ACTIVE";
+            document.getElementById('hud-status').style.color = "#17b978";
+
+            // Cancel any prior animation loop to avoid compounding FPS
+            if (simFrameId) cancelAnimationFrame(simFrameId);
+            runDroneSimulatorLoop();
+        }
+
+        function resetFlowParticles() {
+            particles = [];
+            const count = simState === 'before' ? 80 : 30;
+            const isMurky = simState === 'before';
+            for (let i = 0; i < count; i++) {
+                particles.push(new FlowParticle(simCanvas.width, simCanvas.height, isMurky));
+            }
+        }
+
+        function toggleSimState(state) {
+            simState = state;
+            resetFlowParticles();
+            
+            const btnBefore = document.getElementById('sim-btn-before');
+            const btnAfter = document.getElementById('sim-btn-after');
+            const tempGauge = document.getElementById('gauge-temp');
+            const erosionGauge = document.getElementById('gauge-erosion');
+            const troutGauge = document.getElementById('gauge-trout');
+            const shearGauge = document.getElementById('gauge-shear');
+            const sfGauge = document.getElementById('gauge-sf');
+
+            if (state === 'before') {
+                btnBefore.style.background = 'var(--accent)';
+                btnAfter.style.background = 'var(--body-grey)';
+                
+                // BEFORE Telemetry Spikes (Degraded conditions)
+                tempGauge.textContent = "73.8°F";
+                tempGauge.style.color = "#e63940";
+                erosionGauge.textContent = "SEVERE (0.88)";
+                erosionGauge.style.color = "#e63940";
+                troutGauge.textContent = "0 SPOTS (DEGRADED)";
+                troutGauge.style.color = "#e63940";
+                shearGauge.textContent = "1.84 lb/ft²";
+                shearGauge.style.color = "#e63940";
+                sfGauge.textContent = "SF 0.45 (COLLAPSE)";
+                sfGauge.style.color = "#e63940";
+            } else {
+                btnBefore.style.background = 'var(--body-grey)';
+                btnAfter.style.background = 'var(--accent)';
+                
+                // AFTER Telemetry (Stabilized conditions)
+                tempGauge.textContent = "59.2°F";
+                tempGauge.style.color = "#17b978";
+                erosionGauge.textContent = "STABLE (0.12)";
+                erosionGauge.style.color = "#17b978";
+                troutGauge.textContent = "42 SPOTS (BROOK RECOVERY)";
+                troutGauge.style.color = "#17b978";
+                shearGauge.textContent = "0.42 lb/ft²";
+                shearGauge.style.color = "#17b978";
+                sfGauge.textContent = "SF 1.88 (EXCELLENT)";
+                sfGauge.style.color = "#17b978";
+            }
+        }
+
+        function updateSimAltitude(val) {
+            simAltitude = val;
+            document.getElementById('val-alt').textContent = `${val} ft`;
+            document.getElementById('hud-alt').textContent = val;
+        }
+
+        function updateSimSpeed(val) {
+            simSpeed = parseFloat(val);
+            document.getElementById('val-speed').textContent = `${val} kts`;
+            document.getElementById('hud-speed').textContent = val;
+        }
+
+        function toggleSimOverlay(type) {
+            if (type === 'thermal') {
+                simThermalActive = document.getElementById('toggle-thermal').checked;
+                document.getElementById('thermal-scan-active-indicator').style.display = simThermalActive ? 'block' : 'none';
+            } else if (type === 'spawning') {
+                simSpawningActive = document.getElementById('toggle-spawning').checked;
+            }
+        }
+
+        function resetSimFlight() {
+            droneScanX = 0;
+            alert("🚁 Drone returned to home coordinates. Restarting creek-side telemetry sweeps.");
+        }
+
+        function runDroneSimulatorLoop() {
+            if (!simCtx || !simCanvas) return;
+            
+            const w = simCanvas.width;
+            const h = simCanvas.height;
+            simTime += 0.02;
+
+            // 1. Draw Hydrogeomorphic Base Map
+            if (simState === 'before') {
+                // Eroded clay landscape
+                simCtx.fillStyle = '#6d4c41'; // Clay brown background
+                simCtx.fillRect(0, 0, w, h);
+                
+                // Collapsed bare dry soil banks
+                simCtx.fillStyle = '#8d5c4b';
+                simCtx.beginPath();
+                simCtx.moveTo(0, 100);
+                simCtx.bezierCurveTo(w/3, 80, 2*w/3, 140, w, 110);
+                simCtx.lineTo(w, h);
+                simCtx.lineTo(0, h);
+                ctxFillWithGradient(simCtx, '#8d5c4b', '#5d3c30', 0, 100, 0, h);
+                
+                // Warm mud water channel
+                simCtx.fillStyle = 'rgba(141, 91, 76, 0.75)'; // Murky sediment channel
+                simCtx.beginPath();
+                simCtx.moveTo(0, 160);
+                simCtx.bezierCurveTo(w/3, 140, 2*w/3, 190, w, 160);
+                simCtx.lineTo(w, 290);
+                simCtx.bezierCurveTo(2*w/3, 310, w/3, 260, 0, 290);
+                simCtx.closePath();
+                simCtx.fill();
+                
+                // Draw bank structural cracking lines (erosion hazards)
+                simCtx.strokeStyle = '#3e2723';
+                simCtx.lineWidth = 2.5;
+                simCtx.beginPath();
+                simCtx.moveTo(120, 105);
+                simCtx.lineTo(135, 125);
+                simCtx.lineTo(130, 145);
+                simCtx.moveTo(450, 125);
+                simCtx.lineTo(465, 150);
+                simCtx.lineTo(458, 175);
+                simCtx.stroke();
+                
+                // Bare bank indicators
+                simCtx.fillStyle = 'rgba(230,57,70,0.15)';
+                simCtx.fillRect(150, 60, 220, 50);
+                simCtx.fillStyle = '#ffb3b3';
+                simCtx.font = 'bold 9.5px monospace';
+                simCtx.fillText('⚠️ EROSION BANK SLUMPING ZONE', 160, 90);
+                
+            } else {
+                // Restored pristine ecosystem
+                simCtx.fillStyle = '#2d6a4f'; // Deep lush green background
+                simCtx.fillRect(0, 0, w, h);
+                
+                // Stabilized vegetated banks
+                simCtx.beginPath();
+                simCtx.moveTo(0, 100);
+                simCtx.bezierCurveTo(w/3, 90, 2*w/3, 120, w, 100);
+                simCtx.lineTo(w, h);
+                simCtx.lineTo(0, h);
+                ctxFillWithGradient(simCtx, '#2d6a4f', '#1b4332', 0, 100, 0, h);
+                
+                // Restored cool-water stream channel
+                simCtx.fillStyle = 'rgba(30, 144, 255, 0.7)'; // Pristine blue-green
+                simCtx.beginPath();
+                simCtx.moveTo(0, 160);
+                simCtx.bezierCurveTo(w/3, 140, 2*w/3, 190, w, 160);
+                simCtx.lineTo(w, 290);
+                simCtx.bezierCurveTo(2*w/3, 310, w/3, 260, 0, 290);
+                simCtx.closePath();
+                simCtx.fill();
+                
+                // Draw Geomorphic cross-vanes & log structures (scour pool directors)
+                simCtx.strokeStyle = '#5c4033'; // Wood logs
+                simCtx.lineWidth = 6;
+                simCtx.beginPath();
+                // Vane 1
+                simCtx.moveTo(220, 145);
+                simCtx.lineTo(260, 185);
+                // Vane 2
+                simCtx.moveTo(420, 150);
+                simCtx.lineTo(460, 195);
+                simCtx.stroke();
+                
+                // Riffle gravel indicator
+                simCtx.fillStyle = 'rgba(255,255,255,0.2)';
+                simCtx.beginPath();
+                simCtx.ellipse(150, 175, 40, 15, Math.PI/12, 0, Math.PI*2);
+                simCtx.fill();
+                
+                // Native Rhododendron bush drawings along bank toe
+                drawSimRhododendron(simCtx, 120, 110, 24);
+                drawSimRhododendron(simCtx, 280, 115, 28);
+                drawSimRhododendron(simCtx, 440, 120, 26);
+                drawSimRhododendron(simCtx, 600, 110, 30);
+                
+                // Stable banner
+                simCtx.fillStyle = '#c7f9cc';
+                simCtx.font = 'bold 9.5px monospace';
+                simCtx.fillText('✔️ BIOENGINEERED COIR LIFTS STABLE', 160, 85);
+            }
+
+            // 2. Update and Draw Flow Particles
+            particles.forEach(p => {
+                p.update(w, h);
+                p.draw(simCtx);
+            });
+
+            // 3. Draw Trout (ONLY in AFTER state)
+            if (simState === 'after') {
+                troutList.forEach(t => {
+                    t.update(w, h);
+                    t.draw(simCtx);
+                });
+            }
+
+            // 4. Draw Thermal Scanner Overlay (HSL gradient mapping heat spots)
+            if (simThermalActive) {
+                const thermalGrad = simCtx.createLinearGradient(0, 0, 0, h);
+                if (simState === 'before') {
+                    // Solar heated thermal map
+                    thermalGrad.addColorStop(0, 'rgba(230, 57, 70, 0.45)'); // Extreme heat on bare bank
+                    thermalGrad.addColorStop(0.4, 'rgba(241, 135, 1, 0.4)');
+                    thermalGrad.addColorStop(0.6, 'rgba(255, 209, 102, 0.35)'); // 74F warm water
+                    thermalGrad.addColorStop(1, 'rgba(230, 57, 70, 0.4)');
+                } else {
+                    // Cool canopy shading thermal map
+                    thermalGrad.addColorStop(0, 'rgba(29, 53, 87, 0.5)'); // Shaded cool bank
+                    thermalGrad.addColorStop(0.3, 'rgba(69, 123, 157, 0.35)');
+                    thermalGrad.addColorStop(0.6, 'rgba(168, 218, 220, 0.2)'); // 59F cold water
+                    thermalGrad.addColorStop(1, 'rgba(29, 53, 87, 0.4)');
+                }
+                simCtx.fillStyle = thermalGrad;
+                simCtx.fillRect(0, 0, w, h);
+                
+                // Draw heat thermal reading labels
+                simCtx.fillStyle = '#ffffff';
+                simCtx.font = '10px monospace';
+                if (simState === 'before') {
+                    simCtx.fillText('SCAN_POINT_BARE_SOIL: 84.6°F', 400, 70);
+                    simCtx.fillText('SCAN_POINT_CREEK_CENTER: 73.8°F', 400, 200);
+                } else {
+                    simCtx.fillText('SCAN_POINT_RHODO_SHADE: 56.4°F', 400, 70);
+                    simCtx.fillText('SCAN_POINT_CREEK_CENTER: 59.2°F', 400, 200);
+                }
+            }
+
+            // 5. Highlight Spawning Hotspots
+            if (simSpawningActive && simState === 'after') {
+                // Riffle Spawning highlights (flashing gold rings over gravel)
+                const pulseRadius = 15 + Math.sin(Date.now() / 150) * 5;
+                simCtx.strokeStyle = 'rgba(255, 215, 0, 0.85)';
+                simCtx.lineWidth = 2.5;
+                simCtx.beginPath();
+                simCtx.arc(150, 175, pulseRadius, 0, Math.PI*2);
+                simCtx.stroke();
+                
+                // Hotspot labels
+                simCtx.fillStyle = '#ffd700';
+                simCtx.font = 'bold 9.5px monospace';
+                simCtx.fillText('✨ ACTIVE BROOK TROUT REDD (GRAVEL D50: 25mm)', 110, 150);
+            }
+
+            // 6. Draw Drone Camera Targeting Reticle (follows a sweep path)
+            droneScanX += 1.8 * (simSpeed + 0.5);
+            if (droneScanX > w) droneScanX = 0;
+            
+            const sweepY = 220 + Math.sin(simTime * 2) * 50;
+            
+            simCtx.strokeStyle = '#48cae4';
+            simCtx.lineWidth = 1.5;
+            
+            // Reticle circle
+            simCtx.beginPath();
+            simCtx.arc(droneScanX, sweepY, 30, 0, Math.PI*2);
+            simCtx.stroke();
+            
+            // Reticle crosshair cross
+            simCtx.beginPath();
+            simCtx.moveTo(droneScanX - 40, sweepY); simCtx.lineTo(droneScanX - 10, sweepY);
+            simCtx.moveTo(droneScanX + 10, sweepY); simCtx.lineTo(droneScanX + 40, sweepY);
+            simCtx.moveTo(droneScanX, sweepY - 40); simCtx.lineTo(droneScanX, sweepY - 10);
+            simCtx.moveTo(droneScanX, sweepY + 10); simCtx.lineTo(droneScanX, sweepY + 40);
+            simCtx.stroke();
+            
+            // Sweep trace text
+            simCtx.fillStyle = '#48cae4';
+            simCtx.font = '9px monospace';
+            simCtx.fillText('AUTO_TARGET_SWEEP_ACTIVE', droneScanX - 60, sweepY - 48);
+
+            simFrameId = requestAnimationFrame(runDroneSimulatorLoop);
+        }
+
+        // Helper: Draw Rhododendron canopy bushes
+        function drawSimRhododendron(ctx, x, y, size) {
+            ctx.fillStyle = '#1b4332'; // Dark green leaves
+            ctx.beginPath();
+            ctx.arc(x, y, size, 0, Math.PI*2);
+            ctx.arc(x + size/2, y + size/3, size*0.8, 0, Math.PI*2);
+            ctx.arc(x - size/2, y + size/4, size*0.7, 0, Math.PI*2);
+            ctx.fill();
+            
+            // Stem structure
+            ctx.strokeStyle = '#5a3d28';
+            ctx.lineWidth = 3;
+            ctx.beginPath();
+            ctx.moveTo(x, y + size);
+            ctx.lineTo(x, y + size + 15);
+            ctx.stroke();
+        }
+
+        // Helper: Gradient canvas fills
+        function ctxFillWithGradient(ctx, colorStart, colorEnd, x1, y1, x2, y2) {
+            const grad = ctx.createLinearGradient(x1, y1, x2, y2);
+            grad.addColorStop(0, colorStart);
+            grad.addColorStop(1, colorEnd);
+            ctx.fillStyle = grad;
+            ctx.fill();
         }
 
         // Initialize Portal
