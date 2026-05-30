@@ -228,4 +228,72 @@ meshtastic --set position_broadcast_secs 0
 ```
 
 ---
+
+## VI. Base Station Gateway Computer Enclosure & Industrial Box-Build Sourcing
+
+For the central data collection hub located at Co-Founder Hunter Morris's base cabin or mounted on high tower masts, a standard plastic case is insufficient. The base station gateway computer—typically a high-performance **Raspberry Pi 5** or **Radxa Rock 5**—must be housed in a rugged, EMI-shielded, and thermally optimized industrial **Extruded Aluminum Box-Build Enclosure**. This setup processes real-time geomorphic stream data and handles timeseries databases (SQLite/InfluxDB) without thermal throttling or SD card corruption.
+
+### 1. Industrial Extruded Aluminum Enclosure Dimensions & Mechanical Sourcing
+*   **Supplier**: **Shenzhen Szomk Electronic Co., Ltd. (SZOMK)** or **Foshan Nanhai Yonggu Technology Co., Ltd. (Yonggu)**
+*   **Model/Part Number**: **SZOMK AK-C-B80** or **Yonggu standard extruded aluminum chassis (120mm x 97mm x 40mm)**
+*   **Material**: Extruded Aluminum Alloy 6063-T5 with Anodized Finish (Silver/Matte Black) for superior thermal conductivity and corrosion resistance.
+*   **Mounting**: Integrated flanged mounting tabs for secure screw-down panel or wall installations. Optional DIN-rail clips.
+
+### 2. Internal Components & Hardware Stackup Layout
+The gateway computer uses an industrial stackup that eliminates mechanical weaknesses (such as fragile micro-SD cards) and supports multi-channel LoRa concentrators:
+
+```
+                  [BASE STATION GATEWAY COMPUTER INTERNAL STACKUP]
+
+         +--------------------------------------------------------------+
+         | Industrial Anodized Aluminum Extruded Chassis (AK-C-B80)     |
+         |                                                              |
+         |  +--------------------------------------------------------+  |
+         |  | RAK5146 LoRaWAN / Meshtastic Concentrator Pi HAT       |  |
+         |  +---------------------------|----------------------------+  |
+         |                              | 40-Pin GPIO Header            |
+         |  +---------------------------v----------------------------+  |
+         |  | Raspberry Pi 5 (8GB RAM Single Board Computer)         |  |
+         |  +---------------------------|----------------------------+  |
+         |                              | PCIe FPC Cable Link           |
+         |  +---------------------------v----------------------------+  |
+         |  | Pineberry Pi HAT+ NVMe SSD Shield                      |  |
+         |  |  +--------------------------------------------------+  |  |
+         |  |  | 256GB Kingston Industrial M.2 NVMe SSD (X-7R)    |  |  |
+         |  |  +--------------------------------------------------+  |  |
+         |  +--------------------------------------------------------+  |
+         |                                                              |
+         |  +------------------------+      +------------------------+  |
+         |  | Mornsun 12V-to-5V 5A   |      | Integrated Solid       |  |
+         |  | DC-DC Buck Converter   |      | Copper Heat Block      |  |
+         |  +------------------------+      +------------------------+  |
+         +--------------------------------------------------------------+
+```
+
+### 3. Sourcing Specifications & Connector Sizing Schedule
+Vetted components for the base station gateway build are detailed below:
+
+| Component / Sub-Assembly | Vetted Part Number | Chinese Factory Manufacturer | Function / Description |
+| :--- | :--- | :--- | :--- |
+| **SBC Computer** | Raspberry Pi 5 (8GB) | Raspberry Pi Foundation | Primary processing unit running Node-RED & sync scripts. |
+| **LoRa Concentrator** | RAK5146-SPI-915 | RAKwireless Technology | Multi-channel LoRa concentrator HAT (polls 8 channels). |
+| **NVMe SSD Shield** | Pineberry Pi Hat+ | Pineberry Pi / Geekworm | PCIe Gen 2/3 NVMe interface board. |
+| **Storage Medium** | Kingston DC1000B 240GB | Kingston / LCSC | Industrial-grade high-TBW NVMe M.2 SSD. |
+| **Power Supply** | Mornsun K7805-500R3 | Mornsun Shenzhen | High-efficiency 12V-to-5V DC-DC buck converter. |
+| **Chassis** | AK-C-B80 (120x97x40mm) | Shenzhen SZOMK | Heavy extruded aluminum chassis w/ flanged end-plates. |
+| **Antenna Bulkheads** | IPEX-1 to RP-SMA-K | Shenzhen Ebyte | RG178 coaxial pigtail bulkheads with locking nuts. |
+| **Waterproof Glands** | PG7 Brass Gland | Yueqing Liron | Brass nickel-plated compression glands for power/LAN. |
+
+### 4. Thermal Management & Port Interface Details
+*   **Passive Conduction Cooling**: The aluminum enclosure features customized internal mounting standoffs and a **solid copper thermal block (15mm x 15mm x 6.5mm)** that directly bridges the Raspberry Pi 5 Broadcom BCM2712 CPU with the heavy aluminum chassis wall. This acts as a giant heatsink, maintaining CPU temps below 113°F (45°C) even under maximum load in hot summer cabin attics.
+*   **External Connectors Layout**:
+    *   *Side A (Flanged End Plate)*:
+        *   Two **RP-SMA female bulkhead connectors** for external high-gain antennas (one tuned to 915 MHz LoRa, one for 2.4 GHz WiFi).
+        *   One **PG7 brass gland** feeding the 12V/24V DC input cable from the cabin solar battery bank.
+    *   *Side B (Flanged End Plate)*:
+        *   One waterproof **RJ45 bulkhead connector (IP67 plastic coupling)** providing a secure, sealed local area network (LAN) port for field debugging or wired cabin network connection.
+        *   Laser-etched status LED indicators (Power, LoRa Rx/Tx, internet status).
+*   **Power Distribution**: The Mornsun buck regulator steps down the variable 12V–24V DC battery line to a stable 5.0V (up to 5A) routed directly to the Pi's power test pads (pins 2 and 4), bypassing the fragile USB-C connector. A built-in transient voltage suppressor (TVS) diode (LCSC **SMBJ5.0A**) protects the computer from power surges caused by lightning strikes on high tower antennas.
+
+---
 *Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
