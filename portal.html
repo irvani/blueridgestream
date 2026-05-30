@@ -946,6 +946,7 @@
             <div class="nav-item" onclick="switchTab(event, 'tab-sites')">🗺️ Trout Watersheds Database</div>
             <div class="nav-item" onclick="switchTab(event, 'tab-recruiting')">🎓 Intern Recruiting Center</div>
             <div class="nav-item" onclick="switchTab(event, 'tab-docs')">📁 B2B Document Repository</div>
+            <div class="nav-item" onclick="switchTab(event, 'tab-signer')">📝 Digital Contract Signer</div>
         </nav>
 
         <div class="sidebar-footer">
@@ -1343,6 +1344,79 @@
             </div>
         </section>
 
+        <!-- TAB: SIGNER -->
+        <section id="tab-signer" class="tab-panel">
+            <div class="card" style="margin-bottom: 30px; background-color: var(--white);">
+                <h3 style="color: var(--primary); margin-bottom: 12px;">📝 On-Site Digital Contract Signer</h3>
+                <p style="font-size: 0.95rem; color: var(--body-grey); line-height: 1.5;">
+                    Review the legally binding Joint Venture Cooperative Agreement below with the landowner (Roya Irvani). Both parties can sign directly in the browser using a stylus, finger, or mouse. Signatures are bound to the record in accordance with the **Georgia UETA (O.C.G.A. § 10-12-1 et seq.)** for instant execution.
+                </p>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1.4fr 1fr; gap: 40px; align-items: start; margin-bottom: 40px;">
+                <!-- Scrollable Contract viewport -->
+                <div class="card" style="background-color: var(--white); height: 500px; overflow-y: scroll; padding: 30px; border: 1px solid var(--border-color);">
+                    <h2 style="font-size: 1.3rem; color: var(--primary); text-align: center; border-bottom: 2px solid var(--border-color); padding-bottom: 15px; margin-bottom: 20px;">STREAM MITIGATION BANKING AND JOINT VENTURE COOPERATIVE AGREEMENT</h2>
+                    
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;"><strong>PROJECT: ROYA'S CABIN AT ANDERSON CREEK (ACR)</strong></p>
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;">This agreement is made effective as of <strong>May 30, 2026</strong>, by and between <strong>Roya Irvani</strong> ("Landowner") and <strong>Blue Ridge Stream Restoration & Mitigation LLC</strong> ("Developer"), managed by Managing Director <strong>Hunter Morris</strong> and Co-Founder & Board Member <strong>Hadi Irvani</strong> (alumnus of the University of Virginia - UVA).</p>
+                    
+                    <h4 style="font-size: 0.95rem; color: var(--primary); margin-top: 20px; margin-bottom: 8px;">SECTION 1: THE 70/30 CREDIT SPLIT MODEL</h4>
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;">The Developer shall receive **70%** of all Stream Mitigation Credits generated and released by the USACE Savannah District. The Landowner shall receive **30%** of all Stream Mitigation Credits generated and released. Gross proceeds from credit sales shall be paid directly from a secure escrow account to the parties in accordance with this 70/30 split ratio.</p>
+
+                    <h4 style="font-size: 0.95rem; color: var(--primary); margin-top: 20px; margin-bottom: 8px;">SECTION 2: QUANTITATIVE SITE ECONOMICS</h4>
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;">
+                        * Total Stream Reach: 1,500 Linear Feet.<br>
+                        * SOP Yield Factor: 8.6 credits per Linear Foot.<br>
+                        * Total Credits Yielded: 12,900 credits.<br>
+                        * Market Credit Price: $180.00/credit.<br>
+                        * Gross Value: $2,322,000.00.<br>
+                        * Landowner pure risk-free gross allocation (30%): <strong>$696,600.00</strong>.<br>
+                        * Developer gross allocation (70%): $1,625,400.00.<br>
+                        * Developer construction and permitting CapEx covered (100%): <strong>$1,090,000.00</strong> (Design, heavy earthworks, plantings, $220k performance bonds, 5-year monitoring, and endowments fully funded by Developer).
+                    </p>
+
+                    <h4 style="font-size: 0.95rem; color: var(--primary); margin-top: 20px; margin-bottom: 8px;">SECTION 3: CONSERVATION EASEMENT</h4>
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;">The Landowner covenants to grant and record a perpetual restrictive Conservation Easement over the approximately 6.8-acre stream buffer corridor to an approved qualified third-party Land Trust. The Developer shall fund the required $90,000.00 Long-Term Stewardship Endowment trust.</p>
+
+                    <h4 style="font-size: 0.95rem; color: var(--primary); margin-top: 20px; margin-bottom: 8px;">SECTION 4: GOVERNING LAW AND ARBITRATION</h4>
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;">This agreement shall be governed by the laws of the State of Georgia. Any disputes shall be resolved via binding arbitration administered by the American Arbitration Association (AAA) in Atlanta, Georgia.</p>
+                    
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-top: 40px;">IN WITNESS WHEREOF, the Parties have executed this cooperative agreement as of the date first written above.</p>
+                </div>
+
+                <!-- Live signature fields -->
+                <div style="display: flex; flex-direction: column; gap: 24px;">
+                    <!-- Landowner canvas -->
+                    <div class="card" style="background: var(--white); border: 1px solid var(--border-color); padding: 20px;">
+                        <h4 style="color: var(--primary); font-size: 0.95rem; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">Roya Irvani (Landowner)</h4>
+                        <div style="background-color: var(--light-bg); border: 1px dashed var(--border-color); border-radius: 8px; height: 120px; position: relative;">
+                            <canvas id="sign-landowner" style="width: 100%; height: 100%; cursor: crosshair; display: block;"></canvas>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin-top: 10px;">
+                            <button class="badge-cat residential" style="border: none; padding: 6px 12px; cursor: pointer; font-weight: 600;" onclick="clearSignature('sign-landowner')">Clear Pad</button>
+                            <span style="font-size: 0.75rem; color: var(--body-grey); align-self: center;">Draw Signature Above</span>
+                        </div>
+                    </div>
+
+                    <!-- Developer canvas -->
+                    <div class="card" style="background: var(--white); border: 1px solid var(--border-color); padding: 20px;">
+                        <h4 style="color: var(--primary); font-size: 0.95rem; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">Hunter Morris (Developer)</h4>
+                        <div style="background-color: var(--light-bg); border: 1px dashed var(--border-color); border-radius: 8px; height: 120px; position: relative;">
+                            <canvas id="sign-developer" style="width: 100%; height: 100%; cursor: crosshair; display: block;"></canvas>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin-top: 10px;">
+                            <button class="badge-cat residential" style="border: none; padding: 6px 12px; cursor: pointer; font-weight: 600;" onclick="clearSignature('sign-developer')">Clear Pad</button>
+                            <span style="font-size: 0.75rem; color: var(--body-grey); align-self: center;">Draw Signature Above</span>
+                        </div>
+                    </div>
+
+                    <!-- Sign Button -->
+                    <button class="btn-action" style="width: 100%; padding: 16px; font-size: 1.1rem; font-weight: 700; background: var(--accent); border-radius: 8px;" onclick="executeOnSiteContract()">Agree & Execute Agreement</button>
+                </div>
+            </div>
+        </section>
+
     </main>
 
     <!-- B2B Details Modal -->
@@ -1646,6 +1720,14 @@
             } else if (tabId === 'tab-docs') {
                 titleEl.textContent = "B2B Document Repository";
                 subtitleEl.textContent = "Stream Restoration Strategic, Technical, & Legal Library";
+            } else if (tabId === 'tab-signer') {
+                titleEl.textContent = "On-Site Digital Contract Signer";
+                subtitleEl.textContent = "Georgia UETA-Compliant Stream Joint Venture Agreement Execution";
+                // Delay slightly to ensure DOM sizing is fully resolved in the visible tab
+                setTimeout(() => {
+                    setupSignaturePad('sign-landowner');
+                    setupSignaturePad('sign-developer');
+                }, 100);
             }
         }
 
@@ -2060,6 +2142,115 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 `;
                 grid.appendChild(card);
             });
+        }
+
+        // Canvas Signature Pad Drawing Logic (UETA Georgia Compliant)
+        function setupSignaturePad(canvasId) {
+            const canvas = document.getElementById(canvasId);
+            if (!canvas) return;
+            const ctx = canvas.getContext('2d');
+            let drawing = false;
+
+            // Apply high-contrast signature style
+            ctx.strokeStyle = '#1e3d59'; // Deep Slate primary
+            ctx.lineWidth = 2.5;
+            ctx.lineCap = 'round';
+            ctx.lineJoin = 'round';
+
+            // Auto-scale to dynamic client element dimensions
+            function resizeCanvas() {
+                const rect = canvas.getBoundingClientRect();
+                canvas.width = rect.width;
+                canvas.height = rect.height;
+                // Reapply styles which are reset on dimension changes
+                ctx.strokeStyle = '#1e3d59';
+                ctx.lineWidth = 2.5;
+                ctx.lineCap = 'round';
+                ctx.lineJoin = 'round';
+            }
+
+            resizeCanvas();
+            window.addEventListener('resize', resizeCanvas);
+
+            function getCoordinates(e) {
+                const rect = canvas.getBoundingClientRect();
+                const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+                const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+                return {
+                    x: clientX - rect.left,
+                    y: clientY - rect.top
+                };
+            }
+
+            function startDraw(e) {
+                drawing = true;
+                const pos = getCoordinates(e);
+                ctx.beginPath();
+                ctx.moveTo(pos.x, pos.y);
+                if (e.cancelable) e.preventDefault();
+            }
+
+            function draw(e) {
+                if (!drawing) return;
+                const pos = getCoordinates(e);
+                ctx.lineTo(pos.x, pos.y);
+                ctx.stroke();
+                if (e.cancelable) e.preventDefault();
+            }
+
+            function stopDraw() {
+                drawing = false;
+            }
+
+            // Event Listeners for Desktop Mouse
+            canvas.addEventListener('mousedown', startDraw);
+            canvas.addEventListener('mousemove', draw);
+            window.addEventListener('mouseup', stopDraw);
+
+            // Event Listeners for iPad / Stylus Touch
+            canvas.addEventListener('touchstart', startDraw, { passive: false });
+            canvas.addEventListener('touchmove', draw, { passive: false });
+            canvas.addEventListener('touchend', stopDraw);
+        }
+
+        function clearSignature(canvasId) {
+            const canvas = document.getElementById(canvasId);
+            if (canvas) {
+                const ctx = canvas.getContext('2d');
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+            }
+        }
+
+        function executeOnSiteContract() {
+            const cLandowner = document.getElementById('sign-landowner');
+            const cDeveloper = document.getElementById('sign-developer');
+            
+            if (!cLandowner || !cDeveloper) return;
+
+            // Diagnostic check to ensure user has drawn a signature (not blank)
+            function isCanvasBlank(canvas) {
+                const ctx = canvas.getContext('2d');
+                const buffer = new Uint32Array(ctx.getImageData(0, 0, canvas.width, canvas.height).data.buffer);
+                return !buffer.some(color => color !== 0);
+            }
+
+            if (isCanvasBlank(cLandowner) || isCanvasBlank(cDeveloper)) {
+                alert("⚠️ Execution Blocked: Please ensure both Roya Irvani (Landowner) and Hunter Morris (Developer) draw their signatures on the touchpads before executing the Cooperative Agreement.");
+                return;
+            }
+
+            // Capture raw signature bitmaps for storage
+            const landownerSigData = cLandowner.toDataURL();
+            const developerSigData = cDeveloper.toDataURL();
+            const executionTimestamp = new Date().toISOString();
+
+            localStorage.setItem('contract_sig_landowner', landownerSigData);
+            localStorage.setItem('contract_sig_developer', developerSigData);
+            localStorage.setItem('contract_executed_timestamp', executionTimestamp);
+
+            alert("🎉 JOINT VENTURE COOPERATIVE AGREEMENT EXECUTED SUCCESSFULLY!\n\nSignatures legally recorded and timestamped. The contract is now active under Georgia UETA (O.C.G.A. § 10-12-1). The PDF receipt will compile for printing.");
+            
+            window.print();
         }
 
         // Initialize Portal

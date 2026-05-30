@@ -194,6 +194,90 @@
         </div>
     </section>
 
+    <!-- Landowner Sourcing & Siting Section -->
+    <section id="sourcing" class="sourcing-section" style="background-color: var(--light-bg); border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color); padding: 80px 0;">
+        <div class="container">
+            <div class="section-hdr" style="text-align: center; margin-bottom: 50px;">
+                <span style="font-weight: 700; text-transform: uppercase; color: var(--accent); font-size: 0.85rem; letter-spacing: 1px;">🌾 Landowners Siting & Sourcing Program</span>
+                <h2 style="font-size: 2.2rem; color: var(--primary); margin-top: 8px;">Free Trout Stream Restoration & High-Yield Credit Splits</h2>
+                <p style="max-width: 800px; margin: 16px auto 0 auto; color: var(--body-grey); line-height: 1.6;">
+                    If you own agricultural pasture or mountain forest land in North Georgia with at least 500 feet of degraded or eroding stream corridor, we can fully design, permit, construct, and maintain a pristine wild trout sanctuary at **zero out-of-pocket cost to you**. Furthermore, you receive a **30% share of generated USACE stream credits**, yielding substantial risk-free cash flows!
+                </p>
+            </div>
+
+            <div class="contact-grid" style="display: grid; grid-template-columns: 1fr 1.1fr; gap: 50px; align-items: start;">
+                <div class="sourcing-text">
+                    <h3 style="color: var(--primary); font-size: 1.4rem; margin-bottom: 16px;">How It Works: Sourcing Economics</h3>
+                    <p style="color: var(--body-grey); font-size: 0.95rem; line-height: 1.6; margin-bottom: 20px;">
+                        Mitigation banking under the U.S. Army Corps of Engineers (USACE) Savannah District allows us to transform your degraded, eroding streambed into a valuable ecological asset. Because our team absorbs 100% of capital risks—funding the geomorphic survey, complex HEC-RAS hydraulic models, buffer native plantings, and mandatory USACE construction bonds—you enjoy a risk-free partnership.
+                    </p>
+
+                    <div style="background-color: var(--white); padding: 24px; border-radius: 12px; border: 1px solid var(--border-color); box-shadow: var(--shadow); margin-bottom: 24px;">
+                        <h4 style="color: var(--accent); font-size: 1.1rem; margin-bottom: 12px;">🏆 Landowner Benefits</h4>
+                        <ul style="list-style: none; padding: 0; font-size: 0.9rem; color: var(--body-grey); line-height: 1.8;">
+                            <li>🐟 **Pristine Wild Trout Sanctuary**: Deep scoured pools, clean spawning cobbles, and dense native canopy.</li>
+                            <li>🛡️ **Stop Active Bank Loss**: Stop active mudslides and bank collapses from washing away your property.</li>
+                            <li>💼 **Pure Risk-Free Revenue**: Receive **30% of released credit sale proceeds** (pure cash flow, no out-of-pocket expenses).</li>
+                            <li>🌾 **Perpetual Preservation**: Secure and protect your mountain legacy for future generations.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="contact-form" style="background: var(--white); border-radius: 16px; padding: 30px; box-shadow: var(--shadow); border: 1px solid var(--border-color);">
+                    <h3 style="color: var(--primary); font-size: 1.3rem; margin-bottom: 20px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px; text-align: center;">📈 Free Stream Restoration Yield Estimator</h3>
+                    
+                    <form id="sourcing-estimator-form" onsubmit="alert('Thank you! Hunter Morris will contact you at bookings@flyfishingnorthgeorgia.com within 24 hours to schedule a free geomorphic field audit of your stream.'); return false;">
+                        <div class="form-group" style="margin-bottom: 16px;">
+                            <label for="land-name" style="font-weight: 600; display: block; margin-bottom: 6px; font-size: 0.85rem; color: var(--charcoal);">Your Name</label>
+                            <input type="text" id="land-name" class="form-control" placeholder="e.g. Roya Irvani" style="width: 100%; padding: 10px; border: 1px solid var(--border-color); border-radius: 6px;" required>
+                        </div>
+                        
+                        <div class="form-group" style="margin-bottom: 16px;">
+                            <label for="land-email" style="font-weight: 600; display: block; margin-bottom: 6px; font-size: 0.85rem; color: var(--charcoal);">Email Address</label>
+                            <input type="email" id="land-email" class="form-control" placeholder="roya.irvani@example.com" style="width: 100%; padding: 10px; border: 1px solid var(--border-color); border-radius: 6px;" required>
+                        </div>
+
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px;">
+                            <div class="form-group">
+                                <label for="land-length" style="font-weight: 600; display: block; margin-bottom: 6px; font-size: 0.85rem; color: var(--charcoal);">Stream Length (LF)</label>
+                                <input type="number" id="land-length" class="form-control" value="1000" min="200" max="10000" style="width: 100%; padding: 10px; border: 1px solid var(--border-color); border-radius: 6px;" oninput="estimateSourcing()" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="land-erosion" style="font-weight: 600; display: block; margin-bottom: 6px; font-size: 0.85rem; color: var(--charcoal);">Erosion Severity</label>
+                                <select id="land-erosion" class="form-control" style="width: 100%; padding: 10px; border: 1px solid var(--border-color); border-radius: 6px;" onchange="estimateSourcing()">
+                                    <option value="8.6">Severe Bank Erosion (Maximum Yield)</option>
+                                    <option value="6.2">Moderate Erosion (Standard Lift)</option>
+                                    <option value="4.5">Low Erosion (Buffer Restoration Only)</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <!-- Live Siting Unit Economics Panel -->
+                        <div style="background-color: var(--light-bg); border-left: 4px solid var(--accent); padding: 16px; border-radius: 8px; margin-bottom: 20px;">
+                            <h4 style="color: var(--primary); font-size: 0.9rem; margin-bottom: 10px;">📊 Projected Site Economics</h4>
+                            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; font-size: 0.85rem;">
+                                <div>
+                                    <span style="color: var(--body-grey);">SOP Credit Yield:</span><br>
+                                    <strong style="color: var(--primary); font-size: 1.05rem;" id="est-credits">8,600 Credits</strong>
+                                </div>
+                                <div>
+                                    <span style="color: var(--body-grey);">Developer CapEx Covered:</span><br>
+                                    <strong style="color: var(--primary-light); font-size: 1.05rem;" id="est-capex">$730,000 (100% Free)</strong>
+                                </div>
+                                <div style="grid-column: span 2; border-top: 1px solid var(--border-color); padding-top: 8px; margin-top: 4px;">
+                                    <span style="color: var(--accent); font-weight: 600;">Your Risk-Free Cash Share (30% Split):</span><br>
+                                    <strong style="color: var(--accent); font-size: 1.25rem;" id="est-cash">$464,400 Gross Cash</strong>
+                                </div>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn-submit" style="width: 100%; background: var(--accent); color: var(--white); border: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: var(--transition);">Apply for Free Geomorphic Field Audit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- B2B Credits & Contact Section -->
     <section id="contact" class="contact-section">
         <div class="container">
@@ -295,6 +379,30 @@
             document.getElementById(tabId).classList.add("active");
             evt.currentTarget.classList.add("active");
         }
+
+        function estimateSourcing() {
+            const length = parseFloat(document.getElementById('land-length').value) || 0;
+            const factor = parseFloat(document.getElementById('land-erosion').value) || 0;
+            
+            // Projections
+            const credits = length * factor;
+            const price = 180; // Coldwater Trout Stream Credit Price
+            const grossRev = credits * price;
+            const landownerCash = grossRev * 0.30;
+            
+            // Standard CapEx covered:
+            // Design ($100k) + Construction (length * $300) + Planting ($50k)
+            const capex = 150000 + (length * 300) + 80000 + 100000;
+            
+            document.getElementById('est-credits').textContent = Math.round(credits).toLocaleString() + " Credits";
+            document.getElementById('est-capex').textContent = "$" + Math.round(capex).toLocaleString() + " (100% Free)";
+            document.getElementById('est-cash').textContent = "$" + Math.round(landownerCash).toLocaleString() + " Gross Cash";
+        }
+        
+        // Run on load
+        window.addEventListener('DOMContentLoaded', () => {
+            estimateSourcing();
+        });
     </script>
 </body>
 </html>
