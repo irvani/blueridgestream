@@ -70,10 +70,6 @@ We will deploy clean, semantic HTML reciprocal links between the Blue Ridge Stre
 <p>At Blue Ridge Stream, our geomorphic trout-restoration designs have a statewide impact. We proudly partner with coastal initiatives, aligning our high-gradient mountain bank corrections with <a href="https://irvani.github.io/sapelooystercoalition/index.html" id="seo-lnk-oyster" target="_blank" rel="noopener">Coastal Oyster Shell Reclamation</a> projects on Sapelo Island to protect Georgia's entire watershed from headwaters to salt marshes.</p>
 ```
 
-### 2. Joint B2B Co-Marketing & PR Strategy
-- **Statewide Watershed PR Campaign**: Launch a joint digital press release titled: *'From Headwaters to Coast: Georgia Restoration Partners Deploy Trout Bioengineering and Living Shorelines to Protect Statewide Waterways.'* Host this case study on both portals with direct crawlable links.
-- **Data Center ESG Target Sheet**: Distribute a joint ESG impact whitepaper directly to the 15 Georgia Hyperscale Data Centers profiled in File 22. Show that offset purchases from Blue Ridge Stream directly sponsor coastal oyster reclamation materials on Sapelo Island, offering a 2-for-1 environmental return that RES and Corblu cannot match.
-- **Semantic Schema Markup**: Inject JSON-LD Schema markup on both portals, linking their physical entities (Fluvial Bioengineering Bank vs. Salt Marsh Reef) as associated `ConservationProject` entities, signaling high semantic topical trust to Google Search.
 
 ```json
 {

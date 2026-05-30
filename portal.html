@@ -2008,7 +2008,8 @@
             { num: "23", name: "Remediation and Risk Mitigation Bylaws", cat: "Legal", desc: "Corporate resolutions resolving liquidity gap, forward hedging, 7-year monitoring, flood shear stress tests, and mortgage subordinations." },
             { num: "24", name: "Georgia Agricultural & Land Development Bankers Directory", cat: "Database", desc: "Outreach database profiling 50 regional agricultural and CRE development bankers to source JV landowners and developers." },
             { num: "25", name: "Georgia Environmental & Conservation Lawyers Directory", cat: "Database", desc: "Outreach database profiling 50 environmental, water rights, and zoning attorneys to source blocked permit leads." },
-            { num: "26", name: "USACE Field Audit & Coastal Oyster Coalition Partnership", cat: "Strategy", desc: "Strategic regulatory field tour itineraries, federal gift ethics rules, and coastal Sapelo Island living shoreline co-marketing and SEO link-backs plan." }
+            { num: "26", name: "USACE Field Audit & Coastal Oyster Coalition Partnership", cat: "Strategy", desc: "Strategic regulatory field tour itineraries, federal gift ethics rules, and coastal Sapelo Island living shoreline co-marketing and SEO link-backs plan." },
+            { num: "27", name: "Stream Mitigation Economics & Landowner Deal Structuring Guide", cat: "Business Plan", desc: "Comparative pricing and deal structure matrix analyzing PE-backed flat-rate royalties vs Blue Ridge's landowner-favorable 70/30 split JV model." }
         ];
 
         // Global State & UI Navigation
@@ -2485,11 +2486,12 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 } else if (d.num === "15") {
                     folder = "09_Operations_&_Technical_Playbooks";
                     exactBase = "15_Free_Domain_&_Web_Hosting_Playbook";
-                } else if (d.num === "24" || d.num === "25" || d.num === "26") {
+                } else if (d.num === "24" || d.num === "25" || d.num === "26" || d.num === "27") {
                     folder = "10_Outreach_&_Relationship_Banking";
                     if (d.num === "24") exactBase = "24_Georgia_Agricultural_&_Land_Development_Bankers_Directory";
                     else if (d.num === "25") exactBase = "25_Georgia_Environmental_&_Conservation_Lawyers_Directory";
-                    else exactBase = "26_USACE_Field_Audit_&_Coastal_Oyster_Coalition_Partnership";
+                    else if (d.num === "26") exactBase = "26_USACE_Field_Audit_&_Coastal_Oyster_Coalition_Partnership";
+                    else exactBase = "27_Mitigation_Banking_Economics_&_Landowner_Deal_Structuring_Guide";
                 }
 
                 card.innerHTML = `
