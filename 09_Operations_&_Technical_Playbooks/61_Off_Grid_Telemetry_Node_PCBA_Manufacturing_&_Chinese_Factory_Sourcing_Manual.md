@@ -84,9 +84,67 @@ To utilize automated SMT placement services, we must source components matching 
 
 ---
 
-## IV. Enclosure Box & Physical Gland Assembly Layout
+## IV. Rapid-Deployment Sourcing: Off-The-Shelf WisBlock Assembly (No Custom PCB)
 
-Streamside environmental sensors are exposed to high humidity, flood splattering, and animal tampering. Hunter Morris's operations interns assemble each node into a ruggedized, waterproof **Field Enclosure Box** using these strict assembly layout guidelines:
+For rapid field pilots or quick regional stream rollouts, Co-Founder Hunter Morris and his operations team can bypass custom PCB manufacturing entirely. Instead, they can assemble highly reliable off-grid telemetry nodes in under 30 minutes using standard, pre-existing developer boards and modules. These modular components plug directly together without soldering, creating a clean, professional, and easily maintainable streamside telemetry system.
+
+### 1. Off-the-Shelf Hardware Sourcing Schedule (The WisBlock Ecosystem)
+By leveraging RAKwireless's pre-engineered modular hardware, the telemetry node is built using these existing boards:
+
+*   **RAK19007 WisBlock Base Board ($10.50)**: The baseboard that provides clean power distribution pathways, internal interconnect slots, a micro-USB programming/charging port, a built-in TP4054 Li-ion/LiFePO4 battery solar charger, and standard JST-PH battery and solar connectors.
+*   **RAK4631 BLE LoRa Core MCU ($20.00)**: The central processing unit featuring Nordic’s nRF52840 low-power microcontroller and Semtech’s SX1262 LoRa transceiver. Plugs directly into the central CPU slot of the RAK19007 baseboard.
+*   **RAK5802 WisBlock RS485 Modbus Interface Module ($9.50)**: A hardware-isolated RS485 transceiver board that plugs directly into Slot D of the RAK19007 baseboard. It provides built-in TVS protection diodes, electrostatic discharge protection, and a highly accessible 4-pin screw terminal block carrying `VCC_5V` (or `VBAT`), `GND`, `RS485-A`, and `RS485-B` signals.
+*   **Pre-Assembled MT3608 step-up boost module ($1.20)**: A cheap, compact off-the-shelf boost module used to step up the battery's 3.7V power up to a stable 12.0V DC required by industrial dissolved oxygen and turbidity sensors.
+
+### 2. Solderless Wire-by-Wire Assembly Connection Table
+To construct the switched 12V sensor power controller using only existing boards, connect the components as follows using standard pre-crimped JST jumper cables and the RAK5802 screw terminals:
+
+```
+          [SOLDERLESS OFF-THE-SHELF TELEMETRY ELECTRICAL BLUEPRINT]
+
+      +-----------------------------------------------------------+
+      |  RAK19007 WisBlock Base Board                             |
+      |                                                           |
+      |  [Slot CPU] ===> RAK4631 BLE LoRa module plugged in       |
+      |  [Slot D]   ===> RAK5802 RS485 Module plugged in          |
+      |                                                           |
+      |  Power Terminals:                                         |
+      |    - 3V3 Pin   ======> (Not Connected)                    |
+      |    - VBAT Pin  ======> Connected to MT3608 Boost [VIN+]    |
+      |    - GND Pin   ======> Connected to MT3608 Boost [VIN-]    |
+      |    - IO1 Pin   ======> Connected to MT3608 Boost [EN]     |
+      |                                                           |
+      |  RAK5802 Screw Terminals:                                 |
+      |    - RXD/TXD   ======> (Handled internally by baseboard)   |
+      |    - A Pin     ======> Connected to WAGO Term 3 (Sensor A) |
+      |    - B Pin     ======> Connected to WAGO Term 4 (Sensor B) |
+      +-----------------------------------------------------------+
+                                   |
+                                   v
+      +-----------------------------------------------------------+
+      |  Off-the-Shelf MT3608 Step-Up Boost Module ($1.20)         |
+      |                                                           |
+      |  Input Terminals:                                         |
+      |    - VIN+      <====== Connected to RAK19007 [VBAT Pin]    |
+      |    - VIN-      <====== Connected to RAK19007 [GND Pin]     |
+      |    - EN (Pin)  <====== Connected to RAK19007 [IO1 Pin]     |
+      |                                                           |
+      |  Output Terminals (Adjust pot to exactly 12.0V DC):       |
+      |    - OUT+      ======> Connected to WAGO Term 1 (Sensor VCC)|
+      |    - OUT-      ======> Connected to WAGO Term 2 (Sensor GND)|
+      +-----------------------------------------------------------+
+```
+
+### 3. Step-by-Step Integration & Sizing Guidelines:
+1.  **Potentiometer Calibration**: Before connecting any expensive sensors, connect a 3.7V battery to the RAK19007 baseboard, run a test firmware that pulls pin `IO1` HIGH, and measure the voltage at the MT3608 `OUT+` and `OUT-` terminals using a multimeter. Use a small flathead screwdriver to turn the copper screw on the blue multi-turn potentiometer counter-clockwise until the output reads exactly **12.0V DC**.
+2.  **Switched-Power GPIO Wiring**: The `EN` (Enable) pin on the MT3608 module is typically tied to `VIN+` by a tiny internal resistor. To control it programmatically, scratch or desolder the tiny bridge resistor on the boost module, then connect the `EN` pad directly to the WisBlock `IO1` pin. Pulling `IO1` HIGH wakes up the 12V boost converter to power the sensors; pulling `IO1` LOW puts the boost converter into deep sleep (<1uA current draw), preserving battery life.
+3.  **Sensor Wire Terminal Splices**: To make field repairs fast and tool-free, route the sensor wires through PG9 glands into **WAGO 221 lever-lock splicing connectors** mounted inside the enclosure box. This avoids direct soldering of delicate sensor cables and allows quick field swaps.
+
+---
+
+## V. Streamside Enclosure Box & Physical Gland Assembly Layout
+
+Whether using custom SMT PCBAs or the rapid-turnover off-the-shelf WisBlock system, streamside environmental sensors are exposed to extreme humidity, flood splattering, and rodent chewing. Hunter Morris's operations interns assemble each node into a ruggedized, waterproof **Field Enclosure Box** using these strict assembly layout guidelines:
 
 ```
                             [FIELD WATERPROOF ENCLOSURE BOX LAYOUT]
@@ -98,31 +156,31 @@ Streamside environmental sensors are exposed to high humidity, flood splattering
            |    | NEMA-67 ABS Waterproof Enclosure Box               |    |
            |    |                                                    |    |
            |    |   +------------------+     +------------------+    |    |
-           |    |   | 3.7V 3200mAh     |     | WisBlock PCBA    |    |    |
-           |    |   | LiFePO4 Battery  |     | telemetry Core   |    |    |
+           |    |   | 3.7V 3200mAh     |     | WisBlock RAK     |    |    |
+           |    |   | LiFePO4 Battery  |     | Base + Modules   |    |    |
            |    |   |                  |     |                  |    |    |
            |    |   +--------|---------+     +--------|---------+    |    |
            |    |            |                        |              |    |
            |    +------------|------------------------|--------------+    |
            +-----------------|------------------------|-------------------+
-                             |                        |
-                             v                        v
-                        [PG9 Gland 1]            [PG9 Gland 2]
-                        (Solar +12V Feed)        (RS485 Modbus Cable to Creek)
+                              |                        |
+                              v                        v
+                         [PG9 Gland 1]            [PG9 Gland 2]
+                         (Solar +12V Feed)        (RS485 Modbus Cable to Creek)
 ```
 
 ### Physical Assembly Guidelines:
-1.  **NEMA-67 ABS Enclosure**: We utilize a heavy-duty **ABS NEMA-67 waterproof box** (internal dimensions approximately $150\text{mm} \times 100\text{mm} \times 70\text{mm}$) fitted with a silicone rubber gasket and stainless steel lid screws.
-2.  **Cable Ingress PG9 Glands**: Drill two holes in the bottom wall of the enclosure. Install two brass **PG9 waterproof compression glands** (supporting cable diameters $4\text{mm} - 8\text{mm}$).
+1.  **NEMA-67 ABS Enclosure**: We utilize a heavy-duty **ABS NEMA-67 waterproof box** (internal dimensions approximately 150mm x 100mm x 70mm) fitted with a silicone rubber gasket and stainless steel lid screws (such as the vetted **SZOMK AK-W-11** model with transparent lid for visual debugging).
+2.  **Cable Ingress PG9 Glands**: Drill two holes in the bottom wall of the enclosure. Install two brass **PG9 waterproof compression glands** (supporting cable diameters 4mm - 8mm).
     *   *Gland 1*: Feeds the switched 12V 4-wire shielded sensor cable directly into the stream channel.
     *   *Gland 2*: Connects the 2-pin monocrystalline solar panel charging lead.
 3.  **Waterproofing Drip Loops**: The cables must run downwards out of the glands and loop upwards before running to the stream or solar panel, preventing rain droplets from running along the wire directly into the gland face.
 4.  **Barometric Compensation Vent**: For hydrostatic stage level level gauges (such as Model TJ-F04-Modbus) that require a vented capillary tube open to the atmosphere, install a waterproof, breathable **Gore-Tex Pressure Relief Vent** in the bottom wall of the box. This prevents moisture ingress while equalizing internal barometric pressure shifts.
-5.  **Secure Battery Bracket**: Secure the 3.7V LiFePO4 battery inside the enclosure using a custom-printed PETG bracket and marine-grade double-sided adhesive, preventing movement during field deployments.
+5.  **Modular Mounting Plate**: Mount all components securely inside the box on a **pre-drilled generic plastic mounting grid** or a 3D-printed PETG bracket. The RAK19007 baseboard is screwed down onto 3mm brass standoffs, and the battery is secured with heavy-duty marine velcro.
 
 ---
 
-## V. Firmware Provisioning & 256-Bit Encryption Key Setup
+## VI. Firmware Provisioning & 256-Bit Encryption Key Setup
 
 Once the PCBA is received from Shenzhen and placed in the box, Hunter’s recruitment interns flash the latest **Meshtastic Serial API firmware** to establish communication over our decentralized 915 MHz LoRa mesh network:
 
