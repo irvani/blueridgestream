@@ -1451,7 +1451,7 @@
                     <div class="folder-meta">
                         <span class="folder-num">ALL</span>
                         <h5 class="folder-name">Show All Files</h5>
-                        <span class="folder-count">45 Files</span>
+                        <span class="folder-count">47 Files</span>
                     </div>
                 </div>
                 <!-- 01 Strategic -->
@@ -1561,7 +1561,7 @@
                     <div class="folder-meta">
                         <span class="folder-num">10_OUTREACH</span>
                         <h5 class="folder-name">Outreach & Banking</h5>
-                        <span class="folder-count">4 Files</span>
+                        <span class="folder-count">6 Files</span>
                     </div>
                 </div>
             </div>
@@ -2244,7 +2244,9 @@
             { num: "41", name: "Field Equipment & Drone Surveying Playbook", cat: "Operations", desc: "Operations manual covering DJI RTK flight paths, GCP placements, WebODM orthomosaic generation, QGIS NDVI calculations, and YSI water quality probe calibrations." },
             { num: "42", name: "Nationwide Permit 27 PCN Technical Template", cat: "Regulatory", desc: "Regulatory application playbook featuring a pre-structured ENG 4345 narrative, geomorphic parameter sheets, and agency consultation templates." },
             { num: "43", name: "EOS Board Governance & Competitor Workflows Playbook", cat: "Strategy", desc: "Corporate governance playbook outlining Traction EOS board rhythms, bi-monthly calendars, Level 10 meeting agendas, and competitor drone/project-scale benchmarks." },
-            { num: "44", name: "Marketing Events & Team Scaling Roadmap", cat: "Strategy", desc: "Strategic launch blueprint presenting a 12-month networking and conference outreach calendar, combined with a 10-person organizational scaling and hiring roadmap." }
+            { num: "44", name: "Marketing Events & Team Scaling Roadmap", cat: "Strategy", desc: "Strategic launch blueprint presenting a 12-month networking and conference outreach calendar, combined with a 10-person organizational scaling and hiring roadmap." },
+            { num: "45", name: "B2B Referral Network Playbook & 500 Prospects Directory", cat: "Database", desc: "Playbook establishing three B2B referral tracks (finder's fees, conservation matching donations, and trout fly-fishing sweepstakes), paired with a 500-prospect target email directory." },
+            { num: "46", name: "Landowner Referral Program & JV Incentive Agreements", cat: "Contract", desc: "Playbook establishing landowner loyalty tracks (split booster, custom trout spawning run, timber bridge, cedar pavilion, CUVA stewardship grant), paired with a robust Georgia UETA legal contract template." }
         ];
 
         // Global State & UI Navigation
@@ -2787,12 +2789,14 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     folder = "09_Operations_&_Technical_Playbooks";
                     if (d.num === "15") exactBase = "15_Free_Domain_&_Web_Hosting_Playbook";
                     else exactBase = "41_Field_Equipment_&_Drone_Surveying_Playbook";
-                } else if (d.num === "24" || d.num === "25" || d.num === "26" || d.num === "27") {
+                } else if (d.num === "24" || d.num === "25" || d.num === "26" || d.num === "27" || d.num === "45" || d.num === "46") {
                     folder = "10_Outreach_&_Relationship_Banking";
                     if (d.num === "24") exactBase = "24_Georgia_Agricultural_&_Land_Development_Bankers_Directory";
                     else if (d.num === "25") exactBase = "25_Georgia_Environmental_&_Conservation_Lawyers_Directory";
                     else if (d.num === "26") exactBase = "26_USACE_Field_Audit_&_Coastal_Oyster_Coalition_Partnership";
-                    else exactBase = "27_Mitigation_Banking_Economics_&_Landowner_Deal_Structuring_Guide";
+                    else if (d.num === "27") exactBase = "27_Mitigation_Banking_Economics_&_Landowner_Deal_Structuring_Guide";
+                    else if (d.num === "45") exactBase = "45_B2B_Referral_Network_&_500_Prospects_Directory";
+                    else exactBase = "46_Landowner_Referral_Program_&_JV_Incentive_Agreements";
                 }
 
                 card.innerHTML = `
