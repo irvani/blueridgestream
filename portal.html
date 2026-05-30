@@ -945,6 +945,7 @@
             <div class="nav-item" onclick="switchTab(event, 'tab-competitors')">🛡️ Competitor SWOT Matrix</div>
             <div class="nav-item" onclick="switchTab(event, 'tab-sites')">🗺️ Trout Watersheds Database</div>
             <div class="nav-item" onclick="switchTab(event, 'tab-recruiting')">🎓 Intern Recruiting Center</div>
+            <div class="nav-item" onclick="switchTab(event, 'tab-docs')">📁 B2B Document Repository</div>
         </nav>
 
         <div class="sidebar-footer">
@@ -1327,6 +1328,20 @@
             </div>
         </section>
 
+        <!-- TAB: DOCUMENTS -->
+        <section id="tab-docs" class="tab-panel">
+            <div class="card" style="margin-bottom: 30px; background-color: var(--white);">
+                <h3 style="color: var(--primary); margin-bottom: 12px;">📁 Stream Restoration Strategic & Legal Library</h3>
+                <p style="font-size: 0.95rem; color: var(--body-grey); line-height: 1.5;">
+                    Access all 17 strategic playbooks, regulatory mathematical models, case studies, databases, and sample landowner contract agreements compiled for Hunter’s venture. These documents are fully synchronized across **Markdown (.md)**, **Microsoft Word (.docx)**, and **Adobe PDF (.pdf)** formats in the local Google Drive folder.
+                </p>
+            </div>
+            
+            <div class="comp-card-grid" id="docs-grid-el">
+                <!-- Populated via Javascript -->
+            </div>
+        </section>
+
     </main>
 
     <!-- B2B Details Modal -->
@@ -1558,6 +1573,26 @@
             }
         ];
 
+        const docs = [
+            { num: "00", name: "Hunter's Quick-Start Action Guide", cat: "Strategy", desc: "The ultimate 90-day checklist and quick-start roadmap for Hunter to launch Blue Ridge Stream." },
+            { num: "01", name: "Executive Summary & Business Plan", cat: "Business Plan", desc: "Corporate strategy, trout ecology analysis, Rosgen restoration benefits, and board governance." },
+            { num: "02", name: "USACE Savannah District Mitigation Banking Guide", cat: "Regulatory", desc: "Detailed breakdown of Georgia SOP formulas, NWP 27 guidelines, and Interagency Review Team stages." },
+            { num: "03", name: "Anderson Creek Case Study (Roya's Cabin)", cat: "Case Study", desc: "Site-specific engineering plan and credit yield projections for the flagship 1,500-LF project." },
+            { num: "04", name: "Mitigation Banking Competitor Analysis Matrix", cat: "Competitors", desc: "SWOT analysis of 7 Southeast competitors (RES, Corblu, etc.) with HQ locations, websites, and employee counts." },
+            { num: "05", name: "B2B Outreach Playbook & Broker Scripts", cat: "Sales Playbook", desc: "Commercial negotiation talk-tracks, land option agreement scripts, and broker outreach scripts." },
+            { num: "06", name: "USACE Mathematical & SOP Calculation Guide", cat: "Regulatory", desc: "Worked math examples for developer debit requirements and mitigation bank credit yields." },
+            { num: "07", name: "Goldmine Hollow Case Study (Hunter's Cabin)", cat: "Case Study", desc: "Sediment trapping drop steps design on Noontootla Creek for a private estate trout showroom." },
+            { num: "08", name: "Project Execution Blueprint & Reference Case", cat: "Operations", desc: "4-stage physical construction sequence and historical Soque River geomorphic measurements." },
+            { num: "09", name: "Savannah District Approved Banks Database", cat: "Database", desc: "Comprehensive reference database of active regional banks and federal RIBITS navigation." },
+            { num: "10", name: "LinkedIn Ready-to-Post B2B Social Strategy", cat: "Marketing", desc: "10 copy-and-paste B2B LinkedIn posts highlighting thermal cover, Rosgen design, and UVA board member appointment." },
+            { num: "11", name: "B2B Credit Buyers Registry (50 Clients)", cat: "Database", desc: "Categorized target pipeline of 50 Southeast commercial, industrial, residential, and infrastructure buyers." },
+            { num: "12", name: "Georgia Trout Restoration Site Database", cat: "Database", desc: "Sourcing database profiling 10 high-priority North Georgia trout watersheds with localized erosion hazards." },
+            { num: "13", name: "B2B Outreach Templates & Diagnostic Dialogue", cat: "Sales Playbook", desc: "Outreach emails, LinkedIn DMs, and Hunter's diagnostic 'stream walk' verbal dialogue." },
+            { num: "14", name: "Regional Internship Postings & Interview Rubrics", cat: "Recruiting", desc: "Paid internship posts for UGA, GT, and Clemson with candidate profiles and 9 screening questions." },
+            { num: "15", name: "Free Domain Registration & Hosting Playbook", cat: "Operations", desc: "Step-by-step tutorial for registering a free .us.kg domain on DigitalPlat and hosting on GitHub Pages." },
+            { num: "16", name: "Roya's Cabin Anderson Creek Mitigation Agreement", cat: "Contract", desc: "Legally robust joint-venture landowner contract featuring the 70/30 credit split and 30% developer margin math." }
+        ];
+
         // Global State & UI Navigation
         function switchTab(event, tabId) {
             // Update Navigation Menu items
@@ -1594,6 +1629,9 @@
             } else if (tabId === 'tab-recruiting') {
                 titleEl.textContent = "Intern Recruiting Center";
                 subtitleEl.textContent = "Specialized university postings & candidate interview guides";
+            } else if (tabId === 'tab-docs') {
+                titleEl.textContent = "B2B Document Repository";
+                subtitleEl.textContent = "Stream Restoration Strategic, Technical, & Legal Library";
             }
         }
 
@@ -1958,6 +1996,57 @@ hunter@blueridgestream.com | (555) 123-4567`;
             modal.classList.add('active');
         }
 
+        function populateDocs() {
+            const grid = document.getElementById('docs-grid-el');
+            grid.innerHTML = '';
+            
+            docs.forEach(d => {
+                const card = document.createElement('div');
+                card.className = 'comp-card';
+                card.style.display = 'flex';
+                card.style.flexDirection = 'column';
+                card.style.justifyContent = 'space-between';
+                card.style.padding = '20px';
+                
+                let exactBase = "";
+                if (d.num === "00") exactBase = "00_START_HERE_Hunter_Action_Guide";
+                else if (d.num === "01") exactBase = "01_Executive_Summary_&_Business_Plan";
+                else if (d.num === "02") exactBase = "02_USACE_Mitigation_Banking_Framework";
+                else if (d.num === "03") exactBase = "03_ACR_Anderson_Creek_Case_Study";
+                else if (d.num === "04") exactBase = "04_Competitor_Analysis_Matrix";
+                else if (d.num === "05") exactBase = "05_Sales_Playbook_&_B2B_Outreach";
+                else if (d.num === "06") exactBase = "06_USACE_Regulatory_&_Mathematical_Framework";
+                else if (d.num === "07") exactBase = "07_Goldmine_Hollow_Case_Study";
+                else if (d.num === "08") exactBase = "08_Project_Execution_&_Reference_Case";
+                else if (d.num === "09") exactBase = "09_Savannah_District_Approved_Banks_Database";
+                else if (d.num === "10") exactBase = "10_LinkedIn_Ready_to_Post_Content";
+                else if (d.num === "11") exactBase = "11_B2B_Credit_Buyers_Registry";
+                else if (d.num === "12") exactBase = "12_Georgia_Trout_Restoration_Site_Database";
+                else if (d.num === "13") exactBase = "13_Sales_Outreach_Templates_&_Scripts";
+                else if (d.num === "14") exactBase = "14_Regional_Internship_Postings_&_Recruiting";
+                else if (d.num === "15") exactBase = "15_Free_Domain_&_Web_Hosting_Playbook";
+                else if (d.num === "16") exactBase = "16_Roya_Cabin_Anderson_Creek_Mitigation_Agreement";
+
+                card.innerHTML = `
+                    <div>
+                        <div class="comp-card-hdr" style="border-bottom: 1px solid var(--border-color); padding-bottom: 12px; margin-bottom: 12px;">
+                            <div class="comp-name">
+                                <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent); letter-spacing: 0.5px;">File ${d.num} &bull; ${d.cat}</span>
+                                <h3 style="margin-top: 4px; font-size: 1.1rem; color: var(--primary);">${d.name}</h3>
+                            </div>
+                        </div>
+                        <p style="font-size: 0.85rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 20px;">${d.desc}</p>
+                    </div>
+                    <div style="display: flex; gap: 8px; margin-top: auto;">
+                        <a href="./${exactBase}.pdf" class="badge-cat industrial" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">📄 PDF</a>
+                        <a href="./${exactBase}.docx" class="badge-cat mixed-use" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">📝 Word</a>
+                        <a href="./${exactBase}.md" class="badge-cat consultant" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600;" target="_blank">🌐 MD</a>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
         // Initialize Portal
         window.onload = function() {
             loadChecklist();
@@ -1966,6 +2055,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
             populateCompetitors();
             populateSites();
             populateRecruiting();
+            populateDocs();
         };
     </script>
 </body>
