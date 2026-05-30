@@ -1451,7 +1451,7 @@
                     <div class="folder-meta">
                         <span class="folder-num">ALL</span>
                         <h5 class="folder-name">Show All Files</h5>
-                        <span class="folder-count">50 Files</span>
+                        <span class="folder-count">51 Files</span>
                     </div>
                 </div>
                 <!-- 01 Strategic -->
@@ -1462,7 +1462,7 @@
                     <div class="folder-meta">
                         <span class="folder-num">01_PLANS</span>
                         <h5 class="folder-name">Strategic & Business</h5>
-                        <span class="folder-count">5 Files</span>
+                        <span class="folder-count">6 Files</span>
                     </div>
                 </div>
                 <!-- 02 Regulatory -->
@@ -2249,7 +2249,8 @@
             { num: "46", name: "Landowner Referral Program & JV Incentive Agreements", cat: "Contract", desc: "Playbook establishing landowner loyalty tracks (split booster, custom trout spawning run, timber bridge, cedar pavilion, CUVA stewardship grant), paired with a robust Georgia UETA legal contract template." },
             { num: "47", name: "Crisp-Inspired High-Growth Marketing & Aspirational Referral Playbook", cat: "Sales Playbook", desc: "Playbook detailing a gamified, tiered referral program (Patagonia fly-fishing sweepstakes), mastermind networks, regional stream summits, and cinematic video storytelling campaigns." },
             { num: "48", name: "Mitigation Sourcing & Landowner Joint Venture Masterbook", cat: "Database", desc: "Sourcing playbook detailing rural landowner storytelling frameworks, a 100-tract Georgia coldwater land registry, and B2B prospects 501-1000." },
-            { num: "49", name: "SEO Outreach & Search Positioning Strategy", cat: "Marketing", desc: "Search positioning strategy detailing competitor backlink audits, transactional/informational keywords masterlists, and high-authority `.org/.gov/.edu` referral pipelines." }
+            { num: "49", name: "SEO Outreach & Search Positioning Strategy", cat: "Marketing", desc: "Search positioning strategy detailing competitor backlink audits, transactional/informational keywords masterlists, and high-authority `.org/.gov/.edu` referral pipelines." },
+            { num: "50", name: "Monday Launch Action Plan & High-Ticket Sourcing Blueprint", cat: "Strategy", desc: "Detailed hour-by-hour operational sourcing plan for Monday morning, detailing top 5 landowner targets, credit buyers, referral partners, phone scripts, and CRM setup workflows." }
         ];
 
         // Global State & UI Navigation
@@ -2733,13 +2734,14 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 let exactBase = "";
                 let folder = "";
 
-                if (d.num === "00" || d.num === "01" || d.num === "20" || d.num === "43" || d.num === "44") {
+                if (d.num === "00" || d.num === "01" || d.num === "20" || d.num === "43" || d.num === "44" || d.num === "50") {
                     folder = "01_Strategic_&_Business_Plans";
                     if (d.num === "00") exactBase = "00_START_HERE_Hunter_Action_Guide";
                     else if (d.num === "01") exactBase = "01_Executive_Summary_&_Business_Plan";
                     else if (d.num === "20") exactBase = "20_Strategic_Board_of_Advisors_Recruiting_Plan";
                     else if (d.num === "43") exactBase = "43_EOS_Board_Governance_&_Competitor_Workflows_Playbook";
-                    else exactBase = "44_Marketing_Events_&_Team_Scaling_Roadmap";
+                    else if (d.num === "44") exactBase = "44_Marketing_Events_&_Team_Scaling_Roadmap";
+                    else exactBase = "50_Monday_Launch_Action_Plan_&_High_Ticket_Sourcing_Blueprint";
                 } else if (d.num === "02" || d.num === "06" || d.num === "17" || d.num === "19" || d.num === "21") {
                     folder = "02_Regulatory_&_USACE_Frameworks";
                     if (d.num === "02") exactBase = "02_USACE_Mitigation_Banking_Framework";
