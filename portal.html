@@ -1688,7 +1688,8 @@
             { num: "16", name: "Roya's Cabin Anderson Creek Mitigation Agreement", cat: "Contract", desc: "Legally robust joint-venture landowner contract featuring the 70/30 credit split and 30% developer margin math." },
             { num: "17", name: "Government & Regulatory Agency Outreach Plan", cat: "Regulatory", desc: "USACE Savannah District and Georgia DNR EPD contact directories, email templates, and site audit protocols." },
             { num: "18", name: "Open-Source eSignature Integration Playbook", cat: "Contract", desc: "Guide to deploying self-hosted Docuseal/OpenSign alternative platforms and managing legal compliance under GA UETA." },
-            { num: "19", name: "Georgia Regulatory Licensing & Permits Guide", cat: "Regulatory", desc: "Detailed analysis of Clean Water Act Section 404, Georgia EPD state stream buffer variances, GSWCC IA/IB/II cards, and competitor territorial gaps." }
+            { num: "19", name: "Georgia Regulatory Licensing & Permits Guide", cat: "Regulatory", desc: "Detailed analysis of Clean Water Act Section 404, Georgia EPD state stream buffer variances, GSWCC IA/IB/II cards, and competitor territorial gaps." },
+            { num: "20", name: "Strategic Board of Advisors Recruiting Plan", cat: "Strategy", desc: "Detailed profiles and onboarding pitch decks for 5 critical advisory board roles across regulatory, academic, legal, B2B sales, and heavy civil construction." }
         ];
 
         // Global State & UI Navigation
@@ -2117,9 +2118,11 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 let exactBase = "";
                 let folder = "";
 
-                if (d.num === "00" || d.num === "01") {
+                if (d.num === "00" || d.num === "01" || d.num === "20") {
                     folder = "01_Strategic_&_Business_Plans";
-                    exactBase = (d.num === "00") ? "00_START_HERE_Hunter_Action_Guide" : "01_Executive_Summary_&_Business_Plan";
+                    if (d.num === "00") exactBase = "00_START_HERE_Hunter_Action_Guide";
+                    else if (d.num === "01") exactBase = "01_Executive_Summary_&_Business_Plan";
+                    else exactBase = "20_Strategic_Board_of_Advisors_Recruiting_Plan";
                 } else if (d.num === "02" || d.num === "06" || d.num === "17" || d.num === "19") {
                     folder = "02_Regulatory_&_USACE_Frameworks";
                     if (d.num === "02") exactBase = "02_USACE_Mitigation_Banking_Framework";
