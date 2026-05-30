@@ -1442,7 +1442,7 @@
             <div class="folder-select-header" style="margin-top: 15px; margin-bottom: 25px;">
                 <h4 style="font-size: 1.3rem; color: var(--primary); letter-spacing: -0.3px;">📁 Enterprise Directory & Strategic Tiers</h4>
                 <p style="font-size: 0.88rem; color: var(--body-grey); margin-top: 6px; line-height: 1.5;">
-                    Filter all 53 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
+                    Filter all 54 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
                 </p>
             </div>
 
@@ -1458,7 +1458,7 @@
                         <div class="folder-meta">
                             <span class="folder-num">ALL ASSETS</span>
                             <h5 class="folder-name">Show All Library Files</h5>
-                            <span class="folder-count">53 Files Total</span>
+                            <span class="folder-count">54 Files Total</span>
                         </div>
                     </div>
                 </div>
@@ -1596,7 +1596,7 @@
                             <div class="folder-meta">
                                 <span class="folder-num">07_BRAND</span>
                                 <h5 class="folder-name">Marketing & Brand</h5>
-                                <span class="folder-count">3 Files</span>
+                                <span class="folder-count">4 Files</span>
                             </div>
                         </div>
                         <!-- 08 Recruiting & Internships -->
@@ -2301,7 +2301,8 @@
             { num: "49", name: "SEO Outreach & Search Positioning Strategy", cat: "Marketing", desc: "Search positioning strategy detailing competitor backlink audits, transactional/informational keywords masterlists, and high-authority `.org/.gov/.edu` referral pipelines." },
             { num: "50", name: "Monday Launch Action Plan & High-Ticket Sourcing Blueprint", cat: "Strategy", desc: "Detailed hour-by-hour operational sourcing plan for Monday morning, detailing top 5 landowner targets, credit buyers, referral partners, phone scripts, and CRM setup workflows." },
             { num: "51", name: "Hyper-Scale 90-Day Sprint & 10-Person Team Scaling Playbook", cat: "Strategy", desc: "Action plan outlining a high-velocity 90-day execution roadmap, a structured 10-person recruitment and hiring funnel, and weekly Traction EOS scorecard alignment rhythms." },
-            { num: "52", name: "Hyper-Scale Operations & 10-Person Team Execution Blueprint", cat: "Strategy", desc: "Operations manual outlining the lean core FTE + graduate intern model, pre-sales SITING escrow deposits, heavy grading subcontractor QA checklists, and weekly EOS alignment scorecard metrics." }
+            { num: "52", name: "Hyper-Scale Operations & 10-Person Team Execution Blueprint", cat: "Strategy", desc: "Operations manual outlining the lean core FTE + graduate intern model, pre-sales SITING escrow deposits, heavy grading subcontractor QA checklists, and weekly EOS alignment scorecard metrics." },
+            { num: "53", name: "Landowner Cinematic Video Scripts & Aspirational Storytelling", cat: "Marketing", desc: "Storyboard templates and highly detailed narrative video scripts detailing geomorphic Natural Channel Design (NCD) vs corporate clear-cutting rip-rap approaches, highlighting Hunter's angler-builder differentiator." }
         ];
 
         // Global State & UI Navigation
@@ -2736,7 +2737,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 return "05";
             } else if (d.num === "16" || d.num === "18" || d.num === "23") {
                 return "06";
-            } else if (d.num === "10" || d.num === "40" || d.num === "49") {
+            } else if (d.num === "10" || d.num === "40" || d.num === "49" || d.num === "53") {
                 return "07";
             } else if (d.num === "14" || (n >= 28 && n <= 39)) {
                 return "08";
@@ -2869,11 +2870,12 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     if (d.num === "16") exactBase = "16_Roya_Cabin_Anderson_Creek_Mitigation_Agreement";
                     else if (d.num === "18") exactBase = "18_Open_Source_eSignature_Integration_Playbook";
                     else exactBase = "23_Remediation_and_Risk_Mitigation_Bylaws";
-                } else if (d.num === "10" || d.num === "40" || d.num === "49") {
+                } else if (d.num === "10" || d.num === "40" || d.num === "49" || d.num === "53") {
                     folder = "07_Marketing_&_Social_Content";
                     if (d.num === "10") exactBase = "10_LinkedIn_Ready_to_Post_Content";
                     else if (d.num === "40") exactBase = "40_B2B_Brand_Identity_&_Visual_Style_Guide";
-                    else exactBase = "49_SEO_Outreach_&_Search_Positioning_Strategy";
+                    else if (d.num === "49") exactBase = "49_SEO_Outreach_&_Search_Positioning_Strategy";
+                    else exactBase = "53_Landowner_Cinematic_Video_Scripts_&_Aspirational_Storytelling";
                 } else if (d.num === "14" || (parseInt(d.num) >= 28 && parseInt(d.num) <= 39)) {
                     folder = "08_Recruiting_&_Internships";
                     if (d.num === "14") exactBase = "14_Regional_Internship_Postings_&_Recruiting";
