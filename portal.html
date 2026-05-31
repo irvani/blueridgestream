@@ -1442,7 +1442,7 @@
             <div class="folder-select-header" style="margin-top: 15px; margin-bottom: 25px;">
                 <h4 style="font-size: 1.3rem; color: var(--primary); letter-spacing: -0.3px;">📁 Enterprise Directory & Strategic Tiers</h4>
                 <p style="font-size: 0.88rem; color: var(--body-grey); margin-top: 6px; line-height: 1.5;">
-                    Filter all 66 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
+                    Filter all 72 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
                 </p>
             </div>
 
@@ -1458,7 +1458,7 @@
                         <div class="folder-meta">
                             <span class="folder-num">ALL ASSETS</span>
                             <h5 class="folder-name">Show All Library Files</h5>
-                            <span class="folder-count">66 Files Total</span>
+                            <span class="folder-count">72 Files Total</span>
                         </div>
                     </div>
                 </div>
@@ -1521,7 +1521,7 @@
                             <div class="folder-meta">
                                 <span class="folder-num">03_PROJECTS</span>
                                 <h5 class="folder-name">Project Case Studies</h5>
-                                <span class="folder-count">4 Files</span>
+                                <span class="folder-count">10 Files</span>
                             </div>
                         </div>
                         <!-- 09 Operations Playbooks -->
@@ -2372,7 +2372,13 @@
             { num: "62", name: "Spawning Water Chemistry: Dissolved Oxygen & Turbidity Biochemistry", cat: "Operations", desc: "Biochemical masterclass detailing trout gill metabolic oxygen exchanges, temperature-dependent Henry's Law solubility constant curves, and silt-cleaning bioengineered riffle scour." },
             { num: "63", name: "Coldwater Thermal Refuge Restoration & Canopy Shading Dynamics", cat: "Operations", desc: "Design guide establishing standard wild trout thermal ranges, solving the Beer-Lambert canopy solar shielding equation, and detailing plunge pool hydraulics." },
             { num: "64", name: "Data Center Hydrologic Drawdown & Watershed Cooling Mitigation", cat: "Operations", desc: "Scientific prospectus analyzing evaporative cooling water use, aquifer drawdown thermal stresses on headwaters, and sponsoring Spawning Bio-Reserves as ESG offsets." },
-            { num: "65", name: "Commercial Angling Micro-SaaS & Trout Unlimited Scientific Alliance Playbook", cat: "Operations", desc: "Monetization playbook detailing fly-shop widgets, private lodge Hardware-as-a-Service, TU scientist contacts, and USGS rating curve algorithms." }
+            { num: "65", name: "Commercial Angling Micro-SaaS & Trout Unlimited Scientific Alliance Playbook", cat: "Operations", desc: "Monetization playbook detailing fly-shop widgets, private lodge Hardware-as-a-Service, TU scientist contacts, and USGS rating curve algorithms." },
+            { num: "66", name: "ACR Master Restoration Workflow & Trout Ecology Guide", cat: "Case Study", desc: "Showcase project master guide detailing the 10-step geomorphic/regulatory lifecycle and wild brown trout spawning requirements." },
+            { num: "67", name: "ACR Pre-Restoration Baseline Assessment Report", cat: "Case Study", desc: "Showcase pre-work baseline assessment documenting pasture degradation, high thermal stress (71.8°F), DO deficits, and bank erosion curves." },
+            { num: "68", name: "ACR USACE Nationwide Permit 27 Regulatory Narrative", cat: "Case Study", desc: "Showcase completed Section 404 NWP 27 Pre-Construction Notification narrative detailing J-hooks, cross-vanes, sediment bypass, and 12,900-credit ledger." },
+            { num: "69", name: "ACR Georgia EPD Trout Stream Buffer Variance Application", cat: "Case Study", desc: "Showcase completed state EPD variance application for working inside the 25-ft buffer, detailing clean-water bypass pumps and vegetative stabilization." },
+            { num: "70", name: "ACR Post-Restoration As-Built Monitoring Report", cat: "Case Study", desc: "Showcase post-work verification documenting conversion to Rosgen B4c channel, thermal cooling to 64.2°F, clean sorted gravels, EPT recovery, and active redd counts." },
+            { num: "71", name: "ACR Creekside Stream Monitoring Field Data Sheet", cat: "Case Study", desc: "Dynamic blank field monitoring datasheet detailing Wolman pebble count grids, EPA RBP benthic insect cards, redd logs, and parameter log tables." }
         ];
 
         // Global State & UI Navigation
@@ -2918,12 +2924,22 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     else if (d.num === "17") exactBase = "17_Government_&_Regulatory_Outreach_Plan";
                     else if (d.num === "19") exactBase = "19_Georgia_Regulatory_Licensing_&_Permits_Guide";
                     else exactBase = "21_High_Gradient_Fluvial_Bioengineering_Manual";
-                } else if (d.num === "03" || d.num === "07" || d.num === "08" || d.num === "42") {
-                    folder = "03_Project_Case_Studies";
-                    if (d.num === "03") exactBase = "03_ACR_Anderson_Creek_Case_Study";
-                    else if (d.num === "07") exactBase = "07_Goldmine_Hollow_Case_Study";
-                    else if (d.num === "08") exactBase = "08_Project_Execution_&_Reference_Case";
-                    else exactBase = "42_Nationwide_Permit_27_PCN_Technical_Template";
+                } else if (d.num === "03" || d.num === "07" || d.num === "08" || d.num === "42" || (parseInt(d.num) >= 66 && parseInt(d.num) <= 71)) {
+                    if (d.num === "03" || d.num === "07" || d.num === "08" || d.num === "42") {
+                        folder = "03_Project_Case_Studies";
+                        if (d.num === "03") exactBase = "03_ACR_Anderson_Creek_Case_Study";
+                        else if (d.num === "07") exactBase = "07_Goldmine_Hollow_Case_Study";
+                        else if (d.num === "08") exactBase = "08_Project_Execution_&_Reference_Case";
+                        else exactBase = "42_Nationwide_Permit_27_PCN_Technical_Template";
+                    } else {
+                        folder = "03_Project_Case_Studies/Anderson_Creek_Showcase_Project";
+                        if (d.num === "66") exactBase = "66_ACR_Master_Restoration_Workflow_&_Trout_Ecology_Guide";
+                        else if (d.num === "67") exactBase = "67_ACR_Pre_Restoration_Baseline_Assessment_Report";
+                        else if (d.num === "68") exactBase = "68_ACR_USACE_Nationwide_Permit_27_Regulatory_Narrative";
+                        else if (d.num === "69") exactBase = "69_ACR_Georgia_EPD_Trout_Stream_Buffer_Variance_Application";
+                        else if (d.num === "70") exactBase = "70_ACR_Post_Restoration_As_Built_Monitoring_Report";
+                        else exactBase = "71_ACR_Creekside_Stream_Monitoring_Field_Data_Sheet";
+                    }
                 } else if (d.num === "04" || d.num === "09" || d.num === "11" || d.num === "12" || d.num === "22") {
                     folder = "04_Market_&_Competitor_Intelligence";
                     if (d.num === "04") exactBase = "04_Competitor_Analysis_Matrix";
