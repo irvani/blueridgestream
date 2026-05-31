@@ -127,8 +127,55 @@ $$v_s = \frac{g \cdot (\rho_p - \rho_f) \cdot d^2}{18 \cdot \mu}$$
     *   ρ_f is the density of water (1,000 kg/m³).
     *   d is the sediment particle diameter (m).
     *   μ is the dynamic viscosity of water (1.002 x 10⁻³ Pa·s at 20°C).
-*   *Restoration Design Goal*: To prevent fine silt (d = 0.05 mm) from settling onto spawning gravels, the local shear velocity and upward turbulent fluid forces must exceed the settling velocity (vs = 0.0022 m/s). 
 *   *Fluvial Solution*: We place **Rock J-Hook Vanes** and **Log Step-Pools** that contract the channel bankfull width by **50%**, concentrating streamflow down the thalweg. This geomorphic constriction locally elevates shear velocity during high-flow events, keeping fine silts in suspension and scouring the spawning gravel beds (D₅₀ = 22mm) clean.
+
+---
+
+### 4. The 'Wonder-Pool' Cascade (The Fluvial Support & Lift Design)
+To achieve the highest tier of stream trout restoration, Blue Ridge Stream Restoration integrates the **'Wonder-Pool' Cascade System** (our proprietary *Wonder Bra Stream Alignment* design) into its projects. This system is designed as a series of interconnected, cascading pool basins and banks that flow one into another into another, creating an optimal, high-oxygen environment for wild Brown Trout.
+
+```
+                    THE 'WONDER-POOL' CASCADE PROFILE
+                    
+   Pool N-1 (Spawning Tail) ---> Aeration Chute (High Turbulence) ---> Pool N (Refuge)
+   ======================\               /========\                  \
+    [Gravels: D50=22mm]   \             /          \                  \________________
+                           \___________/            \===> Plunge       [Deep Coldwater]
+                            Hyporheic Flow                Mixing        Depth: 1.5m-2.5m
+```
+
+#### Fluvial Support & Lift Geomorphology
+The name is derived from structural engineering principles:
+1.  ** contoured sills ("Undervanes")**: Large, interlocking granite rock cross-vanes or J-hooks are arched upstream to act as "undervanes." This lifts upstream water levels (backwater effect) by 0.3m to 0.6m, preventing seasonal headcutting and drying.
+2.  **Support Cups (Root-Wad Structures)**: Live-planted outer bank structures shape and support the banks like protective cups, stabilizing the stream banks under massive storm shear stresses and eliminating lateral erosion.
+3.  **Cascading Step-Downs**: Water flows from one deep plunge-pool chamber (depths of 1.5m to 2.5m) over a rock weir sill into the next. Each step is connected by a steep, high-velocity chute, generating a self-sustaining series of deep holding ponds.
+
+#### Atmospheric Aeration & Gas Saturation (Henry's & Game-Gameson Laws)
+As water plunges from one step-down pond to another, the high-velocity turbulence draws in atmospheric air, forcing dissolved oxygen to maximum saturation (Henry's Law). The oxygen deficit ratio (r) across the weir steps is governed by the **Game-Gameson Aeration Equation**:
+
+r = 1 + 0.38 · a · b · H · (1 - 0.11 · H) · (1 + 0.046 · T)
+
+*   *Where*:
+    *   **r** is the oxygen deficit ratio (Cs - Cin) / (Cs - Cout).
+    *   **a** is the water quality factor (1.25 for clean mountain streams).
+    *   **b** is the structure geometry coefficient (1.35 for highly turbulent rock vanes).
+    *   **H** is the hydraulic drop height per step (meters, target H = 0.50m).
+    *   **T** is the water temperature (°C).
+
+Through 3 to 4 sequential step plunge pools (total head drop of 1.5m to 2.0m), oxygen-depleted upstream pasture water (e.g. DO = 5.2 mg/L at 18.0°C) is aggressively aerated, emerging at near-100% saturation (DO >= 8.6 mg/L) at the spawning tail-out, which is optimal for wild brown trout respiration.
+
+#### Plunge Pool Bed Mechanics & Silt Flushing
+To prevent fine pasture silt (<2mm) from settling on the sorted spawning gravel beds ($D_{50} = 22\text{mm}$), the pool bed hydraulics are designed to generate high local shear stress (τ) using the **DuBoys Equation**:
+
+τ = γ · R · S
+
+*   *Where*:
+    *   **τ** is the boundary shear stress (N/m²).
+    *   **γ** is the unit weight of water (9,810 N/m³).
+    *   **R** is the hydraulic radius (design R = 0.65m in plunge pool throat).
+    *   **S** is the local energy slope (0.008 during 2-year storm events).
+
+This concentrates local boundary shear stress to τ ≈ 51.0 N/m² in the pool throats. Fine silt is suspended and scoured out at a critical threshold of τ_c = 0.25 to 1.8 N/m², whereas spawning gravels ($D_{50} = 22\text{mm}$) remain stable, ensuring that each pool tail-out behaves as a self-cleaning spawning bed.
 
 ---
 

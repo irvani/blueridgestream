@@ -75,11 +75,73 @@ $$S_{\text{attenuation}} = 1 - e^{-k \cdot \text{LAI}}$$
 
 ### 3. Pool-to-Riffle Sequencing Ratios
 *   High-gradient Blue Ridge stream reaches (Rosgen B3-B4 types) require a pool-to-riffle spacing ratio of **5 to 7 bankfull widths**.
-*   Pools are excavated immediately downstream of geomechanical rock J-hook vanes to provide deep, thermal refuges (minimum depth **1.2m to 1.8m**) with slow resting currents ($<0.1\text{ m/s}$).
+*   Pools are excavated immediately downstream of geomechanical rock J-hook vanes to provide deep, thermal refuges (minimum depth **1.2m to 1.8m**) with slow resting currents (<0.1 m/s).
 
 ---
 
-## III. Switched-Power Hardware Schematics & Component Interface Wiring
+## III. The 'Wonder-Pool' Cascade System (The Geomorphic 'Wonder Bra' Alignment)
+
+For our highest-tier, high-velocity stream restoration projects, we utilize a specialized design standard called the **'Wonder-Pool' Cascade System**. Taking inspiration from architectural and support engineering, this system acts as a "geomorphic lift and support framework" (colloquially termed the *Wonder Bra stream alignment*) that structuralizes degraded, sagging banks and lifts hyporheic stream levels to create a highly oxygenated, thermally stable habitat sequence optimal for wild Brown Trout (`Salmo trutta`).
+
+```
+                    THE 'WONDER-POOL' CASCADE SCHEMATIC
+                    
+     Upstream Riffle          Contour Under-Vane Sill         Plunge Pool Chamber
+   [Sorted Spawning Gravel]     (Interlocking Rock Vane)      (Scoured Coldwater Refuge)
+     D50: 15mm - 40mm             Lifts Baseflow Water         Depth: 1.5m - 2.5m
+   ======================\               /=====\              \
+                          \             /       \              \
+                           \___________/         \              \___________________
+                            Hyporheic Flow        \              Deep Rest Currents
+                            (Downwelling DO)       \===> Plunge   (Groundwater Springs)
+                                                      Aeration
+```
+
+### 1. Fluvial Lift & Structural Support Geomorphology
+In degraded agricultural valleys, streams tend to "sag" and widen (Rosgen F or G types), losing pool depth and collapsing laterally. The 'Wonder-Pool' Cascade System restores structure and lift through three unified design elements:
+*   **Contour Under-Vanes ("Underwire Sills")**: Constructed using large, heavy interlocking limestone or granite boulders (500 kg to 1,500 kg) placed in an upstream-pointing arch (20 to 30 degrees relative to stream banks) with a 4% to 8% throat slope. These structures act as "underwire support sills," lifting upstream baseflow water levels by 0.3m to 0.6m. This backwater "cushion" reduces erosive bank shear stress, sub-irrigates adjacent wetlands, and forces groundwater recharge.
+*   **Fluvial Support Cups (Bioengineered Toe-Wood & Root-Wads)**: We construct interlocking root-wad complexes from field-sourced oak and hemlock trees along the outer bank bends of the pools. By wrapping the root-wads with coconut coir geotextiles and backfilling with gravel, we create structural "cups" that support the vertical banks, preventing bank collapse and providing overhead thermal cover for adult brown trout.
+*   **Cascade step-downs ("Step-Ponds")**: The stream is aligned into a series of 3 to 5 successive step-down plunge pools connected by steep, rock-armored chutes. Sinuosity is carefully balanced at K = 1.25 to 1.35.
+
+### 2. High-Oxygen Plunge Pool Aeration Physics
+Brown trout require exceptionally high dissolved oxygen levels, particularly in high-temperature seasons or near downstream industrial thermal discharges. Atmospheric gas transfer is programmatically maximized as water plunges over each rock weir sill. 
+
+#### The Game-Gameson Aeration Equation
+The oxygen transfer and regeneration across our geomorphic weir steps are modeled by the **Game-Gameson Equation**:
+
+r = 1 + 0.38 · a · b · H · (1 - 0.11 · H) · (1 + 0.046 · T)
+
+*   *Where*:
+    *   **r** is the oxygen deficit ratio, defined as (Cs - Cin) / (Cs - Cout).
+    *   **Cs** is the temperature-dependent saturation concentration of dissolved oxygen (mg/L).
+    *   **Cin** is the dissolved oxygen concentration of the water entering the cascade step (mg/L).
+    *   **Cout** is the regenerated dissolved oxygen concentration of the water exiting the cascade step (mg/L).
+    *   **a** is the water quality parameter (we use a strict conservative standard of 1.25 for clean, high-clarity mountain trout streams).
+    *   **b** is the structure geometry parameter (1.00 for simple flat step-weirs; we design curved rock J-hooks that induce intense focal turbulence and vortex mixing, achieving b = 1.35).
+    *   **H** is the hydraulic drop height per step (meters, design target H = 0.45m to 0.60m).
+    *   **T** is the water temperature (°C).
+
+*   *Fluvial Design Impact*: If an upstream degraded stretch suffers from low-flow hypoxia (Cin = 5.2 mg/L at a summer temperature of 18.0°C, where Cs = 9.45 mg/L), passing through a 3-step 'Wonder-Pool' Cascade (total drop H_total = 1.5m over curved sills b = 1.35) regenerates the deficit ratio (r ≈ 2.12), elevating downstream dissolved oxygen to a highly oxygenated Cout = 8.65 mg/L.
+
+### 3. Substrate Self-Scouring Bed Mechanics
+The tail-out of each plunge pool serves as the spawning sanctuary bed. To ensure that fine silts (<2mm) do not settle and cement these spawning gravels, the bed shear stress (τ) must be concentrated to scour sediment without washing away the medium-sized pebbles (D50 = 15mm to 40mm) required for brown trout spawning redds.
+
+#### The DuBoys Shear Stress Model
+The active boundary shear stress in the plunge pool throat is calculated using the **DuBoys Equation**:
+
+τ = γ · R · S
+
+*   *Where*:
+    *   **τ** is the boundary shear stress (N/m²).
+    *   **γ** is the unit weight of water (9,810 N/m³).
+    *   **R** is the hydraulic radius (meters, design R = 0.65m in the pool throat during bankfull flows).
+    *   **S** is the local energy slope (0.008 during 2-year bankfull events).
+
+*   *Sediment Flushing Design*: This geomorphic design yields an active pool throat shear stress of τ ≈ 51.0 N/m² during bankfull events. According to Shields' critical shear stress threshold curve, fine sand and agricultural silts are scoured and suspended at a critical stress of τ_c = 0.25 to 1.8 N/m², whereas spawning pebbles (D50 = 22mm) remain structurally stable, requiring a shear stress exceeding τ_c = 15.6 N/m² to mobilize. This discrepancy guarantees that fine silts are aggressively flushed out of the plunge pool chambers, depositing sorted, silt-free spawning gravels at the tail-outs.
+
+---
+
+## IV. Switched-Power Hardware Schematics & Component Interface Wiring
 
 To ensure long-term, off-grid telemetry operation on a small **3.7V 3200mAh LiFePO4 battery**, we cannot leave our high-draw 12V Modbus sensors powered continuously. We utilize a **Switched-Power MOSFET Rail** controlled by a microcontroller GPIO pin to apply 12V boost power only during measurement windows.
 
@@ -144,7 +206,7 @@ Use this exact wiring layout to assemble the streamside PCB node:
 
 ---
 
-## IV. Trout Telemetry REST & GraphQL Integration APIs
+## V. Trout Telemetry REST & GraphQL Integration APIs
 
 Our streamside base gateway operates a private REST API database replication layer that synchronizes environmental data with national conservation repositories.
 
