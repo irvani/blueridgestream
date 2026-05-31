@@ -323,6 +323,20 @@
                             <div class="calc-metric-lbl">Gross Asset Valuation</div>
                             <div class="calc-metric-num" id="res-cred-value">$3,870,000</div>
                         </div>
+                        <!-- Compensatory Stream Credit Meter -->
+                        <div class="portal-meter-container">
+                            <div class="portal-meter-label-row">
+                                <span>Credit Target Meter</span>
+                                <span id="res-cred-percent" style="color: var(--accent); font-weight: 700;">43%</span>
+                            </div>
+                            <div class="portal-meter-bg">
+                                <div id="res-cred-bar-fill" class="portal-meter-fill" style="width: 43%;"></div>
+                            </div>
+                            <div class="portal-meter-range-row">
+                                <span>0 Credits</span>
+                                <span>50,000 Credits (Max Target)</span>
+                            </div>
+                        </div>
                         <div class="calc-metric">
                             <div class="calc-metric-lbl">Initial 15% Release Liquidity</div>
                             <div class="calc-metric-num highlight" id="res-cred-release">3,225 Credits ($580,500 Value)</div>
@@ -341,6 +355,20 @@
                         <div class="calc-metric">
                             <div class="calc-metric-lbl">Required Mitigation Offsets (Debits)</div>
                             <div class="calc-metric-num highlight" id="res-deb-required">5,800</div>
+                        </div>
+                        <!-- Interactive Debit Exposure Meter -->
+                        <div class="portal-meter-container">
+                            <div class="portal-meter-label-row">
+                                <span>Debit Exposure Level (Regulatory Risk)</span>
+                                <span id="res-deb-percent" style="color: #ff6b6b; font-weight: 700;">12%</span>
+                            </div>
+                            <div class="portal-meter-bg">
+                                <div id="res-deb-bar-fill" class="portal-meter-fill" style="background: linear-gradient(90deg, #ff6b6b 0%, #ff4757 100%); width: 12%;"></div>
+                            </div>
+                            <div class="portal-meter-range-row">
+                                <span>0 Debits</span>
+                                <span>50,000 Max Exposure Target</span>
+                            </div>
                         </div>
                         <div class="calc-metric">
                             <div class="calc-metric-lbl">Estimated Compensatory Credit Cost</div>
@@ -1533,6 +1561,12 @@
             document.getElementById('res-cred-generated').textContent = Math.round(credits).toLocaleString();
             document.getElementById('res-cred-value').textContent = `$${Math.round(value).toLocaleString()}`;
             document.getElementById('res-cred-release').textContent = `${Math.round(release).toLocaleString()} Credits ($${Math.round(releaseVal).toLocaleString()} Value)`;
+            
+            // Animate Credit Target Meter
+            const maxCredits = 50000;
+            const pct = Math.min((credits / maxCredits) * 100, 100);
+            document.getElementById('res-cred-percent').textContent = `${Math.round(pct)}%`;
+            document.getElementById('res-cred-bar-fill').style.width = `${pct}%`;
         }
 
         function calculateDebits() {
@@ -1550,6 +1584,12 @@
             document.getElementById('res-deb-factor').textContent = factor.toFixed(2);
             document.getElementById('res-deb-required').textContent = Math.round(debits).toLocaleString();
             document.getElementById('res-deb-cost').textContent = `$${Math.round(cost).toLocaleString()}`;
+            
+            // Animate Debit Exposure Meter
+            const maxDebits = 50000;
+            const pct = Math.min((debits / maxDebits) * 100, 100);
+            document.getElementById('res-deb-percent').textContent = `${Math.round(pct)}%`;
+            document.getElementById('res-deb-bar-fill').style.width = `${pct}%`;
         }
 
         // B2B CRM Filter and Search
@@ -2562,6 +2602,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
         window.onload = function() {
             loadChecklist();
             calculateCredits();
+            calculateDebits();
             populateCRM();
             populateCompetitors();
             populateSites();

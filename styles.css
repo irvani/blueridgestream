@@ -175,12 +175,16 @@ nav {
 }
 
 .hero-subtitle {
-    color: var(--accent);
     text-transform: uppercase;
     font-size: 0.9rem;
     font-weight: 700;
     letter-spacing: 2px;
     margin-bottom: 16px;
+    background: linear-gradient(135deg, var(--accent) 0%, var(--primary-light) 50%, var(--accent) 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: streamGlow 4s linear infinite;
 }
 
 .hero h1 {
@@ -2466,5 +2470,101 @@ footer {
     color: var(--body-grey);
     line-height: 1.4;
 }
+/* ==========================================================================
+   PREMIUM POLISH & INTERACTIVE VISUAL DETAILS
+   ========================================================================== */
 
+/* Custom Premium Scrollbars */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
 
+::-webkit-scrollbar-track {
+    background: var(--light-bg);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(31, 78, 121, 0.2);
+    border-radius: 5px;
+    border: 2px solid var(--light-bg);
+    transition: background var(--duration-normal) ease-out;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-light);
+}
+
+/* Elegant Focus glows on inputs & forms */
+.form-control:focus, .calc-input:focus, .calc-select:focus {
+    outline: none !important;
+    border-color: var(--accent) !important;
+    box-shadow: 0 0 0 3px rgba(44, 147, 128, 0.15) !important;
+}
+
+/* Interactive spring snaps on active click triggers */
+.btn-primary:active, .btn-secondary:active, .btn-submit:active, .tab-btn:active, 
+.calc-tab-btn:active, .btn-action:active, .folder-card:active, .differentiator-btn:active,
+.btn-estimator:active {
+    transform: scale(0.97) !important;
+}
+
+/* Fluvial Animated Gradient glow keyframes */
+@keyframes streamGlow {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.stewardship-tag, .sourcing-tag {
+    background: linear-gradient(135deg, var(--accent) 0%, var(--primary-light) 50%, var(--accent) 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: streamGlow 4s linear infinite;
+    font-weight: 700 !important;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+/* SOP Permitting Calculator: Interactive Real-Time Meters */
+.portal-meter-container {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background: rgba(255, 255, 255, 0.03);
+    padding: 16px;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.portal-meter-label-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: var(--text-xs);
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.portal-meter-bg {
+    height: 12px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.portal-meter-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent) 0%, var(--primary-light) 100%);
+    width: 0%;
+    transition: width 0.5s var(--ease-spring);
+}
+
+.portal-meter-range-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.7rem;
+    color: rgba(255, 255, 255, 0.4);
+    margin-top: 6px;
+}
