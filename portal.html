@@ -461,7 +461,7 @@
             <div class="folder-select-header">
                 <h4 class="folder-select-title">📁 Enterprise Directory & Strategic Tiers</h4>
                 <p class="folder-select-desc">
-                    Filter all 72 strategic, technical, and legal assets by clicking a subdirectory within our 4 core operational tiers:
+                    Filter all 81 strategic, technical, legal, and deep academic research assets by clicking a subdirectory within our core operational tiers:
                 </p>
             </div>
 
@@ -477,7 +477,7 @@
                         <div class="folder-meta">
                             <span class="folder-num">ALL ASSETS</span>
                             <h5 class="folder-name">Show All Library Files</h5>
-                            <span class="folder-count">72 Files Total</span>
+                            <span class="folder-count">81 Files Total</span>
                         </div>
                     </div>
                 </div>
@@ -1397,7 +1397,16 @@
             { num: "68", name: "ACR USACE Nationwide Permit 27 Regulatory Narrative", cat: "Case Study", desc: "Showcase completed Section 404 NWP 27 Pre-Construction Notification narrative detailing J-hooks, cross-vanes, sediment bypass, and 12,900-credit ledger." },
             { num: "69", name: "ACR Georgia EPD Trout Stream Buffer Variance Application", cat: "Case Study", desc: "Showcase completed state EPD variance application for working inside the 25-ft buffer, detailing clean-water bypass pumps and vegetative stabilization." },
             { num: "70", name: "ACR Post-Restoration As-Built Monitoring Report", cat: "Case Study", desc: "Showcase post-work verification documenting conversion to Rosgen B4c channel, thermal cooling to 64.2°F, clean sorted gravels, EPT recovery, and active redd counts." },
-            { num: "71", name: "ACR Creekside Stream Monitoring Field Data Sheet", cat: "Case Study", desc: "Dynamic blank field monitoring datasheet detailing Wolman pebble count grids, EPA RBP benthic insect cards, redd logs, and parameter log tables." }
+            { num: "71", name: "ACR Creekside Stream Monitoring Field Data Sheet", cat: "Case Study", desc: "Dynamic blank field monitoring datasheet detailing Wolman pebble count grids, EPA RBP benthic insect cards, redd logs, and parameter log tables." },
+            { num: "72", name: "Rhododendron maximum Bioengineering Science", cat: "Research Library", desc: "Scientific guide on rosebay root geomechanics, soil cohesion shear math, thermal shade attenuation, and dormant-season field transplanting." },
+            { num: "73", name: "Trout Unlimited Restoration Case Studies", cat: "Research Library", desc: "Process-based agricultural case studies analyzing Spring Creek pasture fencing, Potomac canopy buffers, and Driftless Area Lunker silt scours." },
+            { num: "74", name: "Urban Stormwater PRM Restorations & Hydraulics", cat: "Research Library", desc: "Technical manual on data center impervious surface runoff, permissible velocity boundaries, HEC-RAS 2D modeling, and J-hook rock vanes." },
+            { num: "75", name: "Rosgen Priority 1 Floodplain Reconnection", cat: "Research Library", desc: "Fluvial geomorphology design manual analyzing Dave Rosgen's 4 Priorities, valley water table elevation mechanics, and Muddy Creek wetlands." },
+            { num: "76", name: "International Dam Removal & Fish Passage", cat: "Research Library", desc: "Longitudinal connectivity review detailing Hiitolanjoki dam dismantling for Ladoga salmon, EU free-flowing policy, and rock ramp stairs." },
+            { num: "77", name: "Stream Restoration Research Library Master Catalog", cat: "Research Library", desc: "Searchable strategic database index cataloging 5 technical modules spanning nationwide and international environmental restoration precedents." },
+            { num: "78", name: "Academic Journal & Literature Database", cat: "Research Library", desc: "Ingestion-ready database profiling 10 high-impact peer-reviewed publications with exact DOIs, abstracts, and operations relevance." },
+            { num: "79", name: "Scientific Advisory Board Recruitment Directory", cat: "Research Library", desc: "Strategic directory profiling 6 world-leading scientists in geomorphology and hydrology, complete with custom outreach templates." },
+            { num: "80", name: "Academic Research Synthesis & Bioengineering Application", cat: "Research Library", desc: "PhD-grade research brief synthesizing soil-root shear biomechanics, solar canopy thermodynamics, and dam removal connectivity." }
         ];
 
         // Global State & UI Navigation
@@ -2034,6 +2043,35 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     else if (d.num === "46") exactBase = "46_Landowner_Referral_Program_&_JV_Incentive_Agreements";
                     else if (d.num === "47") exactBase = "47_Crisp_Inspired_High_Growth_Marketing_&_Aspirational_Referral_Playbook";
                     else exactBase = "48_Mitigation_Sourcing_&_Landowner_Joint_Venture_Masterbook";
+                } else if (parseInt(d.num) >= 72 && parseInt(d.num) <= 80) {
+                    if (d.num === "72") {
+                        folder = "11_Stream_Restoration_Research_Library/01_Bioengineered_Bank_Stabilization";
+                        exactBase = "Rhododendron_Bioengineering_Science";
+                    } else if (d.num === "73") {
+                        folder = "11_Stream_Restoration_Research_Library/02_Agricultural_Pasture_Reclamation";
+                        exactBase = "Trout_Unlimited_Restoration_Case_Studies";
+                    } else if (d.num === "74") {
+                        folder = "11_Stream_Restoration_Research_Library/03_Urban_Stormwater_Mitigation";
+                        exactBase = "Urban_Stormwater_PRM_Stream_Restorations";
+                    } else if (d.num === "75") {
+                        folder = "11_Stream_Restoration_Research_Library/04_Fluvial_Geomorphic_NCD";
+                        exactBase = "Rosgen_Priority_1_Floodplain_Reconnections";
+                    } else if (d.num === "76") {
+                        folder = "11_Stream_Restoration_Research_Library/05_Dam_Removal_&_Fish_Passage";
+                        exactBase = "Dam_Removal_Fish_Passage_US_Europe_Russia";
+                    } else if (d.num === "78") {
+                        folder = "11_Stream_Restoration_Research_Library/06_Academic_References_&_Articles";
+                        exactBase = "Academic_Journal_Database";
+                    } else if (d.num === "79") {
+                        folder = "11_Stream_Restoration_Research_Library/06_Academic_References_&_Articles";
+                        exactBase = "Scientific_Advisory_Board_Directory";
+                    } else if (d.num === "80") {
+                        folder = "11_Stream_Restoration_Research_Library";
+                        exactBase = "Academic_Research_Synthesis_Summary";
+                    } else {
+                        folder = "11_Stream_Restoration_Research_Library";
+                        exactBase = "README";
+                    }
                 }
 
                 card.innerHTML = `
@@ -2047,9 +2085,13 @@ hunter@blueridgestream.com | (555) 123-4567`;
                         <p style="font-size: 0.85rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 20px; padding: 0 16px;">${d.desc}</p>
                     </div>
                     <div style="display: flex; gap: 8px; margin-top: auto; padding: 16px;">
-                        <a href="./${folder}/${exactBase}.pdf" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #0d1b26 100%); color: white; border-radius: 6px; border: 1px solid ${col};" target="_blank">📄 PDF</a>
-                        <a href="./${folder}/${exactBase}.docx" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #3a4b5c 100%); color: white; border-radius: 6px; border: 1px solid ${col};" target="_blank">📝 Word</a>
-                        <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 6px;" target="_blank">🌐 MD</a>
+                        ${d.cat === "Research Library" ? `
+                            <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 8px 12px; font-size: 0.82rem; text-align: center; flex: 1; font-weight: 700; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 6px; display: flex; align-items: center; justify-content: center; gap: 6px;" target="_blank">📚 Open Research Module</a>
+                        ` : `
+                            <a href="./${folder}/${exactBase}.pdf" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #0d1b26 100%); color: white; border-radius: 6px; border: 1px solid ${col};" target="_blank">📄 PDF</a>
+                            <a href="./${folder}/${exactBase}.docx" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #3a4b5c 100%); color: white; border-radius: 6px; border: 1px solid ${col};" target="_blank">📝 Word</a>
+                            <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 6px;" target="_blank">🌐 MD</a>
+                        `}
                     </div>
                 `;
                 grid.appendChild(card);

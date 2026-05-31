@@ -29,7 +29,7 @@ Traditional environmental conglomerates treat stream restoration as a sterile tr
 
 ## II. Repository Directory Structure (PhD-Grade Reorganization)
 
-The repository has been programmatically sorted into 10 highly organized, color-coded subdirectories, aligning all strategic, technical, and legal assets into structured tiers:
+The repository has been programmatically sorted into 11 highly organized, color-coded subdirectories, aligning all strategic, technical, legal, and deep scientific research assets into structured tiers:
 
 ```
 ACR Stream Restoration/
@@ -43,6 +43,7 @@ ACR Stream Restoration/
 ├── 08_Recruiting_&_Internships/          # 12 specialized UGA/Clemson/GT intern training workstreams
 ├── 09_Operations_&_Technical_Playbooks/  # Drone photogrammetry, RTK GNSS, and hosting setups
 ├── 10_Outreach_&_Relationship_Banking/   # Ag/timber banker databases and B2B referrals directories
+├── 11_Stream_Restoration_Research_Library/# 5 technical modules spanning nationwide and international science
 ├── index.html                            # Public Landowner Siting Page & Yield Calculator
 ├── portal.html                           # Private Operations & Strategic Resource Portal
 └── styles.css                            # Global Trout-HSL Design Tokens & Layout stylesheet
