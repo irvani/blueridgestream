@@ -63,7 +63,7 @@ Designed to capture exurban B2B credit requests and source high-yield rural stre
 ### 2. Private Operations & Strategic Resource Portal (`portal.html`)
 The secure, B2B central database for partners, lawyers, and relationship lenders:
 - **Glassmorphic Folder Selector**: Responsive dashboard equipped with HSL trout-coordinated folder cards, custom vector SVG operational icons, and active indicator animations.
-- **Dynamic Real-Time JavaScript Search & Filters**: A comprehensive, programmatic search algorithm that filters and renders all **55 enterprise files** in real time by operation tiers, subdirectories, titles, and descriptions.
+- **Dynamic Real-Time JavaScript Search & Filters**: A comprehensive, programmatic search algorithm that filters and renders all **72 enterprise files** in real time by operation tiers, subdirectories, titles, and descriptions.
 - **High-Definition Widescreen Video Players**: Widescreen video players (1920x1080, 16:9 ratio) featuring slow-motion leaps of wild trout and slow-motion casting zooms, narrated in a deep, warm nature documentary style (David Attenborough tone) to establish high-end brand authority.
 
 ### 3. Styling Core (`styles.css`)
