@@ -85,7 +85,7 @@ When Hunter Morris pitches landowners or data center executives, his slides must
 |  +---------------------------+          | proceed: $696,600.00"         |
 |                                                                         |
 |-------------------------------------------------------------------------|
-| Board Member: Hadi Irvani (UVA/HBS)    | Managing Director: Hunter Morris|
+| Board Member: Hadi Irvani (UVA)    | Managing Director: Hunter Morris|
 +-------------------------------------------------------------------------+
 ```
 

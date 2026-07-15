@@ -26,7 +26,7 @@ PRE-CONSTRUCTION NOTIFICATION (PCN) TECHNICAL NARRATIVE
 
 APPLICANT: Save Our Streams Inc.
 MANAGING DIRECTOR: Hunter Morris
-BOARD MEMBER: Hadi Irvani (University of Virginia - UVA / HBS)
+BOARD MEMBER: Hadi Irvani (University of Virginia - UVA)
 PROJECT NAME: Anderson Creek Fluvial Restoration Project (Sandra's Cabin Reach)
 LOCATION: Fannin County, Georgia (Latitude: 34.8456° N, Longitude: 84.3412° W)
 WATERSHED: Upper Savannah River Basin (HUC 03060102)

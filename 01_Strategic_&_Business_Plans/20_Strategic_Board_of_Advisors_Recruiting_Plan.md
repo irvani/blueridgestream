@@ -2,7 +2,7 @@
 ## Save Our Streams USA Inc.
 
 **Founder & Managing Director**: Hunter Morris (bookings@flyfishingnorthgeorgia.com)  
-**Board Member**: Hadi Irvani (UVA / HBS Alumnus, GP at Infill Capital Partners)  
+**Board Member**: Hadi Irvani (UVA Alumnus, GP at Infill Capital Partners)  
 **Corporate Goal**: Secure elite capital, scientific, regulatory, and construction governance  
 
 ---
