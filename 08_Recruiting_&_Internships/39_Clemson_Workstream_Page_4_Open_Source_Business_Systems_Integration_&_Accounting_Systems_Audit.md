@@ -10,7 +10,7 @@
 
 ## 1. Executive Summary: Systems Integration & Efficiency
 
-For a boutique ecological restoration firm like **Blue Ridge Stream Restoration & Mitigation LLC**, operational margins depend heavily on keeping overhead low. 
+For a boutique ecological restoration firm like **Save Our Streams Inc.**, operational margins depend heavily on keeping overhead low. 
 
 By avoiding expensive commercial SaaS suites (e.g., Salesforce's $150/user/mo fees) and instead using self-hosted, robust **open-source business systems** integrated with industry-standard platforms (AWS, GitHub, QuickBooks, Google Drive), we maintain high efficiency and data transparency. 
 
@@ -80,7 +80,7 @@ We maintain a pristine, numbered folder hierarchy in Google Drive to store all l
 We utilize **QuickBooks Online (QBO)** for all financial operations. You will manage the general ledger, mapping accounts to the specialized **PeachDish Condensed Chart of Accounts**:
 - **Escrow Accounting**: Set up a designated **Working Capital Reserve Escrow (WCRE)** sub-account. For every credit sale, QBO must route exactly $12.5\%$ of gross proceeds into the WCRE to build our geomorphic CapEx reserve.
 - **Invoicing Developers**: Generate professional invoices to B2B buyers (e.g., QTS or Microsoft data centers) detailing credit quantities, HUC basins, and transaction totals.
-- **Landowner JV Payouts**: Upon receiving cash, generate $30\%$ split payouts to the landowner (e.g., Roya Irvani) within 5 business days, logging the expense against the corresponding stream reach project class.
+- **Landowner JV Payouts**: Upon receiving cash, generate $30\%$ split payouts to the landowner (e.g., ACR 1910 LLC — the Authorized Manager) within 5 business days, logging the expense against the corresponding stream reach project class.
 
 ### Layer 5: Open-Source CRM (Odoo / Corteza)
 Instead of paying exorbitant licensing fees to Salesforce, we deploy a self-hosted instance of **Corteza** or **Odoo Community Edition**.

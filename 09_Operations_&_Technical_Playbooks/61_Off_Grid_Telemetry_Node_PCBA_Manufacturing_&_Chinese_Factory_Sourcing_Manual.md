@@ -1,7 +1,7 @@
 # File 61: Off-Grid Telemetry Node PCBA Manufacturing & Chinese Factory Sourcing Manual
 
 > [!IMPORTANT]
-> **Industrial PCBA and Assembly Standard**: This document establishes the master manufacturing blueprint and factory sourcing manual for the Blue Ridge Stream Restoration telemetry nodes. By outsourcing PCB fabrication, component placement (PCBA), and final enclosure assembly directly to rapid-turnover factories in China (such as JLCPCB or PCBWay), we achieve high-quality hardware builds at a fraction of standard commercial costs. This manual provides specific Gerber file requirements, an exact LCSC-coded production Bill of Materials (BOM), physical waterproof NEMA enclosure layouts, and firmware provisioning configurations to compile and launch our Meshtastic stream telemetry nodes.
+> **Industrial PCBA and Assembly Standard**: This document establishes the master manufacturing blueprint and factory sourcing manual for the Save Our Streams Inc. telemetry nodes. By outsourcing PCB fabrication, component placement (PCBA), and final enclosure assembly directly to rapid-turnover factories in China (such as JLCPCB or PCBWay), we achieve high-quality hardware builds at a fraction of standard commercial costs. This manual provides specific Gerber file requirements, an exact LCSC-coded production Bill of Materials (BOM), physical waterproof NEMA enclosure layouts, and firmware provisioning configurations to compile and launch our Meshtastic stream telemetry nodes.
 
 ---
 
@@ -354,4 +354,4 @@ Vetted components for the base station gateway build are detailed below:
 *   **Power Distribution**: The Mornsun buck regulator steps down the variable 12V–24V DC battery line to a stable 5.0V (up to 5A) routed directly to the Pi's power test pads (pins 2 and 4), bypassing the fragile USB-C connector. A built-in transient voltage suppressor (TVS) diode (LCSC **SMBJ5.0A**) protects the computer from power surges caused by lightning strikes on high tower antennas.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

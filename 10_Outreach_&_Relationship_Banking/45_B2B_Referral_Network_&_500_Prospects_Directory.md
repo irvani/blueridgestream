@@ -3,9 +3,9 @@
 > [!IMPORTANT]
 > **Strict B2B Launch Policy**: In accordance with executive instructions, **no active outreach or cold emailing will be initiated at this stage**. This playbook, along with the detailed B2B referral incentive bylaws, outreach messaging scripts, and the 500-prospect target email directory, is fully staged and ready for immediate campaign activation.
 
-## I. The Blue Ridge Stream B2B Referral Program Bylaws
+## I. The Save Our Streams Inc. B2B Referral Program Bylaws
 
-To leverage the professional networks of lawyers, agricultural land bankers, forestry managers, and engineers, Blue Ridge Stream Restoration & Mitigation LLC operates a structured, three-track B2B referral reward program. This program maximizes high-converting lead acquisitions (such as degraded mountain trout wades, coastal marshlands, and industrial stream properties) by aligning direct cash or donation rewards with regional outdoor lifestyle incentives:
+To leverage the professional networks of lawyers, agricultural land bankers, forestry managers, and engineers, Save Our Streams Inc. operates a structured, three-track B2B referral reward program. This program maximizes high-converting lead acquisitions (such as degraded mountain trout wades, coastal marshlands, and industrial stream properties) by aligning direct cash or donation rewards with regional outdoor lifestyle incentives:
 
 ### Track A: Cash / Credit Referral Affiliate Fees
 - **The Reward Structure**: For any licensed attorney, real estate broker, or relationship banker who refers a qualified landowner stream bank project that closes a 70/30 Joint-Venture contract, Blue Ridge pays an **Affiliate Finder's Fee** of **2.0%** of the gross stream mitigation credit sales allocated to the developer's share.
@@ -47,7 +47,7 @@ To: [Partner_Email]
 
 Dear [Lawyer_Last_Name],
 
-I hope this finds you well. My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration LLC. I wanted to reach out regarding a strategic framework we have designed to help our partners in the environmental and estate law communities unlock high-yield conservation benefits for their clients.
+I hope this finds you well. My name is Hunter Morris, Managing Director of Save Our Streams Inc. LLC. I wanted to reach out regarding a strategic framework we have designed to help our partners in the environmental and estate law communities unlock high-yield conservation benefits for their clients.
 
 As a geomorphic design-build stream restoration firm, we specialize in layering credit-split stream mitigation banks onto large private properties at zero upfront cost to the owner. While this generates substantial liquid stream credits for the estate, we recognize the vital role that legal counsel plays in establishing these easements. To support your dedication to outdoor stewardship, Blue Ridge operates a Conservation Matching Program. Upon the successful closing of any referred landowner JV, we allocate 2.5% of our gross credit proceeds as a tax-deductible contribution to a conservation charity of your choice, such as Trout Unlimited or the Georgia Conservancy, in your firm's name.
 
@@ -57,7 +57,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -68,7 +68,7 @@ To: [Partner_Email]
 
 Dear [Banker_Last_Name],
 
-I hope your week is going well. My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration LLC.
+I hope your week is going well. My name is Hunter Morris, Managing Director of Save Our Streams Inc. LLC.
 
 We partner with relationship lenders, timber managers, and appraisers across Georgia to monetize degraded, non-buildable stream buffers. Using geomorphic bioengineering, we restore eroding creeks at zero cost to the owner, yielding lucrative stream mitigation credits. For our referring banking and brokerage partners, we provide a 2.0% cash affiliate finder's fee on our gross developer proceeds upon the successful closing of a Joint-Venture contract.
 
@@ -80,7 +80,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 

@@ -1,5 +1,5 @@
 # Georgia Trout Stream Restoration: Site & Watershed Database
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -8,7 +8,7 @@
 
 ---
 
-To help Hunter scale beyond his flagship showcases at **Anderson Creek (Roya's Cabin)** and **Goldmine Hollow (Hunter's Cabin)**, this database maps out **10 high-priority trout watersheds in North Georgia** where stream degradation is severe and opportunities for stream mitigation banking, Permittee-Responsible Mitigation (PRM), or high-end private landowner restorations are highly abundant.
+To help Hunter scale beyond his flagship showcases at **Anderson Creek (Sandra's Cabin)** and **Goldmine Hollow (Hunter's Cabin)**, this database maps out **10 high-priority trout watersheds in North Georgia** where stream degradation is severe and opportunities for stream mitigation banking, Permittee-Responsible Mitigation (PRM), or high-end private landowner restorations are highly abundant.
 
 ---
 

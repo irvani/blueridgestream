@@ -1,7 +1,7 @@
 # File 62: Water Chemistry Masterclass: Dissolved Oxygen & Turbidity Optimization
 
 > [!IMPORTANT]
-> **Biochemical and Geomorphic Design Standard**: This document establishes the water chemistry standards and geomorphic restoration parameters for the Blue Ridge Stream Restoration wild coldwater projects. By understanding the biophysical gas exchange mechanisms of trout gills, applying mathematical **Henry's Law** solubility models for dissolved oxygen, and geomechanically preventing fine sediment clay siltation of spawning gravels, we ensure our restorations satisfy the highest scientific standards. This manual details precise chemical limits, dissolved oxygen deficit equations, sedimentation mechanics, and bioengineered structures to restore spawning clarity.
+> **Biochemical and Geomorphic Design Standard**: This document establishes the water chemistry standards and geomorphic restoration parameters for the Save Our Streams Inc. wild coldwater projects. By understanding the biophysical gas exchange mechanisms of trout gills, applying mathematical **Henry's Law** solubility models for dissolved oxygen, and geomechanically preventing fine sediment clay siltation of spawning gravels, we ensure our restorations satisfy the highest scientific standards. This manual details precise chemical limits, dissolved oxygen deficit equations, sedimentation mechanics, and bioengineered structures to restore spawning clarity.
 
 ---
 
@@ -140,4 +140,4 @@ To stop clay erosion from entering the stream in the first place, we regrade uns
 *   *Friction Factor*: The thick woody stems create high hydraulic roughness, slowing bank velocities during floods and preventing soil erosion.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

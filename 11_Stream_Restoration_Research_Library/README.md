@@ -1,6 +1,6 @@
 # 📚 Nationwide & International Stream Restoration Research Library
 
-Welcome to the central **Stream Restoration Research Library & Database** for **Blue Ridge Stream Restoration & Mitigation LLC**. This database provides Co-Founder Hunter Morris and Board Member Hadi Irvani with an elite, scientifically rigorous set of reference cases, geomorphic techniques, and bioengineering precedents from around the globe.
+Welcome to the central **Stream Restoration Research Library & Database** for **Save Our Streams Inc.**. This database provides Co-Founder Hunter Morris and Board Member Hadi Irvani with an elite, scientifically rigorous set of reference cases, geomorphic techniques, and bioengineering precedents from around the globe.
 
 By utilizing these verified nationwide and international projects, the team can demonstrate advanced technical capability, justify permit applications before the USACE Savannah District and Georgia EPD, and inspire commercial B2B credit buyers (hyperscale data centers, industrial developers) and private mountain landowners.
 
@@ -60,4 +60,4 @@ When negotiating with hyperscale data center operators (e.g. QTS, Microsoft, Goo
 * Reference the **Rosgen Priority 1** case studies (**Module 04**) to justify advanced permitting under NWP 27. Show how connecting the stream bed back to its historical floodplain reduces downstream velocities, traps agricultural silt, and scores maximum Savannah District SOP credit factors ($8.6\text{ units/LF}$).
 
 ---
-*Prepared for the Blue Ridge Stream Restoration Team. Built with geomorphic and ecological integrity.*
+*Prepared for the Save Our Streams Inc. Team. Built with geomorphic and ecological integrity.*

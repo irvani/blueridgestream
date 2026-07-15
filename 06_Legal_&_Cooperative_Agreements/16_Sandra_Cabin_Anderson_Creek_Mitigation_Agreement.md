@@ -1,10 +1,10 @@
 # STREAM MITIGATION BANKING AND JOINT VENTURE COOPERATIVE AGREEMENT
-## PROJECT: ROYA'S CABIN AT ANDERSON CREEK (ACR)
+## PROJECT: SANDRA'S CABIN AT ANDERSON CREEK (ACR)
 
 This Stream Mitigation Banking and Joint Venture Cooperative Agreement (the "Agreement") is entered into and made effective as of **May 30, 2026** (the "Effective Date"), by and between:
 
-1.  **ROYA IRVANI**, an individual residing in the State of Georgia, owner of the real property commonly known as the "Roya's Cabin" parcel (hereinafter referred to as the **"Landowner"**); and
-2.  **BLUE RIDGE STREAM RESTORATION & MITIGATION LLC**, a Georgia limited liability company, with its principal place of business in North Georgia, represented by its Managing Director, **Hunter**, and its Board Member, **Hadi Irvani** (hereinafter referred to as the **"Developer"**).
+1.  **ACR 1910 LLC**, a Georgia limited liability company, acting through its **Authorized Manager** as its authorized manager, owner of the real property commonly known as the "Sandra's Cabin" parcel (hereinafter referred to as the **"Landowner"**); and
+2.  **Save Our Streams Inc.**, a Georgia limited liability company, with its principal place of business in North Georgia, represented by its Managing Director, **Hunter**, and its Board Member, **Hadi Irvani** (hereinafter referred to as the **"Developer"**).
 
 The Landowner and the Developer may collectively be referred to as the **"Parties"** or individually as a **"Party."**
 
@@ -12,7 +12,7 @@ The Landowner and the Developer may collectively be referred to as the **"Partie
 
 ### RECITALS
 
-**WHEREAS**, the Landowner is the sole fee simple owner of approximately thirty (30) acres of real property located along Anderson Creek in Gilmer/Fannin County, Georgia (the "Property"), which includes the historic mountain residence known as "Roya's Cabin"; and
+**WHEREAS**, the Landowner, ACR 1910 LLC, is the sole fee simple owner of approximately thirty (30) acres of real property located along Anderson Creek in Gilmer/Fannin County, Georgia (the "Property"), which includes the historic mountain residence known as "Sandra's Cabin"; and
 
 **WHEREAS**, Anderson Creek is a high-priority, coldwater trout stream within the USACE Savannah District that has suffered historic geomorphic degradation, including severe bank erosion, excessive widening (channel widening due to clearing), and heavy siltation that has impaired the spawning habitat of wild Rainbow and Brown trout; and
 
@@ -27,7 +27,7 @@ The Landowner and the Developer may collectively be referred to as the **"Partie
 ### SECTION 1: JOINT VENTURE & COMMERCIAL STRUCTURE
 
 #### 1.1 The 70/30 Credit-Split Model
-The Parties hereby establish a joint venture for the sole purpose of executing the Roya's Cabin Anderson Creek Restoration (ACR) project. In lieu of a direct land purchase or cash lease, the commercial consideration of this venture shall be structured as a **Mitigation Credit-Split**:
+The Parties hereby establish a joint venture for the sole purpose of executing the Sandra's Cabin Anderson Creek Restoration (ACR) project. In lieu of a direct land purchase or cash lease, the commercial consideration of this venture shall be structured as a **Mitigation Credit-Split**:
 1.  **Developer's Allocation**: The Developer shall receive **seventy percent (70%)** of all Stream Mitigation Credits generated and formally released by the USACE Savannah District for the ACR project.
 2.  **Landowner's Allocation**: The Landowner shall receive **thirty percent (30%)** of all Stream Mitigation Credits generated and formally released by the USACE Savannah District for the ACR project.
 
@@ -158,9 +158,10 @@ The Parties acknowledge that Stream Mitigation Credits are released incrementall
 ### SECTION 6: REPRESENTATIONS AND WARRANTIES
 
 #### 6.1 Landowner Representations
-The Landowner represents and warrants that:
-1.  They hold clear, marketable fee simple title to the Property, free and clear of all liens and encumbrances that could interfere with the recording of the Conservation Easement.
+The Landowner, ACR 1910 LLC, represents and warrants that:
+1.  It holds clear, marketable fee simple title to the Property, free and clear of all liens and encumbrances that could interfere with the recording of the Conservation Easement.
 2.  There are no pending foreclosure proceedings, boundary disputes, or environmental contamination issues affecting the Property.
+3.  ACR 1910 LLC is a duly organized Georgia limited liability company in good standing, and the Authorized Manager is duly authorized to execute this Agreement on its behalf.
 
 #### 6.2 Developer Representations
 The Developer represents and warrants that:
@@ -201,15 +202,16 @@ This Agreement constitutes the entire agreement between the Parties concerning t
 
 ### SIGNATURES
 
-**LANDOWNER:**
+**LANDOWNER:**  
+**ACR 1910 LLC**, a Georgia Limited Liability Company
 
 By: ____________________________________  
-**ROYA IRVANI**, Property Owner  
+**AUTHORIZED MANAGER**, ACR 1910 LLC  
 Date: __________________________________  
 
 
 **DEVELOPER:**  
-**BLUE RIDGE STREAM RESTORATION & MITIGATION LLC**
+**Save Our Streams Inc.**
 
 By: ____________________________________  
 **HUNTER**, Managing Director  

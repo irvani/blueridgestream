@@ -1,7 +1,7 @@
 # File 65: Commercial Angling Micro-SaaS & Trout Unlimited Scientific Alliance Playbook
 
 > [!IMPORTANT]
-> **Commercial and Scientific Alliance Standard**: This document outlines the monetization models and non-profit collaboration strategy for Blue Ridge Stream Restoration's real-time water quality telemetry network. By connecting local, off-grid LoRa-mesh and cellular stream monitors to commercially viable Micro-SaaS widgets, Hardware-as-a-Service (HaaS) leases, and corporate ESG offset mechanisms, we turn environmental data into a sustainable revenue generator. This playbook details our target commercial vectors, lists direct scientific and technical contacts within Trout Unlimited (TU) at both national and regional levels, and maps out an advanced system engineering roadmap to elevate our hydrological infrastructure to USGS-grade precision.
+> **Commercial and Scientific Alliance Standard**: This document outlines the monetization models and non-profit collaboration strategy for Save Our Streams Inc.'s real-time water quality telemetry network. By connecting local, off-grid LoRa-mesh and cellular stream monitors to commercially viable Micro-SaaS widgets, Hardware-as-a-Service (HaaS) leases, and corporate ESG offset mechanisms, we turn environmental data into a sustainable revenue generator. This playbook details our target commercial vectors, lists direct scientific and technical contacts within Trout Unlimited (TU) at both national and regional levels, and maps out an advanced system engineering roadmap to elevate our hydrological infrastructure to USGS-grade precision.
 
 ---
 
@@ -25,7 +25,7 @@ Fluvial data-sharing is not only a tool for environmental stewardship; it repres
 
 ### 3. Exurban Data Center ESG & Thermal Credit Offsets
 *   **The Problem**: Hyperscale data center operators (QTS, Microsoft, Google) consume millions of gallons of local groundwater daily for evaporative cooling, lowering aquifer water tables and decreasing coldwater stream baseflows. This leads to regulatory scrutiny and public pushback.
-*   **The B2B ESG Solution**: Blue Ridge stream sensors act as the third-party validation network for a proprietary **Thermal Stream Offset program**.
+*   **The B2B ESG Solution**: Save Our Streams Inc. sensors act as the third-party validation network for a proprietary **Thermal Stream Offset program**.
     *   *Data Delivered*: Continuous thermal attenuation verification, proving that our geomorphic canopy restorations are cooling streams by an amount equivalent to the data center's hydrologic footprint.
     *   *Monetization Model*: High-ticket annual consulting contracts and recurring "Thermal Offset Credit" verification fees (**$15,000 to $50,000+ USD per year**) billed to the corporate sustainability departments of tech conglomerates.
 
@@ -76,7 +76,7 @@ These grassroots leaders manage local chapter budgets, coordinate volunteer clea
     *   *Email*: `conservation@georgiatu.org`
 *   **Rodney Tumlin — Chairman, Georgia Council of TU**
     *   *Sourcing Role*: Leads the 12 active local chapters across the state of Georgia.
-    *   *Collaboration Pitch*: Establish Blue Ridge Stream Restoration as a sponsor of the Georgia Council's annual conservation fundraisers.
+    *   *Collaboration Pitch*: Establish Save Our Streams Inc. as a sponsor of the Georgia Council's annual conservation fundraisers.
     *   *Email*: `chairman@georgiatu.org`
 *   **Steve Westmoreland — Georgia National Leadership Council (NLC) Representative**
     *   *Sourcing Role*: Connects Georgia volunteer efforts with national policy directors.
@@ -113,4 +113,4 @@ To transition our current off-grid telemetry network from a functional prototype
     *   *Downsampling*: Run a daily background worker that downsamples data older than 90 days into hourly averages, and data older than 365 days into daily averages, preserving historical baseline trends while keeping the database exceptionally lean and fast.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

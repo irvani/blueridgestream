@@ -5,14 +5,14 @@
 
 ## I. Landowner Loyalty & Peer-to-Peer Referral Program Bylaws
 
-Rural landowners represent the ultimate partners for expanding Blue Ridge Stream Restoration & Mitigation LLC's geomorphic restoration footprint across North Georgia. Unlike corporate developers, landowners are heavily driven by the long-term stewardship, civil stability, and recreational value of their family estates. 
+Rural landowners represent the ultimate partners for expanding Save Our Streams Inc.'s geomorphic restoration footprint across North Georgia. Unlike corporate developers, landowners are heavily driven by the long-term stewardship, civil stability, and recreational value of their family estates. 
 
 To turn existing Joint-Venture (JV) land partners into active brand ambassadors, Blue Ridge operates a structured, three-option **Landowner Loyalty & Peer-to-Peer Referral Program**. For any existing landowner partner who refers a neighboring or regional property owner with a qualified degraded stream reach (subject to geomorphic verification of $\ge 50$ contiguous acres and $\ge 1,000$ linear feet of stream channel), Blue Ridge offers a choice of three premium incentives upon the successful execution of the new project's CWA Section 404 Joint-Venture contract:
 
 ### Option 1: The Joint-Venture Split Booster (Gross Revenue Acceleration)
 For landowners who prioritize liquid capital and long-term estate cash flow, Blue Ridge offers a permanent boost to their existing stream credit sales split:
 - **The Split Modification**: The referring landowner's own Joint-Venture credit split ratio is boosted by **2.0%** (increasing their share from the industry-standard **30.0% to 32.0%** of gross credit revenues on all remaining credit release tranches of their active project).
-- **The Financial Projections**: On a standard 1,500 linear foot mountain trout stream restoration project (such as Anderson Creek / Roya's Cabin) yielding 12,900 stream credits:
+- **The Financial Projections**: On a standard 1,500 linear foot mountain trout stream restoration project (such as Anderson Creek / Sandra's Cabin) yielding 12,900 stream credits:
   - *Standard 30% Share*: Grosses **425,700 USD** at $110/credit.
   - *Referral Boosted 32% Share*: Grosses **454,080 USD** at $110/credit.
   - *Net Value Added*: Generates an additional **28,380 USD** in liquid payout directly to the referring landowner, paid automatically as credits are released by the USACE Savannah District and sold.
@@ -60,11 +60,11 @@ For landowners whose properties are currently enrolled in Georgia's **Conservati
 ## II. Neighbor-to-Neighbor Landowner Outreach Kit
 
 ### 1. The Legacy Landowner Mailer (Direct Mail Template)
-*This mailer is designed to be printed on high-quality, textured cream cardstock featuring a professional, hand-signed letter from Hunter Morris and a customized map of Roya's Cabin or Anderson Creek. It targets adjacent large landowners in mountain trout watersheds.*
+*This mailer is designed to be printed on high-quality, textured cream cardstock featuring a professional, hand-signed letter from Hunter Morris and a customized map of Sandra's Cabin or Anderson Creek. It targets adjacent large landowners in mountain trout watersheds.*
 
 ```text
 ================================================================================
-                    BLUE RIDGE STREAM RESTORATION & MITIGATION
+                    Save Our Streams Inc.
                     "Restoring Georgia's Mountain Trout Legacies"
 ================================================================================
 
@@ -76,7 +76,7 @@ decades of agricultural clearing, severe storms, and timber harvesting, many of
 our mountain streams are suffering from accelerated bank erosion, losing valuable 
 topsoil and choking out our native wild brook trout spawning gravels.
 
-Blue Ridge Stream Restoration specializes in geomorphic design-build restoration. 
+Save Our Streams Inc. specializes in geomorphic design-build restoration. 
 We partner with private landowners to restore eroding creeks into stable, vibrant 
 trout wades. Through our Joint-Venture model, we cover 100% of the engineering, 
 permitting, and heavy excavation costs. In return, we generate lucrative stream 
@@ -103,7 +103,7 @@ Warm regards,
 
 Hunter Morris                                [Referring_Landowner_Signature]
 Managing Director                            Existing Landowner Partner
-hunter@blueridgestream.us.kg                 Blue Ridge Stream Referral Ambassador
+hunter@blueridgestream.us.kg                 Save Our Streams Inc. Referral Ambassador
 ================================================================================
 ```
 
@@ -126,7 +126,7 @@ hunter@blueridgestream.us.kg                 Blue Ridge Stream Referral Ambassad
                  LANDOWNER REFERRAL & JOINT VENTURE INCENTIVE AGREEMENT
                  
 THIS LANDOWNER REFERRAL & JOINT VENTURE INCENTIVE AGREEMENT (this "Agreement") 
-is entered into by and between BLUE RIDGE STREAM RESTORATION & MITIGATION LLC, 
+is entered into by and between Save Our Streams Inc., 
 a Georgia limited liability company, with its principal office located in Fannin 
 County, Georgia ("Developer"), and the undersigned landowner ("Referring Partner").
 
@@ -222,7 +222,7 @@ IN WITNESS WHEREOF, the Parties have executed this Landowner Referral & Joint
 Venture Incentive Agreement as of the dates indicated below.
 
 DEVELOPER:                                     REFERRING PARTNER:
-BLUE RIDGE STREAM RESTORATION LLC
+Save Our Streams Inc.
 
 By: _______________________________            By: _______________________________
     Hunter Morris, Managing Director               Landowner / Authorized Signatory

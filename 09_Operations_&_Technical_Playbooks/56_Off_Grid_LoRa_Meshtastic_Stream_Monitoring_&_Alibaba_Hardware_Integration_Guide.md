@@ -351,7 +351,7 @@ meshtastic --set power.on_battery_shutdown_after 0
 ```
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*
 
 ---
 
@@ -359,7 +359,7 @@ meshtastic --set power.on_battery_shutdown_after 0
 
 To elevate Hunter Morris’s venture beyond simple compliance and cement his status as Georgia's preeminent angler-builder, we leverage this off-grid LoRa telemetry network to fuel a public-facing **Angler Science & Community Stream Dashboard**. 
 
-Trout are coldwater obligate species. When water temperatures exceed 68°F (20°C), trout experience high metabolic stress, and catching them under these conditions often results in high mortality rates. By publishing real-time stream temperature and flow (discharge/level) data, Blue Ridge Stream Restoration provides an invaluable public utility for local fishermen, Trout Unlimited chapters, and state natural resource biologists.
+Trout are coldwater obligate species. When water temperatures exceed 68°F (20°C), trout experience high metabolic stress, and catching them under these conditions often results in high mortality rates. By publishing real-time stream temperature and flow (discharge/level) data, Save Our Streams Inc. provides an invaluable public utility for local fishermen, Trout Unlimited chapters, and state natural resource biologists.
 
 ```
                   [COMMUNITY DATA-SHARING DISSEMINATION PIPELINE]
@@ -371,7 +371,7 @@ Trout are coldwater obligate species. When water temperatures exceed 68°F (20°
                                               |
                                               v
                               +-------------------------------+
-                              |    Blue Ridge Stream API      |
+                              |    Save Our Streams Inc. API      |
                               | (JSON REST/Webhooks Endpoint) |
                               +-------|---------------|-------+
                                       |               |

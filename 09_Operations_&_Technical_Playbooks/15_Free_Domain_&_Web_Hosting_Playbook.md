@@ -1,5 +1,5 @@
 # Free Domain & Web Hosting Deployment Playbook
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -36,8 +36,8 @@ A short, memorable domain name looks highly professional on LinkedIn posts, busi
 
 | Domain Name | Business Alignment | Brand Value | Availability Tier |
 | :--- | :--- | :--- | :--- |
-| **`brs.us.kg`** | **Blue Ridge Stream** | ★★★★★ (Shortest, highly B2B-friendly) | Premium Short |
-| **`blueridge.us.kg`** | **Blue Ridge Stream Restoration** | ★★★★★ (Full brand authority) | Standard Brand |
+| **`brs.us.kg`** | **Save Our Streams Inc.** | ★★★★★ (Shortest, highly B2B-friendly) | Premium Short |
+| **`blueridge.us.kg`** | **Save Our Streams Inc.** | ★★★★★ (Full brand authority) | Standard Brand |
 | **`trout.us.kg`** | **Trout Streams** | ★★★★☆ (Highlights the ecological niche) | Category Generic |
 | **`ncd.us.kg`** | **Natural Channel Design** | ★★★★☆ (Positions as technical expert) | Technical Generic |
 | **`creek.us.kg`** | **Creek Restoration** | ★★★★☆ (Subtle, organic mountain aesthetic) | Category Generic |
@@ -76,7 +76,7 @@ GitHub Pages hosts static HTML sites directly from a GitHub repository for free.
         ```bash
         git init
         git add .
-        git commit -m "Initial launch of Blue Ridge Stream Restoration"
+        git commit -m "Initial launch of Save Our Streams Inc."
         ```
     *   Link to your GitHub repo and push:
         ```bash

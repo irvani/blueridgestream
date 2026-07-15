@@ -29,7 +29,7 @@ All educational field audits, meals, and accommodations will strictly adhere to 
 - **08:30 AM - 12:30 PM**: Guided Drift-Boat Stream-Bank Assessment.
   - *Activity*: Drift-boat and rafting excursion down the high-gradient Toccoa River. Regulators conduct real-time geomorphic bank assessments (Rosgen Level III BANCS model) from the rafts, identifying severe regional erosion hazards that Hunter's bioengineering can correct.
 - **12:30 PM - 02:30 PM**: Riverside Picnic Lunch & Anderson Creek Case Study Tour.
-  - *Location*: Riverside at Anderson Creek (Roya's Cabin flagship 1,500-LF project).
+  - *Location*: Riverside at Anderson Creek (Sandra's Cabin flagship 1,500-LF project).
   - *Activity*: Visual review of the completed 70/30 joint-venture restoration reach. Hunter presents the post-construction monitoring data demonstrating 98 percent bank survival and rapid Brook trout re-colonization.
 - **02:30 PM - 04:30 PM**: Closing Regulatory Review & Savannah SOP Mapping.
   - *Activity*: Round-table review of the credit yield SOP calculators. Regulators verify that geomorphic enhancements qualify for full primary and secondary SOP stream credits.
@@ -39,7 +39,7 @@ All educational field audits, meals, and accommodations will strictly adhere to 
 ### 1. The Headwaters-to-Coast Ecological Alignment
 Hunter's strategic alignment with coastal Georgia oyster shell reclamation initiatives (such as shell recycling and living shoreline restorations on Sapelo Island) establishes an incredibly powerful, statewide biological narrative:
 - **The Sediment Link**: High-gradient mountain streams in the Blue Ridge watershed represent the primary source of fine red clay sediment entering Georgia's river networks. During heavy storms, eroded stream banks in Fannin and Union counties dump millions of tons of silt into the system, which travels down the Coosawattee and Oostanaula rivers. This heavy sediment load eventually reaches the coast, suffocating salt marshes and silt-smothering estuarine oyster reefs.
-- **The Bioengineering Cure**: By stabilizing high-gradient stream banks in the Blue Ridge headwaters using mature Rhododendron maximum root-wads, Blue Ridge Stream stops erosion at its source. This directly protects downstream estuarine salinity ranges and keeps coastal waters clear of fine silts, ensuring optimal spawning substrate for Sapelo Island's oyster reefs.
+- **The Bioengineering Cure**: By stabilizing high-gradient stream banks in the Blue Ridge headwaters using mature Rhododendron maximum root-wads, Save Our Streams Inc. stops erosion at its source. This directly protects downstream estuarine salinity ranges and keeps coastal waters clear of fine silts, ensuring optimal spawning substrate for Sapelo Island's oyster reefs.
 
 ### 2. Mutual Ecological & Marketing Benefits
 - **Statewide ESG Positioning**: Hyperscale data center buyers (e.g., Microsoft, QTS, Google) seek mitigation credits with profound, statewide conservation impact. A combined 'Mountains-to-Coast' initiative offers these buyers an unmatched ESG narrative: their purchase of stream credits in North Georgia directly contributes to the survival of coastal living shorelines on Sapelo Island.
@@ -47,12 +47,12 @@ Hunter's strategic alignment with coastal Georgia oyster shell reclamation initi
 
 ## III. Programmatic SEO Backlinking & Co-Marketing Digital Strategy
 
-To maximize digital exposure and outrank massive conglomerates (like RES and Corblu), Blue Ridge Stream and the Oyster Restoration Coalition will execute a programmatic reciprocal backlinking and co-marketing digital strategy:
+To maximize digital exposure and outrank massive conglomerates (like RES and Corblu), Save Our Streams Inc. and the Oyster Restoration Coalition will execute a programmatic reciprocal backlinking and co-marketing digital strategy:
 
 ### 1. Reciprocal Web Linking Architecture
-We will deploy clean, semantic HTML reciprocal links between the Blue Ridge Stream portal and the Coastal Oyster Reclamation portal. This establishes high domain authority with search engine crawlers by showing highly relevant, localized ecological connections.
+We will deploy clean, semantic HTML reciprocal links between the Save Our Streams Inc. portal and the Coastal Oyster Reclamation portal. This establishes high domain authority with search engine crawlers by showing highly relevant, localized ecological connections.
 
-#### **Link A: Sapelo Oyster Portal to Blue Ridge Stream**
+#### **Link A: Sapelo Oyster Portal to Save Our Streams Inc.**
 - **Anchor Text**: *Georgia Stream Mitigation Credits*
 - **Target URL**: `https://irvani.github.io/blueridgestream/portal.html`
 - **Context JSDoc Markup**:
@@ -61,13 +61,13 @@ We will deploy clean, semantic HTML reciprocal links between the Blue Ridge Stre
 <p>Our coastal living shoreline restoration efforts on Sapelo Island are directly supported by high-gradient headwater corrections. Learn how <a href="https://irvani.github.io/blueridgestream/portal.html" id="seo-lnk-brs" target="_blank" rel="noopener">Georgia Stream Mitigation Credits</a> stabilize mountain watersheds, capturing fine clay silts at the source to ensure clean, sediment-free freshwater flows reach our coastal oyster reefs.</p>
 ```
 
-#### **Link B: Blue Ridge Stream to Sapelo Oyster Portal**
+#### **Link B: Save Our Streams Inc. to Sapelo Oyster Portal**
 - **Anchor Text**: *Coastal Oyster Shell Reclamation*
 - **Target URL**: `https://irvani.github.io/sapelooystercoalition/index.html`
 - **Context JSDoc Markup**:
 ```html
 <!-- Stabilizing mountain creeks directly prevents downstream silt smothering of coastal reefs. -->
-<p>At Blue Ridge Stream, our geomorphic trout-restoration designs have a statewide impact. We proudly partner with coastal initiatives, aligning our high-gradient mountain bank corrections with <a href="https://irvani.github.io/sapelooystercoalition/index.html" id="seo-lnk-oyster" target="_blank" rel="noopener">Coastal Oyster Shell Reclamation</a> projects on Sapelo Island to protect Georgia's entire watershed from headwaters to salt marshes.</p>
+<p>At Save Our Streams Inc., our geomorphic trout-restoration designs have a statewide impact. We proudly partner with coastal initiatives, aligning our high-gradient mountain bank corrections with <a href="https://irvani.github.io/sapelooystercoalition/index.html" id="seo-lnk-oyster" target="_blank" rel="noopener">Coastal Oyster Shell Reclamation</a> projects on Sapelo Island to protect Georgia's entire watershed from headwaters to salt marshes.</p>
 ```
 
 
@@ -79,7 +79,7 @@ We will deploy clean, semantic HTML reciprocal links between the Blue Ridge Stre
   "description": "Statewide environmental partnership linking high-gradient stream bank stabilization with tidal estuary oyster reef restorations.",
   "sponsor": {
     "@type": "Organization",
-    "name": "Blue Ridge Stream Restoration & Mitigation LLC"
+    "name": "Save Our Streams Inc."
   },
   "funder": {
     "@type": "Organization",

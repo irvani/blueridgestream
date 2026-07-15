@@ -50,7 +50,7 @@ Each entry contains the exact citation, DOI, open-access download path, and a st
   * **Abstract**: Evaluates the ecological impacts of fine sediment deposition (siltation) on headwater tributary fish populations and spawning gravel corridors in the southern Appalachian Mountains (including North Georgia).
   * **Methodology**: Conducted fish assemblage surveys, benthic macroinvertebrate sampling, and Wolman substrate pebble counts across multiple high-gradient mountain tributaries experiencing varying sediment loading from dirt roads and residential clearing.
   * **Key Findings**: Siltation significantly degrades fish communities by filling interstitial cobble spaces, destroying feeding habitats for Mayflies and Stoneflies (EPT index), and smothering wild trout spawning beds. Shows that native mountain species are highly sensitive to sediment and require clean, scoured gravels.
-  * **Operations Relevance**: This is the core scientific justification for Blue Ridge Stream's spawning sanctuary designs. Hunter uses this paper to demonstrate to private estate owners that installing instream drop steps ( cedar step-pools) scours away fine silt, exposing clean gravel beds and restoring wild trout populations.
+  * **Operations Relevance**: This is the core scientific justification for Save Our Streams Inc.'s spawning sanctuary designs. Hunter uses this paper to demonstrate to private estate owners that installing instream drop steps ( cedar step-pools) scours away fine silt, exposing clean gravel beds and restoring wild trout populations.
 
 ---
 
@@ -88,7 +88,7 @@ Each entry contains the exact citation, DOI, open-access download path, and a st
   * **Abstract**: Presents the first comprehensive pan-European assessment of river fragmentation, revealing an unprecedented density of instream barriers and providing the scientific impetus for the EU Nature Restoration Law.
   * **Methodology**: Combined field surveys across 2,715 km of rivers in 36 European countries with national databases to record all instream barriers down to $10\text{ cm}$ in height.
   * **Key Findings**: Discovered at least **1.2 million barriers** fragmenting European rivers, with a median density of **0.74 barriers per kilometer**. Over $85\%$ of these are small-scale structures (weirs, culverts) rather than large dams, and many are obsolete.
-  * **Operations Relevance**: Demonstrates the global importance of barrier removals. Hadi can present this paper to international conservation partners to show that Blue Ridge Stream operates in direct alignment with world-class, process-based longitudinal river restoration models.
+  * **Operations Relevance**: Demonstrates the global importance of barrier removals. Hadi can present this paper to international conservation partners to show that Save Our Streams Inc. operates in direct alignment with world-class, process-based longitudinal river restoration models.
 
 ### Article 08: Prioritizing Barrier Removals
 * **Citation**: Garcia de Leaniz, C. and O'Hanley, J.R. (2022). "Operational methods for prioritizing the removal of river barriers: Synthesis and guidance." *Science of the Total Environment*, 807: 151743.

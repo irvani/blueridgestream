@@ -1,6 +1,6 @@
 # High-Gradient Fluvial Bioengineering Manual
 ## Geomorphic Stabilization, Riparian Transplant Mechanics, and Coldwater Trout Habitat Design for Mountain Streams
-### Prepared by: Hunter Morris, Lead Bioengineering Specialist, Blue Ridge Stream Restoration & Mitigation LLC
+### Prepared by: Hunter Morris, Lead Bioengineering Specialist, Save Our Streams Inc.
 
 ---
 

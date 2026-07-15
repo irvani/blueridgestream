@@ -1,8 +1,8 @@
-# 🎓 Scientific Advisory Board Directory: Blue Ridge Stream Restoration
+# 🎓 Scientific Advisory Board Directory: Save Our Streams Inc.
 
 This directory profiles **six world-leading scientists** across fluvial geomorphology, forest hydrology, root biomechanics, trout ecology, and river connectivity. 
 
-Establishing a **Scientific Advisory Board** composed of these elite academics elevates **Blue Ridge Stream Restoration & Mitigation LLC**'s scientific authority. It directly validates Hunter Morris's field designs, provides their UGA/GT/Clemson graduate interns with elite research mentors, and reassures the USACE Savannah District Interagency Review Team (IRT) and exurban B2B credit buyers of the absolute scientific integrity of our operations.
+Establishing a **Scientific Advisory Board** composed of these elite academics elevates **Save Our Streams Inc.**'s scientific authority. It directly validates Hunter Morris's field designs, provides their UGA/GT/Clemson graduate interns with elite research mentors, and reassures the USACE Savannah District Interagency Review Team (IRT) and exurban B2B credit buyers of the absolute scientific integrity of our operations.
 
 ---
 
@@ -14,11 +14,11 @@ Establishing a **Scientific Advisory Board** composed of these elite academics e
 * **Why They are Perfect for the Board**: Dr. Montgomery is the world's leading academic advocate for process-based geomorphic river restoration. His research on the hydraulic role of Large Woody Debris (LWD) provides direct scientific validation for Hunter's use of cedar step-pools and woody bioengineering rather than concrete or rip-rap.
 * **Advisory Role**: Chief Fluvial Geomorphologist & Rosgen Architect.
 * **Custom Outreach Strategy**:
-  > **Subject**: Blue Ridge Stream: Southern Appalachian geomorphic trout restorations (UW Alum Inquiry)
+  > **Subject**: Save Our Streams Inc.: Southern Appalachian geomorphic trout restorations (UW Alum Inquiry)
   >
   > Dear Dr. Montgomery,
   >
-  > I am writing to you on behalf of Blue Ridge Stream Restoration & Mitigation LLC. We are an environmental firm specializing in high-gradient, coldwater trout stream restorations in the southern Appalachian foothills of North Georgia.
+  > I am writing to you on behalf of Save Our Streams Inc.. We are an environmental firm specializing in high-gradient, coldwater trout stream restorations in the southern Appalachian foothills of North Georgia.
   >
   > We have established an "Academic-Leveraged model," rotating graduate research interns from the University of Georgia (Warnell School) and Georgia Tech to execute HEC-RAS 2D modeling and geomorphic surveys. We utilize dave Rosgen's Natural Channel Design to regrade incised Type G and F pastures back to stable Type C4 and E4 channels, prioritizing wood-and-log bioengineering (e.g. root-wads, cedar step-pools) to scour deep plunge pools and trap agricultural sediment.
   >
@@ -40,13 +40,13 @@ Establishing a **Scientific Advisory Board** composed of these elite academics e
 * **Why They are Perfect for the Board**: Dr. Elliott has spent decades conducting watershed-scale experiments at Coweeta. Her research on understory water yields and evergreen canopy transpiration is the absolute primary authority on the hydrology of *Rhododendron maximum* in the Southern Appalachians.
 * **Advisory Role**: Lead Riparian Canopy & Understory Hydrologist.
 * **Custom Outreach Strategy**:
-  > **Subject**: Coweeta Research Application: Blue Ridge Stream Rhododendron maximum restorations
+  > **Subject**: Coweeta Research Application: Save Our Streams Inc. Rhododendron maximum restorations
   >
   > Dear Dr. Elliott,
   >
   > We are writing to express our deep appreciation for your extensive, long-term research at the Coweeta Hydrologic Laboratory on the role of *Rhododendron maximum* understories in southern Appalachian watersheds.
   >
-  > Our firm, Blue Ridge Stream Restoration, is active in the North Georgia foothills, where we specialize in repairing incised pasture stream banks. Our primary vegetative bioengineering protocol involves transplanting mature *Rhododendron maximum* during winter dormancy to establish immediate year-round canopy shading and soil stabilization.
+  > Our firm, Save Our Streams Inc., is active in the North Georgia foothills, where we specialize in repairing incised pasture stream banks. Our primary vegetative bioengineering protocol involves transplanting mature *Rhododendron maximum* during winter dormancy to establish immediate year-round canopy shading and soil stabilization.
   >
   > We utilize your peer-reviewed publications—specifically your long-term water yield understory removal studies—to model streamside water consumption and justify our riparian buffer shading plans before the Georgia EPD and USACE.
   >
@@ -70,7 +70,7 @@ Establishing a **Scientific Advisory Board** composed of these elite academics e
   >
   > Dear Dr. Pollen-Bankhead,
   >
-  > I am writing on behalf of Blue Ridge Stream Restoration. We operate a specialized design-build stream restoration firm in the southern Appalachian foothills, repairing highly degraded streams using biotechnical bioengineering.
+  > I am writing on behalf of Save Our Streams Inc.. We operate a specialized design-build stream restoration firm in the southern Appalachian foothills, repairing highly degraded streams using biotechnical bioengineering.
   >
   > Our geomorphic designs prioritize the regrading of vertical clay banks and the dense planting of native vegetation (specifically fibrous-rooted evergreen *Rhododendron maximum* and willow stakes). In our engineering design reviews, we rely on your seminal research on progressive root shear failure and the **RipRoot** Fiber Bundle Model to quantify our bank safety factors during peak storm flows.
   >
@@ -90,11 +90,11 @@ Establishing a **Scientific Advisory Board** composed of these elite academics e
 * **Why They are Perfect for the Board**: Dr. Freeman is the preeminent authority on headwater fish conservation in Georgia. Her research on siltation and stream habitat fragmentation is directly cited in Georgia EPD and Georgia DNR wildlife guidelines, providing local regulatory authority to our spawning sanctuary projects.
 * **Advisory Role**: Lead Southeastern Trout & Benthic Spawning Ecologist.
 * **Custom Outreach Strategy**:
-  > **Subject**: Academic Alliance: Blue Ridge Stream trout spawning sanctuaries (UGA Warnell & Odum Partnership)
+  > **Subject**: Academic Alliance: Save Our Streams Inc. trout spawning sanctuaries (UGA Warnell & Odum Partnership)
   >
   > Dear Dr. Freeman,
   >
-  > I am writing to you on behalf of Blue Ridge Stream Restoration. As an environmental firm active in North Georgia, we are dedicated to recovering wild trout spawning runs by repairing vertical, eroding clay banks and restoring natural channel geomorphology.
+  > I am writing to you on behalf of Save Our Streams Inc.. As an environmental firm active in North Georgia, we are dedicated to recovering wild trout spawning runs by repairing vertical, eroding clay banks and restoring natural channel geomorphology.
   >
   > We operate under an "Academic-Leveraged model," employing graduate interns from the UGA Warnell School and Odum School of Ecology. Our interns execute EPA Rapid Bioassessments (macroinvertebrate kick-nets) and continuous thermal temperature loggers on our reaches.
   >
@@ -114,11 +114,11 @@ Establishing a **Scientific Advisory Board** composed of these elite academics e
 * **Why They are Perfect for the Board**: Dr. Jackson is the leading academic expert on forestry hydrology and stream temperature buffer policies in Georgia. His deep understanding of Georgia EPD regulations and thermal buffering is vital for navigating local permitting and environmental variances.
 * **Advisory Role**: Chief Regional Forest Hydrologist & Buffer Policy Advisor.
 * **Custom Outreach Strategy**:
-  > **Subject**: Strategic Advisory invitation: Blue Ridge Stream Restoration (UGA Warnell Faculty Inquiry)
+  > **Subject**: Strategic Advisory invitation: Save Our Streams Inc. (UGA Warnell Faculty Inquiry)
   >
   > Dear Dr. Jackson,
   >
-  > I am writing to you on behalf of Blue Ridge Stream Restoration & Mitigation LLC. We are a B2B stream restoration firm operating in the coldwater trout watersheds of North Georgia.
+  > I am writing to you on behalf of Save Our Streams Inc.. We are a B2B stream restoration firm operating in the coldwater trout watersheds of North Georgia.
   >
   > Our firm is built upon a strong academic-forestry foundation, rotating graduate research interns from the UGA Warnell School to execute our field vegetation, canopy shading, and continuous temperature logging pipelines. We specialize in Natural Channel Design and biotechnical bank regrading, frequently navigating Georgia EPD 25-foot state trout buffer variances.
   >
@@ -144,7 +144,7 @@ Establishing a **Scientific Advisory Board** composed of these elite academics e
   >
   > Dear Dr. Garcia de Leaniz,
   >
-  > I am writing to you from Blue Ridge Stream Restoration in Georgia, USA. We are a process-based stream restoration firm focused on high-gradient coldwater trout headwaters.
+  > I am writing to you from Save Our Streams Inc. in Georgia, USA. We are a process-based stream restoration firm focused on high-gradient coldwater trout headwaters.
   >
   > We are avid followers of your research with the AMBER project and your landmark *Nature* publication on Europe's river fragmentation. While our primary regional work focuses on geomorphic bank stabilization and riparian buffer shading, we are actively expanding our operations to address longitudinal connectivity by upgrading perched timber-road culverts and dismantling obsolete low-head mill dams.
   >

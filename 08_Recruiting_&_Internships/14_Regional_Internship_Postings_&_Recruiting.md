@@ -1,5 +1,5 @@
 # Regional University Internship & Recruiting Guide
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -27,15 +27,15 @@ This guide details the postings, candidate profiles, and critical interview scre
 ### 📋 Job Posting Copy
 ```text
 Title: Stream Ecology & Biological Monitoring Intern
-Company: Blue Ridge Stream Restoration & Mitigation LLC
+Company: Save Our Streams Inc.
 Location: North Georgia (Field-Based / Hybrid)
 Term: Summer / Fall 2026 (Paid Internship - $20/hour)
 
 About Us:
-Blue Ridge Stream Restoration & Mitigation LLC combines advanced fluvial geomorphology with Natural Channel Design (NCD) to restore degraded coldwater trout streams back to their historic geomorphic footings. Guided by our corporate board including Co-Founder Hadi Irvani (General Partner at Infill Capital) and Founder Hunter, we generate high-yield USACE Savannah District stream mitigation credits. 
+Save Our Streams Inc. combines advanced fluvial geomorphology with Natural Channel Design (NCD) to restore degraded coldwater trout streams back to their historic geomorphic footings. Guided by our corporate board including Co-Founder Hadi Irvani (General Partner at Infill Capital) and Founder Hunter, we generate high-yield USACE Savannah District stream mitigation credits. 
 
 Role Description:
-We are seeking a driven UGA student to assist in field-based ecological appraisals and long-term biological monitoring. You will get hands-on experience conducting stream habitat assessments, macroinvertebrate sampling, and water quality testing across our flagship restoration tracts at Anderson Creek (Roya's Cabin) and Goldmine Hollow (Hunter's Cabin).
+We are seeking a driven UGA student to assist in field-based ecological appraisals and long-term biological monitoring. You will get hands-on experience conducting stream habitat assessments, macroinvertebrate sampling, and water quality testing across our flagship restoration tracts at Anderson Creek (Sandra's Cabin) and Goldmine Hollow (Hunter's Cabin).
 
 Key Responsibilities:
 *   Conduct biological sampling using USACE-compliant protocols (benthic macroinvertebrates, fish community sampling, and habitat assessments).
@@ -73,12 +73,12 @@ Qualifications:
 ### 📋 Job Posting Copy
 ```text
 Title: Fluvial Geomorphology & Hydrologic Engineering Intern
-Company: Blue Ridge Stream Restoration & Mitigation LLC
+Company: Save Our Streams Inc.
 Location: Atlanta Office / North Georgia Field Sites (Hybrid - $22/hour)
 Term: Summer / Fall 2026
 
 About Us:
-Blue Ridge Stream Restoration & Mitigation LLC combines state-of-the-art hydrology with bioengineering. We reconstruct stable channel cross-sections using natural cedar structures to scour deep pools and stabilize eroding stream bends.
+Save Our Streams Inc. combines state-of-the-art hydrology with bioengineering. We reconstruct stable channel cross-sections using natural cedar structures to scour deep pools and stabilize eroding stream bends.
 
 Role Description:
 We are seeking a highly analytical Georgia Tech engineering student to manage our hydrologic modeling, GIS mapping, and geomorphic data analysis. You will assist in translating geomorphic stream surveys into AutoCAD designs and HEC-RAS hydraulic models to clear USACE Nationwide Permit 27 requirements.
@@ -119,12 +119,12 @@ Qualifications:
 ### 📋 Job Posting Copy
 ```text
 Title: Land Trust, Real Estate & Mitigation Finance Intern
-Company: Blue Ridge Stream Restoration & Mitigation LLC
+Company: Save Our Streams Inc.
 Location: Atlanta Office / Hybrid (Paid - $20/hour)
 Term: Summer / Fall 2026
 
 About Us:
-Blue Ridge Stream Restoration & Mitigation LLC manages high-yielding ecological real estate portfolios. Restoring degraded streams on key parcels generates high-yield credit inventories which are brokered to regional B2B logistics and retail developers. 
+Save Our Streams Inc. manages high-yielding ecological real estate portfolios. Restoring degraded streams on key parcels generates high-yield credit inventories which are brokered to regional B2B logistics and retail developers. 
 
 Role Description:
 We are seeking an environmentally minded business or forestry student from Clemson to assist in real estate underwriting, market supply/demand tracking via the federal RIBITS database, and managing conservation easement transactions.

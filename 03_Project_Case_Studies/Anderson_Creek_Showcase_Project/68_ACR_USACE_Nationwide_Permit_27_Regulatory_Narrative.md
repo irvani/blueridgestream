@@ -2,13 +2,13 @@
 ## Pre-Construction Notification (PCN) for Anderson Creek Fluvial Habitat Restoration
 
 > [!IMPORTANT]
-> **USACE Permitting & Regulatory Standard**: This document represents the official Section 404 Nationwide Permit 27 (NWP 27 - Aquatic Habitat Restoration) Pre-Construction Notification narrative for the **Anderson Creek Showcase Restoration Project (Roya's Cabin Reach)**. It outlines the geomorphic Natural Channel Design (NCD) structure placements, construction safety sequencing, sediment bypass operations, and the mathematical Savannah District Stream Credit Ledger, establishing the formal federal permitting blueprint required for a stream mitigation bank.
+> **USACE Permitting & Regulatory Standard**: This document represents the official Section 404 Nationwide Permit 27 (NWP 27 - Aquatic Habitat Restoration) Pre-Construction Notification narrative for the **Anderson Creek Showcase Restoration Project (Sandra's Cabin Reach)**. It outlines the geomorphic Natural Channel Design (NCD) structure placements, construction safety sequencing, sediment bypass operations, and the mathematical Savannah District Stream Credit Ledger, establishing the formal federal permitting blueprint required for a stream mitigation bank.
 
 ---
 
 ## I. Project Applicant & Siting Information
 
-*   **Applicant**: Blue Ridge Stream Restoration & Mitigation LLC (on behalf of landowner Roya Morris)
+*   **Applicant**: Save Our Streams Inc. (on behalf of the landowner (ACR 1910 LLC))
 *   **Permit Pathway**: USACE Nationwide Permit 27 (Aquatic Habitat Restoration and Enhancement Activities)
 *   **Regulatory Authority**: U.S. Army Corps of Engineers, Savannah District
 *   **Watershed Location**: Upper Coosa Basin, Fannin County, Georgia (HUC-8: 03150105)
@@ -120,4 +120,4 @@ We calculate the credit yield for the 1,500 LF Anderson Creek showcase project u
 *   **Estimated Financial Value**: At a standard commercial credit price of **130.00 USD per credit** (sited for exurban developers and data center buyers in the Upper Coosa basin), this generates **1,677,000.00 USD in gross revenue** over the project lifecycle, creating a massive passive asset for our joint-venture estate.
 
 ---
-*Prepared by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin.*
+*Prepared by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin.*

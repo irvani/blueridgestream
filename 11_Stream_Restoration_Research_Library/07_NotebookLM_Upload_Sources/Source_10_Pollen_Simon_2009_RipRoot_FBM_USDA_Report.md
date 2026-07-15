@@ -32,6 +32,6 @@ This technical note documents the mathematical specifications, algorithms, and s
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
+## 4. Applied Relevance to Save Our Streams Inc.
 * **USDA-ARS Standard Compliance**: Equips Hunter's Georgia Tech and UGA interns with a USDA-compliant modeling methodology. Using FBM calculations rather than basic WWM ensures our bioengineered *Rhododendron maximum* soil lift designs are engineered with the highest level of safety, guaranteeing long-term stability.
 * **Rhododendron Efficacy**: Synthesizes the core scientific reason why *Rhododendron maximum* root mats are exceptionally resilient: their incredibly dense, fibrous network of small feeder roots is perfectly suited to absorb progressive shear displacements, preventing bank failures where coarse-rooted vegetation fails.

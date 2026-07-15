@@ -1,5 +1,5 @@
 # B2B Sales Outreach & Landowner Pitch Vault
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -29,7 +29,7 @@ I hope this message finds you well.
 
 I’ve been tracking your active project, [Development Name], in [County Name] County. Knowing your footprint and the local hydrology, I understand your team may be navigating Clean Water Act Section 404 stream mitigation offsets or state EPD stream buffer variance permitting. 
 
-I am writing to let you know that Blue Ridge Stream Restoration & Mitigation LLC has a high-quality inventory of USACE Savannah District-approved stream mitigation credits currently available for allocation in the [Coosa / Upper Chattahoochee] River Basin. 
+I am writing to let you know that Save Our Streams Inc. has a high-quality inventory of USACE Savannah District-approved stream mitigation credits currently available for allocation in the [Coosa / Upper Chattahoochee] River Basin. 
 
 By utilizing Natural Channel Design (NCD) at our flagship bank at Anderson Creek, we generate high-yield Priority 1 stream credits. For developers, this translates to:
 *   Immediate credit allocation to clear pending permit roadblocks.
@@ -46,7 +46,7 @@ Best regards,
 
 Hunter
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.com | (555) 123-4567
 www.blueridgestream.com
 
@@ -63,13 +63,13 @@ Hi [Developer Name],
 
 I noticed your active developments along the I-85 / GA-400 corridor. As regional stream permitting and state EPD buffer variances continue to tighten, developers are facing significant schedule bottlenecks. 
 
-At Blue Ridge Stream Restoration & Mitigation LLC, we supply high-yield USACE-approved stream mitigation credits (Priority 1 geomorphic restoration) in the Coosa and Chattahoochee basins to help developers clear 404 permit hurdles immediately. 
+At Save Our Streams Inc., we supply high-yield USACE-approved stream mitigation credits (Priority 1 geomorphic restoration) in the Coosa and Chattahoochee basins to help developers clear 404 permit hurdles immediately. 
 
 I'd love to connect and share our current RIBITS credit availability ledger. 
 
 Best,
 Hunter
-Co-Founder & Managing Director, Blue Ridge Stream Restoration & Mitigation LLC
+Co-Founder & Managing Director, Save Our Streams Inc.
 ```
 
 ---
@@ -90,7 +90,7 @@ As a commercial broker facilitating large-scale industrial and commercial land t
 
 A prime 50-acre parcel can look highly lucrative until the civil site layout reveals headwater streams that require piping, turning a fast-tracked development into a 24-month regulatory nightmare.
 
-At Blue Ridge Stream Restoration & Mitigation LLC, we help real estate brokers close transactions by supplying pre-verified, high-yield stream mitigation credits in the [Coosa / Upper Chattahoochee] River Basin. 
+At Save Our Streams Inc., we help real estate brokers close transactions by supplying pre-verified, high-yield stream mitigation credits in the [Coosa / Upper Chattahoochee] River Basin. 
 
 By partnering with us:
 1.  **Deal Security**: You can provide land buyers with immediate credit availability letters to satisfy CWA 404 permit requirements, ensuring their deals close on schedule.
@@ -105,7 +105,7 @@ Best regards,
 
 Hunter
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.com | (555) 123-4567
 ```
 
@@ -129,7 +129,7 @@ However, during heavy storm events, you have likely noticed a disturbing trend: 
 
 Traditional "rip-rap" rock walls are unsightly, expensive, destroy fish habitat, and often transfer the erosion problem directly downstream.
 
-At Blue Ridge Stream Restoration & Mitigation LLC, we restore mountain streams back to their original geomorphic footings using **Natural Channel Design (NCD)**. 
+At Save Our Streams Inc., we restore mountain streams back to their original geomorphic footings using **Natural Channel Design (NCD)**. 
 
 Instead of concrete and rip-rap, we use native cedar logs, root wads, and strategically placed river boulders to:
 ✅ Redirect high-velocity currents away from your banks, stopping erosion permanently.
@@ -147,7 +147,7 @@ Tight lines,
 
 Hunter
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.com | (555) 123-4567
 ```
 

@@ -2,14 +2,14 @@
 
 > [!NOTE]
 > **Statewide Marketing Events Calendar & 10-Person Team Scaling Roadmap**  
-> **Brand**: Blue Ridge Stream Restoration & Mitigation LLC  
+> **Brand**: Save Our Streams Inc.  
 > **Supervising Board**: Hunter Morris (Co-Founder & Managing Director) & Hadi Irvani (Board Member)
 
 ---
 
 ## 1. Executive Summary
 
-To successfully transition **Blue Ridge Stream Restoration & Mitigation LLC** from a high-potential boutique start-up into the premier ecological design-build firm in the Southeast, Managing Director **Hunter Morris** must execute a dual-track growth strategy:
+To successfully transition **Save Our Streams Inc.** from a high-potential boutique start-up into the premier ecological design-build firm in the Southeast, Managing Director **Hunter Morris** must execute a dual-track growth strategy:
 1.  **Direct B2B Marketing Outreach**: Establish a physical, authority-building presence at the 12 most critical regional conferences spanning credit buyers (data centers, developers), relationship lenders (ag-bankers), and scientific researchers (academics).
 2.  **Structured Organizational Scaling**: Build a highly cohesive, 10-person operational team over the next 12 months. This roadmap shifts daily tasks away from Hunter, allowing him to focus entirely on high-value USACE Savannah District negotiations, strategic board governance with Board Member **Hadi Irvani**, and executing large joint-venture contracts.
 
@@ -108,7 +108,7 @@ Hunter Morris will attend these 12 regional conferences to secure B2B developers
 To systematically execute these projects, coordinate interns, and build instream meander channels, Hunter Morris will scale his organization from 1 to 10 structured seats over the next 12 months:
 
 ```
-                          BLUE RIDGE STREAM RESTORATION
+                          Save Our Streams Inc.
                               10-PERSON ORGANIZATIONAL CHART
                               
                      +---------------------------------------------+

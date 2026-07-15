@@ -2,13 +2,13 @@
 ## State Permitting and Sediment Control inside the 25-Foot Trout Stream Buffer
 
 > [!IMPORTANT]
-> **State Permitting & Soil Erosion Standard**: This document represents the official Georgia DNR Environmental Protection Division (EPD) Trout Stream Buffer Variance Application narrative for the **Anderson Creek Showcase Restoration Project (Roya's Cabin Reach)**. It outlines compliance with O.C.G.A. § 12-7-6(b)(15), detailing the sediment bypass pump-around schematics, turbidity barrier specifications, and bank vegetative stabilization schedules inside the 25-foot protective buffer.
+> **State Permitting & Soil Erosion Standard**: This document represents the official Georgia DNR Environmental Protection Division (EPD) Trout Stream Buffer Variance Application narrative for the **Anderson Creek Showcase Restoration Project (Sandra's Cabin Reach)**. It outlines compliance with O.C.G.A. § 12-7-6(b)(15), detailing the sediment bypass pump-around schematics, turbidity barrier specifications, and bank vegetative stabilization schedules inside the 25-foot protective buffer.
 
 ---
 
 ## I. Applicant & Project Identification
 
-*   **Applicant**: Blue Ridge Stream Restoration & Mitigation LLC (on behalf of landowner Roya Morris)
+*   **Applicant**: Save Our Streams Inc. (on behalf of the landowner (ACR 1910 LLC))
 *   **Permit Authority**: Georgia Department of Natural Resources, Environmental Protection Division (EPD)
 *   **EPD District Office**: Mountain District Office (Cartersville, GA)
 *   **Regulatory Reference**: Variance for land-disturbing activities within the 25-foot state-mandated buffer of a designated coldwater trout stream (O.C.G.A. § 12-7-6(b)(15)).
@@ -80,4 +80,4 @@ Plant bare-root, high-status native trees within the 25-foot state buffer at a d
 | **Rosebay Rhododendron (`R. maximum`)**| Buffer understory | Dense matting | High-density solar heat attenuation (LAI >= 5.8) |
 
 ---
-*Prepared by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin.*
+*Prepared by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin.*

@@ -1,7 +1,7 @@
 # File 57: Off-Grid Hydrological Telemetry & Data-Sharing API Infrastructure
 
 > [!IMPORTANT]
-> **Community and Enterprise API Standard**: This document establishes the technical specifications for the Blue Ridge Stream Restoration data-sharing infrastructure. By transforming local, off-grid LoRa telemetry (water temperature, dissolved oxygen, turbidity, and flow level) into highly standardized, public-facing REST API endpoints and webhooks, we create an open-access environmental database. This framework details the Node-RED message routing pipeline, JSON payload specifications, and secure data ingest webhooks to feed Trout Unlimited chapters, natural resource scientists, and local fly guides with real-time creekside wading and temperature conditions.
+> **Community and Enterprise API Standard**: This document establishes the technical specifications for the Save Our Streams Inc. data-sharing infrastructure. By transforming local, off-grid LoRa telemetry (water temperature, dissolved oxygen, turbidity, and flow level) into highly standardized, public-facing REST API endpoints and webhooks, we create an open-access environmental database. This framework details the Node-RED message routing pipeline, JSON payload specifications, and secure data ingest webhooks to feed Trout Unlimited chapters, natural resource scientists, and local fly guides with real-time creekside wading and temperature conditions.
 
 ---
 
@@ -62,7 +62,7 @@ At the base station gateway, we utilize **Node-RED** to ingest raw serial/MQTT h
 Place this JavaScript block inside a Node-RED Function Node to parse raw Meshtastic serial payloads:
 
 ```javascript
-// Node-RED Ingestion Parser for Blue Ridge Stream Telemetry Node
+// Node-RED Ingestion Parser for Save Our Streams Inc. Telemetry Node
 const rawPayload = msg.payload.toString().trim();
 
 if (rawPayload.startsWith("TX_HEX:")) {
@@ -227,7 +227,7 @@ def publish_to_community_partners(decoded_data):
     
     payload = {
         "metadata": {
-            "source": "Blue Ridge Stream Restoration LLC",
+            "source": "Save Our Streams Inc. LLC",
             "station": "BRSR-LO-101",
             "watershed_huc_8": "06020003",
             "river_section": "Upper Toccoa River"
@@ -505,7 +505,7 @@ To allow search engines, federal crawlers, and university crawlers to automatica
   "schema:identifier": "BRSR-LO-101",
   "schema:provider": {
     "@type": "schema:Organization",
-    "schema:name": "Blue Ridge Stream Restoration & Mitigation LLC"
+    "schema:name": "Save Our Streams Inc."
   },
   "schema:geo": {
     "@type": "schema:GeoCoordinates",
@@ -539,5 +539,5 @@ To ensure immediate readiness for government GIS engineers working in ArcGIS or 
 *   **ISO 19115 Metadata Standards**: Every CSV or Excel telemetry data download includes a secondary self-documenting XML metadata header complying with the federal geographic data committee (FGDC) ISO 19115 standard. This outlines the sensor models, accuracy tolerances, calibration dates, and data processing history to ensure our stream parameters are fully admissible in regulatory buffer variance or environmental mitigation hearings.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*
 

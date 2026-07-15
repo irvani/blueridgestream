@@ -51,7 +51,7 @@ To capture the true thermal regimes of our reaches, you will deploy **Onset HOBO
 Alongside continuous thermal logging, you will perform bi-weekly manual water quality assays using a calibrated **YSI ProDSS Multiparameter Meter**.
 
 - **Dissolved Oxygen (DO)**: Brook trout spawning requires a DO concentration $\ge 7.0\text{ mg/L}$. A concentration $<5.0\text{ mg/L}$ causes immediate respiratory failure.
-- **pH**: Maintain pH between $6.0$ and $8.5$. High-gradient Blue Ridge streams are susceptible to acid precipitation; log any drop below $5.5$.
+- **pH**: Maintain pH between $6.0$ and $8.5$. High-gradient Save Our Streams Inc.s are susceptible to acid precipitation; log any drop below $5.5$.
 - **Conductivity**: Background conductivity in pristine mountain streams is low ($10\text{--}50\,\mu\text{S/cm}$). A sudden spike indicates upstream sediment washouts or agricultural runoff.
 - **Turbidity**: Measured in Nephelometric Turbidity Units (NTU). Our trout restoration design target is a baseflow turbidity $<5\text{ NTU}$, protecting spawning gravels from silt-choking.
 

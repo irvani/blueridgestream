@@ -1,5 +1,5 @@
 # Government & Regulatory Agency Outreach Plan
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter Morris (*Fly Fishing North Georgia*, bookings@flyfishingnorthgeorgia.com)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -12,7 +12,7 @@
 
 Compensatory stream mitigation operates in a highly regulated, dual-track federal and state permitting environment. The U.S. Army Corps of Engineers (USACE) Savannah District governs federal Clean Water Act (CWA) Section 404 compliance, while the Georgia Department of Natural Resources (DNR) Environmental Protection Division (EPD) regulates state erosion control and trout stream buffer variances.
 
-This Outreach Plan provides Hunter Morris with a highly structured directory of actual regional decision-makers, step-by-step agency coordination protocols, and ready-to-use communication templates to fast-track our **Draft Prospectus**, **Prospectus**, **Mitigation Banking Instrument (MBI)**, and **EPD Stream Buffer Variances** for Anderson Creek (Roya's Cabin) and Goldmine Hollow (Hunter's Cabin).
+This Outreach Plan provides Hunter Morris with a highly structured directory of actual regional decision-makers, step-by-step agency coordination protocols, and ready-to-use communication templates to fast-track our **Draft Prospectus**, **Prospectus**, **Mitigation Banking Instrument (MBI)**, and **EPD Stream Buffer Variances** for Anderson Creek (Sandra's Cabin) and Goldmine Hollow (Hunter's Cabin).
 
 ---
 
@@ -75,7 +75,7 @@ To secure USACE and EPD approvals without costly design delays, Hunter must exec
 ```
 
 ### Stage 1: Pre-Application Site Visit (Months 1–3)
-*   **Objective**: Get Justin Hammonds and IRT agency representatives (EPA, USFWS, GA DNR Wildlife Resources) out to **Roya's Cabin at Anderson Creek** *before* spending capital on detailed HEC-RAS hydraulic modeling.
+*   **Objective**: Get Justin Hammonds and IRT agency representatives (EPA, USFWS, GA DNR Wildlife Resources) out to **Sandra's Cabin at Anderson Creek** *before* spending capital on detailed HEC-RAS hydraulic modeling.
 *   **Action**: Submit a conceptual **Draft Prospectus** outlining geomorphic degradation (bank shear stress, lateral erosion) and proposed Natural Channel Design (NCD) cures (J-hooks, root wads).
 *   **Regulatory Meeting Protocol**: Walk the channel with the IRT. Hunter should lead the dialogue (using the geomorphic stream diagnostics walk talk-tracks in **File 13**) to establish technical credibility, demonstrating a deep understanding of wild trout breeding habitats, benthic substrates, and hyporheic flows.
 
@@ -100,7 +100,7 @@ To secure USACE and EPD approvals without costly design delays, Hunter must exec
 
 ### Template A: USACE Mitigation Branch pre-App Site Visit Request
 *Target: Justin Hammonds (USACE Mitigation Lead)*  
-*Purpose: Requesting an informal pre-application field audit at Roya's Cabin.*
+*Purpose: Requesting an informal pre-application field audit at Sandra's Cabin.*
 
 ```
 Subject: Request for Pre-Application Site Visit | Anderson Creek Stream Mitigation Project (Gilmer/Fannin Co.)
@@ -109,7 +109,7 @@ Dear Mr. Hammonds,
 
 I hope this email finds you well. 
 
-I am writing on behalf of Blue Ridge Stream Restoration & Mitigation LLC to request an informal pre-application site visit and initial IRT review for a proposed stream mitigation project along Anderson Creek in Fannin/Gilmer County, Georgia.
+I am writing on behalf of Save Our Streams Inc. to request an informal pre-application site visit and initial IRT review for a proposed stream mitigation project along Anderson Creek in Fannin/Gilmer County, Georgia.
 
 The project site consists of approximately 1,500 linear feet of perennial, degraded coldwater trout habitat showing severe bank destabilization and channel widening due to historical land clearing. Our geomorphic design-build strategy centers on Rosgen Priority 1 Natural Channel Design (NCD), reconnecting the channel to its active floodplain, installing bioengineered root-wads, and establishing a perpetual 100-foot native canopy buffer.
 
@@ -125,7 +125,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 bookings@flyfishingnorthgeorgia.com | (555) 123-4567
 ```
 
@@ -142,7 +142,7 @@ Dear Mr. Kent and Mr. Berry,
 
 I hope this message finds you both well.
 
-My name is Hunter Morris, Fluvial Geomorphologist and Managing Director at Blue Ridge Stream Restoration & Mitigation LLC. I am contacting you regarding our upcoming Stream Buffer Variance application for the proposed Anderson Creek Ecological Restoration Project in Fannin/Gilmer County.
+My name is Hunter Morris, Fluvial Geomorphologist and Managing Director at Save Our Streams Inc.. I am contacting you regarding our upcoming Stream Buffer Variance application for the proposed Anderson Creek Ecological Restoration Project in Fannin/Gilmer County.
 
 The project involves restoring 1,500 linear feet of degraded perennial trout stream using bioengineered J-hooks, rock cross-vanes, and live willow/alder staking. To install these restoration structures and narrow the widened channel, temporary construction access within the protected 50-foot trout stream buffer is required.
 
@@ -158,7 +158,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 bookings@flyfishingnorthgeorgia.com | (555) 123-4567
 ```
 
@@ -166,7 +166,7 @@ bookings@flyfishingnorthgeorgia.com | (555) 123-4567
 
 ## 5. Standard Operating Procedure for IRT Site Audits
 
-When hosting Justin Hammonds, Brian Kent, or other IRT representatives on-site at Roya's Cabin or Hunter's Cabin, Hunter must execute the following field checklist to maximize regulatory trust:
+When hosting Justin Hammonds, Brian Kent, or other IRT representatives on-site at Sandra's Cabin or Hunter's Cabin, Hunter must execute the following field checklist to maximize regulatory trust:
 
 *   **[ ] Establish Safety & Accessibility**: Clear the pathways along the stream bank in advance. Ensure access points are safe, stable, and marked with geomorphic survey stakes showing bankfull indicators.
 *   **[ ] Technical Site Folders**: Provide each agency official with a high-durability waterproof folder containing:

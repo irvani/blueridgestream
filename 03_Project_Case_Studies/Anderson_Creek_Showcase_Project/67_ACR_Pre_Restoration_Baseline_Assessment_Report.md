@@ -1,14 +1,14 @@
 # File 67: Pre-Restoration Baseline Assessment Report
-## Watershed Sourcing & Geomorphic Siting for Anderson Creek (Roya's Cabin) Reach
+## Watershed Sourcing & Geomorphic Siting for Anderson Creek (Sandra's Cabin) Reach
 
 > [!IMPORTANT]
-> **Pre-Restoration (Baseline) Project Standard**: This document represents the official pre-work baseline assessment for the **Anderson Creek Showcase Restoration Project (Roya's Cabin Reach)**. It captures the degraded agricultural state of the 1,500 linear foot reach prior to construction. It details severe bank failure, thermal pollution exceeding brown trout tolerances, hypoxic dissolved oxygen concentrations within the spawning gravels, and massive sediment loading, establishing the regulatory "before" baseline required for USACE Section 404 credit calculations.
+> **Pre-Restoration (Baseline) Project Standard**: This document represents the official pre-work baseline assessment for the **Anderson Creek Showcase Restoration Project (Sandra's Cabin Reach)**. It captures the degraded agricultural state of the 1,500 linear foot reach prior to construction. It details severe bank failure, thermal pollution exceeding brown trout tolerances, hypoxic dissolved oxygen concentrations within the spawning gravels, and massive sediment loading, establishing the regulatory "before" baseline required for USACE Section 404 credit calculations.
 
 ---
 
 ## I. Site Location & Degraded Watershed Context
 
-*   **Project Name**: Anderson Creek Showcase Restoration (Roya's Cabin Reach)
+*   **Project Name**: Anderson Creek Showcase Restoration (Sandra's Cabin Reach)
 *   **Location**: Fannin County, Georgia (Upper Coosa River Basin)
 *   **Waterbody ID / HUC-8**: GA-03150105 (Upper Coosa Watershed)
 *   **Reach Length**: 1,500 Linear Feet (LF)
@@ -106,4 +106,4 @@ A biological assessment was executed in October 2025 using the EPA Rapid Bioasse
 *   **EPT Index Evaluation**: EPT taxa are highly sensitive to siltation and warm water; their near-absence (EPT = 2) proves that the baseline stream is ecologically dead, lacking the primary insect food source required to sustain a healthy wild brown trout fishery.
 
 ---
-*Prepared by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin.*
+*Prepared by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin.*

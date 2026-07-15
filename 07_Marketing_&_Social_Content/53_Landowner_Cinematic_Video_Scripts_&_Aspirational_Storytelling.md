@@ -1,18 +1,18 @@
 # File 53: Landowner Cinematic Video Scripts & Aspirational Storytelling
 
 > [!IMPORTANT]
-> **Brand Alignment & Sourcing Guidelines**: These video scripts are designed to build trust with rural North Georgia mountain landowners. In contrast to nameless corporate conglomerates, these scripts highlight Managing Director Hunter Morris's background as the preeminent outfitter and conservation leader in North Georgia, already managing an active team of **12 to 20+ river restoration and fly-fishing professionals**. Launching Blue Ridge Stream Restoration is a **natural entrepreneurial extension of his life's work**, demonstrating a personal, relationship-driven commitment to restoring native trout habitats with meticulous geomorphic craftsmanship.
+> **Brand Alignment & Sourcing Guidelines**: These video scripts are designed to build trust with rural North Georgia mountain landowners. In contrast to nameless corporate conglomerates, these scripts highlight Managing Director Hunter Morris's background as the preeminent outfitter and conservation leader in North Georgia, already managing an active team of **12 to 20+ river restoration and fly-fishing professionals**. Launching Save Our Streams Inc. is a **natural entrepreneurial extension of his life's work**, demonstrating a personal, relationship-driven commitment to restoring native trout habitats with meticulous geomorphic craftsmanship.
 
 ## I. The Strategic Positioning: The Local River Keeper vs. PE-Backed Corporate Conglomerates
 
-To acquire high-priority stream restoration reaches near Hunter's cabin, we must differentiate Blue Ridge Stream Restoration from massive, private-equity backed mitigation conglomerates (such as Resource Environmental Solutions - RES). Large corporate competitors treat stream restoration as industrial civil engineering, resulting in cold, artificial drainage corridors. We position Hunter Morris as the **Angler-Builder & region's preeminent stream keeper** whose work is a natural extension of his daily conservation work:
+To acquire high-priority stream restoration reaches near Hunter's cabin, we must differentiate Save Our Streams Inc. from massive, private-equity backed mitigation conglomerates (such as Resource Environmental Solutions - RES). Large corporate competitors treat stream restoration as industrial civil engineering, resulting in cold, artificial drainage corridors. We position Hunter Morris as the **Angler-Builder & region's preeminent stream keeper** whose work is a natural extension of his daily conservation work:
 
 1. **PE-Backed Conglomerates (The Highway Contractor Approach)**:
    - *Methods*: Clear-cut native riparian forest, reshape banks into uniform trapezoidal channels, dump heavy, jagged granite quarry stone (rip-rap), and build standard artificial step structures.
    - *Result*: Artificial channels with zero canopy cover, increased thermal temperatures that drive out wild brook trout, and minimal geomorphic habitat complexity.
    - *Relation*: Nameless corporate representatives who do not fish, do not understand coldwater ecology, and treat rural landowners as mere pipeline segments.
 
-2. **Blue Ridge Stream Restoration (The Natural Stream Keeper Approach)**:
+2. **Save Our Streams Inc. (The Natural Stream Keeper Approach)**:
    - *Methods*: Meticulous **Natural Channel Design (NCD)** utilizing native materials: transplanting mature *Rhododendron maximum* to build bank stability and thermal shade, placing large cedar root-wads for scour-pool cover, and designing wild gravel riffle-pools.
    - *Staffing*: Hunter Morris isn't just an engineer on paper. He is the **largest outfitter and leader in North Georgia**, managing a dedicated, active team of **12 to 20+ river professionals** who spend their lives cleaning rivers, maintaining wild coldwater flows, and guiding on local streams daily. The restoration company is a natural entrepreneurial scale-up of what his crews already do.
    - *Result*: Stable, self-scouring stream channels that lower summer water temperatures below $65^\circ\text{F}$, creating pristine wild trout spawning runs.
@@ -28,7 +28,7 @@ To acquire high-priority stream restoration reaches near Hunter's cabin, we must
 
 | Time | Visual Storyboard | Audio & Voiceover (VO) | On-Screen Text / Graphics |
 | :--- | :--- | :--- | :--- |
-| **0:00-0:05** | **[Visual]** Drone shot sweeps down a crystal-clear North Georgia mountain stream. Transition to extreme closeup of a gorgeous wild Brook Trout resting in a deep pool. | **[Audio]** Soft sound of rushing mountain water. <br>**[VO]** "A mountain stream is more than just water flowing..." | *Blue Ridge Stream Restoration* |
+| **0:00-0:05** | **[Visual]** Drone shot sweeps down a crystal-clear North Georgia mountain stream. Transition to extreme closeup of a gorgeous wild Brook Trout resting in a deep pool. | **[Audio]** Soft sound of rushing mountain water. <br>**[VO]** "A mountain stream is more than just water flowing..." | *Save Our Streams Inc.* |
 | **0:05-0:10** | **[Visual]** Close-up of vertical bank erosion, dirt crumbling into a stream. Transition to Hunter Morris in waders, pointing out a stable gravel spawning riffle. | **[Audio]** Water sound fades slightly. <br>**[VO]** "It's a delicate geomorphic balance of stable gravels, cold pools, and native banks." | *Is your stream eroding?* |
 | **0:10-0:15** | **[Visual]** Slicing macro shot of a hand placing a native live willow stake along a bank. | **[Audio]** **[VO]** "We restore wild trout streams at **zero cost** to landowners, while generating passive income." | **$0 Out-of-Pocket Cost** |
 | **0:15-0:20** | **[Visual]** Hunter Morris wades across a restored reach, smiling and looking back. Close with a clean logo overlay. | **[Audio]** Sound of water rises. <br>**[VO]** "Trust your land to local hands. Let's wade your stream together." | **Schedule a Free Stream Walk** <br>blueridgestream.us.kg |
@@ -62,7 +62,7 @@ To acquire high-priority stream restoration reaches near Hunter's cabin, we must
 - **[Audio]** Guitar and fiddle build to a final, resonant chord. Sounds of rushing water rise.
 - **[VO (Hunter)]** "I don't look at a stream as an engineering problem. I look at it as a sanctuary. If you have a stream on your land, don't let it wash away, and don't hand it over to a nameless corporation. Let's wade it together. We'll listen to what the river is telling us, and we'll restore its legacy for generations to come."
 - **[On-Screen Graphic]** 
-  - **Blue Ridge Stream Restoration & Mitigation LLC**
+  - **Save Our Streams Inc.**
   - *Restore Your Stream. Protect Your Legacy.*
   - **Schedule a Free Stream Walk w/ Hunter Morris**
   - Email: hunter@blueridgestream.us.kg | Web: blueridgestream.us.kg

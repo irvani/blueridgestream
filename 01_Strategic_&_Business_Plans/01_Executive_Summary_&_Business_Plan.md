@@ -1,5 +1,5 @@
 # High-Level Business Plan & Ecological Guide
-## Blue Ridge Stream Restoration & Mitigation Ventures
+## Save Our Streams Inc. Ventures
 
 **Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -11,7 +11,7 @@
 
 ## 1. Executive Summary
 
-This business plan establishes the strategic launch of **Blue Ridge Stream Restoration & Mitigation LLC** (proposed name). The company represents a unique, highly profitable convergence of **advanced coldwater trout stream ecology** and **federal/state compensatory mitigation banking**. 
+This business plan establishes the strategic launch of **Save Our Streams Inc.** (proposed name). The company represents a unique, highly profitable convergence of **advanced coldwater trout stream ecology** and **federal/state compensatory mitigation banking**. 
 
 By utilizing Natural Channel Design (NCD)—which employs native wood, logs, and root wads to restore degraded streams to their original geomorphic footings rather than allowing them to overwiden—Hunter will deliver permanent bank stabilization, massive biological diversity lift, and fast-tracked CWA 404 permit compliance for Southeast developers. 
 
@@ -82,8 +82,8 @@ NCD represents the absolute **best type of stream restoration** because:
 
 To manage risk and minimize launch costs, Hunter should execute a two-phase corporate structure:
 
-*   **Phase 1: Consulting Umbrella (Months 1–6)**: Establish a consulting division—**"Blue Ridge Stream Consulting"**—operating under Hunter's existing brand, *Fly Fishing Georgia North Mountains*. This leverages his established reputation, minimizes initial filing fees, and lets him use early showcase projects (Roya's Cabin and Hunter's Cabin) to build a visual track record.
-*   **Phase 2: Dedicated LLC Spin-Out (Months 6+)**: Form **Blue Ridge Stream Restoration & Mitigation LLC** as a separate legal entity. Heavy instream excavation requires heavy equipment and carries liability risk; a dedicated LLC isolates this risk. Furthermore, USACE MBIs and conservation easements require the bank sponsor to be a specific corporate entity with dedicated financial assurance accounts.
+*   **Phase 1: Consulting Umbrella (Months 1–6)**: Establish a consulting division—**"Save Our Streams Inc. Consulting"**—operating under Hunter's existing brand, *Fly Fishing Georgia North Mountains*. This leverages his established reputation, minimizes initial filing fees, and lets him use early showcase projects (Sandra's Cabin and Hunter's Cabin) to build a visual track record.
+*   **Phase 2: Dedicated LLC Spin-Out (Months 6+)**: Form **Save Our Streams Inc.** as a separate legal entity. Heavy instream excavation requires heavy equipment and carries liability risk; a dedicated LLC isolates this risk. Furthermore, USACE MBIs and conservation easements require the bank sponsor to be a specific corporate entity with dedicated financial assurance accounts.
 
 ### Board of Directors & Corporate Governance
 The company will be guided by an active Board of Directors to ensure rigorous financial oversight, capital allocation, and regional commercial B2B developer scaling:
@@ -98,7 +98,7 @@ The company will be guided by an active Board of Directors to ensure rigorous fi
 ### Marketing & B2B Outreach
 Hunter’s outreach must be highly targeted, using the case studies as primary assets:
 *   **Private Landowners (The Showroom)**: Invite premium landowners and mountain land brokers (**Jack Chapman at Transwestern**, **Stream Realty Partners**) to **Hunter's Cabin at Goldmine Hollow** for a weekend of wild trout fishing on Noontootla Creek. Walk them through the log step-pools and sediment traps to demonstrate your bioengineering design.
-*   **Commercial Developers (The Credits)**: Target active regional developers (**Mike Irby at Taylor Mathis**, **Jeff Fuqua**, **Sefried**, **Ray Weeks**, **Maxwell Bonney**) who face stream piping or buffer variance hurdles. Propose supplying them with Priority 1 stream credits generated at **Roya's Cabin at Anderson Creek** (estimated **12,900 credits** total yield).
+*   **Commercial Developers (The Credits)**: Target active regional developers (**Mike Irby at Taylor Mathis**, **Jeff Fuqua**, **Sefried**, **Ray Weeks**, **Maxwell Bonney**) who face stream piping or buffer variance hurdles. Propose supplying them with Priority 1 stream credits generated at **Sandra's Cabin at Anderson Creek** (estimated **12,900 credits** total yield).
 *   **Mitigation Bankers**: Partner with **Neil Blackman (Principal at Corblu Ecology Group)** in a Joint Venture (JV). Corblu manages the banking ledger and RIBITS registry, while Hunter’s company acts as the specialized design-build contractor.
 
 ### The Regulatory Permitting Roadmap
@@ -114,7 +114,7 @@ To ensure this business launches successfully and secures the ultimate prize (th
 
 | Milestone | Target Objective | Timeline | Net Margin Contribution | Argentina Funding Tracker |
 | :--- | :--- | :--- | :--- | :--- |
-| **Milestone 1** | Permit Roya's Cabin (ACR) & Goldmine Hollow | Months 1–3 | $0 (Upfront permitting) | 🟨 **Stage 1**: Permitting filed |
+| **Milestone 1** | Permit Sandra's Cabin (ACR) & Goldmine Hollow | Months 1–3 | $0 (Upfront permitting) | 🟨 **Stage 1**: Permitting filed |
 | **Milestone 2** | Construct Anderson Creek & Goldmine Showcases | Months 4–6 | $0 (Showcase asset creation) | 🟨 **Stage 2**: Showcases completed |
 | **Milestone 3** | Secure Neil Blackman (Corblu) JV & initial credit release | Months 7–12 | **+$150,000+** (Initial 15% credit sale) | 🟩 **Active Funding Secured!** |
 | **Milestone 4** | Scale: Spin out LLC & close first corporate buyer (Fuqua/Sefried) | Months 12+ | **+$250,000+** (Full credit liquidation) | 🟩 **Business Fully Scaled** |

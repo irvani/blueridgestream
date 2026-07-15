@@ -99,7 +99,7 @@ Trout Unlimited is nationally recognized for protecting coldwater fisheries. The
 
 ## IV. The Blue Ridge Solution: High-Value Spawning Sanctuary Offsets
 
-To resolve this conflict and turn corporate risk into a highly positive conservation narrative, Blue Ridge Stream Restoration has structured a premium B2B **Water and Thermal Offset Framework**. 
+To resolve this conflict and turn corporate risk into a highly positive conservation narrative, Save Our Streams Inc. has structured a premium B2B **Water and Thermal Offset Framework**. 
 
 Hunter Morris and Hadi Irvani present this strategic offset narrative directly to data center sustainability executives:
 
@@ -118,8 +118,8 @@ Hunter Morris and Hadi Irvani present this strategic offset narrative directly t
 ### The Sourcing Pitch and Strategic Alignment:
 1.  **The Thermal Offset Credit**: While a data center may consume groundwater in one part of a HUC-8 basin, they can *fully offset* this regional thermal impact by funding a **Blue Ridge Spawning Sanctuary** along a degraded reach in the same watershed.
 2.  **Turnkey Scientific Verification**: We install our off-grid **LoRa/Meshtastic water quality monitoring stations** on the funded reach. The live telemetry (water temperature, DO, stage) is streamed directly to Trout Unlimited and the UGA Warnell database, providing the corporate sponsor with real-time, mathematically verified evidence of temperature cooling and spawning success.
-3.  **Positive Corporate ESG PR**: Instead of a defensive public relations posture, the data center operator sponsors a high-status project with **UGA Warnell** and **Trout Unlimited**. They receive a branded, scientifically validated conservation legacy: *"This Coldwater Spawning Sanctuary was fully funded by [Sponsor Name] in partnership with Blue Ridge Stream Restoration to protect native wild brook trout."*
+3.  **Positive Corporate ESG PR**: Instead of a defensive public relations posture, the data center operator sponsors a high-status project with **UGA Warnell** and **Trout Unlimited**. They receive a branded, scientifically validated conservation legacy: *"This Coldwater Spawning Sanctuary was fully funded by [Sponsor Name] in partnership with Save Our Streams Inc. to protect native wild brook trout."*
 4.  **USACE-Approved Mitigation Credits**: Sponsoring our Nationwide Permit 27 geomorphic restorations generates official Savannah District stream mitigation credits that operators can use to satisfy regulatory requirements for their new campus construction, creating a highly efficient, dual-value investment.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

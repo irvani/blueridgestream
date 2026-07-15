@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > **Marketing & Brand Communication Standards**  
-> **Brand**: Blue Ridge Stream Restoration & Mitigation LLC  
+> **Brand**: Save Our Streams Inc.  
 > **Audience**: Hyperscale Developers, Agricultural Bankers, Estate Attorneys, and USACE Regulators  
 > **Supervising Board**: Hunter Morris (Co-Founder & Managing Director) & Hadi Irvani (Board Member)
 
@@ -12,7 +12,7 @@
 
 In the stream mitigation industry, most developers present their work using dry, dry-gray civil engineering reports cluttered with chaotic CAD line-weights and basic Calibri Word documents. 
 
-To help Co-Founder Hunter Morris out-compete multi-million dollar conglomerates, **Blue Ridge Stream** must maintain an elite, cohesive B2B brand identity. Every pitch deck, landowners option agreement, website portal, and regulatory audit must feel premium, state-of-the-art, and scientifically rigorous. 
+To help Co-Founder Hunter Morris out-compete multi-million dollar conglomerates, **Save Our Streams Inc.** must maintain an elite, cohesive B2B brand identity. Every pitch deck, landowners option agreement, website portal, and regulatory audit must feel premium, state-of-the-art, and scientifically rigorous. 
 
 This Visual Style Guide details the corporate color system, typefaces, presentation templates, and logo exclusion specifications to ensure our assets are visually consistent and command a premium credit selling price.
 
@@ -71,7 +71,7 @@ When Hunter Morris pitches landowners or data center executives, his slides must
 
 ```
 +-------------------------------------------------------------------------+
-| [RIVER NAVY HEADER BAND]                         🎓 Blue Ridge Stream   |
+| [RIVER NAVY HEADER BAND]                         🎓 Save Our Streams Inc.   |
 |   SLIDE TITLE: THE 70/30 CREDIT SPLIT ECONOMICS                         |
 |-------------------------------------------------------------------------|
 |                                                                         |

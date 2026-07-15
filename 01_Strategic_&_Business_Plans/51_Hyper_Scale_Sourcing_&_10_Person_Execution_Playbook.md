@@ -5,7 +5,7 @@
 
 ## I. The Hyper-Scale 90-Day Sprint Roadmap
 
-To take Blue Ridge Stream Restoration from a single-operator startup to a dominant 10-person geomorphic engineering and mitigation capital powerhouse, we establish **The Hyper-Scale 90-Day Sprint**. This roadmap leverages parallel workstreams to compress standard 12-month development timelines into tight, highly accountable 30-day blocks:
+To take Save Our Streams Inc. from a single-operator startup to a dominant 10-person geomorphic engineering and mitigation capital powerhouse, we establish **The Hyper-Scale 90-Day Sprint**. This roadmap leverages parallel workstreams to compress standard 12-month development timelines into tight, highly accountable 30-day blocks:
 
 ```mermaid
 gantt
@@ -69,7 +69,7 @@ To scale our team with high-caliber talent without burning cash, we establish a 
 
 ### 2. Structured 3-Step Interview Funnel
 - **Step 1: Geomorphic Screen (Hunter Morris)**: 30-minute phone call assessing alignment with local mountain trout ecosystems and geomorphic conservation values.
-- **Step 2: Technical Geomorphic Test**: Candidate is given raw GIS/elevation coordinates of a degraded reach (e.g. Roya's Cabin Boardtown Creek scours) and must calculate the Entrenchment Ratio ($ER$) and recommend J-hook structures within 48 hours.
+- **Step 2: Technical Geomorphic Test**: Candidate is given raw GIS/elevation coordinates of a degraded reach (e.g. Sandra's Cabin Boardtown Creek scours) and must calculate the Entrenchment Ratio ($ER$) and recommend J-hook structures within 48 hours.
 - **Step 3: Board Alignment (Hunter & Hadi Irvani)**: In-person alignment review at the operations office, assessing cultural fit, EOS scorecard metrics, and long-term legacy commitments.
 
 ### 3. Roles and Responsibilities Matrix

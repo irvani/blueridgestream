@@ -27,6 +27,6 @@ This pioneering geomechanics paper provides the initial physical and mathematica
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
+## 4. Applied Relevance to Save Our Streams Inc.
 * **Biomechanical Verification**: Provides the foundational laboratory data that validates the Wu-Waldron model used by Hunter's engineering interns.
 * **Wet-Season Stability**: Highlights why bioengineered bank stabilization is highly effective during winter and early spring high-flow events. When clay banks are saturated and their natural shear strength is lowest, the high-tensile fibrous root networks of mature *Rhododendron maximum* transplants provide crucial structural reinforcement, preventing bank failures under extreme pore-water pressures.

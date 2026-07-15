@@ -34,6 +34,6 @@ This seminal publication develops the first mathematical analytical model (the W
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
+## 4. Applied Relevance to Save Our Streams Inc.
 * **Bioengineering Validation**: Provides the mathematical proof required by the USACE Savannah District to justify the replacement of concrete rip-rap with native bioengineered banks.
 * **Root Matrix Design**: Explores how dense lateral root networks (such as *Rhododendron maximum*) bind Piedmont clay and sand soils, dramatically increasing bank factor-of-safety values under peak storm shear stresses.

@@ -74,7 +74,7 @@ $$S_{\text{attenuation}} = 1 - e^{-k \cdot \text{LAI}}$$
 *   *Planting Matrix*: We transplant mature, field-sourced *Rhododendron maximum* and *Alnus serrulata* (Tag Alder) at a spacing density of **1.5 meters on-center** directly along the stream bank edge.
 
 ### 3. Pool-to-Riffle Sequencing Ratios
-*   High-gradient Blue Ridge stream reaches (Rosgen B3-B4 types) require a pool-to-riffle spacing ratio of **5 to 7 bankfull widths**.
+*   High-gradient Save Our Streams Inc. reaches (Rosgen B3-B4 types) require a pool-to-riffle spacing ratio of **5 to 7 bankfull widths**.
 *   Pools are excavated immediately downstream of geomechanical rock J-hook vanes to provide deep, thermal refuges (minimum depth **1.2m to 1.8m**) with slow resting currents (<0.1 m/s).
 
 ---
@@ -312,4 +312,4 @@ query GetTroutThermalRegime($stationId: String!, $huc8: String!, $startDate: Dat
 ```
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

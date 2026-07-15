@@ -24,10 +24,10 @@ U.S. ARMY CORPS OF ENGINEERS - NATIONWIDE PERMIT 27 ATTACHMENT
 PRE-CONSTRUCTION NOTIFICATION (PCN) TECHNICAL NARRATIVE
 ================================================================================
 
-APPLICANT: Blue Ridge Stream Restoration & Mitigation LLC
+APPLICANT: Save Our Streams Inc.
 MANAGING DIRECTOR: Hunter Morris
 BOARD MEMBER: Hadi Irvani (University of Virginia - UVA / HBS)
-PROJECT NAME: Anderson Creek Fluvial Restoration Project (Roya's Cabin Reach)
+PROJECT NAME: Anderson Creek Fluvial Restoration Project (Sandra's Cabin Reach)
 LOCATION: Fannin County, Georgia (Latitude: 34.8456° N, Longitude: 84.3412° W)
 WATERSHED: Upper Savannah River Basin (HUC 03060102)
 STREAM REACH LENGTH: 1,500 Linear Feet

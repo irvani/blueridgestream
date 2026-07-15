@@ -50,7 +50,7 @@ Where:
 
 ---
 
-## 3. Financial Case Study: Roya's Cabin at Anderson Creek
+## 3. Financial Case Study: Sandra's Cabin at Anderson Creek
 
 You will model the baseline financials for our flagship **1,500-LF reach** at Anderson Creek using the **70/30 Credit Split JV structure**.
 
@@ -68,7 +68,7 @@ You will model the baseline financials for our flagship **1,500-LF reach** at An
 
 ## 4. Phased Cash Flow & NPV Model Output Table
 
-Input the following phased credit release schedule into your underwriting spreadsheet to calculate the net cash flow ($CF_t$) and discounted value ($PV$) for Blue Ridge Stream (Developer 70% share):
+Input the following phased credit release schedule into your underwriting spreadsheet to calculate the net cash flow ($CF_t$) and discounted value ($PV$) for Save Our Streams Inc. (Developer 70% share):
 
 | Year ($t$) | Credit Release % | Credits Sold | Developer Gross (70%) | Developer Costs ($CF_t$) | Present Value ($PV$ at 10%) |
 |:---:|:---:|:---:|:---:|:---:|:---:|

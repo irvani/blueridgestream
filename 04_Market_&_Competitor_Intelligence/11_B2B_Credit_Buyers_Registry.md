@@ -1,5 +1,5 @@
 # B2B Credit Buyers Registry: 50 Target Mitigation Clients
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -10,7 +10,7 @@
 
 This registry contains **50 highly qualified target clients** active in Georgia and the Southeast who purchase compensatory stream mitigation credits to satisfy Clean Water Act Section 404 permits and Georgia EPD Stream Buffer Variances. 
 
-Hunter should target these entities using our B2B sales templates to offer Priority 1 coldwater stream mitigation credits generated at Anderson Creek (Roya's Cabin) or site-specific Permittee-Responsible Mitigation (PRM) design-build services.
+Hunter should target these entities using our B2B sales templates to offer Priority 1 coldwater stream mitigation credits generated at Anderson Creek (Sandra's Cabin) or site-specific Permittee-Responsible Mitigation (PRM) design-build services.
 
 ---
 

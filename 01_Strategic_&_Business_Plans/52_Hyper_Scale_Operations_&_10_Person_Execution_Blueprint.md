@@ -1,11 +1,11 @@
 # File 52: Hyper-Scale Operations & 10-Person Team Execution Blueprint
 
 > [!IMPORTANT]
-> **Corporate Staging & Execution Policy**: In accordance with the approved scaling strategy, this document outlines the core organizational architecture and capital allocation playbooks. All workflows are optimized for immediate execution starting Monday morning, ensuring Blue Ridge Stream Restoration scales from a single-operator startup to a 10-person capacity powerhouse within 90 days.
+> **Corporate Staging & Execution Policy**: In accordance with the approved scaling strategy, this document outlines the core organizational architecture and capital allocation playbooks. All workflows are optimized for immediate execution starting Monday morning, ensuring Save Our Streams Inc. scales from a single-operator startup to a 10-person capacity powerhouse within 90 days.
 
 ## I. Low-Overhead High-Velocity Scaling Mechanics
 
-Standard mitigation banks and stream restoration firms fail due to high capital expenditure (CapEx) drag, high unionized labor overhead, and expensive heavy equipment debt servicing. To scale rapidly to a 10-person throughput while maintaining a lean balance sheet, Blue Ridge Stream Restoration adopts the **Academic-Leveraged and Subcontractor-Driven Model**.
+Standard mitigation banks and stream restoration firms fail due to high capital expenditure (CapEx) drag, high unionized labor overhead, and expensive heavy equipment debt servicing. To scale rapidly to a 10-person throughput while maintaining a lean balance sheet, Save Our Streams Inc. adopts the **Academic-Leveraged and Subcontractor-Driven Model**.
 
 This model protects the Developer Margin and optimizes Cash Flow Velocity by converting fixed payroll costs into flexible, variable project expenditures. The geomorphic developer margin formula is defined as follows:
 
@@ -41,7 +41,7 @@ To fund early engineering, survey, and permitting costs ($80,000 - $120,000 per 
 
 1. **Pre-Sourcing Direct PRM Commitments**: Utilizing the *Georgia Hyperscale Data Center Direct Sales Directory* (File 22), Sourcing Directors target operators in identical HUC-8 basins (e.g. HUC `03090101` Upper Coosa) who have imminent stream buffer impact requirements under CWA Section 404.
 2. **Binding Letters of Intent (LOI)**: Prior to closing landowner options, Hunter Morris executes binding Pre-Sale LOIs with operators at a wholesale discount (e.g. $155.00/credit vs. $180.00/credit retail price).
-3. **Escrow-Backed Siting Deposits**: The B2B purchaser places a 15% escrow-backed cash deposit ($348,300 on Roya's Cabin 12,900 SOP credit yield) upon submission of the USACE NWP 27 Pre-Construction Notification. This cash deposit immediately finances early field engineering, intern stipends, and subcontractor mobilization, establishing a self-funding business model.
+3. **Escrow-Backed Siting Deposits**: The B2B purchaser places a 15% escrow-backed cash deposit ($348,300 on Sandra's Cabin 12,900 SOP credit yield) upon submission of the USACE NWP 27 Pre-Construction Notification. This cash deposit immediately finances early field engineering, intern stipends, and subcontractor mobilization, establishing a self-funding business model.
 
 ---
 
@@ -77,7 +77,7 @@ To run a high-velocity operation across academic interns, subcontractors, and co
 ### 2. 90-Minute Level 10 Meeting Agenda
 1. **Good News Segue (5 Mins)**: Personal and professional alignment check.
 2. **The Weekly Scorecard Review (10 Mins)**: Review of the 10 role-based performance metrics. Any off-track metric is instantly pushed to the IDS list.
-3. **90-Day Strategic Rock Review (15 Mins)**: Check-in on priority rocks (e.g. Submit Roya's Cabin Permit, Sign 5 JV options, Pre-sell $250k credits).
+3. **90-Day Strategic Rock Review (15 Mins)**: Check-in on priority rocks (e.g. Submit Sandra's Cabin Permit, Sign 5 JV options, Pre-sell $250k credits).
 4. **Headlines & Sourcing Updates (5 Mins)**: Share landowner stream wade feedback and broker developments.
 5. **To-Do List Action Sync (5 Mins)**: Check completion of last week's action items (target: $\ge 90\%$ completion rate).
 6. **IDS: Identify, Discuss, Solve (45 Mins)**: Focus on the root cause of the week's biggest blockages (e.g. land mortgage subordination delays, HEC-RAS boundary flow calibration issues).

@@ -28,6 +28,6 @@ This publication synthesizes operational methods and mathematical decision-suppo
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
+## 4. Applied Relevance to Save Our Streams Inc.
 * **Target Sourcing Optimization**: Provides the mathematical logic for our regional outreach. Hadi can leverage these prioritization principles to identify and option multiple perched private timber road culverts or obsolete low-head agricultural dams in North Georgia.
-* **High-Yield Credit Sourcing**: Instead of pursuing highly complex and expensive municipal dam removals, Blue Ridge Stream can bundle multiple low-cost private culvert replacements along a single high-gradient mountain tributary, re-establishing contiguous trout spawning highways and generating massive stream mitigation credits at minimum capital cost.
+* **High-Yield Credit Sourcing**: Instead of pursuing highly complex and expensive municipal dam removals, Save Our Streams Inc. can bundle multiple low-cost private culvert replacements along a single high-gradient mountain tributary, re-establishing contiguous trout spawning highways and generating massive stream mitigation credits at minimum capital cost.

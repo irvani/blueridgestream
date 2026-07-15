@@ -3,7 +3,7 @@
 
 **Location**: 30-Acre Lot, Anderson Creek, Gilmer/Fannin County, North Georgia  
 **Target Basin**: Coosa River Basin (Sub-basin: Upper Coosa / Ellijay River)  
-**Project Sponsor**: Granite Holdings / Hunter's Blue Ridge Stream Restoration  
+**Project Sponsor**: Granite Holdings / Hunter's Save Our Streams Inc.  
 
 ---
 

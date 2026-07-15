@@ -1,7 +1,7 @@
 # File 63: Coldwater Thermal Refuge Design Manual: Solar Attenuation & Canopy Shading
 
 > [!IMPORTANT]
-> **Fluvial Thermal Design Standard**: This document establishes the thermal restoration standards and canopy design parameters for the Blue Ridge Stream Restoration projects. By applying mathematical Beer-Lambert solar light attenuation models to target specific canopy shading densities and geomorphically sculpting deep, thermally stratified pools that intercept cold groundwater seeps, we secure critical coldwater sanctuaries for wild Brook Trout. This manual details precise physiological thermal limits, canopy solar radiation equations, stratified pool hydraulics, and hyporheic zone design parameters.
+> **Fluvial Thermal Design Standard**: This document establishes the thermal restoration standards and canopy design parameters for the Save Our Streams Inc. projects. By applying mathematical Beer-Lambert solar light attenuation models to target specific canopy shading densities and geomorphically sculpting deep, thermally stratified pools that intercept cold groundwater seeps, we secure critical coldwater sanctuaries for wild Brook Trout. This manual details precise physiological thermal limits, canopy solar radiation equations, stratified pool hydraulics, and hyporheic zone design parameters.
 
 ---
 
@@ -132,4 +132,4 @@ During our preliminary drone surveys, we utilize **TIR (Thermal Infrared) multis
 *   *Restoration Design*: We construct our deep stratified pools directly downstream of these coldwater seeps. This intercepts the 54°F (12.2°C) year-round groundwater flows and traps them within our deep, slow-moving pool pockets, creating a highly resilient sanctuary for trout during hot summer months.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

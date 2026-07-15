@@ -119,7 +119,7 @@ To ensure Hunter Morris and the Sourcing Directors secure commitments quickly on
 
 ### 1. Landowner Verbal Pitch: Booking the Stream Walk
 ```text
-Hunter: "Hi [Landowner_Name], my name is Hunter Morris. I guide trophy trout wades right here in the county, and I'm also Managing Director of Blue Ridge Stream Restoration LLC.
+Hunter: "Hi [Landowner_Name], my name is Hunter Morris. I guide trophy trout wades right here in the county, and I'm also Managing Director of Save Our Streams Inc. LLC.
 
 I'm calling because we've mapped several large properties along [Creek_Name] using GIS terrain models, and we noticed that recent storms have caused severe lateral bank erosion across your pasture. 
 

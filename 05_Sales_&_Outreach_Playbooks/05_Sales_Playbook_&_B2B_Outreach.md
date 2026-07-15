@@ -1,7 +1,7 @@
 # B2B Sales Playbook & LinkedIn Outreach Strategy
 ## Monetizing Stream Credits & Ecological Design Services
 
-To grow **Blue Ridge Stream Restoration & Mitigation LLC**, Hunter needs a proactive, high-yield sales framework. The business generates revenue through two distinct channels:
+To grow **Save Our Streams Inc.**, Hunter needs a proactive, high-yield sales framework. The business generates revenue through two distinct channels:
 1.  **Direct Restoration Services**: Fees paid by premium private landowners to design and build world-class trout fisheries.
 2.  **Mitigation Credit Sales**: Premium monetization of stream credits generated through Permittee-Responsible Mitigation (PRM) or Joint Ventures (JVs) with mitigation banking firms.
 
@@ -80,7 +80,7 @@ Your network contains some of the most active commercial real estate and industr
 
 ## 3. LinkedIn Outreach Playbook
 
-LinkedIn is the premier tool for building relationships with high-level real estate developers, environmental consultants, and mitigation bankers. Hunter should optimize his profile to read as: *"Founder, Blue Ridge Stream Restoration & Mitigation | Trout Stream Ecological Design & USACE Credits."*
+LinkedIn is the premier tool for building relationships with high-level real estate developers, environmental consultants, and mitigation bankers. Hunter should optimize his profile to read as: *"Founder, Save Our Streams Inc. | Trout Stream Ecological Design & USACE Credits."*
 
 ### Campaign A: Targeting Developers (The "Credit Supply" Pitch)
 *   **Target**: Jeff Fuqua, Sefried Development, Ray Weeks, Maxwell Bonney.
@@ -94,7 +94,7 @@ LinkedIn is the premier tool for building relationships with high-level real est
 > > 
 > > *I know mixed-use/industrial projects in Georgia are facing increasingly tight timelines on USACE Individual Permits and GA EPD Buffer Variances.*
 > > 
-> > *Our firm, Blue Ridge Stream Restoration, maintains an active pipeline of stream mitigation credits in North Georgia basins (including Coosa and Chattahoochee). By utilizing Natural Channel Design (NCD) bioengineering, we help developers stabilize streams, meet compensatory mitigation requirements, and secure approvals significantly faster than traditional hard-engineering contractors.*
+> > *Our firm, Save Our Streams Inc., maintains an active pipeline of stream mitigation credits in North Georgia basins (including Coosa and Chattahoochee). By utilizing Natural Channel Design (NCD) bioengineering, we help developers stabilize streams, meet compensatory mitigation requirements, and secure approvals significantly faster than traditional hard-engineering contractors.*
 > > 
 > > *If you have any active or upcoming projects facing stream buffer or 404 permit challenges (such as warehouse footprints or retail culverts), we’d love to see if we can help offset those credit requirements directly.*
 > > 
@@ -114,7 +114,7 @@ LinkedIn is the premier tool for building relationships with high-level real est
 > > 
 > > *I hope you're doing well.*
 > > 
-> > *I’m the founder of Blue Ridge Stream Restoration & Mitigation. We specialize in designing high-yield stream restoration projects (Priority 1 geomorphic restoration) and generating stream credits in North Georgia's trout basins.*
+> > *I’m the founder of Save Our Streams Inc.. We specialize in designing high-yield stream restoration projects (Priority 1 geomorphic restoration) and generating stream credits in North Georgia's trout basins.*
 > > 
 > > *Given Transwestern's extensive industrial and commercial land transactions, I wanted to reach out regarding a strategic brokerage alignment. We frequently see land deals get delayed or fall apart due to CWA 404 stream impacts or buffer variance complications.*
 > > 

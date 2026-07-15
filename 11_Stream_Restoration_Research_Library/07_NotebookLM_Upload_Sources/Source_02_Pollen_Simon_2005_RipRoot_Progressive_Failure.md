@@ -30,6 +30,6 @@ This publication critiques the classic Wu-Waldron model (WWM) for systematically
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
+## 4. Applied Relevance to Save Our Streams Inc.
 * **Engineering Precision**: Provides our Georgia Tech engineering interns with the exact progressive failure models required to refine HEC-RAS 2D bank-stability safety factors.
 * **Biotechnical Planting Designs**: Highlights why selecting plants with high-density fibrous feeder roots (like the evergreen *Rhododendron maximum*) provides superior bank shear resistance compared to coarse, taprooted species.

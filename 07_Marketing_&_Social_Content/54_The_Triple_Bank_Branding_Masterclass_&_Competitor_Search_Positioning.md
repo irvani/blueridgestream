@@ -1,7 +1,7 @@
 # File 54: The Triple-Bank Branding Masterclass & Competitor Search Positioning Playbook
 
 > [!IMPORTANT]
-> **Branding & Sourcing Alignment Guide**: This playbook establishes Co-Founder & Managing Director **Hunter Morris**'s preeminent positioning as North Georgia’s premier stream keeper. By leveraging the semantic "double meaning" of the word **Bank**, we construct a unified marketing, legal, and financial narrative that sets Blue Ridge Stream Restoration & Mitigation LLC completely apart from private-equity backed conglomerates. Additionally, we benchmark the active regional banks of **Corblu Ecology Group** to construct localized, high-value sourcing strategies, paired with a complete visual and technical source code blueprint for Hunter's next-generation interactive search and geomorphic proceed calculator website tools.
+> **Branding & Sourcing Alignment Guide**: This playbook establishes Co-Founder & Managing Director **Hunter Morris**'s preeminent positioning as North Georgia’s premier stream keeper. By leveraging the semantic "double meaning" of the word **Bank**, we construct a unified marketing, legal, and financial narrative that sets Save Our Streams Inc. completely apart from private-equity backed conglomerates. Additionally, we benchmark the active regional banks of **Corblu Ecology Group** to construct localized, high-value sourcing strategies, paired with a complete visual and technical source code blueprint for Hunter's next-generation interactive search and geomorphic proceed calculator website tools.
 
 ---
 
@@ -70,7 +70,7 @@ Below is the complete, production-ready, fully functional **HTML, CSS, and JavaS
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blue Ridge Stream Restoration - Interactive Sourcing & Calculator Console</title>
+    <title>Save Our Streams Inc. - Interactive Sourcing & Calculator Console</title>
     <style>
         :root {
             --primary: #1A365D;       /* River Navy */
@@ -290,7 +290,7 @@ Below is the complete, production-ready, fully functional **HTML, CSS, and JavaS
 <div class="console-container">
     <!-- Header -->
     <div class="header-card">
-        <h1>🏞️ Blue Ridge Stream Restoration</h1>
+        <h1>🏞️ Save Our Streams Inc.</h1>
         <p>Advanced flulval geomorphic engineering and regulatory stream mitigation banking search systems.</p>
     </div>
 
@@ -518,4 +518,4 @@ Where:
 - ρ_b = Soil bulk density constant (85.0 lb/ft³ for North Georgia sand-clay matrices).
 - 2000 = Conversion constant from pounds to short tons.
 
-Applying this equation to Roya's Cabin flagship 1,500-LF reach under moderate erosion (0.5 ft/yr) and a 6-foot bank height reveals that **281.25 Tons/Year of sediment** is permanently prevented from entering the local trout watershed—instantly justifying our high-ticket credit generation!
+Applying this equation to Sandra's Cabin flagship 1,500-LF reach under moderate erosion (0.5 ft/yr) and a 6-foot bank height reveals that **281.25 Tons/Year of sediment** is permanently prevented from entering the local trout watershed—instantly justifying our high-ticket credit generation!

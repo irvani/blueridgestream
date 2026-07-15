@@ -5,6 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Save Our Streams USA Inc. | Trout Stream Restoration & USACE Credits | saveourstreamsusa.com</title>
     <meta name="description" content="Save Our Streams USA Inc. restores high-gradient coldwater trout streams using Natural Channel Design (NCD) and generates USACE Savannah District stream mitigation credits in North Georgia.">
+    <!-- Google Analytics (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -179,7 +188,7 @@
 
             <div class="tabs-container">
                 <div class="tab-buttons">
-                    <button class="tab-btn active" onclick="openTab(event, 'study-a')">Case Study A: Roya's Cabin (Anderson Creek)</button>
+                    <button class="tab-btn active" onclick="openTab(event, 'study-a')">Case Study A: Sandra's Cabin (Anderson Creek)</button>
                     <button class="tab-btn" onclick="openTab(event, 'study-b')">Case Study B: Hunter's Cabin (Goldmine Hollow)</button>
                 </div>
 
@@ -187,7 +196,7 @@
                 <div id="study-a" class="tab-content active">
                     <div class="tab-text">
                         <span class="tab-tag">Commercial Credits Showcase</span>
-                        <h3>Roya's Cabin: Anderson Creek Stream Mitigation</h3>
+                        <h3>Sandra's Cabin: Anderson Creek Stream Mitigation</h3>
                         <p>Located on a 30-acre lot at Anderson Creek, this project represents our flagship commercial stream mitigation showcase. We are restoring 2,500 linear feet of heavily eroded perennial stream, converting it from an unstable, overwidened channel to a stable Rosgen Class C4 gravel-dominated meander.</p>
                         <p>By reconnecting the channel to its historic floodplain and planting a 100-foot native riparian buffer, this project generates high-yielding stream credits under the USACE Savannah District SOP.</p>
                         
@@ -258,7 +267,7 @@
                 <p>Bringing together extensive regional real estate investment expertise, regulatory permitting relationships, and advanced geomorphic design capab            <div class="partner-row">
                 <!-- Left Column: Unified Team Photo -->
                 <div class="partner-photo-card">
-                    <img src="hunter_and_hadi_1x.png" srcset="hunter_and_hadi_1x.png 1x, hunter_and_hadi_2x.png 2x, hunter_and_hadi_3x.png 3x" alt="Hunter Morris & Hadi Irvani on site" class="partner-photo">
+                    <div class="partner-photo-pair"><img src="team_hunter_morris.jpg" alt="Hunter Morris on the water" class="partner-photo"><img src="team_hadi_irvani.jpg" alt="Hadi Irvani" class="partner-photo"></div>
                     <div class="partner-caption">
                         <h4>Hunter Morris & Hadi Irvani</h4>
                         <p>Co-Founder & Managing Director &bull; Board Member</p>
@@ -333,12 +342,12 @@
                     <form id="sourcing-estimator-form" onsubmit="alert('Thank you! Hunter Morris will contact you at bookings@flyfishingnorthgeorgia.com within 24 hours to schedule a free geomorphic field audit of your stream.'); return false;">
                         <div class="form-group">
                             <label for="land-name">Your Name</label>
-                            <input type="text" id="land-name" class="form-control" placeholder="e.g. ACR 1910 LLC (Roya Irvani, Manager)" required>
+                            <input type="text" id="land-name" class="form-control" placeholder="e.g. ACR 1910 LLC (Authorized Manager)" required>
                         </div>
                         
                         <div class="form-group">
                             <label for="land-email">Email Address</label>
-                            <input type="email" id="land-email" class="form-control" placeholder="roya.irvani@example.com" required>
+                            <input type="email" id="land-email" class="form-control" placeholder="landowner@example.com" required>
                         </div>
 
                         <div class="form-group-subgrid">

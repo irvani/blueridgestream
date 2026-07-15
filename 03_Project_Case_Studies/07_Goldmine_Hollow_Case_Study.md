@@ -3,7 +3,7 @@
 
 **Location**: Hunter's Cabin, Goldmine Hollow (tributary to Noontootla Creek), Fannin County, North Georgia  
 **Receiving Stream**: **Noontootla Creek** (State-Designated Wild Trout Stream)  
-**Project Sponsor**: Blue Ridge Stream Restoration & Mitigation LLC  
+**Project Sponsor**: Save Our Streams Inc.  
 
 ---
 

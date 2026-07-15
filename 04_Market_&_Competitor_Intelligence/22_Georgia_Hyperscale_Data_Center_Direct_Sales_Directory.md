@@ -1,5 +1,5 @@
 # Georgia Hyperscale Data Center Direct Sales & PRM Acquisition Directory
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -38,7 +38,7 @@ Currently, the USACE Savannah District is facing a severe structural shortage of
 * Consequently, hyperscale developers are facing a critical path barrier: they have purchased land and finalized engineering designs, but their USACE Section 404 permit is withheld because there are zero commercial credits available in their watershed basin.
 
 ### The Solution: Permittee-Responsible Mitigation (PRM) & Capital Velocity
-To resolve this permitting gridlock, Blue Ridge Stream Restoration & Mitigation LLC provides a specialized, off-market solution: **Permittee-Responsible Mitigation (PRM) design-build delivery** and targeted allocation of Priority 1 coldwater stream restoration credits from our proprietary banks (such as **Anderson Creek at Roya's Cabin** and **Goldmine Hollow at Hunter's Cabin**). 
+To resolve this permitting gridlock, Save Our Streams Inc. provides a specialized, off-market solution: **Permittee-Responsible Mitigation (PRM) design-build delivery** and targeted allocation of Priority 1 coldwater stream restoration credits from our proprietary banks (such as **Anderson Creek at Sandra's Cabin** and **Goldmine Hollow at Hunter's Cabin**). 
 
 By executing a direct B2B PRM transaction structure, we contract directly with the data center developer to design, permit, construct, and perpetually monitor a custom stream restoration project within their target watershed HUC. This completely bypasses the standard mitigation bank credit shortage.
 
@@ -93,7 +93,7 @@ The following matrix tracks the 15 active and expanding hyperscale data center c
   * *Multiplier (Savannah SOP)*: 7.0 credits per linear foot
   * *Total Stream Credits Required*: **29,400 credits**
 * **Direct PRM Transaction Structure & Financial Value**:
-  * *Structure*: Turnkey Full-Delivery PRM Agreement. Blue Ridge Stream Restoration acquires a perpetual conservation easement on a degraded 60-acre agricultural parcel 15 miles upstream in the same HUC-8, executes Priority 1 Natural Channel Design, and delivers the credits directly to Microsoft's permit.
+  * *Structure*: Turnkey Full-Delivery PRM Agreement. Save Our Streams Inc. acquires a perpetual conservation easement on a degraded 60-acre agricultural parcel 15 miles upstream in the same HUC-8, executes Priority 1 Natural Channel Design, and delivers the credits directly to Microsoft's permit.
   * *Financial Value*: $1,764,000 contract value (priced at $60.00 per credit equivalent). Escrow opened with Fulton National Title & Escrow; payment milestones tied to 15% mobilization, 35% final geomorphic design approval by USACE, 35% construction completion, and 15% final credit release.
   * *Key Contact Target*: Devin McCutcheon, Global Infrastructure Integration Lead.
 
@@ -159,7 +159,7 @@ The following matrix tracks the 15 active and expanding hyperscale data center c
   * *Multiplier (Savannah SOP)*: 7.0 credits per linear foot
   * *Total Stream Credits Required*: **42,700 credits**
 * **Direct PRM Transaction Structure & Financial Value**:
-  * *Structure*: Site-Adjacent PRM Mitigation Delivery. Blue Ridge Stream Restoration executes a geomorphic restoration on a 120-acre agricultural land holding immediately south of the campus, incorporating J-Hook rock vanes and native root wads to improve local water quality and lower thermal loading.
+  * *Structure*: Site-Adjacent PRM Mitigation Delivery. Save Our Streams Inc. executes a geomorphic restoration on a 120-acre agricultural land holding immediately south of the campus, incorporating J-Hook rock vanes and native root wads to improve local water quality and lower thermal loading.
   * *Financial Value*: $2,562,000 project cost, fully funded by QTS. The contract features a "Regulatory Approval Guarantee" where Blue Ridge assumes all responsibility for potential credit shortages by supplying secondary credits from its Anderson Creek bank if necessary.
   * *Key Contact Target*: Sarah Jenkins, Director of Global Infrastructure & Sustainability Procurement.
 
@@ -291,7 +291,7 @@ The following matrix tracks the 15 active and expanding hyperscale data center c
   * *Multiplier (Savannah SOP)*: 7.0 credits per linear foot
   * *Total Stream Credits Required*: **22,400 credits**
 * **Direct PRM Transaction Structure & Financial Value**:
-  * *Structure*: Immediate Credit Reservation Agreement. Blue Ridge Stream Restoration allocates 22,400 credits generated at the Anderson Creek (Roya's Cabin) restoration site to resolve the developer's permit delay.
+  * *Structure*: Immediate Credit Reservation Agreement. Save Our Streams Inc. allocates 22,400 credits generated at the Anderson Creek (Sandra's Cabin) restoration site to resolve the developer's permit delay.
   * *Financial Value*: $1,344,000 transaction value (priced at $60.00 per credit). Down payment of 15% executed upon contract signing, with the remainder paid in full upon formal USACE permit issuance.
   * *Key Contact Target*: Sandra Lopez, Director of Infrastructure and Environmental Compliance.
 
@@ -313,7 +313,7 @@ The following matrix tracks the 15 active and expanding hyperscale data center c
   * *Multiplier (Savannah SOP)*: 8.0 credits per linear foot (high-density layout impact)
   * *Total Stream Credits Required*: **62,400 credits**
 * **Direct PRM Transaction Structure & Financial Value**:
-  * *Structure*: Institutional PRM Partnership. Blue Ridge Stream Restoration partners with Meta's Global Water Stewardship Team to execute a watershed-scale restoration program. We acquire and restore a 180-acre degraded tract along the Upper Ocmulgee headwaters, reducing regional sediment loading by an estimated 450 tons per year and restoring coldwater habitat.
+  * *Structure*: Institutional PRM Partnership. Save Our Streams Inc. partners with Meta's Global Water Stewardship Team to execute a watershed-scale restoration program. We acquire and restore a 180-acre degraded tract along the Upper Ocmulgee headwaters, reducing regional sediment loading by an estimated 450 tons per year and restoring coldwater habitat.
   * *Financial Value*: $3,744,000 contract value (priced at $60.00 per credit). Underwritten with corporate financing. Escrow held with Bank of America Commercial Trust; payment milestones linked to land closing (20%), USACE approval (30%), geomorphic construction completion (30%), and annual vegetative monitoring success (20%).
   * *Key Contact Target*: Sarah Jenkins, ESG Water Sustainability Manager.
 
@@ -379,7 +379,7 @@ The following matrix tracks the 15 active and expanding hyperscale data center c
   * *Multiplier (Savannah SOP)*: 7.0 credits per linear foot
   * *Total Stream Credits Required*: **30,800 credits**
 * **Direct PRM Transaction Structure & Financial Value**:
-  * *Structure*: Turnkey PRM Full-Delivery Agreement. Blue Ridge Stream Restoration designs, permits, and constructs a geomorphic stream restoration in the Upper Chattahoochee basin, narrowing the channel and planting a deep native canopy to generate the required credits.
+  * *Structure*: Turnkey PRM Full-Delivery Agreement. Save Our Streams Inc. designs, permits, and constructs a geomorphic stream restoration in the Upper Chattahoochee basin, narrowing the channel and planting a deep native canopy to generate the required credits.
   * *Financial Value*: $1,848,000 contract value (priced at $60.00 per credit). Structured with a 15% mobilization fee, 35% final geomorphic design approval, 35% construction completion, and 15% final credit release.
   * *Key Contact Target*: Marcus Vance, Senior Environmental Regulatory Counsel.
 
@@ -401,7 +401,7 @@ The following matrix tracks the 15 active and expanding hyperscale data center c
   * *Multiplier (Savannah SOP)*: 7.0 credits per linear foot
   * *Total Stream Credits Required*: **24,500 credits**
 * **Direct PRM Transaction Structure & Financial Value**:
-  * *Structure*: Forward Credit Purchase Agreement. Blue Ridge allocates 24,500 credits generated at the Anderson Creek (Roya's Cabin) restoration site to resolve Google's permit delay.
+  * *Structure*: Forward Credit Purchase Agreement. Blue Ridge allocates 24,500 credits generated at the Anderson Creek (Sandra's Cabin) restoration site to resolve Google's permit delay.
   * *Financial Value*: $1,470,000 transaction value (priced at $60.00 per credit). Down payment of 15% executed upon contract signing, with the remainder paid in full upon formal USACE permit issuance.
   * *Key Contact Target*: Sarah Jenkins, ESG Water Sustainability Manager.
 
@@ -409,7 +409,7 @@ The following matrix tracks the 15 active and expanding hyperscale data center c
 
 ## 4. Permittee-Responsible Mitigation (PRM) B2B Contract Template
 
-This legally robust, turnkey full-delivery contract governs the geomorphic design, permitting, construction, and monitoring of custom stream restoration services. The agreement is drafted between **Blue Ridge Stream Restoration & Mitigation LLC** (as the Sponsor) and **Georgia Hyperscale Developer LLC** (as the Permittee) to satisfy USACE Savannah District compensatory mitigation requirements under CWA Section 404.
+This legally robust, turnkey full-delivery contract governs the geomorphic design, permitting, construction, and monitoring of custom stream restoration services. The agreement is drafted between **Save Our Streams Inc.** (as the Sponsor) and **Georgia Hyperscale Developer LLC** (as the Permittee) to satisfy USACE Savannah District compensatory mitigation requirements under CWA Section 404.
 
 ```text
                   FULL-DELIVERY PRM TRANSACTION STRUCTURE
@@ -435,7 +435,7 @@ This legally robust, turnkey full-delivery contract governs the geomorphic desig
 
 **THIS PERMITTEE-RESPONSIBLE COMPENSATORY MITIGATION AGREEMENT** (the "Agreement") is entered into this 30th day of May, 2026 (the "Effective Date"), by and between:
 
-*   **SPONSOR**: **Blue Ridge Stream Restoration & Mitigation LLC**, a Georgia limited liability company, with its principal place of business at 100 Mountain Brook Way, Blue Ridge, GA 30513 ("Sponsor"), and
+*   **SPONSOR**: **Save Our Streams Inc.**, a Georgia limited liability company, with its principal place of business at 100 Mountain Brook Way, Blue Ridge, GA 30513 ("Sponsor"), and
 *   **PERMITTEE**: **Georgia Hyperscale Developer LLC**, a Delaware limited liability company, with its principal place of business at 1200 Peachtree Street NE, Suite 500, Atlanta, GA 30309 ("Permittee").
 
 Sponsor and Permittee may collectively be referred to as the "Parties," and individually as a "Party."
@@ -509,7 +509,7 @@ Payments shall be deposited into a restricted project escrow account established
 
 ```text
 SPONSOR:                                     PERMITTEE:
-BLUE RIDGE STREAM RESTORATION                GEORGIA HYPERSCALE DEVELOPER LLC
+Save Our Streams Inc.                GEORGIA HYPERSCALE DEVELOPER LLC
 & MITIGATION LLC
 
 By: ___________________________              By: ___________________________
@@ -554,7 +554,7 @@ I am writing regarding Microsoft's pending Project Summit campus in Douglasville
 
 As you are likely aware, the Upper Chattahoochee Basin (HUC 03130001) is currently facing a severe structural shortage of commercial stream credits, creating a critical-path risk that threatens to delay your grading schedule by 18 to 24 months.
 
-At Blue Ridge Stream Restoration & Mitigation LLC, we have engineered a direct solution. Through our flagship geomorphic restoration project at Anderson Creek (Roya's Cabin) and custom Permittee-Responsible Mitigation (PRM) capabilities, we have a pre-verified allocation of 29,400 stream credits available in your target HUC.
+At Save Our Streams Inc., we have engineered a direct solution. Through our flagship geomorphic restoration project at Anderson Creek (Sandra's Cabin) and custom Permittee-Responsible Mitigation (PRM) capabilities, we have a pre-verified allocation of 29,400 stream credits available in your target HUC.
 
 By utilizing Natural Channel Design (NCD)—stabilizing eroded banks using native root wads and J-Hook rock structures rather than concrete—we deliver:
 1. Immediate credit allocation to satisfy your USACE Section 404 permit and clear your grading blockages.
@@ -567,7 +567,7 @@ Best regards,
 
 Hunter
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.com | (555) 123-4567
 www.blueridgestream.com
 
@@ -591,7 +591,7 @@ I have been tracking Meta’s ambitious Stanton Springs East expansion, and I un
 
 The Upper Ocmulgee Basin (HUC 03070103) is facing a critical commercial stream credit shortage. Relying on traditional mitigation bank releases risks delaying your construction timeline, freezing land CapEx, and introducing substantial regulatory friction.
 
-Blue Ridge Stream Restoration & Mitigation LLC specializes in executing customized, high-yield Permittee-Responsible Mitigation (PRM) programs. We have identified a prime 180-acre degraded tract along the headwaters of the Upper Ocmulgee, capable of generating the required 62,400 stream credits through geomorphic restoration.
+Save Our Streams Inc. specializes in executing customized, high-yield Permittee-Responsible Mitigation (PRM) programs. We have identified a prime 180-acre degraded tract along the headwaters of the Upper Ocmulgee, capable of generating the required 62,400 stream credits through geomorphic restoration.
 
 Our Natural Channel Design (NCD) process physically narrows over-widened stream channels, restoring natural pool-riffle-run sequences. For Meta, this delivers a dual benefit:
 * Permit Acceleration: Turnkey geomorphic restoration that satisfies the USACE Savannah District's SOP requirements, clearing your permit blockages.
@@ -605,7 +605,7 @@ Best regards,
 
 Hunter
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.com | (555) 123-4567
 ```
 
@@ -622,13 +622,13 @@ Hi Robert,
 
 I noticed your active site acquisition and grading expansion along the Sweetwater Creek watershed in Douglas County. As you know, regional stream permitting and state EPD buffer variances continue to tighten, creating critical path risks for data center developers.
 
-At Blue Ridge Stream Restoration & Mitigation LLC, we have engineered a solution. We generate high-yield, USACE-approved stream mitigation credits through Priority 1 geomorphic restoration (Natural Channel Design) at our flagship Anderson Creek site. This allows us to provide turnkey Permittee-Responsible Mitigation (PRM) to bypass the local commercial credit shortage.
+At Save Our Streams Inc., we have engineered a solution. We generate high-yield, USACE-approved stream mitigation credits through Priority 1 geomorphic restoration (Natural Channel Design) at our flagship Anderson Creek site. This allows us to provide turnkey Permittee-Responsible Mitigation (PRM) to bypass the local commercial credit shortage.
 
 I would love to connect and share our current credit availability ledger to help Google fast-track its upcoming Section 404 permits.
 
 Best,
 Hunter
-Co-Founder & Managing Director, Blue Ridge Stream Restoration & Mitigation LLC
+Co-Founder & Managing Director, Save Our Streams Inc.
 ```
 
 ---
@@ -698,7 +698,7 @@ Let us calculate the economic impact of a twelve-month permitting delay on a $1.
 * **Total Economic Drag of Delay**: **$23,800,000 in direct carrying costs and overhead** (excluding lost customer lease revenue).
 
 ### The Direct Sales Proposition: High Capital Velocity
-Now let us contrast this delay with a direct, off-market PRM stream credit purchase from Blue Ridge Stream Restoration & Mitigation LLC:
+Now let us contrast this delay with a direct, off-market PRM stream credit purchase from Save Our Streams Inc.:
 
 * **Sponsor Fee (Contract Price for 29,400 credits)**: **$1,764,000**
 * **Escrow Mobilization & Permit Processing**: **$264,600** (Milestone 1)
@@ -748,7 +748,7 @@ To satisfy these corporate ESG mandates, Hunter must present the geomorphic and 
 ```
 
 ### The Ultimate KPI: Wild Trout Sanctuaries & Argentina Success
-By combining advanced fluvial geomorphology with professional, institutional-grade corporate structures, Blue Ridge Stream Restoration & Mitigation LLC delivers a highly lucrative, environmentally vital business. 
+By combining advanced fluvial geomorphology with professional, institutional-grade corporate structures, Save Our Streams Inc. delivers a highly lucrative, environmentally vital business. 
 
 Every completed hyperscale data center transaction brings Hunter closer to the ultimate KPI: funding a world-class fly fishing expedition to the legendary brown trout rivers of Patagonia, Argentina.
 

@@ -1,7 +1,7 @@
 # File 55: Hermes AI SDR Outbound Integration Framework
 
 > [!IMPORTANT]
-> **Venture Scaling & Agentic Integration Guide**: This document establishes the architectural framework for integrating the open-source **Hermes Agent** framework (pioneered by Nous Research) as a self-hosted Sales Development Representative (SDR) for Blue Ridge Stream Restoration & Mitigation LLC. Since Hunter Morris maintains a strict "zero active outreach" brand positioning to preserve his status as an elite stream craftsman, this framework implements a **human-in-the-loop review gate** using Slack/Discord webhook hooks. By routing Hermes-generated geomorphic personalizations through Instantly/Smartlead API channels and syncing opportunities with our open-source Corteza CRM, we create a hyper-scale outbound engine that runs on a private Virtual Private Server (VPS) at minimal cost.
+> **Venture Scaling & Agentic Integration Guide**: This document establishes the architectural framework for integrating the open-source **Hermes Agent** framework (pioneered by Nous Research) as a self-hosted Sales Development Representative (SDR) for Save Our Streams Inc.. Since Hunter Morris maintains a strict "zero active outreach" brand positioning to preserve his status as an elite stream craftsman, this framework implements a **human-in-the-loop review gate** using Slack/Discord webhook hooks. By routing Hermes-generated geomorphic personalizations through Instantly/Smartlead API channels and syncing opportunities with our open-source Corteza CRM, we create a hyper-scale outbound engine that runs on a private Virtual Private Server (VPS) at minimal cost.
 
 ---
 
@@ -42,11 +42,11 @@ To protect the high-status authority of Hunter's brand, Hermes is blocked from d
 *   Hermes posts a structured card:
     ```
     🚨 NEW LANDOWNER PROPOSAL DRAFTED 🚨
-    - Landowner: Roya Irvani (Anderson Creek, 1,500 LF)
+    - Landowner: ACR 1910 LLC (Authorized Manager) (Anderson Creek, 1,500 LF)
     - HUC-8 Basin: Etowah HUC 03150104 (Dawson County)
     - Soil Loss Diagnosed: Severe bank scour (281.25 Tons/Year prevented)
     - Landowner Payout Split: $696,600.00
-    - Draft Outreach: "Dear Roya, Hunter Morris noted your beautiful parcel along Anderson Creek..."
+    - Draft Outreach: "Dear Sandra, Hunter Morris noted your beautiful parcel along Anderson Creek..."
     
     👉 Reply 'YES' or react with 👍 to authorize immediate push to Instantly.
     ```
@@ -61,8 +61,8 @@ Because cold email deliverability requires secondary domains, proxy rotation, an
       "campaign_id": "anderson_creek_sourcing_campaign",
       "leads": [
         {
-          "email": "roya.irvani@example.com",
-          "first_name": "Roya",
+          "email": "landowner@example.com",
+          "first_name": "Sandra",
           "last_name": "Irvani",
           "custom_variables": {
             "waterbody": "Anderson Creek",
@@ -145,4 +145,4 @@ To monitor the efficiency of the Hermes SDR bot on Hunter’s weekly Traction EO
 | **Field Audits Booked** | **2 Audits/Wk** | Confirmed face-to-face creekside site walks. | Google Calendar Sync |
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

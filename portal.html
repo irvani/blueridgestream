@@ -5,6 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Save Our Streams Inc. | B2B Operations Portal</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Google Analytics (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -67,11 +76,11 @@
                     </div>
                 </div>
 
-                <!-- Showcase Roya's Cabin Card -->
+                <!-- Showcase Sandra's Cabin Card -->
                 <div class="card">
                     <div class="portal-card-header-info">
                         <span class="portal-card-badge-cat">Commercial showcase</span>
-                        <h4 class="portal-card-title">Roya's Cabin</h4>
+                        <h4 class="portal-card-title">Sandra's Cabin</h4>
                         <p class="portal-card-desc">2,500 LF at Anderson Creek yielding **12,900 credits** ($2.32M Value). Fast-tracking regional permits.</p>
                     </div>
                     <div class="portal-card-badges">
@@ -114,7 +123,7 @@
                     </div>
                     <div class="checklist-item">
                         <input type="checkbox" id="chk-4" onchange="updateChecklist()">
-                        <label for="chk-4"><strong>Design Anderson Creek</strong>: Complete geomorphic cross-sections and vegetation plots for Roya's Cabin.</label>
+                        <label for="chk-4"><strong>Design Anderson Creek</strong>: Complete geomorphic cross-sections and vegetation plots for Sandra's Cabin.</label>
                     </div>
                     <div class="checklist-item">
                         <input type="checkbox" id="chk-5" onchange="updateChecklist()">
@@ -150,7 +159,7 @@
                     
                     <!-- Team Photo Banner -->
                     <div class="portal-team-banner">
-                        <img src="hunter_and_hadi_1x.png" srcset="hunter_and_hadi_1x.png 1x, hunter_and_hadi_2x.png 2x, hunter_and_hadi_3x.png 3x" alt="Hunter and Hadi on-site" class="portal-team-photo">
+                        <div class="portal-team-pair"><img src="team_hunter_morris.jpg" alt="Hunter Morris on the water" class="portal-team-photo"><img src="team_hadi_irvani.jpg" alt="Hadi Irvani" class="portal-team-photo"></div>
                         <div class="portal-team-caption">
                             <span class="portal-team-caption-text">Corporate Leadership &middot; Save Our Streams Inc.</span>
                         </div>
@@ -461,7 +470,7 @@
             <div class="folder-select-header">
                 <h4 class="folder-select-title">📁 Enterprise Directory & Strategic Tiers</h4>
                 <p class="folder-select-desc">
-                    Filter all 81 strategic, technical, legal, and deep academic research assets by clicking a subdirectory within our core operational tiers:
+                    Filter all 82 strategic, technical, legal, and deep academic research assets by clicking a subdirectory within our core operational tiers:
                 </p>
             </div>
 
@@ -477,7 +486,7 @@
                         <div class="folder-meta">
                             <span class="folder-num">ALL ASSETS</span>
                             <h5 class="folder-name">Show All Library Files</h5>
-                            <span class="folder-count">81 Files Total</span>
+                            <span class="folder-count">82 Files Total</span>
                         </div>
                     </div>
                 </div>
@@ -615,7 +624,7 @@
                             <div class="folder-meta">
                                 <span class="folder-num">07_BRAND</span>
                                 <h5 class="folder-name">Marketing & Brand</h5>
-                                <span class="folder-count">5 Files</span>
+                                <span class="folder-count">7 Files</span>
                             </div>
                         </div>
                         <!-- 08 Recruiting & Internships -->
@@ -634,6 +643,19 @@
 
             </div>
 
+            <!-- View Mode Toggle Control -->
+            <div class="view-toggle-container">
+                <span class="view-toggle-label">📁 Library View Mode:</span>
+                <div class="segmented-control">
+                    <button id="btn-grid-view" class="control-btn active" onclick="setViewMode('grid')">
+                        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 6px; vertical-align: middle;"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>Grid View
+                    </button>
+                    <button id="btn-list-view" class="control-btn" onclick="setViewMode('list')">
+                        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 6px; vertical-align: middle;"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>List View
+                    </button>
+                </div>
+            </div>
+
             <div class="comp-card-grid" id="docs-grid-el">
                 <!-- Populated via Javascript -->
             </div>
@@ -644,7 +666,7 @@
             <div class="card portal-card-bottom-space">
                 <h3 class="portal-card-inner-title">📝 On-Site Digital Contract Signer</h3>
                 <p class="portal-lead-text">
-                    Review the legally binding Joint Venture Cooperative Agreement below with the landowner (<strong>ACR 1910 LLC</strong>, managed by Roya Irvani). Both parties can sign directly in the browser using a stylus, finger, or mouse. Signatures are bound to the record in accordance with the <strong>Georgia UETA (O.C.G.A. § 10-12-1 et seq.)</strong> for instant execution.
+                    Review the legally binding Joint Venture Cooperative Agreement below with the landowner (<strong>ACR 1910 LLC</strong>, acting through its Authorized Manager). Both parties can sign directly in the browser using a stylus, finger, or mouse. Signatures are bound to the record in accordance with the <strong>Georgia UETA (O.C.G.A. § 10-12-1 et seq.)</strong> for instant execution.
                 </p>
             </div>
 
@@ -653,8 +675,8 @@
                 <div class="card" style="background-color: var(--white); height: 500px; overflow-y: scroll; padding: 30px; border: 1px solid var(--border-color);">
                     <h2 style="font-size: 1.3rem; color: var(--primary); text-align: center; border-bottom: 2px solid var(--border-color); padding-bottom: 15px; margin-bottom: 20px;">STREAM MITIGATION BANKING AND JOINT VENTURE COOPERATIVE AGREEMENT</h2>
                     
-                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;"><strong>PROJECT: ROYA'S CABIN AT ANDERSON CREEK (ACR)</strong></p>
-                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;">This agreement is made effective as of <strong>May 30, 2026</strong>, by and between <strong>ACR 1910 LLC</strong> ("Landowner"), a Georgia limited liability company managed by <strong>Roya Irvani</strong>, and <strong>Save Our Streams Inc.</strong> ("Developer"), managed by Managing Director <strong>Hunter Morris</strong> and Board Member <strong>Hadi Irvani</strong> (alumnus of the University of Virginia - UVA).</p>
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;"><strong>PROJECT: SANDRA'S CABIN AT ANDERSON CREEK (ACR)</strong></p>
+                    <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;">This agreement is made effective as of <strong>May 30, 2026</strong>, by and between <strong>ACR 1910 LLC</strong> ("Landowner"), a Georgia limited liability company acting through its <strong>Authorized Manager</strong>, and <strong>Save Our Streams Inc.</strong> ("Developer"), managed by Managing Director <strong>Hunter Morris</strong> and Board Member <strong>Hadi Irvani</strong> (alumnus of the University of Virginia - UVA).</p>
                     
                     <h4 style="font-size: 0.95rem; color: var(--primary); margin-top: 20px; margin-bottom: 8px;">SECTION 1: THE 70/30 CREDIT SPLIT MODEL</h4>
                     <p style="font-size: 0.85rem; color: var(--charcoal); line-height: 1.6; margin-bottom: 12px;">The Developer shall receive **70%** of all Stream Mitigation Credits generated and released by the USACE Savannah District. The Landowner shall receive **30%** of all Stream Mitigation Credits generated and released. Gross proceeds from credit sales shall be paid directly from a secure escrow account to the parties in accordance with this 70/30 split ratio.</p>
@@ -684,7 +706,7 @@
                 <div style="display: flex; flex-direction: column; gap: 24px;">
                     <!-- Landowner canvas -->
                     <div class="card" style="background: var(--white); border: 1px solid var(--border-color); padding: 20px;">
-                        <h4 style="color: var(--primary); font-size: 0.95rem; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">ACR 1910 LLC — Roya Irvani, Authorized Manager (Landowner)</h4>
+                        <h4 style="color: var(--primary); font-size: 0.95rem; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">ACR 1910 LLC — Authorized Manager (Landowner)</h4>
                         <div style="background-color: var(--light-bg); border: 1px dashed var(--border-color); border-radius: 8px; height: 120px; position: relative;">
                             <canvas id="sign-landowner" style="width: 100%; height: 100%; cursor: crosshair; display: block;"></canvas>
                         </div>
@@ -856,7 +878,7 @@
                         <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent); letter-spacing: 0.5px;">Commercial JV Structure</span>
                         <h4 style="margin-top: 4px; margin-bottom: 12px; color: var(--primary); font-size: 1.15rem;">Landowner JV Economics Infographic</h4>
                         <p style="font-size: 0.82rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 15px;">
-                            Maps the 70/30 Joint Venture split for Roya's Cabin (Anderson Creek). Illustrates developer CapEx coverage, landowner credit returns, and long-term financial streams.
+                            Maps the 70/30 Joint Venture split for Sandra's Cabin (Anderson Creek). Illustrates developer CapEx coverage, landowner credit returns, and long-term financial streams.
                         </p>
                     </div>
                     
@@ -875,7 +897,7 @@
                             
                             <!-- Center Pool (Mitigation Bank) -->
                             <rect x="110" y="115" width="180" height="60" rx="8" fill="#ffffff" stroke="#cbd7e3" stroke-width="2" />
-                            <text x="200" y="137" font-family="system-ui, sans-serif" font-size="11" font-weight="800" fill="#1e3d59" text-anchor="middle">Roya's Cabin Creek Restoration</text>
+                            <text x="200" y="137" font-family="system-ui, sans-serif" font-size="11" font-weight="800" fill="#1e3d59" text-anchor="middle">Sandra's Cabin Creek Restoration</text>
                             <text x="200" y="152" font-family="system-ui, sans-serif" font-size="9" fill="#17b978" font-weight="700" text-anchor="middle">12,900 Stream Credits Generated</text>
                             <text x="200" y="165" font-family="system-ui, sans-serif" font-size="8.5" fill="#333333" text-anchor="middle">Gross Proceeds: $2.32 Million</text>
                             
@@ -1147,7 +1169,7 @@
                 services: "Mitigation credit brokering, sales & marketing, asset ledger advisory.",
                 strengths: "Comprehensive database of active and pending stream banks, robust landowner networks.",
                 weaknesses: "No internal geomorphic design, hydrologic engineering, or physical construction capacity.",
-                counterplay: "Utilize Mitigation Management as a primary broker to market and liquidate the credits generated at Anderson Creek (Roya's Cabin), allowing Hunter to focus on design-build operations."
+                counterplay: "Utilize Mitigation Management as a primary broker to market and liquidate the credits generated at Anderson Creek (Sandra's Cabin), allowing Hunter to focus on design-build operations."
             },
             {
                 name: "Ecosystem Investment Partners (EIP)",
@@ -1329,7 +1351,7 @@
             { num: "00", name: "Hunter's Quick-Start Action Guide", cat: "Strategy", desc: "The ultimate 90-day checklist and quick-start roadmap for Hunter to launch Save Our Streams Inc.." },
             { num: "01", name: "Executive Summary & Business Plan", cat: "Business Plan", desc: "Corporate strategy, trout ecology analysis, Rosgen restoration benefits, and board governance." },
             { num: "02", name: "USACE Savannah District Mitigation Banking Guide", cat: "Regulatory", desc: "Detailed breakdown of Georgia SOP formulas, NWP 27 guidelines, and Interagency Review Team stages." },
-            { num: "03", name: "Anderson Creek Case Study (Roya's Cabin)", cat: "Case Study", desc: "Site-specific engineering plan and credit yield projections for the flagship 1,500-LF project." },
+            { num: "03", name: "Anderson Creek Case Study (Sandra's Cabin)", cat: "Case Study", desc: "Site-specific engineering plan and credit yield projections for the flagship 1,500-LF project." },
             { num: "04", name: "Mitigation Banking Competitor Analysis Matrix", cat: "Competitors", desc: "SWOT analysis of 7 Southeast competitors (RES, Corblu, etc.) with HQ locations, websites, and employee counts." },
             { num: "05", name: "B2B Outreach Playbook & Broker Scripts", cat: "Sales Playbook", desc: "Commercial negotiation talk-tracks, land option agreement scripts, and broker outreach scripts." },
             { num: "06", name: "USACE Mathematical & SOP Calculation Guide", cat: "Regulatory", desc: "Worked math examples for developer debit requirements and mitigation bank credit yields." },
@@ -1342,7 +1364,7 @@
             { num: "13", name: "B2B Outreach Templates & Diagnostic Dialogue", cat: "Sales Playbook", desc: "Outreach emails, LinkedIn DMs, and Hunter's diagnostic 'stream walk' verbal dialogue." },
             { num: "14", name: "Regional Internship Postings & Interview Rubrics", cat: "Recruiting", desc: "Paid internship posts for UGA, GT, and Clemson with candidate profiles and 9 screening questions." },
             { num: "15", name: "Free Domain Registration & Hosting Playbook", cat: "Operations", desc: "Step-by-step tutorial for registering a free .us.kg domain on DigitalPlat and hosting on GitHub Pages." },
-            { num: "16", name: "Roya's Cabin Anderson Creek Mitigation Agreement", cat: "Contract", desc: "Legally robust joint-venture landowner contract featuring the 70/30 credit split and 30% developer margin math." },
+            { num: "16", name: "Sandra's Cabin Anderson Creek Mitigation Agreement", cat: "Contract", desc: "Legally robust joint-venture landowner contract featuring the 70/30 credit split and 30% developer margin math." },
             { num: "17", name: "Government & Regulatory Agency Outreach Plan", cat: "Regulatory", desc: "USACE Savannah District and Georgia DNR EPD contact directories, email templates, and site audit protocols." },
             { num: "18", name: "Open-Source eSignature Integration Playbook", cat: "Contract", desc: "Guide to deploying self-hosted Docuseal/OpenSign alternative platforms and managing legal compliance under GA UETA." },
             { num: "19", name: "Georgia Regulatory Licensing & Permits Guide", cat: "Regulatory", desc: "Detailed analysis of Clean Water Act Section 404, Georgia EPD state stream buffer variances, GSWCC IA/IB/II cards, and competitor territorial gaps." },
@@ -1406,7 +1428,9 @@
             { num: "77", name: "Stream Restoration Research Library Master Catalog", cat: "Research Library", desc: "Searchable strategic database index cataloging 5 technical modules spanning nationwide and international environmental restoration precedents." },
             { num: "78", name: "Academic Journal & Literature Database", cat: "Research Library", desc: "Ingestion-ready database profiling 10 high-impact peer-reviewed publications with exact DOIs, abstracts, and operations relevance." },
             { num: "79", name: "Scientific Advisory Board Recruitment Directory", cat: "Research Library", desc: "Strategic directory profiling 6 world-leading scientists in geomorphology and hydrology, complete with custom outreach templates." },
-            { num: "80", name: "Academic Research Synthesis & Bioengineering Application", cat: "Research Library", desc: "PhD-grade research brief synthesizing soil-root shear biomechanics, solar canopy thermodynamics, and dam removal connectivity." }
+            { num: "80", name: "Academic Research Synthesis & Bioengineering Application", cat: "Research Library", desc: "PhD-grade research brief synthesizing soil-root shear biomechanics, solar canopy thermodynamics, and dam removal connectivity." },
+            { num: "81", name: "B2B LinkedIn Launch & Posting Plan", cat: "Marketing", desc: "Hunter's official 5-week LinkedIn posting plan mapping copy-paste text blocks to high-resolution photography assets." },
+            { num: "82", name: "LinkedIn Company Page Branding & Content Guide", cat: "Marketing", desc: "Save Our Streams USA Inc. company page specifications, B2B about copy, header design parameters, and weekly content pillars." }
         ];
 
         // Global State & UI Navigation
@@ -1838,6 +1862,20 @@ hunter@blueridgestream.com | (555) 123-4567`;
         }
 
         let activeDocFolder = 'all';
+        let activeViewMode = localStorage.getItem('saveourstreams_viewmode') || 'grid';
+
+        function setViewMode(mode) {
+            activeViewMode = mode;
+            localStorage.setItem('saveourstreams_viewmode', mode);
+            
+            const btnGrid = document.getElementById('btn-grid-view');
+            const btnList = document.getElementById('btn-list-view');
+            if (btnGrid && btnList) {
+                btnGrid.classList.toggle('active', mode === 'grid');
+                btnList.classList.toggle('active', mode === 'list');
+            }
+            populateDocs();
+        }
 
         function getFolderForDoc(d) {
             const n = parseInt(d.num);
@@ -1845,7 +1883,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 return "01";
             } else if (d.num === "02" || d.num === "06" || d.num === "17" || d.num === "19" || d.num === "21") {
                 return "02";
-            } else if (d.num === "03" || d.num === "07" || d.num === "08" || d.num === "42") {
+            } else if (d.num === "03" || d.num === "07" || d.num === "08" || d.num === "42" || (n >= 66 && n <= 71)) {
                 return "03";
             } else if (d.num === "04" || d.num === "09" || d.num === "11" || d.num === "12" || d.num === "22") {
                 return "04";
@@ -1853,7 +1891,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 return "05";
             } else if (d.num === "16" || d.num === "18" || d.num === "23") {
                 return "06";
-            } else if (d.num === "10" || d.num === "40" || d.num === "49" || d.num === "53" || d.num === "54") {
+            } else if (d.num === "10" || d.num === "40" || d.num === "49" || d.num === "53" || d.num === "54" || d.num === "81" || d.num === "82") {
                 return "07";
             } else if (d.num === "14" || (n >= 28 && n <= 39)) {
                 return "08";
@@ -1884,6 +1922,13 @@ hunter@blueridgestream.com | (555) 123-4567`;
         function populateDocs() {
             const grid = document.getElementById('docs-grid-el');
             grid.innerHTML = '';
+            
+            // Set grid className based on view mode
+            if (activeViewMode === 'list') {
+                grid.className = 'comp-card-grid list-view';
+            } else {
+                grid.className = 'comp-card-grid';
+            }
             
             // HSL Trout Themes mapping for cards
             const folderColors = {
@@ -1920,11 +1965,6 @@ hunter@blueridgestream.com | (555) 123-4567`;
             filteredDocs.forEach(d => {
                 const card = document.createElement('div');
                 card.className = 'comp-card';
-                card.style.display = 'flex';
-                card.style.flexDirection = 'column';
-                card.style.justifyContent = 'space-between';
-                card.style.padding = '20px';
-                card.style.transition = 'all 0.3s ease';
                 
                 const folderNum = getFolderForDoc(d);
                 const col = folderColors[folderNum] || "#1F4E79";
@@ -1932,17 +1972,46 @@ hunter@blueridgestream.com | (555) 123-4567`;
                 
                 card.style.borderLeft = `4px solid ${col}`;
                 
-                // Dynamic subtle hover shadow and border matching specific HSL color
-                card.onmouseenter = () => {
-                    card.style.transform = 'translateY(-4px)';
-                    card.style.borderColor = col;
-                    card.style.boxShadow = `0 15px 30px -5px ${colLight.replace('0.08', '0.15')}`;
-                };
-                card.onmouseleave = () => {
-                    card.style.transform = 'none';
-                    card.style.borderColor = 'var(--border-color)';
-                    card.style.boxShadow = 'var(--shadow)';
-                };
+                if (activeViewMode === 'grid') {
+                    card.style.display = 'flex';
+                    card.style.flexDirection = 'column';
+                    card.style.justifyContent = 'space-between';
+                    card.style.padding = '20px';
+                    card.style.transition = 'all 0.3s ease';
+                    
+                    // Dynamic subtle hover shadow and border matching specific HSL color
+                    card.onmouseenter = () => {
+                        card.style.transform = 'translateY(-4px)';
+                        card.style.borderColor = col;
+                        card.style.boxShadow = `0 15px 30px -5px ${colLight.replace('0.08', '0.15')}`;
+                    };
+                    card.onmouseleave = () => {
+                        card.style.transform = 'none';
+                        card.style.borderColor = 'var(--border-color)';
+                        card.style.boxShadow = 'var(--shadow)';
+                    };
+                } else {
+                    // List View Styles
+                    card.style.display = 'flex';
+                    card.style.flexDirection = 'row';
+                    card.style.alignItems = 'center';
+                    card.style.justifyContent = 'space-between';
+                    card.style.padding = '12px 20px';
+                    card.style.gap = '15px';
+                    card.style.transition = 'all 0.3s ease';
+                    
+                    // Dynamic translate on hover for list row
+                    card.onmouseenter = () => {
+                        card.style.transform = 'translateX(6px)';
+                        card.style.borderColor = col;
+                        card.style.boxShadow = `0 4px 12px -2px ${colLight.replace('0.08', '0.15')}`;
+                    };
+                    card.onmouseleave = () => {
+                        card.style.transform = 'none';
+                        card.style.borderColor = 'var(--border-color)';
+                        card.style.boxShadow = 'var(--shadow)';
+                    };
+                }
                 
                 let exactBase = "";
                 let folder = "";
@@ -1994,16 +2063,18 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     else exactBase = "55_Hermes_AI_SDR_Outbound_Integration_Framework";
                 } else if (d.num === "16" || d.num === "18" || d.num === "23") {
                     folder = "06_Legal_&_Cooperative_Agreements";
-                    if (d.num === "16") exactBase = "16_Roya_Cabin_Anderson_Creek_Mitigation_Agreement";
+                    if (d.num === "16") exactBase = "16_Sandra_Cabin_Anderson_Creek_Mitigation_Agreement";
                     else if (d.num === "18") exactBase = "18_Open_Source_eSignature_Integration_Playbook";
                     else exactBase = "23_Remediation_and_Risk_Mitigation_Bylaws";
-                } else if (d.num === "10" || d.num === "40" || d.num === "49" || d.num === "53" || d.num === "54") {
+                } else if (d.num === "10" || d.num === "40" || d.num === "49" || d.num === "53" || d.num === "54" || d.num === "81" || d.num === "82") {
                     folder = "07_Marketing_&_Social_Content";
                     if (d.num === "10") exactBase = "10_LinkedIn_Ready_to_Post_Content";
                     else if (d.num === "40") exactBase = "40_B2B_Brand_Identity_&_Visual_Style_Guide";
                     else if (d.num === "49") exactBase = "49_SEO_Outreach_&_Search_Positioning_Strategy";
                     else if (d.num === "53") exactBase = "53_Landowner_Cinematic_Video_Scripts_&_Aspirational_Storytelling";
-                    else exactBase = "54_The_Triple_Bank_Branding_Masterclass_&_Competitor_Search_Positioning";
+                    else if (d.num === "54") exactBase = "54_The_Triple_Bank_Branding_Masterclass_&_Competitor_Search_Positioning";
+                    else if (d.num === "81") exactBase = "LinkedIn_Launch_Plan";
+                    else exactBase = "LinkedIn_Company_Page_Guide";
                 } else if (d.num === "14" || (parseInt(d.num) >= 28 && parseInt(d.num) <= 39)) {
                     folder = "08_Recruiting_&_Internships";
                     if (d.num === "14") exactBase = "14_Regional_Internship_Postings_&_Recruiting";
@@ -2074,26 +2145,53 @@ hunter@blueridgestream.com | (555) 123-4567`;
                     }
                 }
 
-                card.innerHTML = `
-                    <div>
-                        <div class="comp-card-hdr" style="border-bottom: 1px solid var(--border-color); padding-bottom: 12px; margin-bottom: 12px; background-color: var(--light-bg); border-top-right-radius: 12px; border-top-left-radius: 0;">
-                            <div class="comp-name">
-                                <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: ${col}; letter-spacing: 0.5px;">File ${d.num} &bull; ${d.cat}</span>
-                                <h3 style="margin-top: 4px; font-size: 1.1rem; color: var(--primary);">${d.name}</h3>
+                if (activeViewMode === 'grid') {
+                    card.innerHTML = `
+                        <div>
+                            <div class="comp-card-hdr" style="border-bottom: 1px solid var(--border-color); padding-bottom: 12px; margin-bottom: 12px; background-color: var(--light-bg); border-top-right-radius: 12px; border-top-left-radius: 0;">
+                                <div class="comp-name">
+                                    <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: ${col}; letter-spacing: 0.5px;">File ${d.num} &bull; ${d.cat}</span>
+                                    <h3 style="margin-top: 4px; font-size: 1.1rem; color: var(--primary);">${d.name}</h3>
+                                </div>
+                            </div>
+                            <p style="font-size: 0.85rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 20px; padding: 0 16px;">${d.desc}</p>
+                        </div>
+                        <div style="display: flex; gap: 8px; margin-top: auto; padding: 16px;">
+                            ${d.cat === "Research Library" ? `
+                                <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 8px 12px; font-size: 0.82rem; text-align: center; flex: 1; font-weight: 700; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 6px; display: flex; align-items: center; justify-content: center; gap: 6px;" target="_blank">📚 Open Research Module</a>
+                            ` : `
+                                <a href="./${folder}/${exactBase}.pdf" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #0d1b26 100%); color: white; border-radius: 6px; border: 1px solid ${col};" target="_blank">📄 PDF</a>
+                                <a href="./${folder}/${exactBase}.docx" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #3a4b5c 100%); color: white; border-radius: 6px; border: 1px solid ${col};" target="_blank">📝 Word</a>
+                                <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 6px;" target="_blank">🌐 MD</a>
+                            `}
+                        </div>
+                    `;
+                } else {
+                    card.innerHTML = `
+                        <div style="display: flex; align-items: center; gap: 20px; flex: 1; min-width: 0;">
+                            <div style="flex-shrink: 0; width: 60px; font-weight: 700; color: ${col}; font-size: 0.85rem; letter-spacing: 0.5px;">
+                                File ${d.num}
+                            </div>
+                            <div style="flex-shrink: 0; width: 120px; min-width: 0;">
+                                <span class="badge-cat" style="font-size: 0.7rem; font-weight: 700; background: ${colLight}; color: ${col}; border: 1px solid ${col}; padding: 2px 8px; border-radius: 20px; display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%;">${d.cat}</span>
+                            </div>
+                            <div style="flex: 1; min-width: 0; padding-right: 15px;">
+                                <h3 style="font-size: 0.95rem; color: var(--primary); margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${d.name}</h3>
+                                <p style="font-size: 0.8rem; color: var(--body-grey); margin: 2px 0 0 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${d.desc}</p>
                             </div>
                         </div>
-                        <p style="font-size: 0.85rem; color: var(--body-grey); line-height: 1.4; margin-bottom: 20px; padding: 0 16px;">${d.desc}</p>
-                    </div>
-                    <div style="display: flex; gap: 8px; margin-top: auto; padding: 16px;">
-                        ${d.cat === "Research Library" ? `
-                            <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 8px 12px; font-size: 0.82rem; text-align: center; flex: 1; font-weight: 700; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 6px; display: flex; align-items: center; justify-content: center; gap: 6px;" target="_blank">📚 Open Research Module</a>
-                        ` : `
-                            <a href="./${folder}/${exactBase}.pdf" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #0d1b26 100%); color: white; border-radius: 6px; border: 1px solid ${col};" target="_blank">📄 PDF</a>
-                            <a href="./${folder}/${exactBase}.docx" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #3a4b5c 100%); color: white; border-radius: 6px; border: 1px solid ${col};" target="_blank">📝 Word</a>
-                            <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 6px 10px; font-size: 0.75rem; text-align: center; flex: 1; font-weight: 600; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 6px;" target="_blank">🌐 MD</a>
-                        `}
-                    </div>
-                `;
+                        <div style="display: flex; gap: 6px; flex-shrink: 0; align-items: center;">
+                            ${d.cat === "Research Library" ? `
+                                <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 6px 12px; font-size: 0.75rem; font-weight: 700; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 4px; display: flex; align-items: center; gap: 4px; white-space: nowrap;" target="_blank">📚 Open Research</a>
+                            ` : `
+                                <a href="./${folder}/${exactBase}.pdf" class="badge-cat" style="text-decoration: none; padding: 5px 10px; font-size: 0.7rem; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #0d1b26 100%); color: white; border-radius: 4px; border: 1px solid ${col};" target="_blank">PDF</a>
+                                <a href="./${folder}/${exactBase}.docx" class="badge-cat" style="text-decoration: none; padding: 5px 10px; font-size: 0.7rem; font-weight: 600; background: linear-gradient(135deg, ${col} 0%, #3a4b5c 100%); color: white; border-radius: 4px; border: 1px solid ${col};" target="_blank">Word</a>
+                                <a href="./${folder}/${exactBase}.md" class="badge-cat" style="text-decoration: none; padding: 5px 10px; font-size: 0.7rem; font-weight: 600; background: ${colLight}; color: ${col}; border: 1px solid ${col}; border-radius: 4px;" target="_blank">MD</a>
+                            `}
+                        </div>
+                    `;
+                }
+                
                 grid.appendChild(card);
             });
         }
@@ -2189,7 +2287,7 @@ hunter@blueridgestream.com | (555) 123-4567`;
             }
 
             if (isCanvasBlank(cLandowner) || isCanvasBlank(cDeveloper)) {
-                alert("⚠️ Execution Blocked: Please ensure both ACR 1910 LLC / Roya Irvani (Landowner) and Hunter Morris (Developer) draw their signatures on the touchpads before executing the Cooperative Agreement.");
+                alert("⚠️ Execution Blocked: Please ensure both ACR 1910 LLC (Landowner) and Hunter Morris (Developer) draw their signatures on the touchpads before executing the Cooperative Agreement.");
                 return;
             }
 
@@ -2649,6 +2747,15 @@ hunter@blueridgestream.com | (555) 123-4567`;
             populateCompetitors();
             populateSites();
             populateRecruiting();
+            
+            // Set up initial view mode toggle buttons state
+            const btnGrid = document.getElementById('btn-grid-view');
+            const btnList = document.getElementById('btn-list-view');
+            if (btnGrid && btnList) {
+                btnGrid.classList.toggle('active', activeViewMode === 'grid');
+                btnList.classList.toggle('active', activeViewMode === 'list');
+            }
+            
             filterDocsByFolder('all');
         };
     </script>

@@ -1,6 +1,6 @@
-# 🏞️ Blue Ridge Stream Restoration & Mitigation LLC — Enterprise Repository
+# 🏞️ Save Our Streams Inc. — Enterprise Repository
 
-Welcome to the central B2B operations repository for **Blue Ridge Stream Restoration & Mitigation LLC**. This workspace is designed for Co-Founder & Managing Director **Hunter Morris** and Board Member **Hadi Irvani** to lead North Georgia's coldwater stream restoration and compensatory mitigation credit market.
+Welcome to the central B2B operations repository for **Save Our Streams Inc.**. This workspace is designed for Co-Founder & Managing Director **Hunter Morris** and Board Member **Hadi Irvani** to lead North Georgia's coldwater stream restoration and compensatory mitigation credit market.
 
 This repository serves as a highly structured strategic, technical, and regulatory resource center, paired with a modern, responsive two-page web application designed for B2B credit buyers (hyperscale data centers, civil engineers, DOT planners) and private mountain landowners.
 
@@ -8,7 +8,7 @@ This repository serves as a highly structured strategic, technical, and regulato
 
 ## I. Core Philosophy: The Triple-Bank Semantic Framework
 
-Traditional environmental conglomerates treat stream restoration as a sterile transaction, alienating rural families with complex regulatory jargon. Blue Ridge Stream Restoration overcomes this friction by leveraging the triple-meaning of the word **Bank** to unify ecology, regulation, and family wealth into a single storytelling pillar:
+Traditional environmental conglomerates treat stream restoration as a sterile transaction, alienating rural families with complex regulatory jargon. Save Our Streams Inc. overcomes this friction by leveraging the triple-meaning of the word **Bank** to unify ecology, regulation, and family wealth into a single storytelling pillar:
 
 ```
                             [THE TRIPLE-BANK FRAMEWORK]
@@ -58,13 +58,13 @@ The public-facing portal is constructed using a modern, performant **Vanilla HTM
 ### 1. Public Landowner Sourcing Page (`index.html`)
 Designed to capture exurban B2B credit requests and source high-yield rural stream tracts in North Georgia:
 - **Trout-Stewardship Contrast**: Highlights Hunter Morris's niche as North Georgia's leading outfitter (directing a crew of 12 to 20+ active river professionals), contrasting geomorphic stream craftsmanship against corporate conglomerates that clear-cut and use heavy concrete rip-rap.
-- **Tabs Case Studies Console**: Interactive, responsive CSS-tabs showcasing commercial stream credits (Roya's Cabin/Anderson Creek) vs trout habitat step-pool restoration (Hunter's Cabin/Goldmine Hollow).
+- **Tabs Case Studies Console**: Interactive, responsive CSS-tabs showcasing commercial stream credits (Sandra's Cabin/Anderson Creek) vs trout habitat step-pool restoration (Hunter's Cabin/Goldmine Hollow).
 - **Free Stream Restoration Yield Estimator**: Real-time Javascript calculator allowing landowners to enter their stream length and bank erosion severity to project stream credit yields, covered CapEx, and landowner gross cash payouts under the 70/30 split.
 
 ### 2. Private Operations & Strategic Resource Portal (`portal.html`)
 The secure, B2B central database for partners, lawyers, and relationship lenders:
-- **Glassmorphic Folder Selector**: Responsive dashboard equipped with HSL trout-coordinated folder cards, custom vector SVG operational icons, and active indicator animations.
-- **Dynamic Real-Time JavaScript Search & Filters**: A comprehensive, programmatic search algorithm that filters and renders all **72 enterprise files** in real time by operation tiers, subdirectories, titles, and descriptions.
+- **Glassmorphic Folder Selector & View Toggle**: Responsive dashboard equipped with HSL trout-coordinated folder cards, custom SVG icons, and a layout control that toggles between **Grid View** (card-based blocks with dynamic HSL hover shadows) and **List View** (streamlined tabular rows for quick file scanning), persisting preferences in `localStorage`.
+- **Dynamic Real-Time JavaScript Search & Filters**: A comprehensive, programmatic search algorithm that filters and renders all **82 enterprise files** in real time by operation tiers, subdirectories, titles, and descriptions.
 - **High-Definition Widescreen Video Players**: Widescreen video players (1920x1080, 16:9 ratio) featuring slow-motion leaps of wild trout and slow-motion casting zooms, narrated in a deep, warm nature documentary style (David Attenborough tone) to establish high-end brand authority.
 
 ### 3. Styling Core (`styles.css`)
@@ -107,54 +107,63 @@ Where:
 
 ---
 
-## V. Quick GitHub Pages Deployment Guide
+## V. AWS Production Hosting & SSL Infrastructure
 
-Hunter Morris can easily deploy and share this active B2B portal in under 2 minutes utilizing **GitHub Pages** for $0.00 in hosting costs:
+The web application is deployed in production using a highly available, secure serverless architecture hosted entirely on **Hunter's AWS Account (ID: 615296308114)** under IAM user `hadi-admin`.
 
-### Step 1: Create a GitHub Repository
-1. Log into GitHub at [github.com](https://github.com).
-2. Click **New** to create a new repository.
-3. Name the repository: `ACR-Stream-Restoration`.
-4. Choose **Public** or **Private** (GitHub Pages supports private repositories on Pro plans; select Public for free hosting).
-5. Leave "Add a README" unchecked (we already have this master README).
+### 1. Architectural Components & Status
 
-### Step 2: Push Local Files to GitHub
-Open your terminal inside the local directory `/Users/irvani/Library/CloudStorage/GoogleDrive-hadi.irvani@gmail.com/My Drive/ACR Stream Restoration` and execute:
+| Service | Resource Name / Details | Configuration & Purpose |
+|---|---|---|
+| **S3 Hosting** | `saveourstreamsusa.com` | Primary bucket hosting static website files (`index.html`, `portal.html`, `styles.css`, and local documents). Enabled for static web hosting. |
+| **S3 Redirect** | `www.saveourstreamsusa.com` | Redirection bucket configured to forward all incoming traffic to `saveourstreamsusa.com` over HTTP. |
+| **SSL (ACM)** | `saveourstreamsusa.com` & `*.saveourstreamsusa.com` | Amazon Certificate Manager (ACM) SSL certificate (`arn:aws:acm:us-east-1:615296308114:certificate/60aac558-874e-420c-8174-cb0664ef4412`) verified via Route 53 DNS records. |
+| **CDN (CloudFront)** | Distribution: `E266BH3L541S4X`<br>Domain: `d26p6yy51cyocb.cloudfront.net` | Global Content Delivery Network (CDN) cache pointing to S3 website endpoints, using the ACM SSL certificate to encrypt traffic. Configured to **Redirect HTTP to HTTPS**. |
+| **DNS (Route 53)** | Hosted Zone ID: `Z06131213B9QMIC3C374O` | Domain mapping using Alias records: both `saveourstreamsusa.com` and `www.saveourstreamsusa.com` point to CloudFront distribution. |
 
-```bash
-# Initialize git (if not already done)
-git init
-
-# Add the remote GitHub origin (replace <your-username> with your actual GitHub username)
-git remote add origin https://github.com/<your-username>/ACR-Stream-Restoration.git
-
-# Set main branch
-git branch -M main
-
-# Push the committed files to GitHub
-git push -u origin main
-```
-
-### Step 3: Enable GitHub Pages
-1. On your GitHub repository page, click on **Settings** (gear icon on the top menu).
-2. On the left sidebar, under the "Code and automation" section, click on **Pages**.
-3. Under the **Build and deployment** section, select **Deploy from a branch** as the Source.
-4. Under the **Branch** dropdown, select **main** and set the folder to `/ (root)`.
-5. Click **Save**.
-
-### Step 4: Access and Share the Portal!
-GitHub will generate a live, secure URL for your venture within 60 seconds. The URL will follow this structure:
-🔗 **`https://<your-username>.github.io/ACR-Stream-Restoration/`**
-
-You can immediately copy and send this link to:
-- **Hunter Morris** to view the dynamic dashboard.
-- **Private Landowners** to estimate their geomorphic credit split payouts.
-- **B2B Buyers & Developers** to check active credit inventories and download CWA Section 404 compliance guidelines.
+### 2. URL Access
+- 🔗 **Production URL**: [https://saveourstreamsusa.com](https://saveourstreamsusa.com) (HTTP redirects to HTTPS automatically)
+- 🔗 **Subdomain URL**: [https://www.saveourstreamsusa.com](https://www.saveourstreamsusa.com) (Redirects to root domain)
 
 ---
 
-## VI. Team & Academic Leveraged Staffing model
-Blue Ridge Stream Restoration operates at hyper-scale speeds using an **Academic-Leveraged model**: achieving a 10-person capacity firm with only 3 Full-Time Equivalents (FTEs). We rotate specialized graduate interns to run our core technical pipelines:
+## VI. Google Analytics Integration
+
+We have set up traffic monitoring and engagement tracking via **Google Analytics 4 (GA4)**. This allows us to track pageviews, user journeys, developer conversions, and general interest in Savannah District stream mitigation credits.
+
+### 1. Script Integration
+The following Google Analytics global site tag (gtag.js) is placed in the `<head>` of both `index.html` and `portal.html`:
+```html
+<!-- Google Analytics (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+```
+
+> [!NOTE]
+> The measurement ID `G-XXXXXXXXXX` is a placeholder. To begin collecting actual traffic data:
+> 1. Log into your Google Analytics account at [analytics.google.com](https://analytics.google.com).
+> 2. Create a new Google Analytics 4 property for `saveourstreamsusa.com`.
+> 3. Under **Data Streams**, copy your GA4 **Measurement ID** (format: `G-XXXXXXXXXX`).
+> 4. Open the project files and replace `G-XXXXXXXXXX` with your actual Measurement ID in both `index.html` and `portal.html`.
+
+### 2. Sharing Access with Hunter
+To share the analytics dashboard directly with Hunter:
+1. In the Google Analytics interface, click on **Admin** (gear icon in the bottom left).
+2. Under the Property column, select **Property Access Management**.
+3. Click the **+** button in the top right and select **Add users**.
+4. Enter Hunter's email address and assign him the **Viewer** or **Analyst** role.
+5. Click **Add** to send him an email invite with access to the dashboard.
+
+---
+
+## VII. Team & Academic Leveraged Staffing model
+Save Our Streams Inc. operates at hyper-scale speeds using an **Academic-Leveraged model**: achieving a 10-person capacity firm with only 3 Full-Time Equivalents (FTEs). We rotate specialized graduate interns to run our core technical pipelines:
 - **University of Georgia (UGA) Warnell School of Forestry**: Runs field biology, EPA rapid bioassessments, HOBO water probes, and vegetative buffer surveying.
 - **Georgia Institute of Technology**: Formulates 1D/2D HEC-RAS hydraulic models, processes RTK survey thalwegs, and drafts AutoCAD Civil 3D bioengineering construction plans.
 - **Clemson University MRED Program**: Handles real estate NPV underwriting, records conservation easements, and audits escrow balances.

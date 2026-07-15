@@ -10,7 +10,7 @@
 
 ## 1. Introduction: Conservation Finance Operations
 
-As a Land Trust, Real Estate & Mitigation Finance Intern from Clemson University, you are responsible for the business intelligence, underwriting, and supply-chain logistics of **Blue Ridge Stream Restoration & Mitigation LLC**. 
+As a Land Trust, Real Estate & Mitigation Finance Intern from Clemson University, you are responsible for the business intelligence, underwriting, and supply-chain logistics of **Save Our Streams Inc.**. 
 
 Stream mitigation banking is a highly lucrative sector of conservation finance. By purchasing degraded rural lands, restoring the stream reaches, and wrapping the land in restrictive conservation covenants, we generate high-value stream mitigation credits. 
 

@@ -2568,3 +2568,74 @@ footer {
     color: rgba(255, 255, 255, 0.4);
     margin-top: 6px;
 }
+
+/* ==========================================================================
+   VIEW MODE TOGGLE & LIST VIEW STYLES
+   ========================================================================== */
+.view-toggle-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    padding: 12px 24px;
+    background: rgba(31, 78, 121, 0.03);
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    backdrop-filter: blur(10px);
+}
+
+.view-toggle-label {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.segmented-control {
+    display: flex;
+    background: rgba(31, 78, 121, 0.05);
+    padding: 4px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.segmented-control .control-btn {
+    background: none;
+    border: none;
+    padding: 6px 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--body-grey);
+    cursor: pointer;
+    border-radius: 6px;
+    transition: all var(--duration-fast) ease-out;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.segmented-control .control-btn.active {
+    background-color: var(--white);
+    color: var(--primary) !important;
+    box-shadow: var(--shadow-sm);
+}
+
+/* List View Layout Grid Override */
+.comp-card-grid.list-view {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* List View Card Style Override */
+.comp-card-grid.list-view .comp-card {
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+}
+
+/* Real team photos — side-by-side pair */
+.partner-photo-pair { display: flex; }
+.partner-photo-pair .partner-photo { flex: 1 1 50%; min-width: 0; }
+.portal-team-pair { display: flex; }
+.portal-team-pair .portal-team-photo { flex: 1 1 50%; min-width: 0; }

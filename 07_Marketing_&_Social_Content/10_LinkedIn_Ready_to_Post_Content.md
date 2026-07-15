@@ -1,5 +1,5 @@
 # B2B LinkedIn Ready-to-Post Content Library
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter (Fly Fishing Georgia North Mountains)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -15,12 +15,12 @@ These posts are structured to appeal directly to commercial developers, civil en
 ---
 
 ## 📅 Post 1: The Vision & Launch (The Corporate Announcement)
-*   **Target Objective**: Announce the establishment of **Blue Ridge Stream Restoration & Mitigation LLC** and define its unique niche in the Southeast market.
+*   **Target Objective**: Announce the establishment of **Save Our Streams Inc.** and define its unique niche in the Southeast market.
 *   **Visual Asset Recommendation**: High-resolution image of a newly scoured mountain trout channel with the Blue Ridge corporate logo overlay, or a portrait of Hunter and Hadi Irvani.
 
 ### 📝 Copy-and-Paste Post
 ```text
-I am incredibly proud to announce the official launch of Blue Ridge Stream Restoration & Mitigation LLC. 🏔️🐟
+I am incredibly proud to announce the official launch of Save Our Streams Inc.. 🏔️🐟
 
 For years, through Fly Fishing Georgia North Mountains, I have guided clients through the majestic coldwater streams of our region. I’ve seen firsthand the delicate balance of these environments—and how rapidly expanding regional development, unpaved roads, and extreme stormwater runoff are threatening them.
 
@@ -33,7 +33,7 @@ By utilizing Natural Channel Design (NCD)—which leverages native logs, root wa
 The result? 
 Permanent bank stabilization, a massive biological lift for wild trout, and high-quality compensatory stream credits that fast-track Clean Water Act compliance for regional developers.
 
-We are establishing our showcase commercial bank at Roya's Cabin along Anderson Creek, restoring 2,500 linear feet of perennial channel and generating over 12,900 stream credits.
+We are establishing our showcase commercial bank at Sandra's Cabin along Anderson Creek, restoring 2,500 linear feet of perennial channel and generating over 12,900 stream credits.
 
 A huge thank you to my Board Member, Hadi Irvani (GP at Infill Capital Partners), and our strategic advisor Hill Hardman (Granite Holdings) for their capital governance and partnership. 
 
@@ -59,7 +59,7 @@ When a stream channel begins to erode, the traditional response is often "hard a
 2️⃣ This high-velocity water carries massive energy downstream, blowing out the next unarmored bend.
 3️⃣ It destroys the natural benthic habitat, turning a living stream into a sterile drainage ditch.
 
-At Blue Ridge Stream Restoration & Mitigation LLC, we practice Fluvial Geomorphology and Natural Channel Design (NCD). 
+At Save Our Streams Inc., we practice Fluvial Geomorphology and Natural Channel Design (NCD). 
 
 Instead of fighting the river's energy, we partner with it:
 ✅ Rosgen Class Reconstruction: We restore the channel's cross-section back to its stable bankfull width (e.g., narrowing a shallow, eroded 26-foot channel back to a stable 12-foot gravel meander).
@@ -92,7 +92,7 @@ Trout are highly sensitive indicator species. They are the "canaries in the coal
 How does land development drive stream warming? 
 When upstream forests are cleared, impervious surfaces increase, and streams are allowed to "overwiden" due to unchecked stormwater runoff, the water column becomes wide, shallow, and slow-moving. During summer, this shallow sheet of water acts as a massive solar collector, rapidly warming past the survival limit.
 
-At Blue Ridge Stream Restoration & Mitigation LLC, our restoration designs are built to fight solar warming:
+At Save Our Streams Inc., our restoration designs are built to fight solar warming:
 🌳 100-Foot Canopy Buffers: We plant dense, native woody vegetation (like Eastern Hemlocks and Rhododendrons) to restore complete thermal shade over the water surface.
 🌊 Deep Pool Scouring: By narrowing the channel width-to-depth ratio, we force the stream to scour out deep pools where cold groundwater can collect, creating critical summer thermal refugia.
 💨 Turbulence Aeration: We construct rock cross-vanes that create turbulent riffles, naturally aerating the stream to maintain dissolved oxygen levels well above the 7 mg/L threshold.
@@ -121,7 +121,7 @@ When rain falls on undisturbed forest floor, the soil acts as a sponge. But when
 
 This is where advanced stream restoration becomes critical. 
 
-At Blue Ridge Stream Restoration & Mitigation LLC, we construct sediment-trapping geomorphic structures. At our Goldmine Hollow showcase along Noontootla Creek, we constructed a series of natural cedar log step-pools and geomorphic sediment traps. 
+At Save Our Streams Inc., we construct sediment-trapping geomorphic structures. At our Goldmine Hollow showcase along Noontootla Creek, we constructed a series of natural cedar log step-pools and geomorphic sediment traps. 
 
 These structures:
 ✅ Absorb the hydraulic energy of high-velocity stormwater.
@@ -135,13 +135,13 @@ Developers, engineers, and landowners must collaborate to manage runoff geomorph
 
 ---
 
-## 📅 Post 5: Roya's Cabin (Commercial Case Study Showcase)
+## 📅 Post 5: Sandra's Cabin (Commercial Case Study Showcase)
 *   **Target Objective**: Showcase the financial and regulatory viability of the Anderson Creek flagship project to commercial credit buyers and brokers.
-*   **Visual Asset Recommendation**: Premium graphic showing the geomorphic metrics of the Roya's Cabin project: 2,500 LF restored, 12,900 credits yielded, $2.32M Gross Asset Value, NWP 27.
+*   **Visual Asset Recommendation**: Premium graphic showing the geomorphic metrics of the Sandra's Cabin project: 2,500 LF restored, 12,900 credits yielded, $2.32M Gross Asset Value, NWP 27.
 
 ### 📝 Copy-and-Paste Post
 ```text
-Case Study Showcase: Reconnecting Roya's Cabin at Anderson Creek. 🏔️💼
+Case Study Showcase: Reconnecting Sandra's Cabin at Anderson Creek. 🏔️💼
 
 How do you turn a severely degraded mountain stream into a highly valuable ecological asset and a regulatory permit accelerator? 
 
@@ -162,7 +162,7 @@ Under the Georgia stream mitigation SOP, this comprehensive geomorphic and biolo
 *   Market Value: At a premium regional coldwater price of $180/credit, this represents a gross asset value of $2.32 Million.
 *   Initial 15% Release: Upon permit execution and construction completion, we unlock ~1,935 credits ($348,300 gross value) in initial liquidity.
 
-By generating these high-quality credits, Blue Ridge Stream Restoration & Mitigation LLC provides a reliable, fast-tracked supply for commercial developers who need compensatory credits to clear CWA Section 404 permit blockages in the region.
+By generating these high-quality credits, Save Our Streams Inc. provides a reliable, fast-tracked supply for commercial developers who need compensatory credits to clear CWA Section 404 permit blockages in the region.
 
 Ecological restoration is not just good for the environment—it is a robust, high-yielding business model.
 
@@ -181,7 +181,7 @@ Landowners: Is your mountain creek washing away? 🪵🏚️
 
 Many private estate owners in North Georgia own beautiful properties bordering legendary trout waters like Noontootla Creek, the Toccoa River, or the Soque River. But during heavy rainstorms, they watch their banks actively crumble into the water, losing valuable land and choking their trout pools with sand.
 
-At Blue Ridge Stream Restoration & Mitigation LLC, we built our **Goldmine Hollow Showcase at Hunter's Cabin** to demonstrate the ultimate private land solution.
+At Save Our Streams Inc., we built our **Goldmine Hollow Showcase at Hunter's Cabin** to demonstrate the ultimate private land solution.
 
 Goldmine Hollow is a steep mountain tributary that feeds directly into the wild trout waters of Noontootla Creek. To protect this world-class fishery and stabilize the cabin's property, we designed and built a "living showroom":
 *   Natural Cedar Step-Pools: We constructed step-pool sequences using native cedar logs. These act as natural staircases, slowing down high-velocity storm runoffs and trapping sand.
@@ -224,7 +224,7 @@ Debits (D) = Impact Length × (F_type + F_impact + F_duration + F_priority)
 When we restore a stream using Natural Channel Design, our credit yield is calculated as:
 Credits (C) = Restoration Length × (M_benefit + M_buffer + M_monitoring + M_protection + M_flow + M_watershed)
 
-Because Blue Ridge Stream Restoration & Mitigation LLC focuses on Priority 1 geomorphic restoration (fully reconnecting the stream to its historic floodplain) and establishes a 100-foot native canopy buffer, our mitigation benefit factor is highly optimized:
+Because Save Our Streams Inc. focuses on Priority 1 geomorphic restoration (fully reconnecting the stream to its historic floodplain) and establishes a 100-foot native canopy buffer, our mitigation benefit factor is highly optimized:
 *   Our total credit multiplier reaches a massive 8.6 factor!
 *   Restoring 1,500 linear feet of stream at Anderson Creek generates 12,900 high-yielding credits.
 
@@ -253,7 +253,7 @@ Sediment loading, or siltation—driven by soil erosion, unpaved logging roads, 
 3️⃣ Solar Solar Warming: Sand fills in the deep scour pools, making the stream wide, flat, and shallow. This accelerates water warming, raising temperatures into the lethal stress zone.
 
 How do we solve this?
-At Blue Ridge Stream Restoration & Mitigation LLC, we don't just stabilize the bank; we engineer the bed. 
+At Save Our Streams Inc., we don't just stabilize the bank; we engineer the bed. 
 
 We construct geomorphic sediment traps and cedar step-pools. By placing natural drop structures at precise angles, we create localized low-energy zones where heavy sand and silt are forced to drop out and collect. 
 
@@ -276,7 +276,7 @@ Collaboration is the catalyst for large-scale environmental impact. 🤝🌲
 
 In the stream mitigation banking sector, success requires the seamless integration of three distinct disciplines: advanced geomorphic field construction, rigorous regulatory permit administration, and institutional credit ledger management.
 
-That is why Blue Ridge Stream Restoration & Mitigation LLC is built on strategic partnerships.
+That is why Save Our Streams Inc. is built on strategic partnerships.
 
 We are proud to collaborate with regional regulatory and mitigation banking leaders, including Neil Blackman (Principal at Corblu Ecology Group). Corblu manages major stream mitigation banks in North Georgia and serves as a premier ledger sponsor on the federal RIBITS registry.
 
@@ -296,11 +296,11 @@ Scale matters when you're restoring watersheds. We are proud to work with the be
 
 ## 📅 Post 10: Hadi Irvani Joins the Board (Board Announcement)
 *   **Target Objective**: Establish massive corporate credibility, showcase institutional governance, and announce Hadi Irvani's formal role as Board Member.
-*   **Visual Asset Recommendation**: Professional, high-end corporate headshot of Hadi Irvani with the Blue Ridge Stream Restoration logo, overlaying a clean deep-navy corporate template.
+*   **Visual Asset Recommendation**: Professional, high-end corporate headshot of Hadi Irvani with the Save Our Streams Inc. logo, overlaying a clean deep-navy corporate template.
 
 ### 📝 Copy-and-Paste Post
 ```text
-I am thrilled to announce a major milestone in the corporate governance and scaling of Blue Ridge Stream Restoration & Mitigation LLC. 📈💼
+I am thrilled to announce a major milestone in the corporate governance and scaling of Save Our Streams Inc.. 📈💼
 
 Please join me in officially welcoming Hadi Irvani to our Board of Directors as Board Member. 
 

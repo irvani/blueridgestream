@@ -2,20 +2,20 @@
 ## Construction Verification & Spawning Habitat Success for Anderson Creek Reach
 
 > [!IMPORTANT]
-> **Post-Restoration (As-Built) Project Standard**: This document represents the official post-work As-Built construction verification and monitoring report for the **Anderson Creek Showcase Restoration Project (Roya's Cabin Reach)**. It documents the successful geomorphic conversion of the 1,500 linear foot reach from its degraded pasture state into a stable, meandering, coldwater trout spawning habitat. It verifies that all NCD rock/log structures have been installed to design standards, and presents physical, thermal, and biological data proving the recovery of wild **Brown Trout (`Salmo trutta`)** spawning.
+> **Post-Restoration (As-Built) Project Standard**: This document represents the official post-work As-Built construction verification and monitoring report for the **Anderson Creek Showcase Restoration Project (Sandra's Cabin Reach)**. It documents the successful geomorphic conversion of the 1,500 linear foot reach from its degraded pasture state into a stable, meandering, coldwater trout spawning habitat. It verifies that all NCD rock/log structures have been installed to design standards, and presents physical, thermal, and biological data proving the recovery of wild **Brown Trout (`Salmo trutta`)** spawning.
 
 ---
 
 ## I. Construction Completion & As-Built Verification
 
-*   **Project Name**: Anderson Creek Showcase Restoration (Roya's Cabin Reach)
+*   **Project Name**: Anderson Creek Showcase Restoration (Sandra's Cabin Reach)
 *   **Permit Number**: USACE Nationwide Permit 27 (SAS-2025-00918)
 *   **State Variance**: Georgia DNR EPD Buffer Variance Approved (BV-124-25-02)
 *   **Construction Period**: 12 Business Days (Completed October 2025)
 *   **As-Built Survey Date**: October 28, 2025
 
 ### Construction Narrative
-Blue Ridge Stream Restoration field crews successfully mobilized and executed instream grading and structure placement over a 12-day window in October 2025 during low seasonal baseflows. Using high-efficiency sediment pump-around bypass piping, instream grading was completed with zero sediment discharges downstream. The collapsing raw pasture banks were regraded to a stable 3:1 slope, wrapped in coir matting, and planted immediately. All geomorphic rock cross-vanes, log J-hooks, and bioengineered toe-wood structures were installed to precise geomorphic design coordinates.
+Save Our Streams Inc. field crews successfully mobilized and executed instream grading and structure placement over a 12-day window in October 2025 during low seasonal baseflows. Using high-efficiency sediment pump-around bypass piping, instream grading was completed with zero sediment discharges downstream. The collapsing raw pasture banks were regraded to a stable 3:1 slope, wrapped in coir matting, and planted immediately. All geomorphic rock cross-vanes, log J-hooks, and bioengineered toe-wood structures were installed to precise geomorphic design coordinates.
 
 ```
                     RESTORED SPAWNING STREAM PROFILE (POST-WORK)
@@ -108,4 +108,4 @@ During our late autumn spawning survey (November 15, 2026), field biologists and
     *   *Redd Spawning Density*: Approximately 1 active nest per 125 linear feet of stream reach, proving that the Anderson Creek geomorphic restoration serves as an active, high-functioning wild trout spawning sanctuary.
 
 ---
-*Prepared by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin.*
+*Prepared by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin.*

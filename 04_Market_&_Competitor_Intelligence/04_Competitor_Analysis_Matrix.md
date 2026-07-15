@@ -1,6 +1,6 @@
 # Competitor Analysis Matrix: Southeast Stream Restoration & Mitigation Banking
 
-To position **Blue Ridge Stream Restoration & Mitigation LLC** (Hunter's new business) for rapid market penetration, we must map and analyze the competitive landscape in Georgia and the broader Southeast. 
+To position **Save Our Streams Inc.** (Hunter's new business) for rapid market penetration, we must map and analyze the competitive landscape in Georgia and the broader Southeast. 
 
 The mitigation banking and stream restoration industry is highly regulated, capital-intensive, and driven by localized geography (river basins/service areas). Competitors range from massive, institutional, private-equity-backed "full-delivery" providers to boutique regional ecological consultancies.
 
@@ -67,7 +67,7 @@ The mitigation banking and stream restoration industry is highly regulated, capi
 *   **Core Services**: Stream and wetland credit marketing, broker sales, regulatory liaison, RIBITS registry management, and landowner trust outreach.
 *   **Major Strengths**: Maintains a highly accurate database of active credit availability, upcoming banks, and pricing structures across all Georgia river basins. Highly trusted by commercial developers and real estate brokers.
 *   **Key Weaknesses**: Purely advisory. No in-house ecological engineering, fluvial geomorphology, or physical construction capacity.
-*   **Strategic Counter-Play**: Leverage Mitigation Management as an essential credit sales broker. Instead of attempting to market credits directly to every developer, partner with Mitigation Management to list and liquidate the 12,900 credits generated at **Roya's Cabin at Anderson Creek**, accelerating sales velocity.
+*   **Strategic Counter-Play**: Leverage Mitigation Management as an essential credit sales broker. Instead of attempting to market credits directly to every developer, partner with Mitigation Management to list and liquidate the 12,900 credits generated at **Sandra's Cabin at Anderson Creek**, accelerating sales velocity.
 
 ---
 
@@ -121,7 +121,7 @@ The mitigation banking and stream restoration industry is highly regulated, capi
 
 ## 3. The "Trout/NCD" Strategic Differentiator
 
-| Feature | Traditional Contractors | Corporate Mitigation Bankers | Blue Ridge Stream Restoration |
+| Feature | Traditional Contractors | Corporate Mitigation Bankers | Save Our Streams Inc. |
 | :--- | :--- | :--- | :--- |
 | **Instream Materials** | Concrete, Rip-rap, Steel sheet piles | Heavy rock rip-rap, basic logs | **Native cedar logs, root wads, sorted river gravels, native boulder cross-vanes** |
 | **Geomorphic Goal** | Flush storm energy downstream | Establish basic bank stability | **Narrow bankfull channel width-to-depth ratio to scour deep, cold trout holding pools** |

@@ -5,7 +5,7 @@
 
 ## I. Competitor Search Engine Footprint & Traffic Audit
 
-To establish dominant organic search positioning for Blue Ridge Stream Restoration, we first audit the online footprints, traffic streams, and referral sources of leading national and regional ecological competitors:
+To establish dominant organic search positioning for Save Our Streams Inc., we first audit the online footprints, traffic streams, and referral sources of leading national and regional ecological competitors:
 
 ### 1. Competitor Analysis Table
 | Competitor | Domain Authority (DA) | Primary Organic Traffic Drivers | Core Backlink Sourcing Methods | Estimated Monthly Traffic |
@@ -125,7 +125,7 @@ To: [TU_Chapter_President_Email]
 Dear [Chapter_President_Last_Name],
 
 I hope this email finds you well and that the wild trout are rising on the Toccoa.
-My name is Hunter Morris, and in addition to my work with Fly Fishing North Georgia, I serve as Managing Director of Blue Ridge Stream Restoration LLC. We specialize in geomorphic Natural Channel Design (NCD) and live soil bioengineering to restore vertical, eroding stream banks back into stable native coldwater sanctuaries.
+My name is Hunter Morris, and in addition to my work with Fly Fishing North Georgia, I serve as Managing Director of Save Our Streams Inc. LLC. We specialize in geomorphic Natural Channel Design (NCD) and live soil bioengineering to restore vertical, eroding stream banks back into stable native coldwater sanctuaries.
 
 To support local coldwater restoration efforts, our scientific team has published a highly technical, open-access guide: "Riparian Buffer Shading & Thermal attenuation modeling for Southern Appalachian Wild Trout Streams."
 
@@ -139,7 +139,7 @@ Tight lines,
 
 Hunter Morris
 Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -152,7 +152,7 @@ Dear [Editor_Last_Name],
 
 I hope you are having a productive week. 
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration LLC. We partner with Georgia landowners, agricultural relationship lenders, and exurban brokers to monetize degraded, non-buildable stream buffers through Joint-Venture geomorphic restoration.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc. LLC. We partner with Georgia landowners, agricultural relationship lenders, and exurban brokers to monetize degraded, non-buildable stream buffers through Joint-Venture geomorphic restoration.
 
 A common friction point exurban property brokers face is severe lateral creek bank erosion, which actively devalues agricultural land listings and complicates 10-year Conservation Use Assessment (CUVA) tax enrollments under O.C.G.A § 48-5-7.4.
 
@@ -170,6 +170,6 @@ Sincerely,
 
 Hunter Morris
 Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```

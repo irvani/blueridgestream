@@ -26,6 +26,6 @@ This publication evaluates the ecological impacts of fine sediment deposition (s
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
+## 4. Applied Relevance to Save Our Streams Inc.
 * **Spawning Sanctuary Designs**: Validates Hunter's focus on scouring away fine sands. Proves that narrowing degraded channels and installing geomorphic rock/log structures scours out silt, exposing clean gravel beds and restoring natural trout reproduction.
 * **Biological Monitoring**: Outlines the exact macroinvertebrate and fish sampling protocols used by our UGA Odum/Warnell interns during baseline and post-restoration monitoring.

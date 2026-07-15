@@ -18,14 +18,14 @@ Resource Environmental Solutions (RES), backed by massive private equity, often 
 - *Developer Arbitrage*: By locking the landowner into a flat $15/credit royalty, RES secures all the pricing upside. When RES sells these credits to high-demand corporate data centers at $110/credit, the landowner still only receives $15. This represents an effective **86/14 split** in favor of RES. RES pockets $95 per credit while absorbing all the pricing appreciation.
 
 ### 3. The Percentage Credit-Split JV (The Blue Ridge Boutique Model)
-Hunter Morris structures a true, percentage-based **70/30 credit split**. Blue Ridge Stream covers 100 percent of the upfront cost (design, USACE Savannah District approvals, heavy civil grading, planting, and monitoring), and the landowner keeps title to their land, placing only the riparian buffer under a conservation easement. When credits are sold, the landowner receives exactly 30 percent of the actual market selling price.
+Hunter Morris structures a true, percentage-based **70/30 credit split**. Save Our Streams Inc. covers 100 percent of the upfront cost (design, USACE Savannah District approvals, heavy civil grading, planting, and monitoring), and the landowner keeps title to their land, placing only the riparian buffer under a conservation easement. When credits are sold, the landowner receives exactly 30 percent of the actual market selling price.
 - *The Winning Hook*: If credits sell at $110/credit to exurban developers, the landowner receives **33.00 USD per credit** (more than double the corporate flat-rate offer of $15). Additionally, the landowner gets a completely free, custom-engineered private Brook Trout trout fishery that dramatically enhances the rest of their estate value.
 
 ## II. Competitive Deal Structure & Pricing Matrix
 
 The following matrix summarizes how the major regional competitors handle stream restoration economics, on both the **Creation Side** (upfront costs/easements) and the **Selling Side** (market credit prices):
 
-| Pricing & Deal Metrics | Traditional Civil Contractors | RES (Resource Environmental Solutions) | EIP (Ecosystem Investment Partners) | Corblu Ecology Group | Blue Ridge Stream Restoration |
+| Pricing & Deal Metrics | Traditional Civil Contractors | RES (Resource Environmental Solutions) | EIP (Ecosystem Investment Partners) | Corblu Ecology Group | Save Our Streams Inc. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Landowner Deal Model** | Fee-for-Service (Client pays all) | Flat Credit Royalty ($12-$25/cr) OR flat easement fee | Outright cash land purchase ($4k-$6k/acre) | standard 80/20 credit split JV | **Premium 70/30 credit split JV** |
 | **Upfront Landowner Cost** | 100% Client Funded | 0 USD (Sponsor funded) | 0 USD (Sponsor funded) | 0 USD (Sponsor funded) | **0 USD (Sponsor funded)** |
@@ -64,7 +64,7 @@ Stream credits are liquidated through two B2B sales channels in Georgia:
 
 ## IV. The 70/30 Profit Model: Anderson Creek Example Case
 
-Let's model the exact economics of **Roya's Cabin at Anderson Creek** (File 03 flagship project) under a **70/30 credit-split JV**, demonstrating how both Hunter and the Landowner achieve massive margins compared to corporate competitor models:
+Let's model the exact economics of **Sandra's Cabin at Anderson Creek** (File 03 flagship project) under a **70/30 credit-split JV**, demonstrating how both Hunter and the Landowner achieve massive margins compared to corporate competitor models:
 
 ### 1. Key Project Inputs
 - **Total Reach Length**: 1,500 Linear Feet (LF)
@@ -93,7 +93,7 @@ Let's model the exact economics of **Roya's Cabin at Anderson Creek** (File 03 f
 ```pitch
 "Mr./Ms. Landowner, I know you have received offers from corporate environmental firms backed by venture capital out of Texas and Baltimore. They want to buy your land outright for a couple of thousand dollars an acre, meaning you lose the family land forever, or they want to pay you a flat, cheap fee of $15 per credit, pocketing all the massive upside when they resell those credits to high-tech data centers in Atlanta.
 
-At Blue Ridge Stream, we do things differently. We are a North Georgia boutique firm. We don't want to buy your land; we want to partner with you. Under our 70/30 joint venture, you keep 100 percent ownership of your estate. We will cover every single dollar of the upfront engineering, permitting, and construction costs to stabilize your eroding banks. 
+At Save Our Streams Inc., we do things differently. We are a North Georgia boutique firm. We don't want to buy your land; we want to partner with you. Under our 70/30 joint venture, you keep 100 percent ownership of your estate. We will cover every single dollar of the upfront engineering, permitting, and construction costs to stabilize your eroding banks. 
 
 Instead of a cheap flat fee, you receive exactly 30 percent of the actual sales price of every single stream credit generated. When we sell these credits directly to regional data center campuses at $110 a credit, you pocket $33 per credit. On a 1,500-foot creek like yours, that translates to over 425,000 USD in cash paid directly to you to pay down debt or clear your land notes, while leaving you with a world-class, private Brook Trout fly-fishing creek that your family will enjoy for generations. We take 100 percent of the financial risk; you capture the premium upside."
 ```

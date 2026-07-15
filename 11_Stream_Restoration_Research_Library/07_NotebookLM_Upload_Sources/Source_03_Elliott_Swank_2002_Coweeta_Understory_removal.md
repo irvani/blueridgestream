@@ -26,6 +26,6 @@ This publication examines the long-term hydrological and ecological consequences
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
+## 4. Applied Relevance to Save Our Streams Inc.
 * **Sourcing Argument**: Proves to private forestry and agricultural landowners that streamside *Rhododendron* thickets are powerful hydrologic regulators. Protecting or transplanting mature rhododendrons helps stabilize streamside soil moisture and manage upland stormwater runoff.
 * **Vegetative Buffers**: Demonstrates the resilience of Southern Appalachian headwater forests and reinforces our UGA Warnell internship buffer planning models.

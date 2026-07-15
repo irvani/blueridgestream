@@ -10,7 +10,7 @@
 
 ## 1. Introduction & Scientific Objective
 
-As a Stream Ecology Intern from the University of Georgia, your primary responsibility is to execute and document field-level ecological appraisals across our showcase mitigation reaches (e.g., Anderson Creek at Roya's Cabin and Goldmine Hollow at Hunter's Cabin). 
+As a Stream Ecology Intern from the University of Georgia, your primary responsibility is to execute and document field-level ecological appraisals across our showcase mitigation reaches (e.g., Anderson Creek at Sandra's Cabin and Goldmine Hollow at Hunter's Cabin). 
 
 Degraded mountain streams in the Southern Blue Ridge ecoregion suffer from historic timber logging and cattle-grazing impacts, resulting in collapsed bank clays, high turbidity, and siltation. By trapping these fine silts and regrading the channel into stable meanders, we expose the underlying gravel-cobble substrate. Your biological audits must prove to the **USACE Savannah District Interagency Review Team (IRT)** that our physical geomorphic restorations result in a quantifiable ecological lift (a direct boost in freshwater biodiversity and wild trout habitat stability).
 

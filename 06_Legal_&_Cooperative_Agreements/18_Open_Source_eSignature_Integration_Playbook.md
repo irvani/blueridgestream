@@ -1,5 +1,5 @@
 # Open-Source Electronic Signature Integration Playbook
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter Morris (*Fly Fishing North Georgia*, bookings@flyfishingnorthgeorgia.com)  
 **Board Member**: Hadi Irvani (General Partner at Infill Capital Partners, University of Virginia - UVA)  
@@ -10,7 +10,7 @@
 
 ## 1. Executive Summary
 
-To execute stream mitigation landowner agreements (such as the **File 16 Anderson Creek Joint Venture**) and credit sales contracts with zero recurring licensing overhead, Blue Ridge Stream Restoration & Mitigation LLC can deploy **Docuseal** or **OpenSign**—the leading enterprise-grade, fully open-source alternatives to DocuSign.
+To execute stream mitigation landowner agreements (such as the **File 16 Anderson Creek Joint Venture**) and credit sales contracts with zero recurring licensing overhead, Save Our Streams Inc. can deploy **Docuseal** or **OpenSign**—the leading enterprise-grade, fully open-source alternatives to DocuSign.
 
 This playbook provides Hunter Morris with a complete engineering blueprint to deploy, configure, and operate a self-hosted e-signature platform. Additionally, it details the legal framework governing electronic signatures in the State of Georgia to ensure our contracts are 100% legally binding under both federal and state laws.
 
@@ -92,7 +92,7 @@ Access the platform at `http://[your-server-ip]:3000`.
 
 ## 4. Contract Template & Signer Mapping
 
-Once Docuseal is running, Hunter should configure the **Roya's Cabin Anderson Creek Mitigation Agreement** template:
+Once Docuseal is running, Hunter should configure the **Sandra's Cabin Anderson Creek Mitigation Agreement** template:
 
 ```
                       DOCUSEAL FIELD PLACEMENT MAP
@@ -105,23 +105,23 @@ Once Docuseal is running, Hunter should configure the **Roya's Cabin Anderson Cr
   │                                                             │
   │  Signature: [ [Signature 1] ]         Signature: [ [Sig 2] ]│
   │                                                             │
-  │  Name: Roya Irvani                    Name: Hunter Morris   │
+  │  Name: ACR 1910 LLC (the Authorized Manager)                    Name: Hunter Morris   │
   │  Date: [ [Date 1] ]                   Date: [ [Date 2] ]    │
   │                                                             │
   └─────────────────────────────────────────────────────────────┘
 ```
 
-1.  **Generate Contract PDF**: Save the finalized **File 16** (`16_Roya_Cabin_Anderson_Creek_Mitigation_Agreement.pdf`) to your computer.
+1.  **Generate Contract PDF**: Save the finalized **File 16** (`16_Sandra_Cabin_Anderson_Creek_Mitigation_Agreement.pdf`) to your computer.
 2.  **Upload to Docuseal**: Click **Templates** > **Create Template** and upload the PDF.
 3.  **Define Signer Roles**:
-    *   *Role 1*: **Landowner** (Roya Irvani)
+    *   *Role 1*: **Landowner** (ACR 1910 LLC — Authorized Manager)
     *   *Role 2*: **Developer** (Hunter Morris / Hadi Irvani)
 4.  **Drag-and-Drop Fields**:
     *   Scroll to the signature block page.
     *   Drag a **Signature Field** and assign it to the *Landowner*. Add a **Date Field**.
     *   Drag a **Signature Field** and assign it to the *Developer*. Add a **Date Field**.
 5.  **Publish Template**: Save the template as "Anderson Creek Mitigation JV Agreement".
-6.  **Send for Signature**: Click **Send**, enter Roya's email (`roya.irvani@example.com`) and Hunter's email (`bookings@flyfishingnorthgeorgia.com`), and click **Send**. The platform will securely email both parties unique links to sign.
+6.  **Send for Signature**: Click **Send**, enter the landowner's email (`landowner@example.com`) and Hunter's email (`bookings@flyfishingnorthgeorgia.com`), and click **Send**. The platform will securely email both parties unique links to sign.
 
 ---
 

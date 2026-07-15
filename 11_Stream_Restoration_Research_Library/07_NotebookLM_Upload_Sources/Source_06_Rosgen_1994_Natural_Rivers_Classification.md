@@ -38,6 +38,6 @@ This foundational geomorphic paper establishes a comprehensive, hierarchical cla
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
+## 4. Applied Relevance to Save Our Streams Inc.
 * **Geomorphic Classification**: Provides the core geomorphic framework for Hunter's interns to classify highly degraded pasture reaches. The target is typically to transition an incised, eroding pasture trench (unstable Type G or F) into a stable, self-regulating meadow stream (Type C4 or E4).
 * **Design Standards**: Establishes the exact width-to-depth, entrenchment, and sinuosity ratios that must be input into HEC-RAS and AutoCAD Civil 3D design files to ensure long-term stability and permit approval.

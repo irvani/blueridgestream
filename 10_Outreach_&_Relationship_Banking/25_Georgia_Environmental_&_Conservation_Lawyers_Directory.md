@@ -91,7 +91,7 @@ Dear Mr./Ms. Mowrey,
 
 I hope this finds you well. As a fellow Georgia angler who appreciates the geomorphic beauty and wild trout of the Soque River, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your USACE CWA Section 404 & Wetland Permitting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -103,7 +103,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -127,7 +127,7 @@ Dear Mr./Ms. Mowrey,
 
 I hope this finds you well. As a fellow angler who has spent quiet mornings casting dry flies for wild rainbows on Mountaintown Creek, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Industrial Regulatory Compliance & EPA Audits practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -139,7 +139,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -163,7 +163,7 @@ Dear Mr./Ms. Mowrey,
 
 I hope this finds you well. As a fellow angler who has navigated the pools of the Chattooga River seeking wild brown trout and who shares your passion for riparian zone protection...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Wetland & Stream Mitigation Bank Defense practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -175,7 +175,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -199,7 +199,7 @@ Dear Mr./Ms. Mowrey,
 
 I hope this finds you well. Having spent many weekends fly-fishing for wild trout on the Toccoa River tailwaters and witnessing the impacts of bank erosion, I wanted to introduce our work...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Clean Water Act & NPDES Permitting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -211,7 +211,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -235,7 +235,7 @@ Dear Mr./Ms. Mowrey,
 
 I hope this finds you well. As a fellow fly-fisher who has sought native brook trout in the Amicalola headwaters and appreciates our coldwater streams, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Georgia EPD Stream Buffer Variance Rules practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -247,7 +247,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -271,7 +271,7 @@ Dear Mr./Ms. Mowrey,
 
 I hope this finds you well. As a fellow North Georgia land steward who enjoys fly-fishing the pools of the Cartecay River and understands the balance of stream health, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Riparian Rights & Water Allocations practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -283,7 +283,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -307,7 +307,7 @@ Dear Mr./Ms. Westmoreland,
 
 I hope this finds you well. As a fellow UGA alumnus who shares a passion for wading the coldwaters of Dukes Creek and supporting the Georgia Wildlife Federation, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Zoning, Land Use & Exurban Development practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -319,7 +319,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -343,7 +343,7 @@ Dear Mr./Ms. Pouncey,
 
 I hope this finds you well. As an admirer of your leadership on the Georgia Conservancy board and a fellow saltwater angler who spends time in the Sapelo Sound marshes, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Brownfield Redevelopment & Mitigation Sourcing practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -355,7 +355,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -379,7 +379,7 @@ Dear Mr./Ms. Friedman,
 
 I hope this finds you well. Knowing your passion for mountain streams and sharing your love for casting dry flies on Mountaintown Creek with the Georgia Women Fly Fishers, I am writing...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Real Estate Environmental Transaction Audits practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -391,7 +391,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -415,7 +415,7 @@ Dear Mr./Ms. Beaudrot,
 
 I hope this finds you well. As a fellow fly-fisherman who has cast lines across Fannin County's mountain streams and understands the tax dynamics of land stewardship, I wanted to share...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Conservation Easement Tax Planning practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -427,7 +427,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -451,7 +451,7 @@ Dear Mr./Ms. Torgrimson,
 
 I hope this finds you well. As a fellow fly-fisher who shares your passion for the coldwaters of Cooper Creek and preserving our North Georgia riparian corridors, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Eminent Domain & Right-of-Way Siting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -463,7 +463,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -487,7 +487,7 @@ Dear Mr./Ms. Huynh,
 
 I hope this finds you well. As a fellow angler who has backpacked the Cohutta Wilderness to cast lines for wild trout in the clear headwaters of the Conasauga River, I wanted to introduce...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your CRE Development & Land JV Disputes practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -499,7 +499,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -523,7 +523,7 @@ Dear Mr./Ms. Vance,
 
 I hope this finds you well. As a fellow angler who has studied the aquatic hatches at Smithgall Woods and appreciates the geomorphic structures that support wild trout, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your USACE Permit Expediting & Interagency Review practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -535,7 +535,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -559,7 +559,7 @@ Dear Mr./Ms. Tyler,
 
 I hope this finds you well. As a fellow angler who wades and drifts the Toccoa River and supports the local Blue Ridge Trout Unlimited chapter, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Commercial Land Transactions & JVs practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -571,7 +571,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -595,7 +595,7 @@ Dear Mr./Ms. O'Day,
 
 I hope this finds you well. As a fellow angler who deeply values our Georgia marine habitats and supports the Coastal Conservation Association, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Clean Water Act, NEPA & Natural Resources Law practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -607,7 +607,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -631,7 +631,7 @@ Dear Mr./Ms. Thompson,
 
 I hope this finds you well. As an angler who shares your love for catching native shoal bass on the gravel riffles of the upper Chattahoochee River, I wanted to introduce our geomorphic designs...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Water Quality, NPDES & Stormwater Permits practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -643,7 +643,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -667,7 +667,7 @@ Dear Mr./Ms. Parris,
 
 I hope this finds you well. As a fellow sportsman who enjoys wading the headwaters of the Broad River and understands the vital role of stream buffers, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Large Land Development & Timber JVs practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -679,7 +679,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -703,7 +703,7 @@ Dear Mr./Ms. Werdesheim,
 
 I hope this finds you well. As a fellow angler who enjoys casting lines in the Chattahoochee River National Recreation Area and advocates for urban wild fish corridors, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Zoning Appeals & State Buffer Variance Suits practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -715,7 +715,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -739,7 +739,7 @@ Dear Mr./Ms. Sellers,
 
 I hope this finds you well. Having spent years exploring the pools of the Cooper Creek Scenic Area and wading for wild mountain trout, I wanted to share our localized stream credit solutions...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your USACE SAV District Permitting Protocols practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -751,7 +751,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -775,7 +775,7 @@ Dear Mr./Ms. Webb,
 
 I hope this finds you well. As a fellow fly-fisher who loves capturing the geomorphic beauty of the Tallulah River while casting for wild trout, I wanted to introduce our work...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your CRE Financing & Lender Title Inspections practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -787,7 +787,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -811,7 +811,7 @@ Dear Mr./Ms. Cobb,
 
 I hope this finds you well. As a fellow UGA Law graduate who enjoys drift-boat fly-fishing on the Toccoa River and understands the geomorphic impact of infrastructure on our watersheds, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Public-Private Partnerships (P3) & Infrastructure practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -823,7 +823,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -847,7 +847,7 @@ Dear Mr./Ms. Liles,
 
 I hope this finds you well. As a fellow volunteer who has spent weekends pulling debris from Georgia's riverbanks and wading for native brook trout, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your DNR EPD Variance Applications practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -859,7 +859,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -883,7 +883,7 @@ Dear Mr./Ms. Davis,
 
 I hope this finds you well. As a fellow UVA Law connection (working alongside board member Hadi Irvani) who shares your passion for hosting fly-fishing retreats in our beautiful Blue Ridge Mountains, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Federal CWA Section 404 & NEPA Mega-Permitting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -895,7 +895,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -919,7 +919,7 @@ Dear Mr./Ms. Jones,
 
 I hope this finds you well. As an angler who shares your love for casting fly lines in the coastal salt marshes around Sapelo and Saint Simons Islands, I am writing to introduce our work...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Energy, Pipeline & Infrastructure Permitting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -931,7 +931,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -955,7 +955,7 @@ Dear Mr./Ms. Hynes,
 
 I hope this finds you well. As a fellow angler who has hiked deep into the Cohutta Wilderness to fish the wild trout pools of the Jack's River, I wanted to introduce our high-gradient bioengineering...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your EPA and USACE Enforcement Action Defense practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -967,7 +967,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -991,7 +991,7 @@ Dear Mr./Ms. Miller,
 
 I hope this finds you well. As a fellow backpacker and angler who has cast dry flies on the remote brook trout headwaters along the Appalachian Trail, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Industrial Warehouse Development & Site Siting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1003,7 +1003,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1027,7 +1027,7 @@ Dear Mr./Ms. Cole,
 
 I hope this finds you well. As a fellow UGA Law alumnus who enjoys navigating the mountain tributaries that feed Lake Lanier, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Exurban Residential Master Agreements practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1039,7 +1039,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1063,7 +1063,7 @@ Dear Mr./Ms. Albright,
 
 I hope this finds you well. Sharing your deep respect for estuarine ecology and your passion for fly-fishing for redfish in our coastal salt marshes, I am writing...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Wetland Mitigative Modeling Compliance practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1075,7 +1075,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1099,7 +1099,7 @@ Dear Mr./Ms. Jones,
 
 I hope this finds you well. As a fellow angler who wades the cold tailwaters of the Chattahoochee River below Buford Dam and deeply respects your work in water law, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Water Rights, Hydropower & Watershed Regulation practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1111,7 +1111,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1135,7 +1135,7 @@ Dear Mr./Ms. Sowald,
 
 I hope this finds you well. As a fellow supporter of the Chattahoochee Riverkeeper who has spent quiet mornings fly-fishing for trout on the Soque River, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Federal Regulatory Compliance & Savannah SOP practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1147,7 +1147,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1171,7 +1171,7 @@ Dear Mr./Ms. Vance,
 
 I hope this finds you well. As a fellow Rabun County stream lover who enjoys fly-fishing for wild rainbows in the upper Tallulah River watershed, I am writing to introduce our headwater capabilities...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Data Center & High-Tech CRE Siting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1183,7 +1183,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1207,7 +1207,7 @@ Dear Mr./Ms. Cobb,
 
 I hope this finds you well. As a fellow UGA alumnus who wades mountain streams and supports the voluntary preservation of private North Georgia mountain tracts, I wanted to share...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your CRE Corporate Finance & Project Debt practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1219,7 +1219,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1243,7 +1243,7 @@ Dear Mr./Ms. Lawson,
 
 I hope this finds you well. As a fellow rafter and angler who has experienced the thrill of casting dry flies while navigating the Toccoa River's spring flows, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your USACE SAV District Permitting Protocols practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1255,7 +1255,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1279,7 +1279,7 @@ Dear Mr./Ms. Drohan,
 
 I hope this finds you well. As a fellow angler who has spent years seeking the elusive wild rainbows of the Chattooga River's wild and scenic reaches, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Energy, Utility and Infrastructure Permitting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1291,7 +1291,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1315,7 +1315,7 @@ Dear Mr./Ms. Davis,
 
 I hope this finds you well. As a fellow supporter of Trout Unlimited who deeply values your work teaching the next generation of fly-fishermen in Georgia, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Clean Water Act compliance & SAV SOP Math practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1327,7 +1327,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1351,7 +1351,7 @@ Dear Mr./Ms. King,
 
 I hope this finds you well. As a fellow UGA Law alumnus and North Georgia land steward who appreciates the tranquility of a clean mountain creek, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Zoning & Mixed-Use Exurban Development practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1363,7 +1363,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1387,7 +1387,7 @@ Dear Mr./Ms. Jenkins,
 
 I hope this finds you well. Sharing your commitment to land preservation and your love for wading quiet trout-fishing stretches in Fannin County, I wanted to introduce our work...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your CRE Financing & Lender Title Inspections practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1399,7 +1399,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1423,7 +1423,7 @@ Dear Mr./Ms. Rogers,
 
 I hope this finds you well. As a fellow angler who monitors coldwater trout stream temperatures and respects your scientific approach to CWA regulations, I wanted to share...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your SAV SOP Mathematical Modeling Reports practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1435,7 +1435,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1459,7 +1459,7 @@ Dear Mr./Ms. Fowler,
 
 I hope this finds you well. As a fellow sportsman who enjoys saltwater fly-fishing on the coast and supports the Coastal Conservation Association, I wanted to introduce our work...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Federal CWA Section 404 & Wetland Permitting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1471,7 +1471,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1495,7 +1495,7 @@ Dear Mr./Ms. Miller,
 
 I hope this finds you well. As an outdoor enthusiast who has paddled the river bends of the Oconee River and advocate for stable, non-eroding stream banks, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Clean Water Act litigation & EPA Defense practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1507,7 +1507,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1531,7 +1531,7 @@ Dear Mr./Ms. Hall,
 
 I hope this finds you well. As a fellow angler who loves to escape to Fannin County to wade for trout and support our local mountain farms, I am writing to share...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your CRE Portfolio Transactions & Developer JVs practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1543,7 +1543,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1567,7 +1567,7 @@ Dear Mr./Ms. Vance,
 
 I hope this finds you well. As an advocate for turning historical environmental liabilities into ecological assets and a fellow mountain stream angler, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Brownfield redevelopment & Site Permitting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1579,7 +1579,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1603,7 +1603,7 @@ Dear Mr./Ms. Shepard,
 
 I hope this finds you well. As a fellow angler who wades the headwater pools of the upper Chattahoochee and deeply respects your leadership in conservation tax law, I wanted to introduce...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Conservation Easement Tax & IRS Audits practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1615,7 +1615,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1639,7 +1639,7 @@ Dear Mr./Ms. Rogers,
 
 I hope this finds you well. As a fellow UGA alumnus and Toccoa River angler who supports the Georgia Wildlife Federation's habitat preservation, I wanted to share...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your IRS Conservation Easement Appeals practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1651,7 +1651,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1675,7 +1675,7 @@ Dear Mr./Ms. Taylor,
 
 I hope this finds you well. As a fellow Union County neighbor who enjoys fly-fishing Nottely River tributaries and supports our local Trout Unlimited chapter's stream improvements, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Zoning, Land Use & Municipal EPD practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1687,7 +1687,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1711,7 +1711,7 @@ Dear Mr./Ms. Albright,
 
 I hope this finds you well. As a fellow angler who loves casting flies on the pristine pools of Noontootla Creek and supporting the Georgia Conservancy's water programs, I am writing to share...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Exurban Residential Master Agreements practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1723,7 +1723,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1747,7 +1747,7 @@ Dear Mr./Ms. Dyer,
 
 I hope this finds you well. As a fellow saltwater angler who enjoys chasing redfish in the marshes of Sapelo Sound and understands how upstream sediment impacts our coast, I am writing...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Coastal & Wetland Environmental Law practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1759,7 +1759,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1783,7 +1783,7 @@ Dear Mr./Ms. Cobb,
 
 I hope this finds you well. As a fellow coastal enthusiast who fly-fishes our estuaries and supports the Coastal Georgia Land Trust's water preservation efforts, I wanted to connect...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Coastal Land Transactions & JVs practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1795,7 +1795,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1819,7 +1819,7 @@ Dear Mr./Ms. Rogers,
 
 I hope this finds you well. As a fellow fly-fisherman who has cast lines for redfish near Sapelo Island and shares your commitment to protecting our coastal marshes, I wanted to reach out...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Coastal Real Estate & Wetland Permitting practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1831,7 +1831,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1855,7 +1855,7 @@ Dear Mr./Ms. Jenkins,
 
 I hope this finds you well. As a fellow UGA Law alumna who enjoys kayaking the Ogeechee River and wading our coastal sounds, I wanted to introduce our work...
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based stream bioengineering firm specializing in high-gradient mountain streams, Rosgen Level III geomorphic designs, and coldwater wild trout habitat restoration. Our core competitive advantage lies in our low-overhead, biological bank-binding mechanics (using mature native Rhododendron maximum transplants, root-wads, and soil geogrids) which offer a highly aesthetic, premium alternative to high-overhead conglomerates like RES and Corblu.
 
 In your Zoning, Land Use & Buffer Rules practice, we can serve as a highly efficient technical asset. If your developer clients are facing USACE Savannah District or Georgia DNR EPD permit delays or enforcement citations, we can deploy bioengineered bank remedies that stabilize high-velocity channels immediately, satisfying agency standards in weeks rather than months and saving clients up to 40 percent over traditional hard civil designs.
 
@@ -1867,7 +1867,7 @@ Sincerely,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 

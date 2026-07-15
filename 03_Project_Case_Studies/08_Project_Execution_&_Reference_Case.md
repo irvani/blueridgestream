@@ -2,13 +2,13 @@
 ## Step-by-Step Construction Guide, Material Specs, & Geomorphic Data
 
 This document provides Hunter with:
-1.  **An "Easy Done" Step-by-Step Execution Plan** for the **Anderson Creek (Roya's Cabin)** showcase project, detailing the exact engineering, sourcing, and sequencing requirements.
+1.  **An "Easy Done" Step-by-Step Execution Plan** for the **Anderson Creek (Sandra's Cabin)** showcase project, detailing the exact engineering, sourcing, and sequencing requirements.
 2.  **A Completed Reference Case Study (Soque River Tributary)**: A data-rich template showing exactly how a completed geomorphic stream restoration project is put together, including actual fluvial geomorphology measurements, material volume specifications, permit history, and credit transactions.
 3.  **Project Architecture Comparison Matrix**: A side-by-side technical comparison of your three primary projects.
 
 ---
 
-## 1. Anderson Creek (Roya's Cabin) "Easy Done" Step-by-Step Plan
+## 1. Anderson Creek (Sandra's Cabin) "Easy Done" Step-by-Step Plan
 
 To make the Anderson Creek restoration an "easy done" project, execute the work in five clear, structured stages:
 
@@ -132,7 +132,7 @@ The following exact material quantities and sizes were utilized for the 1,200 LF
 
 To help Hunter keep your primary projects organized, use this comparative reference matrix:
 
-| Technical Parameter | Case Study A: Roya's Cabin (Anderson Creek) | Case Study B: Hunter's Cabin (Goldmine Hollow) | Completed Reference: Soque River Tributary |
+| Technical Parameter | Case Study A: Sandra's Cabin (Anderson Creek) | Case Study B: Hunter's Cabin (Goldmine Hollow) | Completed Reference: Soque River Tributary |
 | :--- | :--- | :--- | :--- |
 | **Stream Category** | 3rd Order Perennial (Lowland) | 1st Order Perennial (High-gradient) | 2nd Order Perennial (Highland) |
 | **Drainage Basin** | Upper Coosa River Basin | Upper Toccoa River Basin | Upper Chattahoochee River Basin |

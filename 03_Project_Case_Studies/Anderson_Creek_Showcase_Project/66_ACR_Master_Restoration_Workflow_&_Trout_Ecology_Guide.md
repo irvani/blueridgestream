@@ -8,7 +8,7 @@
 
 ## I. The 10-Step Stream Restoration & Mitigation Workflow
 
-Every Blue Ridge Stream Restoration project operates under a strict geomorphic and regulatory sequence, ensuring maximum ecological benefit for trout waters and high-margin credit yields. Use this 10-step workflow to systematically replicate our stream water mitigation success on new streams:
+Every Save Our Streams Inc. project operates under a strict geomorphic and regulatory sequence, ensuring maximum ecological benefit for trout waters and high-margin credit yields. Use this 10-step workflow to systematically replicate our stream water mitigation success on new streams:
 
 ```
                      THE 10-STEP STREAM RESTORATION FLOW
@@ -132,7 +132,7 @@ $$v_s = \frac{g \cdot (\rho_p - \rho_f) \cdot d^2}{18 \cdot \mu}$$
 ---
 
 ### 4. The 'Wonder-Pool' Cascade (The Fluvial Support & Lift Design)
-To achieve the highest tier of stream trout restoration, Blue Ridge Stream Restoration integrates the **'Wonder-Pool' Cascade System** (our proprietary *Wonder Bra Stream Alignment* design) into its projects. This system is designed as a series of interconnected, cascading pool basins and banks that flow one into another into another, creating an optimal, high-oxygen environment for wild Brown Trout.
+To achieve the highest tier of stream trout restoration, Save Our Streams Inc. integrates the **'Wonder-Pool' Cascade System** (our proprietary *Wonder Bra Stream Alignment* design) into its projects. This system is designed as a series of interconnected, cascading pool basins and banks that flow one into another into another, creating an optimal, high-oxygen environment for wild Brown Trout.
 
 ```
                     THE 'WONDER-POOL' CASCADE PROFILE
@@ -190,4 +190,4 @@ When evaluating a new stream restoration candidate for partnership, verify these
 - [ ] **Landowner JV**: Settle a mutually beneficial 70/30 joint-venture split with UETA-compliant digital signature integrations.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin.*

@@ -1,7 +1,7 @@
 # File 58: Industrial RS485 Modbus Sourcing Catalog & Alibaba Supplier Directory
 
 > [!IMPORTANT]
-> **Industrial Sourcing and Schedue Standard**: This document establishes the master hardware sourcing catalog and manufacturer directory for the Blue Ridge Stream Restoration stream monitoring networks. By bypassing expensive commercial B2B IoT middle-tier suppliers and sourcing **RS485 Modbus RTU** industrial sensors directly from established Alibaba manufacturers, we achieve a $90\%$ CapEx hardware savings while preserving premium geomechanical and environmental precision. This directory outlines the exact manufacturer profiles, pricing brackets, specific model numbers, register maps, electrical pinouts, and field calibration routines for dissolved oxygen, stage water level, and turbidity sensors.
+> **Industrial Sourcing and Schedue Standard**: This document establishes the master hardware sourcing catalog and manufacturer directory for the Save Our Streams Inc. stream monitoring networks. By bypassing expensive commercial B2B IoT middle-tier suppliers and sourcing **RS485 Modbus RTU** industrial sensors directly from established Alibaba manufacturers, we achieve a $90\%$ CapEx hardware savings while preserving premium geomechanical and environmental precision. This directory outlines the exact manufacturer profiles, pricing brackets, specific model numbers, register maps, electrical pinouts, and field calibration routines for dissolved oxygen, stage water level, and turbidity sensors.
 
 ---
 
@@ -121,4 +121,4 @@ To maintain USACE-compliant data integrity and prevent sensor drift caused by bi
 *   **Quarterly**: Verify solar panels are free from leaf shade or pine sap buildups. Inspect the hydrostatic vented capillary junction boxes to ensure the Gore-Tex membrane remains dry.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

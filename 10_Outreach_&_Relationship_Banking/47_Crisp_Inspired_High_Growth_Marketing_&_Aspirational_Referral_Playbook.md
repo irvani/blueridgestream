@@ -5,7 +5,7 @@
 
 ## I. Executive Overview: Sourcing Crisp.co's Growth Model
 
-To drive rapid, organic growth for Blue Ridge Stream Restoration & Mitigation LLC, we adapt the highly successful B2B growth marketing and community-led frameworks pioneered by **Crisp (crisp.co)**. Under Managing Director Michael Mogill, Crisp scaled from a boutique video production startup into a $100M+ market-leading legal coaching and growth conglomerate. 
+To drive rapid, organic growth for Save Our Streams Inc., we adapt the highly successful B2B growth marketing and community-led frameworks pioneered by **Crisp (crisp.co)**. Under Managing Director Michael Mogill, Crisp scaled from a boutique video production startup into a $100M+ market-leading legal coaching and growth conglomerate. 
 
 Instead of relying on standard low-yield B2B cold calling, digital banner ads, or minor discount referrals, Crisp's growth engine focuses on four core pillars:
 1. **High-Stakes, Tiered Aspirational Incentives**: Gamifying referrals by offering ultra-desirable, high-status rewards that tap into the competitive drive and prestige of their target audience.
@@ -13,7 +13,7 @@ Instead of relying on standard low-yield B2B cold calling, digital banner ads, o
 3. **The "Unreasonable Hospitality" Sourcing Loop**: Delivering immediate, friction-free value (books, private-label goods, tailored tools) before a transaction is even discussed.
 4. **Authority-Led Cinematic Content Loop**: Sourcing high-production-value video storytelling that transforms technical services into powerful, emotional legacy transformations.
 
-By implementing this framework, Blue Ridge Stream Restoration will establish a powerful word-of-mouth engine among North Georgia's elite mountain landowners, conservation lawyers, and agricultural bankers.
+By implementing this framework, Save Our Streams Inc. will establish a powerful word-of-mouth engine among North Georgia's elite mountain landowners, conservation lawyers, and agricultural bankers.
 
 ---
 
@@ -72,7 +72,7 @@ Adapting Crisp's high-ticket mastermind coaching program, we establish the **Blu
   - *Spring Trout Stocking Days*: Members gather to participate in the physical release of native trout fingerlings into newly restored channels, creating an immersive, hands-on conservation connection.
 
 ### 2. The Referral "Ambassador" Loop
-- By framing membership around status, legacy, and land stewardship, we tap into community pride. Mastermind members actively advocate for Blue Ridge Stream Restoration, introducing our geomorphic solutions to their exurban property networks, estate planning clients, and developer portfolios.
+- By framing membership around status, legacy, and land stewardship, we tap into community pride. Mastermind members actively advocate for Save Our Streams Inc., introducing our geomorphic solutions to their exurban property networks, estate planning clients, and developer portfolios.
 
 ---
 
@@ -123,7 +123,7 @@ To: [Partner_Email]
 
 Dear [Partner_Last_Name],
 
-I hope you are having a productive week. My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration LLC.
+I hope you are having a productive week. My name is Hunter Morris, Managing Director of Save Our Streams Inc. LLC.
 
 We partner with relationship lenders, timber managers, and estate planning attorneys across Georgia to monetize degraded, non-buildable stream buffers. Using geomorphic bioengineering, we restore eroding creeks at zero upfront cost to the owner, yielding lucrative stream mitigation credits under the Clean Water Act. 
 
@@ -137,6 +137,6 @@ Sincerely,
 
 Hunter Morris
 Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```

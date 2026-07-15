@@ -1,4 +1,4 @@
-# RESOLUTION OF THE MEMBERS OF BLUE RIDGE STREAM RESTORATION & MITIGATION LLC
+# RESOLUTION OF THE MEMBERS OF Save Our Streams Inc.
 ## RISK REMEDIATION & OPERATIONAL MITIGATION BYLAWS
 **Effective Date: May 30, 2026**
 
@@ -6,7 +6,7 @@
 
 ### PREAMBLE
 
-WHEREAS, Blue Ridge Stream Restoration & Mitigation LLC (the "**Company**"), a Georgia limited liability company, is established to develop, permit, construct, and maintain stream and wetland mitigation projects, including Permittee-Responsible Mitigation (PRM) sites and mitigation banking projects in the USACE Savannah District under Clean Water Act (CWA) Section 404; and
+WHEREAS, Save Our Streams Inc. (the "**Company**"), a Georgia limited liability company, is established to develop, permit, construct, and maintain stream and wetland mitigation projects, including Permittee-Responsible Mitigation (PRM) sites and mitigation banking projects in the USACE Savannah District under Clean Water Act (CWA) Section 404; and
 
 WHEREAS, the Members of the Company (Co-Founder & Board Member: **Hadi Irvani**; Co-Founder & Managing Director: **Hunter Morris**) recognize the necessity of establishing concrete corporate covenants and risk remediation bylaws to directly address the five primary commercial, regulatory, and ecological vulnerabilities associated with high-gradient fluvial restoration operations; and
 
@@ -25,7 +25,7 @@ To bridge the cash flow mismatch between upfront geomorphic engineering/construc
 *   **Withdrawal Restrictive Covenants**: Withdrawals from the WCRE shall be strictly limited to direct, verified construction and permitting expenses on active sites. WCRE funds shall not be distributed to Members as distributions or salary unless the WCRE balance exceeds the 110% Reserve Target.
 
 #### 1.2 Upfront Developer Financing Covenants
-For all Joint-Venture (JV) projects on private landowner parcels (e.g., the Roya's Cabin Anderson Creek project), the Company shall secure upfront developer financing using one of the following authorized structures:
+For all Joint-Venture (JV) projects on private landowner parcels (e.g., the Sandra's Cabin Anderson Creek project), the Company shall secure upfront developer financing using one of the following authorized structures:
 1.  **PRM Direct Developer Advance**: Structuring corporate purchases so that the end-user credit buyer (e.g., Georgia data center developers) pays a minimum of forty percent (40%) of the total contract value immediately upon executing the PRM agreement and prior to geomorphic mobilization.
 2.  **Private B2B Credit Lines**: Securing specialized green infrastructure lines of credit backed by the Company's active ledger of approved USACE credit inventory.
 
@@ -96,16 +96,16 @@ These Risk Remediation & Operational Mitigation Bylaws are incorporated into the
 
 ### CERTIFICATION OF CO-FOUNDERS
 
-IN WITNESS WHEREOF, the undersigned, being the Co-Founders of Blue Ridge Stream Restoration & Mitigation LLC, do hereby execute, adopt, and certify these Risk Remediation & Operational Mitigation Bylaws as of the date first written above.
+IN WITNESS WHEREOF, the undersigned, being the Co-Founders of Save Our Streams Inc., do hereby execute, adopt, and certify these Risk Remediation & Operational Mitigation Bylaws as of the date first written above.
 
 
 ________________________________________
 **Hunter Morris**
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 
 
 ________________________________________
 **Hadi Irvani**
 Co-Founder & Board Member
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.

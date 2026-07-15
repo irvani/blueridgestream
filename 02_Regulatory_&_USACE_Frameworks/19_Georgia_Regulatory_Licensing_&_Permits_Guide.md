@@ -1,5 +1,5 @@
 # File 19: Georgia Regulatory Licensing & Permits Guide
-## Blue Ridge Stream Restoration & Mitigation LLC
+## Save Our Streams Inc.
 
 **Co-Founder & Managing Director**: Hunter Morris (bookings@flyfishingnorthgeorgia.com)  
 **Board Member**: Hadi Irvani (UVA Alumnus, GP at Infill Capital Partners)  
@@ -11,7 +11,7 @@
 
 Stream mitigation banking and Permittee-Responsible Mitigation (PRM) in Georgia are governed by overlapping federal, state, and local regulatory systems. Because stream restoration physically alters the bed, banks, and protected buffers of state waters, it requires specific professional licenses, environmental permits, and regulatory variances before a single bucket of earth can be moved.
 
-This guide outlines the exact regulatory pipeline, mandatory state certifications, professional contractor licenses, and competitor territorial strategies that Hunter Morris needs to master to establish **Blue Ridge Stream Restoration & Mitigation LLC** as the premier mountain trout geomorphic design-builder in the Southeast.
+This guide outlines the exact regulatory pipeline, mandatory state certifications, professional contractor licenses, and competitor territorial strategies that Hunter Morris needs to master to establish **Save Our Streams Inc.** as the premier mountain trout geomorphic design-builder in the Southeast.
 
 ---
 
@@ -90,7 +90,7 @@ The Georgia Soil and Water Conservation Commission (GSWCC) enforces erosion cont
 
 ### 2. Georgia Professional Engineer (PE) License
 *   All hydrologic and hydraulic models (such as **HEC-RAS 2D** backwater models demonstrating "no-rise" in the local floodway) and structural engineering drawings for heavy bridges, culverts, or massive structural boulder cascades must be signed and stamped by a licensed Georgia Professional Engineer (PE).
-*   *Hunter's Action*: Blue Ridge Stream will contract with a licensed PE for structural stamps, while Hunter manages the geomorphic field design and execution.
+*   *Hunter's Action*: Save Our Streams Inc. will contract with a licensed PE for structural stamps, while Hunter manages the geomorphic field design and execution.
 
 ### 3. Georgia Commercial General Contractor License
 *   Under O.C.G.A. § 43-41, performing commercial utility or civil grading contracting in Georgia for projects exceeding **$2,500** requires a state-licensed General Contractor.
@@ -114,4 +114,4 @@ To beat major players like **Resource Environmental Solutions (RES)** and **Corb
 ### 🎯 Hunter's Strategic Siting Target: The Coosa Basin
 The **Coosa River Basin (HUC 03150102)**—encompassing the **Toccoa/Ocoee, Ellijay, Cartecay, and Fightingtown Creek** watersheds—represents a goldmine for Hunter:
 1.  **High Siltation / High Uplift**: Decades of logging and unpaved USFS roads have choked mountain trout streams with sand. This means baseline conditions are highly degraded, allowing Hunter to demonstrate massive **ecological lift** and generate maximum stream credit factors under the Savannah District SOP.
-2.  **High-Value Private Landowners**: The area is densely packed with high-end trout estate cabins (Roya's Cabin, Mike Irby, Jeff Fuqua). These owners are eager to fund bioengineered restorations that protect their shorelines and create private trophy trout showrooms.
+2.  **High-Value Private Landowners**: The area is densely packed with high-end trout estate cabins (Sandra's Cabin, Mike Irby, Jeff Fuqua). These owners are eager to fund bioengineered restorations that protect their shorelines and create private trophy trout showrooms.

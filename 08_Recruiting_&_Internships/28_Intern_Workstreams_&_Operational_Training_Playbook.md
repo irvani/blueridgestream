@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **B2B Internship Operation Manual & Technology Blueprint**:
-> - **Unified Infrastructure Stack**: All operations at Blue Ridge Stream are centralized across five standard software platforms: **AWS** (S3 data buckets, EC2 spatial compute, and RDS databases), **GitHub** (version control for CAD models and code pipelines), **QuickBooks Online** (financial accounting and margin carry reconciliations), **EspoCRM** (the premier open-source Salesforce alternative, deployed via Docker on AWS EC2), and **Google Drive** (central document repositories and GIS shapefiles).
+> - **Unified Infrastructure Stack**: All operations at Save Our Streams Inc. are centralized across five standard software platforms: **AWS** (S3 data buckets, EC2 spatial compute, and RDS databases), **GitHub** (version control for CAD models and code pipelines), **QuickBooks Online** (financial accounting and margin carry reconciliations), **EspoCRM** (the premier open-source Salesforce alternative, deployed via Docker on AWS EC2), and **Google Drive** (central document repositories and GIS shapefiles).
 > - **12-Page Intern Field Playbook**: This document defines three specialized, 4-page operational workstreams designed to delegate active project construction, biological permitting, and B2B sourcing pipelines to incoming university interns.
 
 ## I. Workstream 1: Fluvial Geomorphology & CAD/GIS Engineering Intern
@@ -73,7 +73,7 @@ Interns must calculate the net credit yield of proposed projects using the USACE
 - **Formula for Net Credit Lift ($CL_{net}$)**:
   $$CL_{net} = (M_{post} - M_{pre}) \cdot L_{reach} \cdot S_{factor}$$
   where $M_{pre}$ is the pre-restoration mitigation matrix score (typically 1.2 to 2.2), $M_{post}$ is the post-restoration design score (targeting 6.8 to 8.6 under Priority 1 NCD rules), $L_{reach}$ is reach length, and $S_{factor}$ is the watershed significance factor.
-- **Compute Project Yield**: For Roya's Cabin Anderson Creek case study ($L_{reach} = 1,500\text{ LF}$): Calculate the geomorphic lift ($M_{post} - M_{pre} = 8.6 - 2.2 = 6.4$) to yield **12,900 stream credits**.
+- **Compute Project Yield**: For Sandra's Cabin Anderson Creek case study ($L_{reach} = 1,500\text{ LF}$): Calculate the geomorphic lift ($M_{post} - M_{pre} = 8.6 - 2.2 = 6.4$) to yield **12,900 stream credits**.
 
 #### 2. USACE Savannah District IRT Verification Package Compilation
 The intern must compile the final Mitigation Banking Instrument (MBI) coordinate documents for the Interagency Review Team (IRT) submission:
@@ -174,7 +174,7 @@ Interns must run programmatic scripts to sync field datasets directly from on-si
 ### Open-Source CRM (EspoCRM/SuiteCRM) Pipeline Architecture & Google Drive CRM Integrations
 
 #### 1. Open-Source CRM Deployment & Lead Pipeline Architecture
-To avoid expensive Salesforce licensing fees, Blue Ridge Stream uses **EspoCRM**, the leading open-source CRM alternative. Interns are responsible for managing EspoCRM, deployed via Docker on an AWS EC2 instance with an AWS RDS MySQL database:
+To avoid expensive Salesforce licensing fees, Save Our Streams Inc. uses **EspoCRM**, the leading open-source CRM alternative. Interns are responsible for managing EspoCRM, deployed via Docker on an AWS EC2 instance with an AWS RDS MySQL database:
 - **EspoCRM Custom Fields**: Set up custom fields for the stream business, including HUC-8 River Basin, Stream Length (Linear Feet), Estimated USACE Credit Yield, and Landowner JV Split Ratio.
 - **Sales Pipeline Stage Mapping**: Interns track deals through five specific pipeline stages:
   `1. Lead Sourcing (County Deed Audit)` $\rightarrow$ `2. Outreach (Initial Call/Stream Walk)` $\rightarrow$ `3. Geomorphic Valuation` $\rightarrow$ `4. USACE IRT Permitting` $\rightarrow$ `5. Signed JV (70/30 Contract)`

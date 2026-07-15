@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > **Advisory Board Governance & Operational Competitor Benchmarking**  
-> **Brand**: Blue Ridge Stream Restoration & Mitigation LLC  
+> **Brand**: Save Our Streams Inc.  
 > **Frameworks**: Gino Wickman's Traction (EOS) & Vern Harnish's Scaling Up  
 > **Supervising Board**: Hunter Morris (Co-Founder & Managing Director) & Hadi Irvani (Board Member)
 
@@ -14,7 +14,7 @@ To build a significant competitive advantage in Georgia, Hunter Morris must unde
 
 ### A. Operational Workflow Comparison
 
-| Operational Phase | Traditional Grading Contractors | PE-Backed Corporate Conglomerates (RES, EIP, Wildlands) | Blue Ridge Stream Restoration (Hunter's Venture) |
+| Operational Phase | Traditional Grading Contractors | PE-Backed Corporate Conglomerates (RES, EIP, Wildlands) | Save Our Streams Inc. (Hunter's Venture) |
 | :--- | :--- | :--- | :--- |
 | **1. Stream Assessment** | Manual walking surveys with static measuring tapes and basic rod-readings. High margin of error in high-gradient reaches. | Expensive surveyor crews using terrestrial LiDAR scanners and Total Stations. High cost, slow mobilization (3-6 weeks). | **RTK-assisted GPS terrain tagging combined with UAS (Unmanned Aerial System) aerial photogrammetry. High speed (1-2 days), sub-centimeter accuracy.** |
 | **2. Stream Photography** | Standard hand-held camera or mobile phone photography. Hard to document structural geometries or canopy coverage. | Periodic commercial flights or high-cost outsourced mapping services. Visual data remains locked in engineering silos. | **High-frequency DJI RTK flight paths to build consistent orthomosaics, georeferenced 3D point clouds, and high-density terrain meshes.** |
@@ -86,7 +86,7 @@ To maintain extreme focus and prevent meetings from devolving into unstructured 
 1.  **Segue & Good News (5 mins)**: Establishes a collaborative, positive environment. Each board member shares one win.
 2.  **Scorecard Review (10 mins)**: Hunter reviews the 5 leading scorecard metrics. Any metric that is off-track is dropped straight down to the IDS list.
 3.  **Rock Review (10 mins)**: Hunter reports "On Track" or "Off Track" for his three 90-day Rocks (strategic goals). No discussion is allowed here; off-track Rocks go to the IDS list.
-4.  **Headlines (5 mins)**: Review landowner relations (e.g. Roya Irvani's Anderson Creek feedback) and USACE Savannah District communications.
+4.  **Headlines (5 mins)**: Review landowner relations (e.g. ACR 1910 LLC (Sandra's Cabin) Anderson Creek feedback) and USACE Savannah District communications.
 5.  **To-Do List (5 mins)**: Rapid-fire check-off of 7-day action items. The board expects a $90\%$ on-time completion rate.
 6.  **IDS Session (50 mins)**: The core of the meeting. The board prioritizes the compiled issues list, identifies the root cause of the top 3 issues, discusses solutions, and assigns concrete to-do items. *Never move to Issue #4 until Issue #1 is completely resolved.*
 7.  **Conclude & Rating (5 mins)**: Recaps the newly generated To-Do list, confirms any external messages to stakeholders, and has each member rate the meeting on a scale of 1-10 (focusing on efficiency).

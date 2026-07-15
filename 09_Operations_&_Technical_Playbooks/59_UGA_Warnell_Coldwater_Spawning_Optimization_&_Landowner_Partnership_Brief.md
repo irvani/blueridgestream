@@ -9,7 +9,7 @@
 
 Private rural landowners in North Georgia (managing acreage >= 50 acres) are historically defensive of their property rights and skeptical of commercial credit-brokering conglomerates. Traditional sourcing scripts that focus on regulatory credits or high-ticket corporate sales can trigger defensive landowner behaviors ("government taking" anxieties or fears that their land will be heavily cleared and graded).
 
-To bypass these barriers, Blue Ridge Stream Restoration frames our geomorphic stream grading as a **Scientific Ecosystem Optimization Initiative** in active partnership with the **UGA Warnell School of Forestry and Natural Resources**:
+To bypass these barriers, Save Our Streams Inc. frames our geomorphic stream grading as a **Scientific Ecosystem Optimization Initiative** in active partnership with the **UGA Warnell School of Forestry and Natural Resources**:
 
 ```
                        [LANDOWNER ACQUISITION NARRATIVE]
@@ -38,7 +38,7 @@ Hunter Morris and his sourced recruitment interns can present this high-status c
 
 **Dear [Landowner Name],**
 
-I am Hunter Morris, Co-Founder of Blue Ridge Stream Restoration. For over a decade, I have guided anglers across North Georgia's pristine mountain waters. Today, my life's work has evolved: I lead a dedicated active team of river restoration and ecology professionals focused on saving our mountain trout streams.
+I am Hunter Morris, Co-Founder of Save Our Streams Inc.. For over a decade, I have guided anglers across North Georgia's pristine mountain waters. Today, my life's work has evolved: I lead a dedicated active team of river restoration and ecology professionals focused on saving our mountain trout streams.
 
 We are selecting a limited number of high-priority coldwater reaches to participate in a collaborative research project with the **University of Georgia (UGA) Warnell School of Forestry and Natural Resources**: **The North Georgia Wild Trout Coldwater Spawning & Thermal Optimization Initiative**.
 
@@ -58,7 +58,7 @@ We would love to invite you to participate. I would like to offer you a free, cr
 Warm regards,
 
 **Hunter Morris**  
-Managing Director, Blue Ridge Stream Restoration LLC  
+Managing Director, Save Our Streams Inc. LLC  
 hunter@blueridgestream.com | (555) 123-4567  
 
 ***
@@ -101,4 +101,4 @@ Our geomorphic stream restoration and UGA-aligned monitoring program serves as a
 *   **Clemson Intern Task**: Interns from the Clemson real estate program pre-compile the landowner’s county tax appeal and CUVA application forms, resolving all administrative friction and providing a turnkey wealth preservation package.
 
 ---
-*Developed by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin under main.*
+*Developed by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin under main.*

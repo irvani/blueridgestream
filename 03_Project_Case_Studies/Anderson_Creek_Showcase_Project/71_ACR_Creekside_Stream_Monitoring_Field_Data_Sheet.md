@@ -2,13 +2,13 @@
 ## Field Data Collection Form for Fluvial Geomorphology & Wild Trout Spawning Assessments
 
 > [!IMPORTANT]
-> **Stream Monitoring Field Form Standard**: This document represents the official **Creekside Stream Monitoring Field Data Sheet (File 71)** for the **Anderson Creek Showcase Restoration Project (Roya's Cabin Reach)**. It provides Hunter Morris, Trout Unlimited, and university interns (UGA Warnell, Georgia Tech) with a ready-to-print, structured field data sheet to systematically record Wolman pebble counts, EPA RBP benthic macroinvertebrates, physical water parameters, and trout spawning nests (redds).
+> **Stream Monitoring Field Form Standard**: This document represents the official **Creekside Stream Monitoring Field Data Sheet (File 71)** for the **Anderson Creek Showcase Restoration Project (Sandra's Cabin Reach)**. It provides Hunter Morris, Trout Unlimited, and university interns (UGA Warnell, Georgia Tech) with a ready-to-print, structured field data sheet to systematically record Wolman pebble counts, EPA RBP benthic macroinvertebrates, physical water parameters, and trout spawning nests (redds).
 
 ---
 
 ## I. Project & Station Header Information
 
-*   **Project Name / Reach**: Anderson Creek Showcase Restoration (Roya's Cabin Reach)
+*   **Project Name / Reach**: Anderson Creek Showcase Restoration (Sandra's Cabin Reach)
 *   **Station ID (HUC-8)**: GA-03150105 / Station # ________ (e.g. Monument #01)
 *   **Field Observers / Crew**: ______________________________________________
 *   **Sampling Date**: ____ / ____ / 202__   **Time**: ____ : ____ AM/PM
@@ -116,4 +116,4 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________
 
 ---
-*Prepared by Blue Ridge Stream Restoration Technical Sourcing Operations. Pushed to remote origin.*
+*Prepared by Save Our Streams Inc. Technical Sourcing Operations. Pushed to remote origin.*

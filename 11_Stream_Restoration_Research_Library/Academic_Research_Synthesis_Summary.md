@@ -2,7 +2,7 @@
 
 This scientific paper compiles and synthesizes the collective findings of **ten core peer-reviewed publications** across soil bioengineering, microclimatic thermodynamics, fluvial geomorphology, headwater spawning fisheries biology, and longitudinal connectivity. 
 
-By unifying these scholarly precedents, **Blue Ridge Stream Restoration & Mitigation LLC** establishes an unassailable, science-driven foundation that validates our Natural Channel Design (NCD) operations, supports USACE and EPD permitting pipelines, and builds deep B2B brand equity with commercial credit buyers and landowners.
+By unifying these scholarly precedents, **Save Our Streams Inc.** establishes an unassailable, science-driven foundation that validates our Natural Channel Design (NCD) operations, supports USACE and EPD permitting pipelines, and builds deep B2B brand equity with commercial credit buyers and landowners.
 
 ---
 

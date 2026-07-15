@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **Strategic Banking Relationship Sourcing Matrix**:
-> - **The Relationship Banking Lead Channel**: For a boutique operator like Blue Ridge Stream, local and regional relationship bankers are the single most lucrative channel for securing joint-venture stream restoration properties. When land development loans or timber estates face distress, or when developers need capital, relationship bankers hold direct lines to the principals. By establishing relationship banking ties, Hunter Morris can pitch Blue Ridge as a value-add partner that turns non-harvestable riparian buffer liabilities into liquid stream mitigation assets under the USACE Savannah District Standard Operating Procedures (SOP).
+> - **The Relationship Banking Lead Channel**: For a boutique operator like Save Our Streams Inc., local and regional relationship bankers are the single most lucrative channel for securing joint-venture stream restoration properties. When land development loans or timber estates face distress, or when developers need capital, relationship bankers hold direct lines to the principals. By establishing relationship banking ties, Hunter Morris can pitch Blue Ridge as a value-add partner that turns non-harvestable riparian buffer liabilities into liquid stream mitigation assets under the USACE Savannah District Standard Operating Procedures (SOP).
 
 ## I. The Relationship Banking Playbook
 
@@ -90,7 +90,7 @@ Dear Mr./Ms. McDaniel,
 
 I hope this finds you well. I am reaching out to you as a specialist in Timberland & Forestry Finance in the Gainesville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Gainesville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -102,7 +102,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -125,7 +125,7 @@ Dear Mr./Ms. Shell,
 
 I hope this finds you well. I am reaching out to you as a specialist in Rural Land & Mountain Agribusiness in the Blue Ridge, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Blue Ridge, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -137,7 +137,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -160,7 +160,7 @@ Dear Mr./Ms. Henderson,
 
 I hope this finds you well. I am reaching out to you as a specialist in Commercial Timber Estates in the Athens, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Athens, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -172,7 +172,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -195,7 +195,7 @@ Dear Mr./Ms. McCook,
 
 I hope this finds you well. I am reaching out to you as a specialist in Poultry & Row Crop Operations in the Macon, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Macon, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -207,7 +207,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -230,7 +230,7 @@ Dear Mr./Ms. Vance,
 
 I hope this finds you well. I am reaching out to you as a specialist in Northwest Georgia Cattle Farms in the Rome, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Rome, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -242,7 +242,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -265,7 +265,7 @@ Dear Mr./Ms. Broadwell,
 
 I hope this finds you well. I am reaching out to you as a specialist in Recreational Land & Turf Estates in the Carrollton, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Carrollton, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -277,7 +277,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -300,7 +300,7 @@ Dear Mr./Ms. Deal,
 
 I hope this finds you well. I am reaching out to you as a specialist in Southeast Georgia Pine Plantations in the Waycross, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Waycross, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -312,7 +312,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -335,7 +335,7 @@ Dear Mr./Ms. O'Neal,
 
 I hope this finds you well. I am reaching out to you as a specialist in Agricultural Appraisals in the Statesboro, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Statesboro, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -347,7 +347,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -370,7 +370,7 @@ Dear Mr./Ms. Ledford,
 
 I hope this finds you well. I am reaching out to you as a specialist in Mountain Residential Development in the Blairsville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Blairsville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -382,7 +382,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -405,7 +405,7 @@ Dear Mr./Ms. Dyer,
 
 I hope this finds you well. I am reaching out to you as a specialist in Lake Chatuge Waterfront CRE in the Hiawassee, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Hiawassee, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -417,7 +417,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -440,7 +440,7 @@ Dear Mr./Ms. Gunter,
 
 I hope this finds you well. I am reaching out to you as a specialist in Mountain Commercial Development in the Blue Ridge, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Blue Ridge, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -452,7 +452,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -475,7 +475,7 @@ Dear Mr./Ms. Adams,
 
 I hope this finds you well. I am reaching out to you as a specialist in High-End Mountain Subdivision Grading in the Ellijay, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Ellijay, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -487,7 +487,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -510,7 +510,7 @@ Dear Mr./Ms. Chastain,
 
 I hope this finds you well. I am reaching out to you as a specialist in Lumpkin County Land Development in the Dahlonega, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Dahlonega, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -522,7 +522,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -545,7 +545,7 @@ Dear Mr./Ms. Standard,
 
 I hope this finds you well. I am reaching out to you as a specialist in Distressed Mountain Developments in the Gainesville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Gainesville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -557,7 +557,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -580,7 +580,7 @@ Dear Mr./Ms. Pruitt,
 
 I hope this finds you well. I am reaching out to you as a specialist in Metro Atlanta Exurb Subdivisions in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -592,7 +592,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -615,7 +615,7 @@ Dear Mr./Ms. Collins,
 
 I hope this finds you well. I am reaching out to you as a specialist in Rural Mountain Tourism Real Estate in the Cleveland, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Cleveland, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -627,7 +627,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -650,7 +650,7 @@ Dear Mr./Ms. Johnson,
 
 I hope this finds you well. I am reaching out to you as a specialist in Metro Atlanta Commercial Land in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -662,7 +662,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -685,7 +685,7 @@ Dear Mr./Ms. Davis,
 
 I hope this finds you well. I am reaching out to you as a specialist in Corporate Real Estate Workouts in the Columbus, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Columbus, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -697,7 +697,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -720,7 +720,7 @@ Dear Mr./Ms. Smith,
 
 I hope this finds you well. I am reaching out to you as a specialist in Utility & Infrastructure Projects in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -732,7 +732,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -755,7 +755,7 @@ Dear Mr./Ms. Vance,
 
 I hope this finds you well. I am reaching out to you as a specialist in Poultry Processing & Industrial Land in the Gainesville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Gainesville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -767,7 +767,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -790,7 +790,7 @@ Dear Mr./Ms. Carter,
 
 I hope this finds you well. I am reaching out to you as a specialist in Student Housing & Mixed-Use Land in the Athens, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Athens, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -802,7 +802,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -825,7 +825,7 @@ Dear Mr./Ms. King,
 
 I hope this finds you well. I am reaching out to you as a specialist in Environmental Liability Underwriting in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -837,7 +837,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -860,7 +860,7 @@ Dear Mr./Ms. Miller,
 
 I hope this finds you well. I am reaching out to you as a specialist in Coastal Residential Developments in the Savannah, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Savannah, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -872,7 +872,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -895,7 +895,7 @@ Dear Mr./Ms. Watson,
 
 I hope this finds you well. I am reaching out to you as a specialist in Green Infrastructure & Sustainable Lending in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -907,7 +907,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -930,7 +930,7 @@ Dear Mr./Ms. Howard,
 
 I hope this finds you well. I am reaching out to you as a specialist in Pickens & Gilmer County Commercial Real Estate in the Jasper, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Jasper, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -942,7 +942,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -965,7 +965,7 @@ Dear Mr./Ms. Montgomery,
 
 I hope this finds you well. I am reaching out to you as a specialist in Industrial Warehouse Development in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -977,7 +977,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1000,7 +1000,7 @@ Dear Mr./Ms. Brooks,
 
 I hope this finds you well. I am reaching out to you as a specialist in Distressed Commercial Portfolios in the Macon, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Macon, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1012,7 +1012,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1035,7 +1035,7 @@ Dear Mr./Ms. Green,
 
 I hope this finds you well. I am reaching out to you as a specialist in Small Commercial Developments in the Marietta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Marietta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1047,7 +1047,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1070,7 +1070,7 @@ Dear Mr./Ms. Floyd,
 
 I hope this finds you well. I am reaching out to you as a specialist in Coastal Industrial Port Logistics in the Savannah, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Savannah, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1082,7 +1082,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1105,7 +1105,7 @@ Dear Mr./Ms. Daniel,
 
 I hope this finds you well. I am reaching out to you as a specialist in South Georgia Row Crop & Timber Lands in the Valdosta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Valdosta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1117,7 +1117,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1140,7 +1140,7 @@ Dear Mr./Ms. Harris,
 
 I hope this finds you well. I am reaching out to you as a specialist in Northeast Georgia Exurbs Development in the Athens, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Athens, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1152,7 +1152,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1175,7 +1175,7 @@ Dear Mr./Ms. Clark,
 
 I hope this finds you well. I am reaching out to you as a specialist in Mixed-Use Exurban Projects in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1187,7 +1187,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1210,7 +1210,7 @@ Dear Mr./Ms. Reynolds,
 
 I hope this finds you well. I am reaching out to you as a specialist in Lake Lanier Commercial Projects in the Gainesville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Gainesville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1222,7 +1222,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1245,7 +1245,7 @@ Dear Mr./Ms. Lawson,
 
 I hope this finds you well. I am reaching out to you as a specialist in Distressed Northwest GA Land Notes in the Rome, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Rome, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1257,7 +1257,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1280,7 +1280,7 @@ Dear Mr./Ms. Cook,
 
 I hope this finds you well. I am reaching out to you as a specialist in Savannah Basin CRE & Industrial in the Augusta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Augusta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1292,7 +1292,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1315,7 +1315,7 @@ Dear Mr./Ms. Parker,
 
 I hope this finds you well. I am reaching out to you as a specialist in Metro Atlanta Mixed-Use Development in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1327,7 +1327,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1350,7 +1350,7 @@ Dear Mr./Ms. Henderson,
 
 I hope this finds you well. I am reaching out to you as a specialist in Heavy Civil & Infrastructure Contracting in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1362,7 +1362,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1385,7 +1385,7 @@ Dear Mr./Ms. Cole,
 
 I hope this finds you well. I am reaching out to you as a specialist in Agricultural & CRE Asset Recovery in the Macon, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Macon, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1397,7 +1397,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1420,7 +1420,7 @@ Dear Mr./Ms. Bennett,
 
 I hope this finds you well. I am reaching out to you as a specialist in West Georgia Timber & Poultry Holdings in the Columbus, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Columbus, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1432,7 +1432,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1455,7 +1455,7 @@ Dear Mr./Ms. Wood,
 
 I hope this finds you well. I am reaching out to you as a specialist in CRE & Heavy Industrial Development in the Augusta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Augusta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1467,7 +1467,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1490,7 +1490,7 @@ Dear Mr./Ms. Thornton,
 
 I hope this finds you well. I am reaching out to you as a specialist in Ultra-High-Volume CRE & High-Rise Dev in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1502,7 +1502,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1525,7 +1525,7 @@ Dear Mr./Ms. Vance,
 
 I hope this finds you well. I am reaching out to you as a specialist in Master-Planned Industrial & Logistical Parks in the Atlanta, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Atlanta, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1537,7 +1537,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1560,7 +1560,7 @@ Dear Mr./Ms. Fletcher,
 
 I hope this finds you well. I am reaching out to you as a specialist in North Georgia Community Commercial Development in the Cartersville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Cartersville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1572,7 +1572,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1595,7 +1595,7 @@ Dear Mr./Ms. Jenkins,
 
 I hope this finds you well. I am reaching out to you as a specialist in South Georgia Forestry & Farms in the Fitzgerald, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Fitzgerald, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1607,7 +1607,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1630,7 +1630,7 @@ Dear Mr./Ms. Fowler,
 
 I hope this finds you well. I am reaching out to you as a specialist in Granite Quarries & Heavy Industrial CRE in the Elberton, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Elberton, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1642,7 +1642,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1665,7 +1665,7 @@ Dear Mr./Ms. Rogers,
 
 I hope this finds you well. I am reaching out to you as a specialist in Hall County Poultry Operations & Industrial Land in the Gainesville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Gainesville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1677,7 +1677,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1700,7 +1700,7 @@ Dear Mr./Ms. Hayes,
 
 I hope this finds you well. I am reaching out to you as a specialist in Distressed Atlanta Exurban Projects in the Sandy Springs, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Sandy Springs, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1712,7 +1712,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1735,7 +1735,7 @@ Dear Mr./Ms. Cobb,
 
 I hope this finds you well. I am reaching out to you as a specialist in Middle Georgia Agricultural CRE in the Dublin, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Dublin, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1747,7 +1747,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1770,7 +1770,7 @@ Dear Mr./Ms. Albright,
 
 I hope this finds you well. I am reaching out to you as a specialist in North Georgia Commercial subdivisions in the Gainesville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Gainesville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1782,7 +1782,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 
@@ -1805,7 +1805,7 @@ Dear Mr./Ms. Dyer,
 
 I hope this finds you well. I am reaching out to you as a specialist in Union & Towns County Agribusiness & Recreation in the Blairsville, GA region.
 
-My name is Hunter Morris, Managing Director of Blue Ridge Stream Restoration & Mitigation LLC. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
+My name is Hunter Morris, Managing Director of Save Our Streams Inc.. We are a North Georgia-based geomorphic restoration firm specializing in mountain trout-stream bioengineering. Unlike larger, high-overhead environmental conglomerates, we partner directly with landowners and relationship lenders to monetize degraded stream buffers and agricultural ravines, converting non-harvestable riparian zones into high-yield, liquid stream mitigation credits approved by the USACE Savannah District.
 
 We have structured a zero-upfront-cost, 70/30 credit-split joint venture specifically designed for tracts in the Blairsville, GA area. This structure allows landowners to generate substantial cash from non-performing, muddy stream areas, using credit sales to pay down land debt, fund farm improvements, or clear loan covenant issues without the bank putting up a single dollar of capital.
 
@@ -1817,7 +1817,7 @@ Best regards,
 
 Hunter Morris
 Co-Founder & Managing Director
-Blue Ridge Stream Restoration & Mitigation LLC
+Save Our Streams Inc.
 hunter@blueridgestream.us.kg
 ```
 

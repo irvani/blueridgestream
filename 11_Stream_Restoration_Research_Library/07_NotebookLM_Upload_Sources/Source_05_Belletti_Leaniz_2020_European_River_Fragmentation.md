@@ -26,6 +26,6 @@ This landmark publication provides the first comprehensive, empirical pan-Europe
 
 ---
 
-## 4. Applied Relevance to Blue Ridge Stream Restoration
-* **Global Precedents**: Directly validates Blue Ridge Stream's expansion into longitudinal connectivity. Hadi can present this paper to international and regional conservation groups to show that our barrier removal programs align with the highest global ecological standards.
+## 4. Applied Relevance to Save Our Streams Inc.
+* **Global Precedents**: Directly validates Save Our Streams Inc.'s expansion into longitudinal connectivity. Hadi can present this paper to international and regional conservation groups to show that our barrier removal programs align with the highest global ecological standards.
 * **Target Sourcing**: Demonstrates that restoring migratory trout pathways does not always require massive dam demolitions. Replacing small-scale obstacles (such as perched private timber-road culverts) yields immediate, highly cost-effective spawning corridor reconnections.
