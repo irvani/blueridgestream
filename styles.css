@@ -2639,3 +2639,15 @@ footer {
 .partner-photo-pair .partner-photo { flex: 1 1 50%; min-width: 0; }
 .portal-team-pair { display: flex; }
 .portal-team-pair .portal-team-photo { flex: 1 1 50%; min-width: 0; }
+
+/* Who We Are — pillars + Instagram strip */
+.pillar-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin: 8px 0 32px; }
+.pillar-card { background: var(--white); border: 1px solid var(--border-color); border-radius: 16px; padding: 28px; box-shadow: var(--shadow-lg); }
+.pillar-icon { font-size: 2rem; margin-bottom: 12px; }
+.pillar-card h3 { font-size: 1.05rem; margin-bottom: 10px; color: var(--primary, #1e3d59); }
+.pillar-card p { font-size: 0.92rem; line-height: 1.65; color: var(--charcoal, #333); }
+.ig-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 10px; }
+.ig-strip img { width: 100%; height: 260px; object-fit: cover; border-radius: 12px; display: block; }
+.ig-credit { text-align: right; font-size: 0.8rem; color: #777; margin-bottom: 28px; }
+.ig-credit a { color: inherit; }
+@media (max-width: 760px) { .pillar-row, .ig-strip { grid-template-columns: 1fr; } .ig-strip img { height: 220px; } }
