@@ -5,3 +5,12 @@ __pycache__/
 *.tmp
 temp/
 scratch/
+
+# Secrets — never commit (public repo!)
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+credentials*
