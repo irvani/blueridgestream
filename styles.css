@@ -1,6 +1,6 @@
 /* CSS stylesheet for Save Our Streams Inc. */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
+/* Fonts loaded via <link> in HTML head (preconnect + non-blocking) for better LCP */
 
 :root {
     /* Color Tokens (Sophisticated, high-end editorial palette) */
@@ -2837,4 +2837,65 @@ footer {
         grid-template-columns: 1fr;
         gap: var(--space-8);
     }
+}
+
+/* FAQ section (accessible native accordion) */
+.faq-section {
+    padding: var(--space-20) 0;
+}
+
+.faq-list {
+    max-width: 780px;
+    margin: var(--space-10) auto 0 auto;
+}
+
+.faq-item {
+    background: var(--white);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    margin-bottom: var(--space-3);
+    box-shadow: var(--shadow-sm);
+    overflow: hidden;
+}
+
+.faq-item summary {
+    cursor: pointer;
+    padding: var(--space-5) var(--space-6);
+    font-weight: 600;
+    color: var(--charcoal);
+    font-size: var(--text-lg);
+    list-style: none;
+    position: relative;
+    padding-right: var(--space-12);
+}
+
+.faq-item summary::-webkit-details-marker {
+    display: none;
+}
+
+.faq-item summary::after {
+    content: "+";
+    position: absolute;
+    right: var(--space-6);
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: var(--text-2xl);
+    font-weight: 400;
+    color: var(--accent);
+    transition: var(--transition-transform);
+}
+
+.faq-item[open] summary::after {
+    content: "–";
+}
+
+.faq-item summary:hover {
+    color: var(--primary);
+}
+
+.faq-item > p {
+    padding: 0 var(--space-6) var(--space-6) var(--space-6);
+    color: var(--body-grey);
+    line-height: 1.7;
+    margin: 0;
 }
