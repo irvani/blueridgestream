@@ -2670,6 +2670,13 @@ footer {
     margin-bottom: var(--space-2);
 }
 
+.roadmap-basis {
+    font-size: 0.85rem !important;
+    color: #777 !important;
+    margin-top: 10px;
+}
+.roadmap-basis a { color: inherit; text-decoration: underline; }
+
 .roadmap-track {
     list-style: none;
     margin: var(--space-12) auto 0 auto;
