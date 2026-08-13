@@ -14,3 +14,9 @@ secrets/
 *.pem
 *.key
 credentials*
+
+# Landowner privacy + confidential business docs — never commit (public repo!)
+10_Outreach_&_Relationship_Banking/
+01_Strategic_&_Business_Plans/*Call_Notes*
+06_Legal_&_Cooperative_Agreements/66_*
+06_Legal_&_Cooperative_Agreements/67_*
