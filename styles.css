@@ -2833,6 +2833,12 @@ footer {
     }
 }
 
+.form-group-subgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-4);
+}
+
 @media (max-width: 480px) {
     .form-group-subgrid {
         grid-template-columns: 1fr;
@@ -2905,4 +2911,483 @@ footer {
     color: var(--body-grey);
     line-height: 1.7;
     margin: 0;
+}
+
+/* ============================================
+   Corridor Assembly Tracker (Noontootla program)
+   ============================================ */
+.corridor-section {
+    background: var(--light-bg);
+    padding: var(--space-20) 0;
+}
+
+.corridor-tag {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-size: var(--text-xs);
+    letter-spacing: 1.5px;
+    display: inline-block;
+    margin-bottom: var(--space-2);
+}
+
+.corridor-progress {
+    max-width: 780px;
+    margin: 0 auto var(--space-8) auto;
+    background: var(--white);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: var(--space-5) var(--space-6);
+    box-shadow: var(--shadow-md);
+}
+
+.corridor-progress-hdr {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--space-4);
+    flex-wrap: wrap;
+    color: var(--charcoal);
+}
+
+.corridor-progress-hdr span {
+    color: var(--body-grey);
+    font-size: var(--text-sm);
+}
+
+.corridor-progress-bar {
+    position: relative;
+    height: 10px;
+    border-radius: 999px;
+    background: var(--border-color);
+    overflow: hidden;
+    margin: var(--space-3) 0 var(--space-2) 0;
+}
+
+.corridor-progress-fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 10%;
+    background: linear-gradient(90deg, var(--accent), var(--primary-light));
+    border-radius: 999px;
+}
+
+.corridor-progress-legend {
+    display: flex;
+    gap: var(--space-5);
+    flex-wrap: wrap;
+    font-size: var(--text-sm);
+    color: var(--body-grey);
+}
+
+.corridor-progress-legend .dot {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    margin-right: 6px;
+}
+
+.dot-done { background: var(--accent); }
+.dot-active { background: var(--primary); }
+.dot-next { background: var(--border-color); border: 1px solid var(--body-grey); }
+
+.corridor-track {
+    max-width: 780px;
+    margin: 0 auto;
+    list-style: none;
+    padding: 0;
+}
+
+.corridor-seg {
+    display: flex;
+    gap: var(--space-4);
+    background: var(--white);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--border-color);
+    border-radius: 12px;
+    padding: var(--space-5) var(--space-6);
+    margin-bottom: var(--space-3);
+    box-shadow: var(--shadow-sm);
+}
+
+.corridor-seg.done { border-left-color: var(--accent); }
+.corridor-seg.active { border-left-color: var(--primary); }
+.corridor-seg.headwater { border-left-color: var(--charcoal); background: var(--navy-dark); }
+.corridor-seg.headwater h3, .corridor-seg.headwater p { color: var(--white); }
+.corridor-seg.headwater p { opacity: 0.85; }
+
+.seg-icon {
+    flex: 0 0 auto;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--light-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--text-lg);
+    color: var(--accent);
+    font-weight: 700;
+}
+
+.corridor-seg.headwater .seg-icon { background: rgba(255,255,255,0.1); }
+.corridor-seg.active .seg-icon { color: var(--primary); }
+.corridor-seg.next .seg-icon { color: var(--body-grey); }
+
+.seg-body { min-width: 0; }
+
+.seg-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+    margin-bottom: var(--space-2);
+}
+
+.seg-top h3 {
+    font-size: var(--text-lg);
+    color: var(--charcoal);
+    margin: 0;
+}
+
+.corridor-seg p {
+    color: var(--body-grey);
+    line-height: 1.65;
+    margin: 0;
+    font-size: var(--text-base);
+}
+
+.seg-status {
+    font-size: var(--text-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 4px 10px;
+    border-radius: 999px;
+    white-space: nowrap;
+}
+
+.status-done { background: rgba(44, 147, 128, 0.12); color: var(--accent); }
+.status-active { background: rgba(31, 78, 121, 0.12); color: var(--primary); }
+.status-next { background: var(--light-bg); color: var(--body-grey); border: 1px solid var(--border-color); }
+.status-context { background: rgba(255,255,255,0.12); color: var(--white); }
+
+.corridor-note {
+    max-width: 780px;
+    margin: var(--space-5) auto 0 auto;
+    font-size: var(--text-sm);
+    color: var(--body-grey);
+    text-align: center;
+}
+
+/* ============================================
+   Agency engagement strip (inside roadmap)
+   ============================================ */
+.agency-strip {
+    margin-top: var(--space-16);
+}
+
+.agency-title {
+    text-align: center;
+    font-size: var(--text-xl);
+    color: var(--charcoal);
+    margin-bottom: var(--space-8);
+}
+
+.agency-row {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: var(--space-5);
+}
+
+.agency-card {
+    background: var(--light-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: var(--space-6);
+    transition: var(--transition-transform);
+}
+
+.agency-card:hover {
+    transform: translateY(-3px);
+}
+
+.agency-icon {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-3);
+}
+
+.agency-card h4 {
+    color: var(--charcoal);
+    font-size: var(--text-base);
+    margin-bottom: var(--space-2);
+}
+
+.agency-card p {
+    color: var(--body-grey);
+    font-size: var(--text-sm);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.agency-disclaimer {
+    margin-top: var(--space-6);
+    text-align: center;
+    font-size: var(--text-xs);
+    color: var(--body-grey);
+}
+
+/* ============================================
+   Stream Telemetry Section
+   ============================================ */
+.telemetry-section {
+    background: var(--light-bg);
+    padding: var(--space-20) 0;
+}
+
+.telemetry-tag {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--primary-light);
+    font-size: var(--text-xs);
+    letter-spacing: 1.5px;
+    display: inline-block;
+    margin-bottom: var(--space-2);
+}
+
+.telemetry-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+    gap: var(--space-10);
+    align-items: start;
+}
+
+.telemetry-measurands {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-5);
+}
+
+.measurand-card {
+    background: var(--white);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: var(--space-6);
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition-transform);
+}
+
+.measurand-card:hover {
+    transform: translateY(-3px);
+}
+
+.measurand-icon {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-3);
+}
+
+.measurand-card h3 {
+    color: var(--charcoal);
+    font-size: var(--text-base);
+    margin-bottom: var(--space-2);
+}
+
+.measurand-card p {
+    color: var(--body-grey);
+    font-size: var(--text-sm);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.telemetry-pipeline {
+    background: var(--navy-dark);
+    border-radius: 16px;
+    padding: var(--space-8);
+    color: var(--white);
+}
+
+.telemetry-pipeline h3 {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-5);
+    color: var(--white);
+}
+
+.pipeline-steps {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-5) 0;
+    counter-reset: pipeline;
+}
+
+.pipeline-steps li {
+    counter-increment: pipeline;
+    position: relative;
+    padding: 0 0 var(--space-4) var(--space-10);
+    line-height: 1.65;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: var(--text-sm);
+}
+
+.pipeline-steps li strong { color: var(--white); }
+
+.pipeline-steps li::before {
+    content: counter(pipeline);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: var(--white);
+    font-weight: 700;
+    font-size: var(--text-xs);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pipeline-steps li:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    left: 12px;
+    top: 30px;
+    bottom: 2px;
+    width: 2px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.telemetry-cost {
+    font-size: var(--text-sm);
+    color: rgba(255, 255, 255, 0.85);
+    line-height: 1.65;
+    margin: 0 0 var(--space-4) 0;
+}
+
+.telemetry-status {
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+    color: var(--accent);
+    margin: 0;
+}
+
+/* ============================================
+   Landowner sign-flow explainer (sourcing)
+   ============================================ */
+.signflow-card {
+    background: var(--white);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: var(--space-6);
+    box-shadow: var(--shadow-sm);
+    margin-bottom: var(--space-6);
+}
+
+.signflow-title {
+    color: var(--charcoal);
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-4);
+}
+
+.signflow-steps {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: signflow;
+}
+
+.signflow-steps li {
+    counter-increment: signflow;
+    position: relative;
+    padding: 0 0 var(--space-4) var(--space-10);
+    color: var(--body-grey);
+    line-height: 1.65;
+    font-size: var(--text-sm);
+}
+
+.signflow-steps li:last-child { padding-bottom: 0; }
+
+.signflow-steps li strong { color: var(--charcoal); }
+
+.signflow-steps li::before {
+    content: counter(signflow);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: var(--primary);
+    color: var(--white);
+    font-weight: 700;
+    font-size: var(--text-xs);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signflow-steps li:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    left: 12px;
+    top: 30px;
+    bottom: 4px;
+    width: 2px;
+    background: var(--border-color);
+}
+
+/* Nav squeeze: 6 links + CTA need tighter spacing at mid widths */
+@media (max-width: 1100px) {
+    .nav-links {
+        gap: 20px;
+    }
+    .nav-links a {
+        font-size: var(--text-sm);
+    }
+}
+
+@media (max-width: 990px) {
+    .logo {
+        font-size: 1.15rem;
+        white-space: nowrap;
+    }
+    .nav-links {
+        gap: 12px;
+    }
+    .nav-links a {
+        font-size: var(--text-xs);
+        white-space: nowrap;
+    }
+    .nav-links .btn-cta {
+        padding: 8px 12px;
+    }
+}
+
+/* Mobile collapse for new sections */
+@media (max-width: 900px) {
+    .agency-row {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .telemetry-grid {
+        grid-template-columns: minmax(0, 1fr);
+    }
+}
+
+@media (max-width: 560px) {
+    .agency-row {
+        grid-template-columns: minmax(0, 1fr);
+    }
+    .telemetry-measurands {
+        grid-template-columns: minmax(0, 1fr);
+    }
+    .seg-top {
+        flex-direction: column;
+        align-items: flex-start;
+    }
 }
